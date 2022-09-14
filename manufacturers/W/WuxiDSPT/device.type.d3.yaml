@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 194d597b-50f3-544f-8069-07bc7f30de19
-  macAddresses:
-  - E4:3F:A2:00:00:00/24
-  manufacturer: Wuxi DSP Technologies Inc.
-  manufacturerUri: https://device-type.com
-  name: WuxiDSPT
-type: d3-device-type-assertion

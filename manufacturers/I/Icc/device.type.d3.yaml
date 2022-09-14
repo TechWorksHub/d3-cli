@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 725cb94d-d55c-56b7-9a68-ccc483c8cc74
-  macAddresses:
-  - 00:40:1E:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Icc
-type: d3-device-type-assertion

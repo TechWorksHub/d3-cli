@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 986af1da-7907-562e-b3e4-77d74a3ed519
-  macAddresses:
-  - 00:13:82:00:00:00/24
-  manufacturer: Cetacea Networks Corporation
-  manufacturerUri: https://device-type.com
-  name: CetaceaN
-type: d3-device-type-assertion

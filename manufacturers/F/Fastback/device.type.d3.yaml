@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c6c56807-fc44-5758-9b44-9aacc5d14af2
-  macAddresses:
-  - 18:48:D8:00:00:00/24
-  manufacturer: Fastback Networks
-  manufacturerUri: https://device-type.com
-  name: Fastback
-type: d3-device-type-assertion

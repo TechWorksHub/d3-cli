@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5d1ee595-a831-59dc-9cee-53eb64e20452
-  macAddresses:
-  - 00:21:34:00:00:00/24
-  manufacturer: Brandywine Communications
-  manufacturerUri: https://device-type.com
-  name: Brandywi
-type: d3-device-type-assertion

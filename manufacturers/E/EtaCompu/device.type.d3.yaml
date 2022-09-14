@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eda88b01-15d2-5bf9-bd79-6cef990ab22a
-  macAddresses:
-  - 70:50:E7:D0:00:00/28
-  manufacturer: Eta Compute Inc.
-  manufacturerUri: https://device-type.com
-  name: EtaCompu
-type: d3-device-type-assertion

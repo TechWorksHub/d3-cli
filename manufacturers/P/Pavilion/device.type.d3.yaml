@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2b2c2fb2-1afa-590b-ad22-f3324cae2c3d
-  macAddresses:
-  - 04:BB:F9:00:00:00/24
-  manufacturer: Pavilion Data Systems Inc
-  manufacturerUri: https://device-type.com
-  name: Pavilion
-type: d3-device-type-assertion

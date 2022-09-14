@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3a105fe9-3ccb-525f-ad5f-9768d821c293
-  macAddresses:
-  - 00:03:85:00:00:00/24
-  manufacturer: Actelis Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: ActelisN
-type: d3-device-type-assertion

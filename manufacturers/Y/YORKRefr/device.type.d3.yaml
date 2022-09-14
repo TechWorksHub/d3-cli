@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 73cdf96b-822a-5d4c-8421-f96e5aa03ac7
-  macAddresses:
-  - 00:0F:52:00:00:00/24
-  manufacturer: YORK Refrigeration, Marine & Controls
-  manufacturerUri: https://device-type.com
-  name: YORKRefr
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5fb25a5d-d486-56e1-80a1-4e06f5672a1a
-  macAddresses:
-  - 0C:73:EB:10:00:00/28
-  manufacturer: Eversec Technology Corporation
-  manufacturerUri: https://device-type.com
-  name: EversecT
-type: d3-device-type-assertion

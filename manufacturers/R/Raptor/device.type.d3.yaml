@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 490d468c-8558-5a66-91b4-f212980ea419
-  macAddresses:
-  - 00:10:8F:00:00:00/24
-  manufacturer: Raptor Systems
-  manufacturerUri: https://device-type.com
-  name: Raptor
-type: d3-device-type-assertion

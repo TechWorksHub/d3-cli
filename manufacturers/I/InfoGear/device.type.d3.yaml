@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 295a820b-3835-5f12-a61c-868e7d33f140
-  macAddresses:
-  - 00:B0:17:00:00:00/24
-  manufacturer: InfoGear Technology Corp.
-  manufacturerUri: https://device-type.com
-  name: InfoGear
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 17597078-a7eb-5fa7-a278-3b748bb4d906
-  macAddresses:
-  - 00:12:7C:00:00:00/24
-  manufacturer: Swegon Ab
-  manufacturerUri: https://device-type.com
-  name: Swegon
-type: d3-device-type-assertion

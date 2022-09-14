@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 29e60c77-673b-5397-bc8b-a868e531f01d
-  macAddresses:
-  - 00:0A:2C:00:00:00/24
-  manufacturer: Active Tchnology Corporation
-  manufacturerUri: https://device-type.com
-  name: ActiveTc
-type: d3-device-type-assertion

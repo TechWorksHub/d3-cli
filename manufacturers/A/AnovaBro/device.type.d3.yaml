@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1f1c36d6-105a-5c81-8c77-c747e8df1829
-  macAddresses:
-  - 00:50:C2:1A:80:00/36
-  manufacturer: Anova Broadband
-  manufacturerUri: https://device-type.com
-  name: AnovaBro
-type: d3-device-type-assertion

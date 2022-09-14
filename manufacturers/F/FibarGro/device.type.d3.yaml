@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e503f752-015d-52d7-86e5-daa819f5656a
-  macAddresses:
-  - AC:17:02:00:00:00/24
-  manufacturer: Fibar Group sp. z o.o.
-  manufacturerUri: https://device-type.com
-  name: FibarGro
-type: d3-device-type-assertion

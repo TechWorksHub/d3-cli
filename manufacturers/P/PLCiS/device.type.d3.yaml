@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 41c6f20f-400d-5f5c-89d2-047ebf2f41b7
-  macAddresses:
-  - 70:B3:D5:0E:00:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: PLCiS
-type: d3-device-type-assertion

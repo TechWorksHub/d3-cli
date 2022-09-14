@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c30722a9-cd5e-5e37-a219-9aa405cef238
-  macAddresses:
-  - 38:4B:76:00:00:00/24
-  manufacturer: AIRTAME ApS
-  manufacturerUri: https://device-type.com
-  name: AIRTAMEA
-type: d3-device-type-assertion

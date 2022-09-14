@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4794a986-4b0d-5ae0-94bd-eeb8fe87e252
-  macAddresses:
-  - 00:12:9F:00:00:00/24
-  manufacturer: RAE Systems
-  manufacturerUri: https://device-type.com
-  name: RAE
-type: d3-device-type-assertion

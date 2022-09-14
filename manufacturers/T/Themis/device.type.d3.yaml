@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d6e62dea-6fd5-5be0-8277-a970ebfba57b
-  macAddresses:
-  - 00:80:B6:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Themis
-type: d3-device-type-assertion

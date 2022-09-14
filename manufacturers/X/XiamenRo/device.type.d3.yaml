@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b1e0b7f7-856a-5182-a2dc-56d9c2057e0b
-  macAddresses:
-  - 48:0B:B2:A0:00:00/28
-  manufacturer: Xiamen Rongta Technology Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: XiamenRo
-type: d3-device-type-assertion

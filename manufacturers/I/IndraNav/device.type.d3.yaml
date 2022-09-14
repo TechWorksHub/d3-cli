@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 47723080-4da6-593f-8ed0-ef81ec7cf604
-  macAddresses:
-  - 38:FD:FE:80:00:00/28
-  manufacturer: Indra Navia AS
-  manufacturerUri: https://device-type.com
-  name: IndraNav
-type: d3-device-type-assertion

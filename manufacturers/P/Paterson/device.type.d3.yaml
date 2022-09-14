@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3515035f-1e17-5529-a67d-1515e8329f0b
-  macAddresses:
-  - DC:5E:36:00:00:00/24
-  manufacturer: Paterson Technology
-  manufacturerUri: https://device-type.com
-  name: Paterson
-type: d3-device-type-assertion

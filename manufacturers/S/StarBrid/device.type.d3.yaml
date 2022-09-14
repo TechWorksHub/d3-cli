@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0f47048d-cd95-5df8-9cc0-3ba2e3d4f781
-  macAddresses:
-  - 70:B3:D5:1B:50:00/36
-  manufacturer: StarBridge, Inc.
-  manufacturerUri: https://device-type.com
-  name: StarBrid
-type: d3-device-type-assertion

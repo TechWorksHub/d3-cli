@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: be8a4512-5427-53c2-939a-7af067a823ae
-  macAddresses:
-  - 00:50:90:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Dctri
-type: d3-device-type-assertion

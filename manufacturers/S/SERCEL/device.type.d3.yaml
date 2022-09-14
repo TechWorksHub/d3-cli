@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5a30c916-354a-5635-a4fa-80bebe40cbfe
-  macAddresses:
-  - 00:C0:1F:00:00:00/24
-  manufacturer: S.E.R.C.E.L.
-  manufacturerUri: https://device-type.com
-  name: SERCEL
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b99d3824-e1fd-56ff-aa89-bb7bc6aac66a
-  macAddresses:
-  - 24:5B:F0:00:00:00/24
-  manufacturer: Liteon, Inc.
-  manufacturerUri: https://device-type.com
-  name: Liteon
-type: d3-device-type-assertion

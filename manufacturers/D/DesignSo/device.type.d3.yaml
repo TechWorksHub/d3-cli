@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2aa2e30f-a812-5ef1-afee-b39fbefa2983
-  macAddresses:
-  - 00:1D:03:00:00:00/24
-  manufacturer: Design Solutions Inc.
-  manufacturerUri: https://device-type.com
-  name: DesignSo
-type: d3-device-type-assertion

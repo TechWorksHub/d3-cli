@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ff715bf0-81a0-509a-9c26-8f958ce1e649
-  macAddresses:
-  - 90:E2:FC:60:00:00/28
-  manufacturer: Sindoh Techno Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: SindohTe
-type: d3-device-type-assertion

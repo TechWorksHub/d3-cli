@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9398a365-216d-59fc-b679-5c30b7c64211
-  macAddresses:
-  - 8C:14:7D:50:00:00/28
-  manufacturer: Unwired Networks
-  manufacturerUri: https://device-type.com
-  name: UnwiredN
-type: d3-device-type-assertion

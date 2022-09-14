@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3ee1109f-3348-5627-b8f4-14df3ebc6ea5
-  macAddresses:
-  - 00:00:3D:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Unisys
-type: d3-device-type-assertion

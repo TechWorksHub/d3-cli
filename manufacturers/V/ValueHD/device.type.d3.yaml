@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f6ad9590-f423-5c4d-96a4-ddf6bd6a432e
-  macAddresses:
-  - D4:E0:8E:00:00:00/24
-  manufacturer: ValueHD Corporation
-  manufacturerUri: https://device-type.com
-  name: ValueHD
-type: d3-device-type-assertion

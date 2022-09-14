@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ed572eed-6687-5335-b6e4-8ff336206425
-  macAddresses:
-  - 48:52:61:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Soreel
-type: d3-device-type-assertion

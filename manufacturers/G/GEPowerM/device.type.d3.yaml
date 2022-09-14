@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 74768279-fbd3-59b1-879b-e1cef1093f81
-  macAddresses:
-  - B4:37:D1:70:00:00/28
-  manufacturer: GE Power Management
-  manufacturerUri: https://device-type.com
-  name: GEPowerM
-type: d3-device-type-assertion

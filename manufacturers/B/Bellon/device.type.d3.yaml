@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 822f8da9-e1c5-5c7e-9392-85ffb3f96c70
-  macAddresses:
-  - 00:1C:AA:00:00:00/24
-  manufacturer: Bellon Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: Bellon
-type: d3-device-type-assertion

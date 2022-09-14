@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 344aa666-9cdf-5db9-91fc-76dcfcac36e8
-  macAddresses:
-  - 90:D1:1B:00:00:00/24
-  manufacturer: Palomar Medical Technologies
-  manufacturerUri: https://device-type.com
-  name: PalomarM
-type: d3-device-type-assertion

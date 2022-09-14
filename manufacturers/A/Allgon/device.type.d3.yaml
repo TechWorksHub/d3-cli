@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 74298984-e2f1-5275-95e8-760ebd68378a
-  macAddresses:
-  - 00:90:02:00:00:00/24
-  manufacturer: Allgon Ab
-  manufacturerUri: https://device-type.com
-  name: Allgon
-type: d3-device-type-assertion

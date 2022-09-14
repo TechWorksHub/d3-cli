@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e7375f50-ac09-5137-a6f8-d34f5fb90a2d
-  macAddresses:
-  - 70:B3:D5:24:70:00/36
-  manufacturer: Satsky Communication Equipment Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: SatskyCo
-type: d3-device-type-assertion

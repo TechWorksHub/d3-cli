@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b96bb891-51c7-52cc-8cb6-ff5e79a486a5
-  macAddresses:
-  - 00:1A:EE:00:00:00/24
-  manufacturer: Shenztech Ltd
-  manufacturerUri: https://device-type.com
-  name: Shenztec
-type: d3-device-type-assertion

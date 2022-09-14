@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b1401605-f3b5-57a1-be69-b08a4fc555c8
-  macAddresses:
-  - CC:47:03:00:00:00/24
-  manufacturer: Intercon Systems Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Intercon
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c4ec746a-8e40-5554-8f19-4d9aec9b271d
-  macAddresses:
-  - 00:11:DF:00:00:00/24
-  manufacturer: Current Energy
-  manufacturerUri: https://device-type.com
-  name: CurrentE
-type: d3-device-type-assertion

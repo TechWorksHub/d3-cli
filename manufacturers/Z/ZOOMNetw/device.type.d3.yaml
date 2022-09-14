@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f2da872a-bf88-5677-bcac-cf8e50bb4ce3
-  macAddresses:
-  - 00:08:D2:00:00:00/24
-  manufacturer: ZOOM Networks Inc.
-  manufacturerUri: https://device-type.com
-  name: ZOOMNetw
-type: d3-device-type-assertion

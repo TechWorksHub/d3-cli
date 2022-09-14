@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c6dd657e-7439-57d5-a4c5-0f2b022d27bc
-  macAddresses:
-  - 48:5D:EB:00:00:00/24
-  manufacturer: Just Add Power
-  manufacturerUri: https://device-type.com
-  name: JustAddP
-type: d3-device-type-assertion

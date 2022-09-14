@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6fdd7cc1-b0c1-5f33-a944-b8fda30ded91
-  macAddresses:
-  - A0:22:4E:E0:00:00/28
-  manufacturer: Hunan Youmei Science&Technology Development Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: HunanYou
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fa648064-1244-5585-9fb4-8c2c37218a49
-  macAddresses:
-  - 00:15:79:00:00:00/24
-  manufacturer: Lunatone Industrielle Elektronik GmbH
-  manufacturerUri: https://device-type.com
-  name: Lunatone
-type: d3-device-type-assertion

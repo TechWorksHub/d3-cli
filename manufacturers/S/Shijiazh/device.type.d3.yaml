@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5622f809-de65-50ec-a4c8-bea29daefe67
-  macAddresses:
-  - 2C:27:9E:40:00:00/28
-  manufacturer: Shijiazhuang King Transportation Equipment Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: Shijiazh
-type: d3-device-type-assertion

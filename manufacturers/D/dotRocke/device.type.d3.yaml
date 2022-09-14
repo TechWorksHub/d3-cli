@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6e390997-7fe5-59a7-a556-29548dc63ac4
-  macAddresses:
-  - 00:02:BF:00:00:00/24
-  manufacturer: dotRocket, Inc.
-  manufacturerUri: https://device-type.com
-  name: dotRocke
-type: d3-device-type-assertion

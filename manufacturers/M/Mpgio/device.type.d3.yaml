@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: deecebbb-9dbe-5bb7-9539-e107a7e14633
-  macAddresses:
-  - 8C:60:E7:00:00:00/24
-  manufacturer: Mpgio Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: Mpgio
-type: d3-device-type-assertion

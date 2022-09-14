@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 63567ffd-f4cd-5b75-901f-5dc6ce8ca85a
-  macAddresses:
-  - 70:B3:D5:A6:B0:00/36
-  manufacturer: xmi systems
-  manufacturerUri: https://device-type.com
-  name: xmi
-type: d3-device-type-assertion

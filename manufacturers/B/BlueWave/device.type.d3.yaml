@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2dedef87-8e1f-5896-a614-3eb394761834
-  macAddresses:
-  - 98:AA:D7:00:00:00/24
-  manufacturer: Blue Wave Networking Co Ltd
-  manufacturerUri: https://device-type.com
-  name: BlueWave
-type: d3-device-type-assertion

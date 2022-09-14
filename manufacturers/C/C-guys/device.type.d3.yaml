@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2a9965bf-74b3-56d0-a10c-61a5d618395d
-  macAddresses:
-  - 00:0E:10:00:00:00/24
-  manufacturer: C-guys, Inc.
-  manufacturerUri: https://device-type.com
-  name: C-guys
-type: d3-device-type-assertion

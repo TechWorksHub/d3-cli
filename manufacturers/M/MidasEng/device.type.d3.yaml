@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fdc1196f-3847-5542-88b5-8b668563641f
-  macAddresses:
-  - 00:0F:6D:00:00:00/24
-  manufacturer: Midas Engineering
-  manufacturerUri: https://device-type.com
-  name: MidasEng
-type: d3-device-type-assertion

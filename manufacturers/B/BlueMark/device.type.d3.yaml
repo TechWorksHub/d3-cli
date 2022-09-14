@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c71e492d-0697-50a9-bfb8-3ea90eb970c5
-  macAddresses:
-  - 70:B3:D5:32:50:00/36
-  manufacturer: BlueMark Innovations BV
-  manufacturerUri: https://device-type.com
-  name: BlueMark
-type: d3-device-type-assertion

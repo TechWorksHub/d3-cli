@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a670d17e-c769-5894-bf57-6b7b5a37c5ba
-  macAddresses:
-  - A0:C5:F2:70:00:00/28
-  manufacturer: Viettronimex JSC
-  manufacturerUri: https://device-type.com
-  name: Viettron
-type: d3-device-type-assertion

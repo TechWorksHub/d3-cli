@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b25bd6d4-ba9d-5a97-a536-da3f7a202bd3
-  macAddresses:
-  - F8:1D:78:90:00:00/28
-  manufacturer: "Ophrys Syst\xE8mes"
-  manufacturerUri: https://device-type.com
-  name: OphrysSy
-type: d3-device-type-assertion

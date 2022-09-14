@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 91cd6f35-cd2e-5725-b39f-c94e73efa6e7
-  macAddresses:
-  - 00:09:74:00:00:00/24
-  manufacturer: Innopia Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: InnopiaT
-type: d3-device-type-assertion

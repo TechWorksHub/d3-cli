@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cdde31d4-0aed-530e-a429-62461c2c890d
-  macAddresses:
-  - 40:D8:55:1C:F0:00/36
-  manufacturer: Omnik New Energy Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: OmnikNew
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ef07f4f2-f50b-58cf-8a73-ee5e27fa4ec3
-  macAddresses:
-  - 34:D0:B8:60:00:00/28
-  manufacturer: NumberFour AG
-  manufacturerUri: https://device-type.com
-  name: NumberFo
-type: d3-device-type-assertion

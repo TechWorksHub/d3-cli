@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4d1c9cdc-5e5e-5326-88cb-3774683e1c95
-  macAddresses:
-  - 0C:CF:D1:00:00:00/24
-  manufacturer: SPRINGWAVE Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: SPRINGWA
-type: d3-device-type-assertion

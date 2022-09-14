@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 226bda10-dffb-5581-a8de-7dc6b7330c4b
-  macAddresses:
-  - 5C:CA:32:00:00:00/24
-  manufacturer: Theben AG
-  manufacturerUri: https://device-type.com
-  name: Theben
-type: d3-device-type-assertion

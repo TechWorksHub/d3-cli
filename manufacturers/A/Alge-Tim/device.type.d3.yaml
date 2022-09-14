@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 69e9fb35-7950-51cd-830a-f20efc92da6d
-  macAddresses:
-  - 2C:3F:3E:00:00:00/24
-  manufacturer: Alge-Timing GmbH
-  manufacturerUri: https://device-type.com
-  name: Alge-Tim
-type: d3-device-type-assertion

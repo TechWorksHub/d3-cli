@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b69d71fc-c577-555c-b3d7-28c163716b1d
-  macAddresses:
-  - E8:6C:C7:A0:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: CoxSpace
-type: d3-device-type-assertion

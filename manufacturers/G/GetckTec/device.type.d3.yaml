@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 985a2725-b91d-5526-95b5-32f2862b1d46
-  macAddresses:
-  - DC:DA:4F:00:00:00/24
-  manufacturer: Getck Technology, Inc
-  manufacturerUri: https://device-type.com
-  name: GetckTec
-type: d3-device-type-assertion

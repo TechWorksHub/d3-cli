@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6ec37d7c-1db8-574e-b9b7-93b2cafb0178
-  macAddresses:
-  - DC:E5:33:D0:00:00/28
-  manufacturer: Suzhou ATES electronic technology co.LTD
-  manufacturerUri: https://device-type.com
-  name: SuzhouAT
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 11cdf582-b0d8-5f55-8de0-9e474f5962cf
-  macAddresses:
-  - F0:EF:D2:00:00:00/24
-  manufacturer: Tf Payment Service Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: TfPaymen
-type: d3-device-type-assertion

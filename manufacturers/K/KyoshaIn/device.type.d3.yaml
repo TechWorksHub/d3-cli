@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fb539cc4-7e6b-5eb5-a32b-9a055ce7bcb7
-  macAddresses:
-  - 00:50:C2:C8:20:00/36
-  manufacturer: Kyosha Industries
-  manufacturerUri: https://device-type.com
-  name: KyoshaIn
-type: d3-device-type-assertion

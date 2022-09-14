@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: effd7b0b-61a7-5d40-bb8f-31d8218ba538
-  macAddresses:
-  - 44:C3:06:00:00:00/24
-  manufacturer: SIFROM Inc.
-  manufacturerUri: https://device-type.com
-  name: SIFROM
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eea6961d-b3d9-5f77-876e-5602c9656e36
-  macAddresses:
-  - AC:F9:7E:00:00:00/24
-  manufacturer: Elesys Inc.
-  manufacturerUri: https://device-type.com
-  name: Elesys
-type: d3-device-type-assertion

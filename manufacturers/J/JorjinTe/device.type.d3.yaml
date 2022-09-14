@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d8300fb5-e442-5f70-9ab9-052d515c8f3b
-  macAddresses:
-  - 00:19:94:00:00:00/24
-  manufacturer: Jorjin Technologies Inc.
-  manufacturerUri: https://device-type.com
-  name: JorjinTe
-type: d3-device-type-assertion

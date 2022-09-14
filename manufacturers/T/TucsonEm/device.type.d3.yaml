@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5a991c34-fa04-587c-9d83-4a5fd7c73de7
-  macAddresses:
-  - 18:C4:51:00:00:00/24
-  manufacturer: Tucson Embedded Systems
-  manufacturerUri: https://device-type.com
-  name: TucsonEm
-type: d3-device-type-assertion

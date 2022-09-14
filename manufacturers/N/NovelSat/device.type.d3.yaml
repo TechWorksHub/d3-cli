@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3f705cf0-4454-5aaf-9967-e94e2b7e3218
-  macAddresses:
-  - EC:3B:F0:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: NovelSat
-type: d3-device-type-assertion

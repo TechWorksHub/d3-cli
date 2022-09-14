@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 68d6cc58-a2d4-584f-bdaa-d4233c95060b
-  macAddresses:
-  - 00:50:C2:7E:30:00/36
-  manufacturer: Progentech Limited
-  manufacturerUri: https://device-type.com
-  name: Progente
-type: d3-device-type-assertion

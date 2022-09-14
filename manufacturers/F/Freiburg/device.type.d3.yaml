@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 89a6e323-3acf-5e52-b92c-a38dab675f29
-  macAddresses:
-  - 00:50:C2:55:60:00/36
-  manufacturer: Freiburger BlickZentrum
-  manufacturerUri: https://device-type.com
-  name: Freiburg
-type: d3-device-type-assertion

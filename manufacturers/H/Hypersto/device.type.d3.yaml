@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 57720408-5629-5d37-a6ad-0e4039433f4a
-  macAddresses:
-  - 00:1C:1B:00:00:00/24
-  manufacturer: Hyperstone GmbH
-  manufacturerUri: https://device-type.com
-  name: Hypersto
-type: d3-device-type-assertion

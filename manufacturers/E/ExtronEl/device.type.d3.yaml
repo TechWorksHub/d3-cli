@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4da0a7d4-4c41-57b9-9dae-cd37b26d456b
-  macAddresses:
-  - 00:05:A6:00:00:00/24
-  manufacturer: Extron Electronics
-  manufacturerUri: https://device-type.com
-  name: ExtronEl
-type: d3-device-type-assertion

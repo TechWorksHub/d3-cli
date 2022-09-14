@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dde7906e-aa64-5d6a-81e1-315ca3da5a09
-  macAddresses:
-  - 00:E0:9D:00:00:00/24
-  manufacturer: Sarnoff Corporation
-  manufacturerUri: https://device-type.com
-  name: Sarnoff
-type: d3-device-type-assertion

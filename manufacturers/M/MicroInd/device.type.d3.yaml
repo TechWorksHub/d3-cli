@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: df786568-a798-5671-92da-429afc9afca9
-  macAddresses:
-  - 00:20:AB:00:00:00/24
-  manufacturer: Micro Industries Corp.
-  manufacturerUri: https://device-type.com
-  name: MicroInd
-type: d3-device-type-assertion

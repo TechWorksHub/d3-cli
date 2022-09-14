@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 97bd392a-3e07-5c27-a064-91081bef3a4e
-  macAddresses:
-  - 74:E1:4A:E0:00:00/28
-  manufacturer: Diamond Kinetics
-  manufacturerUri: https://device-type.com
-  name: DiamondK
-type: d3-device-type-assertion

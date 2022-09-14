@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 76129813-e36e-516a-937c-45e42a5ad4c2
-  macAddresses:
-  - 00:80:C5:00:00:00/24
-  manufacturer: Novellco De Mexico
-  manufacturerUri: https://device-type.com
-  name: Novellco
-type: d3-device-type-assertion

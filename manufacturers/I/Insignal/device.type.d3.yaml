@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e8bd6ad6-11bb-5f76-90c6-baa335b642fa
-  macAddresses:
-  - 78:D8:00:A0:00:00/28
-  manufacturer: Insignal Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Insignal
-type: d3-device-type-assertion

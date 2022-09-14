@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b3889897-f032-57ff-b30e-fdd4133bc8c8
-  macAddresses:
-  - 00:30:62:00:00:00/24
-  manufacturer: IP Video Networks Inc
-  manufacturerUri: https://device-type.com
-  name: IPVideoN
-type: d3-device-type-assertion

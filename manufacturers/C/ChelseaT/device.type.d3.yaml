@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4750809a-4332-588d-bd5e-62c884adc35e
-  macAddresses:
-  - 70:B3:D5:57:90:00/36
-  manufacturer: Chelsea Technologies Group Ltd
-  manufacturerUri: https://device-type.com
-  name: ChelseaT
-type: d3-device-type-assertion

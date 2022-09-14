@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dca9b675-6564-5e6d-9bc5-ebd19c044ed5
-  macAddresses:
-  - 00:26:13:00:00:00/24
-  manufacturer: Engel Axil S.L.
-  manufacturerUri: https://device-type.com
-  name: EngelAxi
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 65790fdf-974b-52c6-8ec6-4f8573f74f2c
-  macAddresses:
-  - 50:FF:99:80:00:00/28
-  manufacturer: Dolphin Concepts Limited
-  manufacturerUri: https://device-type.com
-  name: DolphinC
-type: d3-device-type-assertion

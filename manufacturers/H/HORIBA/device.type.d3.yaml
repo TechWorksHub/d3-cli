@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 154aa048-5d42-587f-827e-2d11a533a127
-  macAddresses:
-  - 00:05:2B:00:00:00/24
-  manufacturer: HORIBA, Ltd.
-  manufacturerUri: https://device-type.com
-  name: HORIBA
-type: d3-device-type-assertion

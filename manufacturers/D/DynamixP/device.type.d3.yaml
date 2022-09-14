@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b8baad05-2108-5506-9d03-9e35a60ad46f
-  macAddresses:
-  - 00:16:E7:00:00:00/24
-  manufacturer: Dynamix Promotions Limited
-  manufacturerUri: https://device-type.com
-  name: DynamixP
-type: d3-device-type-assertion

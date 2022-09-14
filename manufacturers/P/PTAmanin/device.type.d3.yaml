@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 364dd1dd-6a7c-55c9-957c-62d847ec3208
-  macAddresses:
-  - 00:1B:C5:04:70:00/36
-  manufacturer: PT. Amanindo Nusapadu
-  manufacturerUri: https://device-type.com
-  name: PTAmanin
-type: d3-device-type-assertion

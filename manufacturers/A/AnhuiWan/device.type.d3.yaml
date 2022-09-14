@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 28457441-173d-531c-9503-aa9fe7fa1890
-  macAddresses:
-  - 84:32:EA:00:00:00/24
-  manufacturer: Anhui Wanzten P&T Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: AnhuiWan
-type: d3-device-type-assertion

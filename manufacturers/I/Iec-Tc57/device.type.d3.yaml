@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0ae4ea64-77be-5c66-a4ff-0d0a0f8a7285
-  macAddresses:
-  - 00:0C:CD:00:00:00/24
-  manufacturer: Iec - Tc57
-  manufacturerUri: https://device-type.com
-  name: Iec-Tc57
-type: d3-device-type-assertion

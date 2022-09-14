@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 25604e97-bfdd-5d99-bf5b-c14887e235a7
-  macAddresses:
-  - 00:50:C2:40:B0:00/36
-  manufacturer: Center VOSPI JSC
-  manufacturerUri: https://device-type.com
-  name: CenterVO
-type: d3-device-type-assertion

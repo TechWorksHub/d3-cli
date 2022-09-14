@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3741ae3d-d0f3-5023-b70c-b55931482e5f
-  macAddresses:
-  - 00:14:20:00:00:00/24
-  manufacturer: G-Links networking company
-  manufacturerUri: https://device-type.com
-  name: G-Linksn
-type: d3-device-type-assertion

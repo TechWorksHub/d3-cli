@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c4dc2f7e-0db5-52ac-b81a-37c4cadaaa3a
-  macAddresses:
-  - 00:50:C2:94:E0:00/36
-  manufacturer: Zynix Original Sdn. Bhd.
-  manufacturerUri: https://device-type.com
-  name: ZynixOri
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8f96d629-1d38-5b51-a4f5-f5f3bc318a25
-  macAddresses:
-  - 70:B3:D5:FD:40:00/36
-  manufacturer: Getraline
-  manufacturerUri: https://device-type.com
-  name: Getralin
-type: d3-device-type-assertion

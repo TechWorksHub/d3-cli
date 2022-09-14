@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b3dda749-28c8-59d2-b504-6a27905ebd05
-  macAddresses:
-  - F0:2A:2B:A0:00:00/28
-  manufacturer: Navigil Ltd
-  manufacturerUri: https://device-type.com
-  name: Navigil
-type: d3-device-type-assertion

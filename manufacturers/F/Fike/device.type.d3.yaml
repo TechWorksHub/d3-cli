@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c35e840a-0e71-5799-bf0c-246978adf7cd
-  macAddresses:
-  - D4:32:66:00:00:00/24
-  manufacturer: Fike Corporation
-  manufacturerUri: https://device-type.com
-  name: Fike
-type: d3-device-type-assertion

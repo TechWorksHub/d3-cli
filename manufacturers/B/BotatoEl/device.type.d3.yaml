@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 22531c12-fa90-5cc6-bb9d-ccf7096b4371
-  macAddresses:
-  - F8:3C:BF:00:00:00/24
-  manufacturer: Botato Electronics Sdn Bhd
-  manufacturerUri: https://device-type.com
-  name: BotatoEl
-type: d3-device-type-assertion

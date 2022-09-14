@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 852f1716-f8e5-5699-8593-fb55a241d7e9
-  macAddresses:
-  - 68:8F:C9:00:00:00/24
-  manufacturer: Zhuolian (Shenzhen) Communication Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Zhuolian
-type: d3-device-type-assertion

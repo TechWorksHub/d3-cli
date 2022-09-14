@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 10406927-4693-5418-b7e1-b6e1ddb9f5f8
-  macAddresses:
-  - 00:26:26:00:00:00/24
-  manufacturer: Geophysical Survey Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Geophysi
-type: d3-device-type-assertion

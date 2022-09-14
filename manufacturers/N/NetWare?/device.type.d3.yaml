@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 96c149cd-1767-5e7a-9e48-da3219530ad6
-  macAddresses:
-  - 40:00:03:00:00:00/24
-  manufacturer: Net Ware (?)
-  manufacturerUri: https://device-type.com
-  name: NetWare?
-type: d3-device-type-assertion

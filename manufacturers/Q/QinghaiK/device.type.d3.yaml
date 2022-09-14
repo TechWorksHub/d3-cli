@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fd577e9d-e1a6-5ea9-a5e7-b718dc316ea8
-  macAddresses:
-  - EC:5F:23:00:00:00/24
-  manufacturer: Qinghai Kimascend Electronics Technology Co. Ltd.
-  manufacturerUri: https://device-type.com
-  name: QinghaiK
-type: d3-device-type-assertion

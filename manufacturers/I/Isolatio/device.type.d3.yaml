@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a50bac29-7de8-520e-9b02-22bd46c008a1
-  macAddresses:
-  - 00:C0:45:00:00:00/24
-  manufacturer: Isolation Systems Inc
-  manufacturerUri: https://device-type.com
-  name: Isolatio
-type: d3-device-type-assertion

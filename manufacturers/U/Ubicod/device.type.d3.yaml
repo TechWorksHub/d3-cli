@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8161a76e-1bde-5ff0-b3c1-534b90645b3a
-  macAddresses:
-  - 00:17:29:00:00:00/24
-  manufacturer: Ubicod Co.LTD
-  manufacturerUri: https://device-type.com
-  name: Ubicod
-type: d3-device-type-assertion

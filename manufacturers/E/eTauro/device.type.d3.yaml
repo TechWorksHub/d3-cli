@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1453f294-2e99-53d0-8f66-aa253555ec0f
-  macAddresses:
-  - 54:9A:11:40:00:00/28
-  manufacturer: eTauro LLC
-  manufacturerUri: https://device-type.com
-  name: eTauro
-type: d3-device-type-assertion

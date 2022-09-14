@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f06f3c61-416b-5e11-a95d-e5e06a9ab00f
-  macAddresses:
-  - 1C:C0:E1:90:00:00/28
-  manufacturer: Ospicon Company Limited
-  manufacturerUri: https://device-type.com
-  name: Ospicon
-type: d3-device-type-assertion

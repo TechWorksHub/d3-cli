@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 75556ac7-2922-5cbb-bd37-3a4b2f09242d
-  macAddresses:
-  - 40:D8:55:13:60:00/36
-  manufacturer: Devriecom B.V.
-  manufacturerUri: https://device-type.com
-  name: Devrieco
-type: d3-device-type-assertion

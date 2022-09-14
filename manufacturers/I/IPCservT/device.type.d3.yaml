@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 285283cf-d9e3-577f-8400-8bf312f60692
-  macAddresses:
-  - 00:0A:D8:00:00:00/24
-  manufacturer: IPCserv Technology Corp.
-  manufacturerUri: https://device-type.com
-  name: IPCservT
-type: d3-device-type-assertion

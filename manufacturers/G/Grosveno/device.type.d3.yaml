@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 983e4625-1c0e-5366-86b6-27e61eb045c0
-  macAddresses:
-  - 00:50:C2:59:10:00/36
-  manufacturer: Grosvenor Technology Ltd
-  manufacturerUri: https://device-type.com
-  name: Grosveno
-type: d3-device-type-assertion

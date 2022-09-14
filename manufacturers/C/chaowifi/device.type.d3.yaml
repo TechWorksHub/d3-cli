@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6a06296a-24aa-5a24-b52b-f0808d998f14
-  macAddresses:
-  - 7C:25:87:00:00:00/24
-  manufacturer: chaowifi.com
-  manufacturerUri: https://device-type.com
-  name: chaowifi
-type: d3-device-type-assertion

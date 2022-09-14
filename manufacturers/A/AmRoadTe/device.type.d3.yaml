@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f511e996-e4e9-54a9-b765-7be2f47c9746
-  macAddresses:
-  - 00:1C:3B:00:00:00/24
-  manufacturer: AmRoad Technology Inc.
-  manufacturerUri: https://device-type.com
-  name: AmRoadTe
-type: d3-device-type-assertion

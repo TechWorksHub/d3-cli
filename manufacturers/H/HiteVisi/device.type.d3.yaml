@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 672ae8db-8e7a-5da3-96a1-ed42855caca2
-  macAddresses:
-  - 8C:33:57:00:00:00/24
-  manufacturer: HiteVision Digital Media Technology Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: HiteVisi
-type: d3-device-type-assertion

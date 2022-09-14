@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b13cd0e1-be6f-5402-97d2-76ce05de421a
-  macAddresses:
-  - 00:60:A1:00:00:00/24
-  manufacturer: VPNet, Inc.
-  manufacturerUri: https://device-type.com
-  name: VPNet
-type: d3-device-type-assertion

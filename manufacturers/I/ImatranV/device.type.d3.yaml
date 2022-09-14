@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 83660fea-beb6-56ba-943e-23e8a43d1357
-  macAddresses:
-  - 00:C0:CF:00:00:00/24
-  manufacturer: Imatran Voima Oy
-  manufacturerUri: https://device-type.com
-  name: ImatranV
-type: d3-device-type-assertion

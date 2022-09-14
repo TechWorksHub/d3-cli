@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f2faaf57-68e3-5bad-a44e-f25c960bed80
-  macAddresses:
-  - 00:00:C6:00:00:00/24
-  manufacturer: HP Intelligent Networks Operation (formerly Eon Systems)
-  manufacturerUri: https://device-type.com
-  name: HpIntell
-type: d3-device-type-assertion

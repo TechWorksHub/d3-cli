@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dca3f29a-a60a-5228-add7-d1ebb1f99d0a
-  macAddresses:
-  - 7C:83:34:60:00:00/28
-  manufacturer: Wojinxin Beijing Technology Co., LTD
-  manufacturerUri: https://device-type.com
-  name: Wojinxin
-type: d3-device-type-assertion

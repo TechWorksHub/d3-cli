@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 90dc3c45-7a16-5fe8-b8e7-7b78af43649e
-  macAddresses:
-  - 70:B3:D5:3F:60:00/36
-  manufacturer: Sycomp Electronic GmbH
-  manufacturerUri: https://device-type.com
-  name: SycompEl
-type: d3-device-type-assertion

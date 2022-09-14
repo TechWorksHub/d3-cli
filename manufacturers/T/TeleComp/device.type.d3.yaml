@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7de5a4b2-324b-5ad3-92a4-f720eded230b
-  macAddresses:
-  - A0:23:1B:00:00:00/24
-  manufacturer: TeleComp R&D Corp.
-  manufacturerUri: https://device-type.com
-  name: TeleComp
-type: d3-device-type-assertion

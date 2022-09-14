@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c90f59e8-da0e-5140-92a4-f29e850522aa
-  macAddresses:
-  - 34:A6:8C:00:00:00/24
-  manufacturer: Shine Profit Development Limited
-  manufacturerUri: https://device-type.com
-  name: ShinePro
-type: d3-device-type-assertion

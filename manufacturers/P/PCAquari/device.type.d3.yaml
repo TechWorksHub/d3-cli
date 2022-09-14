@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f0694b10-1f59-5bd8-8f1c-0580d0305932
-  macAddresses:
-  - 00:58:3F:00:00:00/24
-  manufacturer: PC Aquarius
-  manufacturerUri: https://device-type.com
-  name: PCAquari
-type: d3-device-type-assertion

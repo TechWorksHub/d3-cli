@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ced283e1-e299-5536-8bf2-09d366966e55
-  macAddresses:
-  - 00:1A:BD:00:00:00/24
-  manufacturer: Impatica Inc.
-  manufacturerUri: https://device-type.com
-  name: Impatica
-type: d3-device-type-assertion

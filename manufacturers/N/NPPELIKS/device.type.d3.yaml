@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a74ca7f4-8d7d-58c1-b18d-1bb711e5029f
-  macAddresses:
-  - BC:8B:55:00:00:00/24
-  manufacturer: NPP ELIKS America Inc. DBA T&M Atlantic
-  manufacturerUri: https://device-type.com
-  name: NPPELIKS
-type: d3-device-type-assertion

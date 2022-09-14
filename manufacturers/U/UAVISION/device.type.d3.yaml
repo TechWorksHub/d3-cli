@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7fc85638-6429-59d1-a65b-fa5737ac646c
-  macAddresses:
-  - 00:50:C2:8A:20:00/36
-  manufacturer: UAVISION Engenharia de Sistemas
-  manufacturerUri: https://device-type.com
-  name: UAVISION
-type: d3-device-type-assertion

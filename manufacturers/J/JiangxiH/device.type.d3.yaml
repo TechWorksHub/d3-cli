@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 976cb9c1-c4a3-543f-9e3f-b7b5e4f57441
-  macAddresses:
-  - D4:45:E8:00:00:00/24
-  manufacturer: Jiangxi Hongpai Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: JiangxiH
-type: d3-device-type-assertion

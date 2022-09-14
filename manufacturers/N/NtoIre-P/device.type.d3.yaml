@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 357af73e-efd2-5071-a934-f3326958ec66
-  macAddresses:
-  - 70:B3:D5:6F:E0:00/36
-  manufacturer: Nto Ire-Polus
-  manufacturerUri: https://device-type.com
-  name: NtoIre-P
-type: d3-device-type-assertion

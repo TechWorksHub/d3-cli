@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dd3178c6-7396-5ad8-a36d-b8f77d530470
-  macAddresses:
-  - 00:0F:02:00:00:00/24
-  manufacturer: Digicube Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Digicube
-type: d3-device-type-assertion

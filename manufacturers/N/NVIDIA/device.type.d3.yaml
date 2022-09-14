@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 17487f76-3e2b-5b2f-9e52-8df5947e82b1
-  macAddresses:
-  - 48:B0:2D:00:00:00/24
-  manufacturer: NVIDIA Corporation
-  manufacturerUri: https://device-type.com
-  name: NVIDIA
-type: d3-device-type-assertion

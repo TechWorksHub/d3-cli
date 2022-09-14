@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1e16a755-9a98-5129-aa18-f0f7b840a573
-  macAddresses:
-  - 00:0F:95:00:00:00/24
-  manufacturer: ELECOM Co.,LTD Laneed Division
-  manufacturerUri: https://device-type.com
-  name: ELECOMLa
-type: d3-device-type-assertion

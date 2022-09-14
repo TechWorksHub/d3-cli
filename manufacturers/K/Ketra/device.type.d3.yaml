@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 111eaf05-c1a1-5cb4-a97f-856f57c98a26
-  macAddresses:
-  - A4:9D:49:00:00:00/24
-  manufacturer: Ketra, Inc.
-  manufacturerUri: https://device-type.com
-  name: Ketra
-type: d3-device-type-assertion

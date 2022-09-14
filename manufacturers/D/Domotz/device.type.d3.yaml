@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 70d5ddb4-0876-55f1-b645-d58ae7f8ace8
-  macAddresses:
-  - F0:23:B9:E0:00:00/28
-  manufacturer: Domotz Ltd
-  manufacturerUri: https://device-type.com
-  name: Domotz
-type: d3-device-type-assertion

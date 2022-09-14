@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 409797d6-6149-5d0b-b78b-1f8020af0d5e
-  macAddresses:
-  - 48:46:8D:00:00:00/24
-  manufacturer: Zepcam B.V.
-  manufacturerUri: https://device-type.com
-  name: Zepcam
-type: d3-device-type-assertion

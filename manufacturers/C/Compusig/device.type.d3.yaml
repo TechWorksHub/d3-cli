@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 00f7d87a-3d93-5b56-be10-8e066f9e8a76
-  macAddresses:
-  - 70:B3:D5:05:00:00/36
-  manufacturer: Compusign Systems Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: Compusig
-type: d3-device-type-assertion

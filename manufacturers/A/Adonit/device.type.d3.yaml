@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8d9812d4-0b0f-51b0-85c6-e8c2563176ac
-  macAddresses:
-  - F4:6A:BC:00:00:00/24
-  manufacturer: Adonit Corp. Ltd.
-  manufacturerUri: https://device-type.com
-  name: Adonit
-type: d3-device-type-assertion

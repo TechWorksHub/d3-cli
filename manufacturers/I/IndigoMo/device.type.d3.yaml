@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4b22cc69-9b87-5d57-b1a8-4e2b203c6214
-  macAddresses:
-  - 00:1F:FD:00:00:00/24
-  manufacturer: Indigo Mobile Technologies Corp.
-  manufacturerUri: https://device-type.com
-  name: IndigoMo
-type: d3-device-type-assertion

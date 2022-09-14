@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 02e6392e-79fc-57a1-a0dd-82e0f058dc8d
-  macAddresses:
-  - 0C:5A:9E:00:00:00/24
-  manufacturer: Wi-SUN Alliance
-  manufacturerUri: https://device-type.com
-  name: Wi-SUNAl
-type: d3-device-type-assertion

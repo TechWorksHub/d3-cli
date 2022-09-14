@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ebbb5239-4acd-5b58-94d7-3d431acc6a04
-  macAddresses:
-  - CC:C2:61:70:00:00/28
-  manufacturer: Ability Enterprise Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: AbilityE
-type: d3-device-type-assertion

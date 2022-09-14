@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6734722c-200f-5278-9df1-e50f2fdb22bd
-  macAddresses:
-  - 00:17:BE:00:00:00/24
-  manufacturer: Tratec Telecom B.V.
-  manufacturerUri: https://device-type.com
-  name: TratecTe
-type: d3-device-type-assertion

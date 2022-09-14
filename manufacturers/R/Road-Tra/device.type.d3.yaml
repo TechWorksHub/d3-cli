@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7eec2ed4-e827-5cf8-8ac6-690f52de3831
-  macAddresses:
-  - B8:30:A8:00:00:00/24
-  manufacturer: Road-Track Telematics Development
-  manufacturerUri: https://device-type.com
-  name: Road-Tra
-type: d3-device-type-assertion

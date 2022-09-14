@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8b4f871a-4683-5db8-ad03-ba008c7dae7f
-  macAddresses:
-  - 70:B3:D5:B1:10:00/36
-  manufacturer: Cab S.R.L.
-  manufacturerUri: https://device-type.com
-  name: Cab
-type: d3-device-type-assertion

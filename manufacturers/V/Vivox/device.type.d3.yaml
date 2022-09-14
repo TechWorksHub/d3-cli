@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 94a5cb9d-aed4-5c67-8433-9d8f2f23be3c
-  macAddresses:
-  - 00:19:81:00:00:00/24
-  manufacturer: Vivox Inc
-  manufacturerUri: https://device-type.com
-  name: Vivox
-type: d3-device-type-assertion

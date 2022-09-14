@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b45d283f-09fb-51ce-a732-d9eac392b235
-  macAddresses:
-  - 34:E1:D1:70:00:00/28
-  manufacturer: Genius Pros
-  manufacturerUri: https://device-type.com
-  name: GeniusPr
-type: d3-device-type-assertion

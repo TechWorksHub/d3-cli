@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 956e2592-8db6-5fe8-a015-2767c0581297
-  macAddresses:
-  - 40:48:FD:D0:00:00/28
-  manufacturer: NOX Systems AG
-  manufacturerUri: https://device-type.com
-  name: NOX
-type: d3-device-type-assertion

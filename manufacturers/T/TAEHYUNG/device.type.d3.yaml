@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1a9b8ec4-32b6-5041-a4e8-edea1a7ce77d
-  macAddresses:
-  - B0:FD:0B:00:00:00/28
-  manufacturer: TAE HYUNG Industrial Electronics Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: TAEHYUNG
-type: d3-device-type-assertion

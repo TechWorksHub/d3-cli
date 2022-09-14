@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 36e714b6-eb31-5ca7-b798-39e5f743df29
-  macAddresses:
-  - 00:60:BE:00:00:00/24
-  manufacturer: Webtronics
-  manufacturerUri: https://device-type.com
-  name: Webtroni
-type: d3-device-type-assertion

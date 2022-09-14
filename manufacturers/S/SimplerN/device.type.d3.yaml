@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5e98a7dc-ed62-522e-82ea-d5c2cfa6f8a3
-  macAddresses:
-  - 00:01:C5:00:00:00/24
-  manufacturer: Simpler Networks
-  manufacturerUri: https://device-type.com
-  name: SimplerN
-type: d3-device-type-assertion

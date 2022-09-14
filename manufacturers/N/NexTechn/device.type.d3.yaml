@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 07b46f85-7b94-575a-8c07-730e0000f310
-  macAddresses:
-  - DC:44:27:40:00:00/28
-  manufacturer: Nex Technologies PTY LTD
-  manufacturerUri: https://device-type.com
-  name: NexTechn
-type: d3-device-type-assertion

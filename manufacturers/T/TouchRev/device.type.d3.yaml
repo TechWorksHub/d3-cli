@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c70eb3f3-b0ff-51fc-a53c-5a0facbfc2fd
-  macAddresses:
-  - 00:50:C2:BE:D0:00/36
-  manufacturer: Touch Revolution Inc.
-  manufacturerUri: https://device-type.com
-  name: TouchRev
-type: d3-device-type-assertion

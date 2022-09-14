@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b00df441-8b96-53a6-9245-0926293acc37
-  macAddresses:
-  - C0:4B:13:00:00:00/24
-  manufacturer: WonderSound Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: WonderSo
-type: d3-device-type-assertion

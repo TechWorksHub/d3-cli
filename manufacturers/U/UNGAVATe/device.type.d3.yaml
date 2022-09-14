@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 02482bbc-63b1-5d4e-8272-27581ae09528
-  macAddresses:
-  - 00:50:C2:D3:10:00/36
-  manufacturer: UNGAVA Technologies Inc.
-  manufacturerUri: https://device-type.com
-  name: UNGAVATe
-type: d3-device-type-assertion

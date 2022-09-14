@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d94b8dd5-22e5-581b-9d60-ad6d9522c5d1
-  macAddresses:
-  - 00:50:C2:D0:00:00/36
-  manufacturer: Bodensee Gravitymeter Geosystem GmbH
-  manufacturerUri: https://device-type.com
-  name: Bodensee
-type: d3-device-type-assertion

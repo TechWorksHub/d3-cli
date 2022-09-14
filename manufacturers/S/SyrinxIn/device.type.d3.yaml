@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 85252e48-57c5-51ed-b23b-f6fe14164f18
-  macAddresses:
-  - 00:17:BB:00:00:00/24
-  manufacturer: Syrinx Industrial Electronics
-  manufacturerUri: https://device-type.com
-  name: SyrinxIn
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: baeb99bf-337f-5df7-aedb-8d2f6159ab8a
-  macAddresses:
-  - 00:02:B5:00:00:00/24
-  manufacturer: Avnet, Inc.
-  manufacturerUri: https://device-type.com
-  name: Avnet
-type: d3-device-type-assertion

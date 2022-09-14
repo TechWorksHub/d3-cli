@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 32236a6f-c8b4-55d6-87eb-58bef6af2a02
-  macAddresses:
-  - 00:26:EC:00:00:00/24
-  manufacturer: Legrand Home Systems, Inc
-  manufacturerUri: https://device-type.com
-  name: LegrandH
-type: d3-device-type-assertion

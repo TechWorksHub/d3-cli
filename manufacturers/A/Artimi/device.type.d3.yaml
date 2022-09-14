@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 76d1853d-1eea-5b5c-98cb-df64e3aa6a07
-  macAddresses:
-  - 00:13:BC:00:00:00/24
-  manufacturer: Artimi Ltd
-  manufacturerUri: https://device-type.com
-  name: Artimi
-type: d3-device-type-assertion

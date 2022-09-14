@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a6b5529c-bcb2-55fe-b9a8-9ba2d02a85fb
-  macAddresses:
-  - 00:50:C2:C6:90:00/36
-  manufacturer: Rebo Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: Rebo
-type: d3-device-type-assertion

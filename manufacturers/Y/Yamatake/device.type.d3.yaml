@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b367946b-f8f6-58fb-8875-0c69c23b3538
-  macAddresses:
-  - 00:20:04:00:00:00/24
-  manufacturer: Yamatake-Honeywell Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Yamatake
-type: d3-device-type-assertion

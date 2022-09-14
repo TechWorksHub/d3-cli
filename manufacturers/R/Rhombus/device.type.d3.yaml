@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e6149f91-5add-544e-a0c4-22b8118b7bac
-  macAddresses:
-  - CC:47:BD:00:00:00/24
-  manufacturer: Rhombus Systems
-  manufacturerUri: https://device-type.com
-  name: Rhombus
-type: d3-device-type-assertion

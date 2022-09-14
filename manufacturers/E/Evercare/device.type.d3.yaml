@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fbabe3ea-3ef4-5e0a-8d87-cf95b2ec5c9a
-  macAddresses:
-  - 00:50:C2:AE:10:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Evercare
-type: d3-device-type-assertion

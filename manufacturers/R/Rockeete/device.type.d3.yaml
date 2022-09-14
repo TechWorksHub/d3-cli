@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 92948386-9c5d-5939-9197-ce3b7402da61
-  macAddresses:
-  - D8:25:B0:00:00:00/24
-  manufacturer: Rockeetech Systems Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: Rockeete
-type: d3-device-type-assertion

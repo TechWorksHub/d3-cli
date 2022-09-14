@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3ccf14bf-62a5-5b6e-acd0-24a39ffc1a62
-  macAddresses:
-  - 00:15:88:00:00:00/24
-  manufacturer: Salutica Allied Solutions Sdn Bhd
-  manufacturerUri: https://device-type.com
-  name: Salutica
-type: d3-device-type-assertion

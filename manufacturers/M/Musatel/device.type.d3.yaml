@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 70c380b3-14dd-5ffa-922e-059f65c7aa7b
-  macAddresses:
-  - 00:50:C2:5E:60:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Musatel
-type: d3-device-type-assertion

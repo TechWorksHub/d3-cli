@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f1560727-e5d4-50b6-95b5-edbb97f9a126
-  macAddresses:
-  - 00:01:EA:00:00:00/24
-  manufacturer: Cirilium Corp.
-  manufacturerUri: https://device-type.com
-  name: Cirilium
-type: d3-device-type-assertion

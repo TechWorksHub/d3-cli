@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7247b0d5-985b-5a1a-82d6-1175db213428
-  macAddresses:
-  - C4:60:44:00:00:00/24
-  manufacturer: Everex Electronics Limited
-  manufacturerUri: https://device-type.com
-  name: EverexEl
-type: d3-device-type-assertion

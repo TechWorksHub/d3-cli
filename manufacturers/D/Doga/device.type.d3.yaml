@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 278b6ef8-c4a9-517d-8762-77ddd9b3b27d
-  macAddresses:
-  - 70:B3:D5:62:A0:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Doga
-type: d3-device-type-assertion

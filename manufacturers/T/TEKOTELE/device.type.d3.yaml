@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c619cf11-d996-5471-badb-0efe83b4cd4c
-  macAddresses:
-  - 00:50:C2:9A:A0:00/36
-  manufacturer: TEKO TELECOM SpA
-  manufacturerUri: https://device-type.com
-  name: TEKOTELE
-type: d3-device-type-assertion

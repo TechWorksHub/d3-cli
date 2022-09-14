@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5eb2af08-ddd3-5254-8f0c-a2c24a5c7590
-  macAddresses:
-  - 70:B3:D5:76:A0:00/36
-  manufacturer: Swiftnet SOC Ltd
-  manufacturerUri: https://device-type.com
-  name: Swiftnet
-type: d3-device-type-assertion

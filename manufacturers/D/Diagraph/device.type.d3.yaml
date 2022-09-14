@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1f66df0c-4d02-5c51-ab90-736c91fdd14f
-  macAddresses:
-  - 00:06:B3:00:00:00/24
-  manufacturer: Diagraph Corporation
-  manufacturerUri: https://device-type.com
-  name: Diagraph
-type: d3-device-type-assertion

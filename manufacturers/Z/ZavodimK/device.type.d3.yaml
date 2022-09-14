@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 57e745cb-a108-5424-b66f-eba00551d550
-  macAddresses:
-  - 24:E6:BA:00:00:00/24
-  manufacturer: JSC Zavod im. Kozitsky
-  manufacturerUri: https://device-type.com
-  name: ZavodimK
-type: d3-device-type-assertion

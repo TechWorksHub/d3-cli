@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 097ba2ce-c07e-5110-b821-a1865e102bb3
-  macAddresses:
-  - 68:91:D0:E0:00:00/28
-  manufacturer: Outstanding Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Outstand
-type: d3-device-type-assertion

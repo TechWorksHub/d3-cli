@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dc31c958-98ef-536e-b82d-4a3a486d88d6
-  macAddresses:
-  - 7C:83:34:D0:00:00/28
-  manufacturer: MSV elektronika s.r.o.
-  manufacturerUri: https://device-type.com
-  name: MSVelekt
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a15ce31c-b7fe-5be2-a736-0a4856d5f55a
-  macAddresses:
-  - 64:0E:9B:00:00:00/24
-  manufacturer: Ishida Medical Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: IshidaMe
-type: d3-device-type-assertion

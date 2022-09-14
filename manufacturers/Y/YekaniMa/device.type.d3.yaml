@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 985fb504-d309-5b02-93b4-cd7edae91caa
-  macAddresses:
-  - 74:5B:C5:60:00:00/28
-  manufacturer: Yekani Manufacturing PTY Ltd
-  manufacturerUri: https://device-type.com
-  name: YekaniMa
-type: d3-device-type-assertion

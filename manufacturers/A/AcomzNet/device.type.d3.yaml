@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 37d3c0e8-0b00-5501-b0f0-8e34a0ed33b6
-  macAddresses:
-  - 00:03:71:00:00:00/24
-  manufacturer: Acomz Networks Corp.
-  manufacturerUri: https://device-type.com
-  name: AcomzNet
-type: d3-device-type-assertion

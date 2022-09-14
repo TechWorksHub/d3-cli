@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4b1e584b-a5af-5ed6-a976-03adf4d00460
-  macAddresses:
-  - 00:50:C2:DD:50:00/36
-  manufacturer: Friend Spring Industrial Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: FriendSp
-type: d3-device-type-assertion

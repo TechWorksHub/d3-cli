@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f277003a-6c9b-58dc-9cd6-6cc4369fe55f
-  macAddresses:
-  - 00:09:1B:00:00:00/24
-  manufacturer: Digital Generation Inc.
-  manufacturerUri: https://device-type.com
-  name: DigitalG
-type: d3-device-type-assertion

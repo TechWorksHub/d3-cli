@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f014de84-d595-5e60-9b9f-80e1b4e06d34
-  macAddresses:
-  - 00:16:9A:00:00:00/24
-  manufacturer: Quadrics Ltd
-  manufacturerUri: https://device-type.com
-  name: Quadrics
-type: d3-device-type-assertion

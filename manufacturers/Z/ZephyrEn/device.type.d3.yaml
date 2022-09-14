@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8f58afdd-e182-5d48-adbb-2c9271d82bf8
-  macAddresses:
-  - 84:89:EC:50:00:00/28
-  manufacturer: Zephyr Engineering, Inc.
-  manufacturerUri: https://device-type.com
-  name: ZephyrEn
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f15b4656-f87b-588b-a0d6-eb3f384ebd08
-  macAddresses:
-  - E0:BE:03:00:00:00/24
-  manufacturer: Lite-On Network Communication (Dongguan) Limited
-  manufacturerUri: https://device-type.com
-  name: Lite-OnN
-type: d3-device-type-assertion

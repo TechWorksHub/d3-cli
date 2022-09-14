@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b48a06f1-5eaa-5a6e-b2cd-75beb943c798
-  macAddresses:
-  - 50:FF:99:90:00:00/28
-  manufacturer: Sea Eagle Optoelectronic Information Technology(Tianjin)co,Ltd
-  manufacturerUri: https://device-type.com
-  name: SeaEagle
-type: d3-device-type-assertion

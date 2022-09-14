@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 80ed38dd-9e37-5c8b-bf59-29491061685f
-  macAddresses:
-  - 00:19:DA:00:00:00/24
-  manufacturer: Welltrans O&E Technology Co. , Ltd.
-  manufacturerUri: https://device-type.com
-  name: Welltran
-type: d3-device-type-assertion

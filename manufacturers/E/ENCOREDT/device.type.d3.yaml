@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3b18902b-13e9-5ab7-8ee0-3510892c3be2
-  macAddresses:
-  - D0:76:50:70:00:00/28
-  manufacturer: ENCORED Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: ENCOREDT
-type: d3-device-type-assertion

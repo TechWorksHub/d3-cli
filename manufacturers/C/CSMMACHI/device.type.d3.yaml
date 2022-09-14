@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0a2cf17e-6b54-53b8-be26-09d6819291cc
-  macAddresses:
-  - 70:B3:D5:FE:30:00/36
-  manufacturer: CSM MACHINERY srl
-  manufacturerUri: https://device-type.com
-  name: CSMMACHI
-type: d3-device-type-assertion

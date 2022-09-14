@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 78246bf7-59d7-5c89-99dc-d9c5726a0bd0
-  macAddresses:
-  - 70:B3:D5:67:B0:00/36
-  manufacturer: Stesalit Systems Ltd
-  manufacturerUri: https://device-type.com
-  name: Stesalit
-type: d3-device-type-assertion

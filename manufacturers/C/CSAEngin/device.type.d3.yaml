@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d816273e-5d3b-5239-b099-8ba8b7298c63
-  macAddresses:
-  - 00:50:C2:F8:90:00/36
-  manufacturer: CSA Engineering AG
-  manufacturerUri: https://device-type.com
-  name: CSAEngin
-type: d3-device-type-assertion

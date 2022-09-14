@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1c48f1e0-172c-5463-8b8a-28cfb92fce9e
-  macAddresses:
-  - F0:3A:4B:00:00:00/24
-  manufacturer: Bloombase, Inc.
-  manufacturerUri: https://device-type.com
-  name: Bloombas
-type: d3-device-type-assertion

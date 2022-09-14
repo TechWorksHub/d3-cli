@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a4bd82c6-d6c8-58c2-bed1-7afe5bda7ba6
-  macAddresses:
-  - 00:50:C2:0A:E0:00/36
-  manufacturer: Zarak Systems Corp.
-  manufacturerUri: https://device-type.com
-  name: Zarak
-type: d3-device-type-assertion

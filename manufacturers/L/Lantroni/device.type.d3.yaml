@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d7554b31-050f-5fe7-8366-b93b9ca1f771
-  macAddresses:
-  - 00:80:A3:00:00:00/24
-  manufacturer: Lantronix
-  manufacturerUri: https://device-type.com
-  name: Lantroni
-type: d3-device-type-assertion

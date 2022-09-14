@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 18629c8f-ee8e-5b9d-a9ed-6d49a8ef016f
-  macAddresses:
-  - 58:95:D8:30:00:00/28
-  manufacturer: Tonnet Telecommunication International Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: TonnetTe
-type: d3-device-type-assertion

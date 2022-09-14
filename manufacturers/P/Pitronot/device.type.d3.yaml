@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a90c2ee5-9c1f-5c00-b458-553f5ad9ecbc
-  macAddresses:
-  - 00:23:57:00:00:00/24
-  manufacturer: Pitronot Technologies and Engineering P.T.E. Ltd.
-  manufacturerUri: https://device-type.com
-  name: Pitronot
-type: d3-device-type-assertion

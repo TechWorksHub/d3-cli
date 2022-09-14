@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 52927e43-601e-5b75-a56f-2cc8573a07ce
-  macAddresses:
-  - D8:1C:14:00:00:00/24
-  manufacturer: Compacta International, Ltd.
-  manufacturerUri: https://device-type.com
-  name: Compacta
-type: d3-device-type-assertion

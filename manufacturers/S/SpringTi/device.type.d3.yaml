@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 14a703b0-78c1-5437-8973-b71364eeeb40
-  macAddresses:
-  - 00:50:19:00:00:00/24
-  manufacturer: Spring Tide Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: SpringTi
-type: d3-device-type-assertion

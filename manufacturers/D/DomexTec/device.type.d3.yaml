@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c85e48be-93a3-5ba5-a275-82e335f4726c
-  macAddresses:
-  - 00:90:07:00:00:00/24
-  manufacturer: Domex Technology Corp.
-  manufacturerUri: https://device-type.com
-  name: DomexTec
-type: d3-device-type-assertion

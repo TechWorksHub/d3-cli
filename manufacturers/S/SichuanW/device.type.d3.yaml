@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 95255389-2ae3-503d-98e2-ebd0bcfe4c84
-  macAddresses:
-  - 04:58:6F:00:00:00/24
-  manufacturer: Sichuan Whayer information industry Co.,LTD
-  manufacturerUri: https://device-type.com
-  name: SichuanW
-type: d3-device-type-assertion

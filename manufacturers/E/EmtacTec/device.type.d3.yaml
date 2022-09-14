@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: da1f8668-ffe8-5788-bdf3-6898b3d741b2
-  macAddresses:
-  - 00:50:C2:01:90:00/36
-  manufacturer: Emtac Technology Corp.
-  manufacturerUri: https://device-type.com
-  name: EmtacTec
-type: d3-device-type-assertion

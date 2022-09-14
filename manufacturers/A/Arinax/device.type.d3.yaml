@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5e12d3b1-73c3-580b-a784-6daffbf03bc9
-  macAddresses:
-  - 70:B3:D5:6C:C0:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Arinax
-type: d3-device-type-assertion

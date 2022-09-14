@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1dfd07cb-8072-5b74-8e60-06ea3670d363
-  macAddresses:
-  - 00:50:C2:B5:60:00/36
-  manufacturer: Sinovia Sa
-  manufacturerUri: https://device-type.com
-  name: Sinovia
-type: d3-device-type-assertion

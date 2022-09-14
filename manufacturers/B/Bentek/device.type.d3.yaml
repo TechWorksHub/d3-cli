@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 74a5a808-8a13-5b9b-9a08-7018748977df
-  macAddresses:
-  - DC:D0:F7:00:00:00/24
-  manufacturer: Bentek Systems Ltd.
-  manufacturerUri: https://device-type.com
-  name: Bentek
-type: d3-device-type-assertion

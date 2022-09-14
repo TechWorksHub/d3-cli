@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 873ea969-6d84-5ee6-b20d-913a1bee4aed
-  macAddresses:
-  - 9C:F6:7D:00:00:00/24
-  manufacturer: Ricardo Prague, s.r.o.
-  manufacturerUri: https://device-type.com
-  name: RicardoP
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 90ce90ab-3dc4-577f-9f57-e876edf34b85
-  macAddresses:
-  - 00:1D:50:00:00:00/24
-  manufacturer: Spinetix Sa
-  manufacturerUri: https://device-type.com
-  name: Spinetix
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9a833d84-c65c-550f-8e9c-5fa476f61ef5
-  macAddresses:
-  - 24:15:10:50:00:00/28
-  manufacturer: Ganzhou Dehuida Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: GanzhouD
-type: d3-device-type-assertion

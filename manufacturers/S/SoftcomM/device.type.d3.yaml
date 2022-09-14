@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: efaabeb5-9292-5bc8-8f7f-405c44c74443
-  macAddresses:
-  - 00:90:89:00:00:00/24
-  manufacturer: Softcom Microsystems, Inc.
-  manufacturerUri: https://device-type.com
-  name: SoftcomM
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 10929ae8-d051-51e0-a0b5-bdd8d400a978
-  macAddresses:
-  - 70:B3:D5:8E:00:00/36
-  manufacturer: Soudax Equipements
-  manufacturerUri: https://device-type.com
-  name: SoudaxEq
-type: d3-device-type-assertion

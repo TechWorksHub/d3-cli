@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1c68cecc-d0d5-59c7-b99a-494eb1618302
-  macAddresses:
-  - 00:50:C2:4A:70:00/36
-  manufacturer: iseg Spezialelektronik GmbH
-  manufacturerUri: https://device-type.com
-  name: isegSpez
-type: d3-device-type-assertion

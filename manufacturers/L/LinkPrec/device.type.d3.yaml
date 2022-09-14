@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 09fc192d-4481-5cd9-8015-0a92f7acbd0f
-  macAddresses:
-  - 00:1B:C5:0A:80:00/36
-  manufacturer: Link Precision
-  manufacturerUri: https://device-type.com
-  name: LinkPrec
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bfedba1b-b573-5bb6-bccf-7bd4c619b559
-  macAddresses:
-  - 00:50:C2:7A:20:00/36
-  manufacturer: RaySat Israel LTD
-  manufacturerUri: https://device-type.com
-  name: RaySatIs
-type: d3-device-type-assertion

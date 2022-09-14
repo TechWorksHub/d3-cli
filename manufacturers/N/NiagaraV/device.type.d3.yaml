@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6ff0ab13-bb29-50ec-8a9c-d997dea41696
-  macAddresses:
-  - 0C:5F:35:00:00:00/24
-  manufacturer: Niagara Video Corporation
-  manufacturerUri: https://device-type.com
-  name: NiagaraV
-type: d3-device-type-assertion

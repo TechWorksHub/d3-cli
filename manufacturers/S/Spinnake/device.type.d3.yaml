@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e0bace97-7ed8-5813-ae9c-9bcbf7ff5018
-  macAddresses:
-  - 00:04:10:00:00:00/24
-  manufacturer: Spinnaker Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: Spinnake
-type: d3-device-type-assertion

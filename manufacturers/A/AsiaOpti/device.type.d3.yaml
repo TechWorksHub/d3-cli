@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2e4a2751-066e-5b57-8638-8cd159fe264a
-  macAddresses:
-  - 38:67:93:00:00:00/24
-  manufacturer: Asia Optical Co., Inc.
-  manufacturerUri: https://device-type.com
-  name: AsiaOpti
-type: d3-device-type-assertion

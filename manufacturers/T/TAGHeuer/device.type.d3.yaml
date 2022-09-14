@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 11704d01-7a59-5719-b073-212437b82bf1
-  macAddresses:
-  - 00:1E:B6:00:00:00/24
-  manufacturer: TAG Heuer SA
-  manufacturerUri: https://device-type.com
-  name: TAGHeuer
-type: d3-device-type-assertion

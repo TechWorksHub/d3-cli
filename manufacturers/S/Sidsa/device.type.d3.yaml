@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 444cda72-bd1a-5169-9cd2-995bdd9ec2a2
-  macAddresses:
-  - 00:14:19:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Sidsa
-type: d3-device-type-assertion

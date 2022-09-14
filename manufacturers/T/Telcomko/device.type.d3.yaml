@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9bcdcbde-1148-5575-9ddc-62d4ee318ce4
-  macAddresses:
-  - 40:D8:55:03:B0:00/36
-  manufacturer: Telcomkorea
-  manufacturerUri: https://device-type.com
-  name: Telcomko
-type: d3-device-type-assertion

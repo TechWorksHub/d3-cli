@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 106718da-7739-521f-9e2e-72f1f9820e4b
-  macAddresses:
-  - 00:50:C2:B4:30:00/36
-  manufacturer: J-Systems Inc.
-  manufacturerUri: https://device-type.com
-  name: J
-type: d3-device-type-assertion

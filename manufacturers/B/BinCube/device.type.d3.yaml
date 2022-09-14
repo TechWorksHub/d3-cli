@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b62e48ca-15fd-56b6-90ec-9caee5bb50ce
-  macAddresses:
-  - 08:1F:EB:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: BinCube
-type: d3-device-type-assertion

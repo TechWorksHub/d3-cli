@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6ee88280-ae20-510a-a02d-453feb4ee225
-  macAddresses:
-  - 00:50:C2:C5:20:00/36
-  manufacturer: Smartfield, Inc.
-  manufacturerUri: https://device-type.com
-  name: Smartfie
-type: d3-device-type-assertion

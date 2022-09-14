@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f6a73a12-d619-54e7-a024-4fe89f4d7dc1
-  macAddresses:
-  - 0C:4F:5A:00:00:00/24
-  manufacturer: ASA-RT s.r.l.
-  manufacturerUri: https://device-type.com
-  name: ASA-RT
-type: d3-device-type-assertion

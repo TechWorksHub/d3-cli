@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 94d5b655-a499-5d09-9d91-717dd3df3075
-  macAddresses:
-  - 50:58:00:00:00:00/24
-  manufacturer: WyTec International, Inc.
-  manufacturerUri: https://device-type.com
-  name: WyTecInt
-type: d3-device-type-assertion

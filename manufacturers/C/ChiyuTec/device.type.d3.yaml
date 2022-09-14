@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5e0ceeb5-493e-5630-b8b8-055bb2e327ed
-  macAddresses:
-  - 00:0E:E3:00:00:00/24
-  manufacturer: Chiyu Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: ChiyuTec
-type: d3-device-type-assertion

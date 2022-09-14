@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 50cdf222-b09a-502f-8061-c1ee5f0891e2
-  macAddresses:
-  - 58:49:BA:00:00:00/24
-  manufacturer: Chitai Electronic Corp.
-  manufacturerUri: https://device-type.com
-  name: ChitaiEl
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 03a7283b-4b5f-5dda-834a-c712efb6fb94
-  macAddresses:
-  - 00:08:8B:00:00:00/24
-  manufacturer: Tropic Networks Inc.
-  manufacturerUri: https://device-type.com
-  name: TropicNe
-type: d3-device-type-assertion

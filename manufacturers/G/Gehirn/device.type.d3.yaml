@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 305c6eba-9573-54ff-8267-9bb1ca4c573b
-  macAddresses:
-  - 5C:3B:35:00:00:00/24
-  manufacturer: Gehirn Inc.
-  manufacturerUri: https://device-type.com
-  name: Gehirn
-type: d3-device-type-assertion

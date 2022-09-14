@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fa390e9b-db00-5c27-a018-48a3559969ac
-  macAddresses:
-  - 9C:35:83:00:00:00/24
-  manufacturer: Nipro Diagnostics, Inc
-  manufacturerUri: https://device-type.com
-  name: NiproDia
-type: d3-device-type-assertion

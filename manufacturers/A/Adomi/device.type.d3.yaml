@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 025eb9d3-dcba-544c-a4f8-58b32aa3563c
-  macAddresses:
-  - A0:19:B2:A0:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Adomi
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3dd41629-f39f-52fa-9fd4-b9590f0fee78
-  macAddresses:
-  - 00:40:AB:00:00:00/24
-  manufacturer: Roland Dg Corporation
-  manufacturerUri: https://device-type.com
-  name: RolandDg
-type: d3-device-type-assertion

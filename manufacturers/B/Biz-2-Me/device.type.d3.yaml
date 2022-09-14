@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 711ec55c-a8e7-528e-8ec7-f11f21d4170c
-  macAddresses:
-  - 00:1A:DA:00:00:00/24
-  manufacturer: Biz-2-Me Inc.
-  manufacturerUri: https://device-type.com
-  name: Biz-2-Me
-type: d3-device-type-assertion

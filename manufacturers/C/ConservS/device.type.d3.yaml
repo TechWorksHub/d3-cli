@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3e493416-b64b-55c0-96b7-1e2a50f6f72c
-  macAddresses:
-  - 70:B3:D5:31:00:00/36
-  manufacturer: Conserv Solutions
-  manufacturerUri: https://device-type.com
-  name: ConservS
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6053b909-17a4-5e32-9d17-5475ef73c4c2
-  macAddresses:
-  - 00:60:15:00:00:00/24
-  manufacturer: Net2Net Corporation
-  manufacturerUri: https://device-type.com
-  name: Net2Net
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ec9eec5d-963a-53cc-bb37-2c61e9ca31ea
-  macAddresses:
-  - 00:0D:05:00:00:00/24
-  manufacturer: cybernet manufacturing inc.
-  manufacturerUri: https://device-type.com
-  name: cybernet
-type: d3-device-type-assertion

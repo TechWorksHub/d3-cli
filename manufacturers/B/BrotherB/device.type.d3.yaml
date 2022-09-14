@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9f258cce-3597-5121-9955-f2ff7bc2def1
-  macAddresses:
-  - 00:17:87:00:00:00/24
-  manufacturer: Brother, Brother & Sons ApS
-  manufacturerUri: https://device-type.com
-  name: BrotherB
-type: d3-device-type-assertion

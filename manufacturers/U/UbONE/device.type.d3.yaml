@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fe873813-dc6c-5916-8c9d-adf4f1e62199
-  macAddresses:
-  - 00:14:9E:00:00:00/24
-  manufacturer: UbONE Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: UbONE
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d93b620a-424b-5c6e-b192-f1cfbd445104
-  macAddresses:
-  - 00:80:D4:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Chase
-type: d3-device-type-assertion

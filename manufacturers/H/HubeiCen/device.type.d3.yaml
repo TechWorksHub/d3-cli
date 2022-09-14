@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 50ce390a-e3ce-5618-9759-4ffe4de8e5f0
-  macAddresses:
-  - 0C:EF:AF:B0:00:00/28
-  manufacturer: Hubei Century Network Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: HubeiCen
-type: d3-device-type-assertion

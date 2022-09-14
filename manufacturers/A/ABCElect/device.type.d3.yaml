@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 99597831-3ef2-5509-a4bc-fb56d6cb3c06
-  macAddresses:
-  - 70:B3:D5:3C:80:00/36
-  manufacturer: ABC Electric Co.
-  manufacturerUri: https://device-type.com
-  name: ABCElect
-type: d3-device-type-assertion

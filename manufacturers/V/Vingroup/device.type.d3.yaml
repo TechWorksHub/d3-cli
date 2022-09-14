@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8b4abe22-9551-565c-928f-55f2416188c3
-  macAddresses:
-  - 00:D2:79:00:00:00/24
-  manufacturer: Vingroup Joint Stock Company
-  manufacturerUri: https://device-type.com
-  name: Vingroup
-type: d3-device-type-assertion

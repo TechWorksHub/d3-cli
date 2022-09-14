@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ac8525d6-e6a0-535d-ae02-e3a121e87a93
-  macAddresses:
-  - 00:C0:22:00:00:00/24
-  manufacturer: Lasermaster Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: Lasermas
-type: d3-device-type-assertion

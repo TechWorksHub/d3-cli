@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 38e3977e-283d-515a-95f9-61a793d1ba85
-  macAddresses:
-  - 00:50:C2:71:20:00/36
-  manufacturer: Pasan SA
-  manufacturerUri: https://device-type.com
-  name: Pasan
-type: d3-device-type-assertion

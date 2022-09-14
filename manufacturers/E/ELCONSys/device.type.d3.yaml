@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 82cae57d-dc0c-5ed0-902a-f14e4d80ba1e
-  macAddresses:
-  - 00:07:23:00:00:00/24
-  manufacturer: ELCON Systemtechnik GmbH
-  manufacturerUri: https://device-type.com
-  name: ELCONSys
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 05710d79-99d0-5f01-aff3-04ccb044c168
-  macAddresses:
-  - 00:50:C2:B3:10:00/36
-  manufacturer: Shop Safe AG
-  manufacturerUri: https://device-type.com
-  name: ShopSafe
-type: d3-device-type-assertion

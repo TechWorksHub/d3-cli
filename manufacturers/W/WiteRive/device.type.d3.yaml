@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 774f43f5-aed4-50db-ade3-fe2abc139b5f
-  macAddresses:
-  - A0:BB:3E:30:00:00/28
-  manufacturer: WiteRiver Technology LLC
-  manufacturerUri: https://device-type.com
-  name: WiteRive
-type: d3-device-type-assertion

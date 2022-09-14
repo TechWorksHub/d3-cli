@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4b0ed2d5-2ef5-5215-80a9-f24885a627eb
-  macAddresses:
-  - A8:93:E6:00:00:00/24
-  manufacturer: Jiangxi Jinggangshan Cking Communication Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: JiangxiJ
-type: d3-device-type-assertion

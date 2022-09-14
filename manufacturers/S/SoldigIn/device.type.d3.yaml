@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5009fc0a-3f4a-5e4f-8006-b786d7707499
-  macAddresses:
-  - 00:50:C2:8C:40:00/36
-  manufacturer: Soldig Industria e Comercio de Equipamentos Eletronicos LTDA
-  manufacturerUri: https://device-type.com
-  name: SoldigIn
-type: d3-device-type-assertion

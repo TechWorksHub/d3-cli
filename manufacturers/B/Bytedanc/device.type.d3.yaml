@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ad18843a-2ff3-5a9d-92ce-4d35b51daa71
-  macAddresses:
-  - E4:05:F8:00:00:00/24
-  manufacturer: Bytedance
-  manufacturerUri: https://device-type.com
-  name: Bytedanc
-type: d3-device-type-assertion

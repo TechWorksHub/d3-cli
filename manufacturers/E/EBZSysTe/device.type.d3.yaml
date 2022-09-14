@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 019b2878-e832-5140-9dc2-048f4d79ec2c
-  macAddresses:
-  - 70:B3:D5:1F:A0:00/36
-  manufacturer: EBZ SysTec GmbH
-  manufacturerUri: https://device-type.com
-  name: EBZSysTe
-type: d3-device-type-assertion

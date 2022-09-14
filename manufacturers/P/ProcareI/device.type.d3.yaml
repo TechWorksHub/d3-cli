@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ed631a3d-a15b-54c3-83ee-4385c08d692b
-  macAddresses:
-  - 00:1A:74:00:00:00/24
-  manufacturer: Procare International Co
-  manufacturerUri: https://device-type.com
-  name: ProcareI
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: feece182-6df2-5ce6-b81c-d9a4ac1f0746
-  macAddresses:
-  - 00:D0:BE:00:00:00/24
-  manufacturer: Emutec Inc.
-  manufacturerUri: https://device-type.com
-  name: Emutec
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e565c6ae-ecd6-5388-8014-c9329929b02b
-  macAddresses:
-  - 00:50:C2:90:20:00/36
-  manufacturer: China Railway Signal & Communication Corp.
-  manufacturerUri: https://device-type.com
-  name: ChinaRai
-type: d3-device-type-assertion

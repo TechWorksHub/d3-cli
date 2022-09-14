@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d29970eb-7692-52b4-81fd-c80accf06361
-  macAddresses:
-  - A8:E5:39:00:00:00/24
-  manufacturer: Moimstone Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: Moimston
-type: d3-device-type-assertion

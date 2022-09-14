@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4dd48839-5180-5dbd-97d8-b87ec73fd305
-  macAddresses:
-  - 00:60:D9:00:00:00/24
-  manufacturer: Transys Networks Inc.
-  manufacturerUri: https://device-type.com
-  name: TransysN
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7cc23328-89fd-55b2-bbfb-4998d2b5d04e
-  macAddresses:
-  - 70:B3:D5:DB:70:00/36
-  manufacturer: Pengo Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: PengoTec
-type: d3-device-type-assertion

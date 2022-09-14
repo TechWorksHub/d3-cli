@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fd7dd253-be1f-5b91-9965-dfa5c9f28f25
-  macAddresses:
-  - 00:50:C2:D6:B0:00/36
-  manufacturer: Nemec Automation
-  manufacturerUri: https://device-type.com
-  name: NemecAut
-type: d3-device-type-assertion

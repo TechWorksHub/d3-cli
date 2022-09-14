@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 066ce3dd-3351-521a-944c-772f8e46e554
-  macAddresses:
-  - 00:1B:C5:0B:30:00/36
-  manufacturer: FSM Solutions Limited
-  manufacturerUri: https://device-type.com
-  name: FSMSolut
-type: d3-device-type-assertion

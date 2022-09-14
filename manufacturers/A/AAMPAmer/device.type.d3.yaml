@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f4316709-d157-5d85-9787-db60473f0e68
-  macAddresses:
-  - 00:26:72:00:00:00/24
-  manufacturer: AAMP of America
-  manufacturerUri: https://device-type.com
-  name: AAMPAmer
-type: d3-device-type-assertion

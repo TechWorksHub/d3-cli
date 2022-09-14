@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8052b9dc-a474-524b-85b7-1ff68c4212d9
-  macAddresses:
-  - 00:50:C2:4F:B0:00/36
-  manufacturer: BES Technology Group
-  manufacturerUri: https://device-type.com
-  name: BESTechn
-type: d3-device-type-assertion

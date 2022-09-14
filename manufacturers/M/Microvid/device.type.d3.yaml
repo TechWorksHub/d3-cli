@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c2cdf51f-c87c-5d8c-811f-60bcfee41198
-  macAddresses:
-  - 70:B3:D5:4E:00:00/36
-  manufacturer: Microvideo
-  manufacturerUri: https://device-type.com
-  name: Microvid
-type: d3-device-type-assertion

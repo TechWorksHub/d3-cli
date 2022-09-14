@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0476799c-6a70-58fa-a27c-435f8085be5f
-  macAddresses:
-  - B4:37:D1:30:00:00/28
-  manufacturer: Dimton Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: Dimton
-type: d3-device-type-assertion

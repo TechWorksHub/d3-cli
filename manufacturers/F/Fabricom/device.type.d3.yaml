@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cbdcf159-669c-51e5-83ff-4278f42b6a70
-  macAddresses:
-  - 00:07:2C:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Fabricom
-type: d3-device-type-assertion

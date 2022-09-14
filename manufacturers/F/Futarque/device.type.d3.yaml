@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b7632953-5112-573f-aacb-3b1bee75c3af
-  macAddresses:
-  - 00:1B:47:00:00:00/24
-  manufacturer: Futarque A/S
-  manufacturerUri: https://device-type.com
-  name: Futarque
-type: d3-device-type-assertion

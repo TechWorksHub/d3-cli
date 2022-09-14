@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 669b9989-6032-5581-a74b-756a7640d785
-  macAddresses:
-  - 08:03:71:00:00:00/24
-  manufacturer: Krg Corporate
-  manufacturerUri: https://device-type.com
-  name: KrgCorpo
-type: d3-device-type-assertion

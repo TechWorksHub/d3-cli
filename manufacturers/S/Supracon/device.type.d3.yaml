@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a19ff07e-8942-58df-a5cb-debcea4955e6
-  macAddresses:
-  - 70:B3:D5:5D:30:00/36
-  manufacturer: Supracon AG
-  manufacturerUri: https://device-type.com
-  name: Supracon
-type: d3-device-type-assertion

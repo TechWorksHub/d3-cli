@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7f2b2805-340c-5ae2-9c70-b6f8d15d6c83
-  macAddresses:
-  - CC:C8:D7:00:00:00/24
-  manufacturer: CIAS Elettronica srl
-  manufacturerUri: https://device-type.com
-  name: CIASElet
-type: d3-device-type-assertion

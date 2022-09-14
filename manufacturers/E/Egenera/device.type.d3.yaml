@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 86228a13-ed4d-59b1-b72d-bbb299de582b
-  macAddresses:
-  - 00:05:E6:00:00:00/24
-  manufacturer: Egenera, Inc.
-  manufacturerUri: https://device-type.com
-  name: Egenera
-type: d3-device-type-assertion

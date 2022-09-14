@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0fc2c603-5d76-59d0-82f4-533c3ca5cf93
-  macAddresses:
-  - B4:82:C5:00:00:00/24
-  manufacturer: Relay2, Inc.
-  manufacturerUri: https://device-type.com
-  name: Relay2
-type: d3-device-type-assertion

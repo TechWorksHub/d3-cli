@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 453e9acb-7425-5a97-841d-2428a75c35df
-  macAddresses:
-  - FC:61:79:D0:00:00/28
-  manufacturer: Int'Act Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: IntAct
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 57954df0-5774-5d73-91ae-9bb24fcc65b9
-  macAddresses:
-  - 00:19:13:00:00:00/24
-  manufacturer: Chuang-Yi Network Equipment Co.Ltd.
-  manufacturerUri: https://device-type.com
-  name: Chuang-Y
-type: d3-device-type-assertion

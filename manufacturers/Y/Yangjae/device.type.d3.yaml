@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8c892b54-65a0-5355-8668-dfbf658cc0f8
-  macAddresses:
-  - 00:13:E4:00:00:00/24
-  manufacturer: Yangjae Systems Corp.
-  manufacturerUri: https://device-type.com
-  name: Yangjae
-type: d3-device-type-assertion

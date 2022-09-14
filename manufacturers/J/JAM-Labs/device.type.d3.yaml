@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6d9f2c3c-6501-5b19-8775-8c89049abba6
-  macAddresses:
-  - C0:61:9A:C0:00:00/28
-  manufacturer: JAM-Labs Corp
-  manufacturerUri: https://device-type.com
-  name: JAM-Labs
-type: d3-device-type-assertion

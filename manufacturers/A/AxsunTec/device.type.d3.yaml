@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4b560b8e-3e9e-58c5-a419-0cc64cc16747
-  macAddresses:
-  - 00:11:CD:00:00:00/24
-  manufacturer: Axsun Technologies
-  manufacturerUri: https://device-type.com
-  name: AxsunTec
-type: d3-device-type-assertion

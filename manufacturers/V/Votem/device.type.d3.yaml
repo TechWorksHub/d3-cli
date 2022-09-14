@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eb0e58bf-f0bf-5539-acf6-a1708a37ae2e
-  macAddresses:
-  - B8:D8:12:10:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Votem
-type: d3-device-type-assertion

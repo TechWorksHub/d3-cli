@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 73f9a26a-8ece-5e32-87cb-776849bed399
-  macAddresses:
-  - 88:61:5A:00:00:00/24
-  manufacturer: Siano Mobile Silicon Ltd.
-  manufacturerUri: https://device-type.com
-  name: SianoMob
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e993febf-665b-5af5-a3f4-a400c97721ca
-  macAddresses:
-  - 7C:7D:41:00:00:00/24
-  manufacturer: Jinmuyu Electronics Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: JinmuyuE
-type: d3-device-type-assertion

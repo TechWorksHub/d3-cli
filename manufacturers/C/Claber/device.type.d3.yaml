@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f43729ad-cb94-5cc3-95df-03e14f3ac8c5
-  macAddresses:
-  - 1C:87:74:D0:00:00/28
-  manufacturer: Claber Spa
-  manufacturerUri: https://device-type.com
-  name: Claber
-type: d3-device-type-assertion

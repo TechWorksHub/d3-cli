@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 608e9ac5-9d9e-5758-a6d8-69cf340e22b5
-  macAddresses:
-  - 00:50:C2:52:60:00/36
-  manufacturer: AC SYSTEMS, s.r.o.
-  manufacturerUri: https://device-type.com
-  name: ACsro
-type: d3-device-type-assertion

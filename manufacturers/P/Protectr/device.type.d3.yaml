@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fa1de37c-8fa2-597b-8859-674c5c0a699a
-  macAddresses:
-  - 54:2C:EA:00:00:00/24
-  manufacturer: Protectron
-  manufacturerUri: https://device-type.com
-  name: Protectr
-type: d3-device-type-assertion

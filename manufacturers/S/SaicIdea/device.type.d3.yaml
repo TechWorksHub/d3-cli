@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d32a873f-c3c4-5960-b15f-bd1d8a1728e6
-  macAddresses:
-  - 00:60:4A:00:00:00/24
-  manufacturer: Saic Ideas Group
-  manufacturerUri: https://device-type.com
-  name: SaicIdea
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 16c1dfc2-8a69-59a0-91ca-c4dfd75f4ec9
-  macAddresses:
-  - 00:11:C0:00:00:00/24
-  manufacturer: Aday Technology Inc
-  manufacturerUri: https://device-type.com
-  name: AdayTech
-type: d3-device-type-assertion

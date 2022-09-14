@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ac4dced4-d9db-5f4f-907d-dec7c5f6fe7c
-  macAddresses:
-  - 00:60:31:00:00:00/24
-  manufacturer: Hrk Systems
-  manufacturerUri: https://device-type.com
-  name: Hrk
-type: d3-device-type-assertion

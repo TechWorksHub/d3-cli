@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ffff5870-e9d9-56fa-b442-c18d3054fb5c
-  macAddresses:
-  - 00:50:C2:9A:F0:00/36
-  manufacturer: KRESS-NET Krzysztof Rutecki
-  manufacturerUri: https://device-type.com
-  name: KRESS-NE
-type: d3-device-type-assertion

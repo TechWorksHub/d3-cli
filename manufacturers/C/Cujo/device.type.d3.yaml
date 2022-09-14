@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8d3144c5-c1bd-52dd-bfb2-82347441a874
-  macAddresses:
-  - CC:D3:1E:D0:00:00/28
-  manufacturer: Cujo Llc
-  manufacturerUri: https://device-type.com
-  name: Cujo
-type: d3-device-type-assertion

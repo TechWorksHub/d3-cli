@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ad5ed548-6d7b-5853-a2d4-e9726f2f5d83
-  macAddresses:
-  - 70:5B:2E:00:00:00/24
-  manufacturer: M2Communication Inc.
-  manufacturerUri: https://device-type.com
-  name: M2Commun
-type: d3-device-type-assertion

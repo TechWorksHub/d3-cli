@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7cabf55e-5aaf-50ae-a8e4-a80df76cc480
-  macAddresses:
-  - 00:12:75:00:00:00/24
-  manufacturer: Sentilla Corporation
-  manufacturerUri: https://device-type.com
-  name: Sentilla
-type: d3-device-type-assertion

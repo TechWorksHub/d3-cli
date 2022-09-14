@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2ecc7e8c-2762-5e39-81a3-9877b81700fa
-  macAddresses:
-  - 00:02:EA:00:00:00/24
-  manufacturer: Focus Enhancements
-  manufacturerUri: https://device-type.com
-  name: FocusEnh
-type: d3-device-type-assertion

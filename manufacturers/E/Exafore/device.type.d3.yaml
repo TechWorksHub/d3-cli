@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2fb98567-22bb-54a4-a877-b1a320550797
-  macAddresses:
-  - D4:7C:44:00:00:00/28
-  manufacturer: Exafore Oy
-  manufacturerUri: https://device-type.com
-  name: Exafore
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6a0191ce-58fb-5287-b7e5-bae00b46405f
-  macAddresses:
-  - 00:16:03:00:00:00/24
-  manufacturer: COOLKSKY Co., LTD
-  manufacturerUri: https://device-type.com
-  name: COOLKSKY
-type: d3-device-type-assertion

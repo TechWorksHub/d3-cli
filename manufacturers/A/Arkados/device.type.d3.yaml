@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e3068f85-19cb-5877-ad04-c92f8d5bb286
-  macAddresses:
-  - 00:13:34:00:00:00/24
-  manufacturer: Arkados, Inc.
-  manufacturerUri: https://device-type.com
-  name: Arkados
-type: d3-device-type-assertion

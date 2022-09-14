@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1a0f9f41-96cf-5f75-a681-b83614b0cfe0
-  macAddresses:
-  - EC:FE:7E:00:00:00/24
-  manufacturer: BlueRadios, Inc.
-  manufacturerUri: https://device-type.com
-  name: BlueRadi
-type: d3-device-type-assertion

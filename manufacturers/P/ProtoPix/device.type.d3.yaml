@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5317c42b-36ea-58e9-8bb3-c81d632e8b97
-  macAddresses:
-  - 70:B3:D5:2D:B0:00/36
-  manufacturer: ProtoPixel SL
-  manufacturerUri: https://device-type.com
-  name: ProtoPix
-type: d3-device-type-assertion

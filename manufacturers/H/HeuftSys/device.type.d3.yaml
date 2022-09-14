@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 66928a61-f6c8-54f7-a780-acf255184c03
-  macAddresses:
-  - 00:05:6A:00:00:00/24
-  manufacturer: Heuft Systemtechnik GmbH
-  manufacturerUri: https://device-type.com
-  name: HeuftSys
-type: d3-device-type-assertion

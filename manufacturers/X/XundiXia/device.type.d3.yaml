@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b2ab879d-a308-5e26-ad18-16ee1a874f90
-  macAddresses:
-  - 80:02:F4:90:00:00/28
-  manufacturer: Xundi(Xiamen) Electronic Technology Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: XundiXia
-type: d3-device-type-assertion

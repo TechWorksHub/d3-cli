@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c6364156-b881-5971-a33c-9ce99a50392d
-  macAddresses:
-  - 00:25:21:00:00:00/24
-  manufacturer: Logitek Electronic Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: LogitekE
-type: d3-device-type-assertion

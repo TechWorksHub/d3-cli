@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0d54761b-ceef-593b-93b6-bff52cec4d9a
-  macAddresses:
-  - 00:40:AD:00:00:00/24
-  manufacturer: Sma Regelsysteme Gmbh
-  manufacturerUri: https://device-type.com
-  name: SmaRegel
-type: d3-device-type-assertion

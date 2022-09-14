@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 49dbd24d-611d-5c3d-a60e-83f877c474a9
-  macAddresses:
-  - 00:18:CB:00:00:00/24
-  manufacturer: Tecobest Technology Limited
-  manufacturerUri: https://device-type.com
-  name: Tecobest
-type: d3-device-type-assertion

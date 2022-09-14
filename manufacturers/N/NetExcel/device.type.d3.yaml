@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2dc6f8ce-bb36-56fa-afa1-9451011f2083
-  macAddresses:
-  - 00:08:BB:00:00:00/24
-  manufacturer: NetExcell
-  manufacturerUri: https://device-type.com
-  name: NetExcel
-type: d3-device-type-assertion

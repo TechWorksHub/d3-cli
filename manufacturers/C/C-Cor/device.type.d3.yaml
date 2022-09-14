@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 32d37f39-0db4-5729-b599-1ab55ba3b2a3
-  macAddresses:
-  - 00:02:24:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: C-Cor
-type: d3-device-type-assertion

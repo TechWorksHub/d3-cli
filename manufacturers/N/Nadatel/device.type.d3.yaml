@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cbcdaa97-2e15-54f6-86e9-a49ba03f1f82
-  macAddresses:
-  - 00:02:69:00:00:00/24
-  manufacturer: Nadatel Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Nadatel
-type: d3-device-type-assertion

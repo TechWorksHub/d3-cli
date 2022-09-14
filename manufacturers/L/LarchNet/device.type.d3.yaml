@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e1b631b3-45f4-52dc-89df-f347f0f5f204
-  macAddresses:
-  - 8C:AE:49:D0:00:00/28
-  manufacturer: Larch Networks
-  manufacturerUri: https://device-type.com
-  name: LarchNet
-type: d3-device-type-assertion

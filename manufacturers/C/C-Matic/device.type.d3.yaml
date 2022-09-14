@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cdb27237-8720-5d04-884d-79475f36340b
-  macAddresses:
-  - 00:23:3B:00:00:00/24
-  manufacturer: C-Matic Systems Ltd
-  manufacturerUri: https://device-type.com
-  name: C-Matic
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aa021555-b40a-544e-bcdf-4458cb7467fc
-  macAddresses:
-  - 00:50:C2:BA:00:00/36
-  manufacturer: txtr GmbH
-  manufacturerUri: https://device-type.com
-  name: txtr
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 50cb3c81-9595-5d70-b87d-a7fcd6b197a8
-  macAddresses:
-  - 00:23:42:00:00:00/24
-  manufacturer: Coffee Equipment Company
-  manufacturerUri: https://device-type.com
-  name: CoffeeEq
-type: d3-device-type-assertion

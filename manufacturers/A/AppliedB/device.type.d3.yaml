@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 806054b9-ccc2-5aa8-8111-a34b99da9a1d
-  macAddresses:
-  - 00:17:80:00:00:00/24
-  manufacturer: Applied Biosystems B.V.
-  manufacturerUri: https://device-type.com
-  name: AppliedB
-type: d3-device-type-assertion

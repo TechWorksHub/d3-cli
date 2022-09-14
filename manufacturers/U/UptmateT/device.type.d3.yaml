@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6d69e6d5-f3cd-508a-95b2-73feac24393b
-  macAddresses:
-  - 50:8A:42:00:00:00/24
-  manufacturer: Uptmate Technology Co., LTD
-  manufacturerUri: https://device-type.com
-  name: UptmateT
-type: d3-device-type-assertion

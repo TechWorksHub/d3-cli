@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8daa05f5-6f23-5cfb-97d5-815896948765
-  macAddresses:
-  - 00:50:C2:D2:30:00/36
-  manufacturer: Bluestone Technology GmbH
-  manufacturerUri: https://device-type.com
-  name: Blueston
-type: d3-device-type-assertion

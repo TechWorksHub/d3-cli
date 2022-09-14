@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: be044855-9b46-5c07-9ade-6c2fa84d073d
-  macAddresses:
-  - 64:4B:F0:00:00:00/24
-  manufacturer: CalDigit, Inc
-  manufacturerUri: https://device-type.com
-  name: CalDigit
-type: d3-device-type-assertion

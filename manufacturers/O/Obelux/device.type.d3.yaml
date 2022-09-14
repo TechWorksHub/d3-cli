@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 22c0f8f8-045f-5a43-bb52-46ff67aed784
-  macAddresses:
-  - 08:75:72:00:00:00/24
-  manufacturer: Obelux Oy
-  manufacturerUri: https://device-type.com
-  name: Obelux
-type: d3-device-type-assertion

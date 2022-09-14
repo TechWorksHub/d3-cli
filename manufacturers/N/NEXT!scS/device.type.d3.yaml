@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cb1721e6-1356-560c-8b37-26db8d1e5fad
-  macAddresses:
-  - 40:D8:55:0D:80:00/36
-  manufacturer: NEXT! s.c. S.Piela B.Dryja
-  manufacturerUri: https://device-type.com
-  name: NEXT!scS
-type: d3-device-type-assertion

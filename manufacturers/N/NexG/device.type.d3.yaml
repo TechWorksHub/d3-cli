@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 76684a3b-7fe7-5bd7-bf1a-d3042027fdc6
-  macAddresses:
-  - 00:1F:14:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: NexG
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 44e9a000-adcf-5aa9-af5f-4f0bf089fa4c
-  macAddresses:
-  - 00:08:C8:00:00:00/24
-  manufacturer: Soneticom, Inc.
-  manufacturerUri: https://device-type.com
-  name: Sonetico
-type: d3-device-type-assertion

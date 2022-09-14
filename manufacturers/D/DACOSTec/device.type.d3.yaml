@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c8747e44-de5e-5d15-844c-ad5abfdfd521
-  macAddresses:
-  - 00:17:E1:00:00:00/24
-  manufacturer: DACOS Technologies Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: DACOSTec
-type: d3-device-type-assertion

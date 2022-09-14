@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b514a0c1-9b16-55e6-8395-823c8f070aee
-  macAddresses:
-  - 70:B3:D5:5A:10:00/36
-  manufacturer: BOE Technology Group Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: BOETechn
-type: d3-device-type-assertion

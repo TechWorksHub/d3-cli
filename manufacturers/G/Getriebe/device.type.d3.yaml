@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4d74fcbb-9f78-5ac5-a568-64887651e228
-  macAddresses:
-  - F0:5F:5A:00:00:00/24
-  manufacturer: Getriebebau NORD GmbH and Co. KG
-  manufacturerUri: https://device-type.com
-  name: Getriebe
-type: d3-device-type-assertion

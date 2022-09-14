@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a19abb1c-4ba9-51fb-9703-3e25c1c1dfe4
-  macAddresses:
-  - 00:04:5B:00:00:00/24
-  manufacturer: Techsan Electronics Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: TechsanE
-type: d3-device-type-assertion

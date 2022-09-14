@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0570dc7a-90bd-5416-ac19-f671b3bfdf3b
-  macAddresses:
-  - 00:50:C2:25:30:00/36
-  manufacturer: DSM-Messtechnik GmbH
-  manufacturerUri: https://device-type.com
-  name: DSM-Mess
-type: d3-device-type-assertion

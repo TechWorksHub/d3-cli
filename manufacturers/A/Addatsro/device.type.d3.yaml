@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a9543452-b797-5c68-b775-f19bb8a35af7
-  macAddresses:
-  - 84:76:16:00:00:00/24
-  manufacturer: Addat s.r.o.
-  manufacturerUri: https://device-type.com
-  name: Addatsro
-type: d3-device-type-assertion

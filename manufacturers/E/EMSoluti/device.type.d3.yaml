@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8d6db5e1-1739-5f32-b5a7-54e731b813dd
-  macAddresses:
-  - 00:08:92:00:00:00/24
-  manufacturer: EM Solutions
-  manufacturerUri: https://device-type.com
-  name: EMSoluti
-type: d3-device-type-assertion

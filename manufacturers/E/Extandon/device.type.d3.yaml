@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1acaff6b-11d7-5635-8ecd-5b4794b40f81
-  macAddresses:
-  - 00:14:FC:00:00:00/24
-  manufacturer: Extandon, Inc.
-  manufacturerUri: https://device-type.com
-  name: Extandon
-type: d3-device-type-assertion

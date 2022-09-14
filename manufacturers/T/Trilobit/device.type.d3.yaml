@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cd1a4b45-2d7a-5e51-9fd3-f0893ae56932
-  macAddresses:
-  - 94:5B:7E:00:00:00/24
-  manufacturer: Trilobit Ltda.
-  manufacturerUri: https://device-type.com
-  name: Trilobit
-type: d3-device-type-assertion

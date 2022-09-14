@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 684508d7-ad3a-5fac-893b-6dd31ad07aeb
-  macAddresses:
-  - 00:13:85:00:00:00/24
-  manufacturer: Add-On Technology Co., LTD.
-  manufacturerUri: https://device-type.com
-  name: Add-OnTe
-type: d3-device-type-assertion

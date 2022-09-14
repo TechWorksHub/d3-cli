@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cddf6258-a5ae-511d-900a-7457fa2c00d6
-  macAddresses:
-  - 1C:87:79:30:00:00/28
-  manufacturer: Visual Land Inc.
-  manufacturerUri: https://device-type.com
-  name: VisualLa
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 65b1af4a-65d7-5459-b555-620eb305d841
-  macAddresses:
-  - 00:1E:AA:00:00:00/24
-  manufacturer: E-Senza Technologies GmbH
-  manufacturerUri: https://device-type.com
-  name: E-SenzaT
-type: d3-device-type-assertion

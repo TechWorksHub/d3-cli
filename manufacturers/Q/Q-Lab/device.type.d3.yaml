@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 95ef9184-764c-5aad-8d6e-08b906a8e011
-  macAddresses:
-  - 10:BD:55:00:00:00/24
-  manufacturer: Q-Lab Corporation
-  manufacturerUri: https://device-type.com
-  name: Q-Lab
-type: d3-device-type-assertion

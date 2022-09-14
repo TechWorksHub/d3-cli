@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d8210be9-3edc-5c16-9724-7d7cf030d199
-  macAddresses:
-  - 70:B3:D5:98:A0:00/36
-  manufacturer: vision systems safety tech
-  manufacturerUri: https://device-type.com
-  name: visionsa
-type: d3-device-type-assertion

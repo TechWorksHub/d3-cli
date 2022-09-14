@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bc1558d9-e8e0-52b6-9ee6-f4763ccd820c
-  macAddresses:
-  - D8:EE:78:00:00:00/24
-  manufacturer: Moog Protokraft
-  manufacturerUri: https://device-type.com
-  name: MoogProt
-type: d3-device-type-assertion

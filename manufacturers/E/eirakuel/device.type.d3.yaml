@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 40a54f9c-52db-512e-8225-9a82f9edc5d8
-  macAddresses:
-  - 00:1B:C5:04:D0:00/36
-  manufacturer: eiraku electric corp.
-  manufacturerUri: https://device-type.com
-  name: eirakuel
-type: d3-device-type-assertion

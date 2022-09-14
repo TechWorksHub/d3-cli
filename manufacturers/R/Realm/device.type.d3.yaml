@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1d88df88-00bc-5d71-aaa8-8d8a94c1cb52
-  macAddresses:
-  - 00:13:58:00:00:00/24
-  manufacturer: Realm Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Realm
-type: d3-device-type-assertion

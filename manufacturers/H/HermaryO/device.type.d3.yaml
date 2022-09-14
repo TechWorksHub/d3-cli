@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 78009e0e-71bf-5435-ad5c-e0cf8285e58a
-  macAddresses:
-  - 00:60:EC:00:00:00/24
-  manufacturer: Hermary Opto Electronics Inc.
-  manufacturerUri: https://device-type.com
-  name: HermaryO
-type: d3-device-type-assertion

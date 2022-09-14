@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d1cf2070-405d-5cb3-a52b-1f2879b943bb
-  macAddresses:
-  - 00:26:1C:00:00:00/24
-  manufacturer: Neovia Inc.
-  manufacturerUri: https://device-type.com
-  name: Neovia
-type: d3-device-type-assertion

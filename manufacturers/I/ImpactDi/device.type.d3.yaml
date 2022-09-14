@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6bbc9788-6c82-50da-bdae-551e92de334f
-  macAddresses:
-  - 88:A9:A7:E0:00:00/28
-  manufacturer: Impact Distribution
-  manufacturerUri: https://device-type.com
-  name: ImpactDi
-type: d3-device-type-assertion

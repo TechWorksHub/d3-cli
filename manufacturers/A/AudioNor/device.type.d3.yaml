@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f17d74ae-91cd-5ec7-abfb-3204e67b15a6
-  macAddresses:
-  - 2C:27:9E:50:00:00/28
-  manufacturer: AudioNord Distribution A/S
-  manufacturerUri: https://device-type.com
-  name: AudioNor
-type: d3-device-type-assertion

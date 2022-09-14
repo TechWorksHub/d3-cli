@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1f656f03-f918-58bb-aec8-91e9a454e5c0
-  macAddresses:
-  - AC:A2:2C:00:00:00/24
-  manufacturer: Baycity Technologies Ltd
-  manufacturerUri: https://device-type.com
-  name: BaycityT
-type: d3-device-type-assertion

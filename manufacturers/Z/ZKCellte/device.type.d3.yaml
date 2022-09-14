@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e256c3e5-d0db-5433-abb1-825f4d4202f8
-  macAddresses:
-  - 00:50:C2:CB:10:00/36
-  manufacturer: ZK Celltest Inc
-  manufacturerUri: https://device-type.com
-  name: ZKCellte
-type: d3-device-type-assertion

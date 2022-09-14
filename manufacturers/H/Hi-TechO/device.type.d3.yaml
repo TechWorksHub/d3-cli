@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fb66b322-c867-5b4e-9cdf-148c264a39ad
-  macAddresses:
-  - 34:E1:D1:D0:00:00/28
-  manufacturer: Hi-Tech.Org
-  manufacturerUri: https://device-type.com
-  name: Hi-TechO
-type: d3-device-type-assertion

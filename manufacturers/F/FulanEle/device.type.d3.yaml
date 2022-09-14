@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 450427d6-0f75-5dcf-a912-9b23469f1722
-  macAddresses:
-  - B0:90:74:00:00:00/24
-  manufacturer: Fulan Electronics Limited
-  manufacturerUri: https://device-type.com
-  name: FulanEle
-type: d3-device-type-assertion

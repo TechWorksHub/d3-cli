@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: caa109e1-565f-5c86-8427-87d3e7dd8834
-  macAddresses:
-  - 00:17:04:00:00:00/24
-  manufacturer: Shinco Electronics Group Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: ShincoEl
-type: d3-device-type-assertion

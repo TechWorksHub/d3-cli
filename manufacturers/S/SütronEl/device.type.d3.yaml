@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 29369004-d347-5ac7-853a-a50c724af7e5
-  macAddresses:
-  - 00:07:92:00:00:00/24
-  manufacturer: "S\xFCtron Electronic GmbH"
-  manufacturerUri: https://device-type.com
-  name: "S\xFCtronEl"
-type: d3-device-type-assertion

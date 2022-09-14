@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eb597e6a-51c3-5375-bb78-c0d1e4190652
-  macAddresses:
-  - 40:89:A8:00:00:00/24
-  manufacturer: WiredIQ, LLC
-  manufacturerUri: https://device-type.com
-  name: WiredIQ
-type: d3-device-type-assertion

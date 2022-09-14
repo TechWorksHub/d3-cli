@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c9caf588-eb2f-50e4-ac96-41af278b9276
-  macAddresses:
-  - 70:B3:D5:52:E0:00/36
-  manufacturer: Swissponic Sagl
-  manufacturerUri: https://device-type.com
-  name: Swisspon
-type: d3-device-type-assertion

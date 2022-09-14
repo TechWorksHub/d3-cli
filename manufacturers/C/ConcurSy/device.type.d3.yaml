@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f0ff767d-33db-5cd1-aabb-76bcc27bd1b8
-  macAddresses:
-  - 00:90:4A:00:00:00/24
-  manufacturer: Concur System Technologies
-  manufacturerUri: https://device-type.com
-  name: ConcurSy
-type: d3-device-type-assertion

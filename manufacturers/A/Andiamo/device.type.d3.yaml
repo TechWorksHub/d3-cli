@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e7a5fee4-b6f5-59fd-afdd-4df0b8602075
-  macAddresses:
-  - 00:05:30:00:00:00/24
-  manufacturer: Andiamo Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Andiamo
-type: d3-device-type-assertion

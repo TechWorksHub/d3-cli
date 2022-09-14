@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b9995f19-e906-5de6-97ac-dda8428d8e37
-  macAddresses:
-  - 00:50:C2:11:90:00/36
-  manufacturer: Global Opto Communication Tech. Corp
-  manufacturerUri: https://device-type.com
-  name: GlobalOp
-type: d3-device-type-assertion

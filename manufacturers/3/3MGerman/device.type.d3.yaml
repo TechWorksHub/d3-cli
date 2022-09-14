@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 56f40957-7edb-5f7b-8319-35557d4e9f36
-  macAddresses:
-  - 00:15:C2:00:00:00/24
-  manufacturer: 3M Germany
-  manufacturerUri: https://device-type.com
-  name: 3MGerman
-type: d3-device-type-assertion

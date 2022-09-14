@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 17c14872-af62-5ded-a21b-4e5437ed7d40
-  macAddresses:
-  - 70:B3:D5:7E:70:00/36
-  manufacturer: Atessa, Inc.
-  manufacturerUri: https://device-type.com
-  name: Atessa
-type: d3-device-type-assertion

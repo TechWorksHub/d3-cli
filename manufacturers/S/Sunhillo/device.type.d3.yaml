@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7431dade-b158-57f3-98d2-d537eb1ee1f6
-  macAddresses:
-  - 00:16:43:00:00:00/24
-  manufacturer: Sunhillo Corporation
-  manufacturerUri: https://device-type.com
-  name: Sunhillo
-type: d3-device-type-assertion

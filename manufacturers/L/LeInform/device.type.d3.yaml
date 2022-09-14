@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b774ccfb-703b-52b4-aa96-2a54fc40106a
-  macAddresses:
-  - 00:08:93:00:00:00/24
-  manufacturer: Le Information Communication Inc.
-  manufacturerUri: https://device-type.com
-  name: LeInform
-type: d3-device-type-assertion

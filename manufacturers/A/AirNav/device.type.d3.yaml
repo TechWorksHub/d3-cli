@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5c91329c-2bc8-59b2-8d78-bde7d48bcd10
-  macAddresses:
-  - 14:EE:9D:00:00:00/24
-  manufacturer: AirNav Systems LLC
-  manufacturerUri: https://device-type.com
-  name: AirNav
-type: d3-device-type-assertion

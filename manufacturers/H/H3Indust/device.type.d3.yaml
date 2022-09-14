@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1d283ccb-2511-5b39-968c-02796bacec10
-  macAddresses:
-  - 20:85:93:A0:00:00/28
-  manufacturer: H3 Industries, Inc.
-  manufacturerUri: https://device-type.com
-  name: H3Indust
-type: d3-device-type-assertion

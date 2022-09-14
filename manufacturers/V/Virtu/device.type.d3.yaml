@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d8b8fefe-2379-5bb1-a0b6-a09e08630cf3
-  macAddresses:
-  - 00:50:C2:34:00:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Virtu
-type: d3-device-type-assertion

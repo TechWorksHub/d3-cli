@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4427f1e2-d645-53c6-a3c8-dd3f36e8989a
-  macAddresses:
-  - 00:0A:C3:00:00:00/24
-  manufacturer: eM Technics Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: eMTechni
-type: d3-device-type-assertion

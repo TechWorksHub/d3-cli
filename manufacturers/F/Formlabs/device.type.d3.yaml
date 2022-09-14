@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 854c715a-ebff-5cc0-b457-a18638a8db8b
-  macAddresses:
-  - 38:0A:AB:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Formlabs
-type: d3-device-type-assertion

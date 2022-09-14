@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 834cc395-0ec2-545e-a0d6-02d15b9cfc1d
-  macAddresses:
-  - 00:50:C2:47:40:00/36
-  manufacturer: Venue 1, Inc.
-  manufacturerUri: https://device-type.com
-  name: Venue1
-type: d3-device-type-assertion

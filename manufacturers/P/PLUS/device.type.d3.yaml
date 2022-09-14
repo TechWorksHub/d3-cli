@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 217563f2-135f-52f9-95c5-3ce135bf545a
-  macAddresses:
-  - 00:12:12:00:00:00/24
-  manufacturer: PLUS Corporation
-  manufacturerUri: https://device-type.com
-  name: PLUS
-type: d3-device-type-assertion

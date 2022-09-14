@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 68cbb52e-7892-567b-a85b-6f2729e9c4cd
-  macAddresses:
-  - 00:20:CE:00:00:00/24
-  manufacturer: Logical Design Group, Inc.
-  manufacturerUri: https://device-type.com
-  name: LogicalD
-type: d3-device-type-assertion

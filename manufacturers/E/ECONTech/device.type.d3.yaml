@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3806d051-3ec3-5238-8a3d-ac530ce6330a
-  macAddresses:
-  - 70:B3:D5:E9:30:00/36
-  manufacturer: ECON Technology Co.Ltd
-  manufacturerUri: https://device-type.com
-  name: ECONTech
-type: d3-device-type-assertion

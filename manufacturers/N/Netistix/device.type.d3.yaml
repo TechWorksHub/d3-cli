@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8af05da5-f901-5c46-a578-52ec4c4a7252
-  macAddresses:
-  - 00:50:C2:6E:C0:00/36
-  manufacturer: Netistix Technologies Corporation
-  manufacturerUri: https://device-type.com
-  name: Netistix
-type: d3-device-type-assertion

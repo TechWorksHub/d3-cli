@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dd714a9c-3e43-5beb-9e56-ea34a73b894c
-  macAddresses:
-  - 50:8D:6F:00:00:00/24
-  manufacturer: CHAHOO Limited
-  manufacturerUri: https://device-type.com
-  name: CHAHOO
-type: d3-device-type-assertion

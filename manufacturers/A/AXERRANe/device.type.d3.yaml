@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 470a7902-1efc-51f2-8fd8-dd4a8002a244
-  macAddresses:
-  - 64:C6:AF:00:00:00/24
-  manufacturer: AXERRA Networks Ltd
-  manufacturerUri: https://device-type.com
-  name: AXERRANe
-type: d3-device-type-assertion

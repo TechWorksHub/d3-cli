@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bfa1168d-826d-5d72-a316-b8eaf6e62644
-  macAddresses:
-  - 00:02:65:00:00:00/24
-  manufacturer: Virditech Co. Ltd.
-  manufacturerUri: https://device-type.com
-  name: Virditec
-type: d3-device-type-assertion

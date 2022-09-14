@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b0d7c0cf-827f-5864-a432-7b9f08338cff
-  macAddresses:
-  - B4:C8:10:00:00:00/24
-  manufacturer: Umpi srl
-  manufacturerUri: https://device-type.com
-  name: Umpi
-type: d3-device-type-assertion

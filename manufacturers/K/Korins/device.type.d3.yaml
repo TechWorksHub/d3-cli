@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6405a7be-0465-5577-ab24-6dc6b60a4b2d
-  macAddresses:
-  - 10:12:18:00:00:00/24
-  manufacturer: Korins Inc.
-  manufacturerUri: https://device-type.com
-  name: Korins
-type: d3-device-type-assertion

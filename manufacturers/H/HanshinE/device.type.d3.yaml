@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ec7535c4-a71d-582a-9158-07942235f849
-  macAddresses:
-  - 70:B3:D5:F7:20:00/36
-  manufacturer: Hanshin Electronics
-  manufacturerUri: https://device-type.com
-  name: HanshinE
-type: d3-device-type-assertion

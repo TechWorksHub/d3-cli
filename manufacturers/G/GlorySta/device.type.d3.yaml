@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cab18b3e-c334-598a-ab76-a1f1a3757aad
-  macAddresses:
-  - 40:7F:E0:00:00:00/24
-  manufacturer: Glory Star Technics (ShenZhen) Limited
-  manufacturerUri: https://device-type.com
-  name: GlorySta
-type: d3-device-type-assertion

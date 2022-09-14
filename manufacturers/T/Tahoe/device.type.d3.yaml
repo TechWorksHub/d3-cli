@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bb1b026c-e410-5f9a-87ae-830a2667db21
-  macAddresses:
-  - 00:15:B8:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Tahoe
-type: d3-device-type-assertion

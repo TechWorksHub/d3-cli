@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d56d3b86-1555-5c02-8f43-33fc4d2c2749
-  macAddresses:
-  - 00:08:15:00:00:00/24
-  manufacturer: CATS Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: CATS
-type: d3-device-type-assertion

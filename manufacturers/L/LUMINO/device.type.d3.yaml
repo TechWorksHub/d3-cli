@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1ef20e1c-99fb-5561-be70-da10085f6b7a
-  macAddresses:
-  - 00:1B:C5:08:00:00/36
-  manufacturer: LUMINO GmbH
-  manufacturerUri: https://device-type.com
-  name: LUMINO
-type: d3-device-type-assertion

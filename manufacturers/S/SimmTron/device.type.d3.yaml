@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 51c555ff-ae70-55bb-99bc-575707953cb8
-  macAddresses:
-  - F8:D7:56:00:00:00/24
-  manufacturer: Simm Tronic Limited
-  manufacturerUri: https://device-type.com
-  name: SimmTron
-type: d3-device-type-assertion

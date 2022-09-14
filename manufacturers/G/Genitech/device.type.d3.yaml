@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 58cc41cd-a95d-5bb2-92b3-7376b7c1c0c5
-  macAddresses:
-  - 00:20:44:00:00:00/24
-  manufacturer: Genitech Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: Genitech
-type: d3-device-type-assertion

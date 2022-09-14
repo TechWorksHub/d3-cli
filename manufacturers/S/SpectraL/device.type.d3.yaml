@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 50d9b973-aa8d-5f34-afc9-772f6b2d2cf6
-  macAddresses:
-  - 00:90:A5:00:00:00/24
-  manufacturer: Spectra Logic
-  manufacturerUri: https://device-type.com
-  name: SpectraL
-type: d3-device-type-assertion

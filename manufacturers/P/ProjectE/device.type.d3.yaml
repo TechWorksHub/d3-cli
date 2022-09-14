@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 241e0e1c-ce20-59ad-9115-666cf2dc72be
-  macAddresses:
-  - 34:00:8A:B0:00:00/28
-  manufacturer: Project Engineering srl
-  manufacturerUri: https://device-type.com
-  name: ProjectE
-type: d3-device-type-assertion

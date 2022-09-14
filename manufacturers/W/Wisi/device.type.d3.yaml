@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ba98b868-a13b-53cf-af37-c7e6f5414a5a
-  macAddresses:
-  - 00:03:98:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Wisi
-type: d3-device-type-assertion

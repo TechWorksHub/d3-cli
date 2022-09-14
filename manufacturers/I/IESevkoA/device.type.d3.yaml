@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 198b9cbd-ce3f-5545-bc22-9f3f4284e144
-  macAddresses:
-  - 70:B3:D5:8F:70:00/36
-  manufacturer: I.E. Sevko A.V.
-  manufacturerUri: https://device-type.com
-  name: IESevkoA
-type: d3-device-type-assertion

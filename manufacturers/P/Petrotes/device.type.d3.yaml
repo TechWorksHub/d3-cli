@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a1137486-2a24-546e-809f-bb5a1cdcae16
-  macAddresses:
-  - 00:1C:4C:00:00:00/24
-  manufacturer: Petrotest Instruments
-  manufacturerUri: https://device-type.com
-  name: Petrotes
-type: d3-device-type-assertion

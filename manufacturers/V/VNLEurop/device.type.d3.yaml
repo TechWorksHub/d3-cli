@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f248d17c-22aa-5a1c-b72b-1e7674db9587
-  macAddresses:
-  - F8:52:DF:00:00:00/24
-  manufacturer: VNL Europe AB
-  manufacturerUri: https://device-type.com
-  name: VNLEurop
-type: d3-device-type-assertion

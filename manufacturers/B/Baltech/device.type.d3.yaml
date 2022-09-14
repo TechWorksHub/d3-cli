@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9df81442-0fa3-53cb-961c-317c37c50c3f
-  macAddresses:
-  - 5C:24:79:00:00:00/24
-  manufacturer: Baltech AG
-  manufacturerUri: https://device-type.com
-  name: Baltech
-type: d3-device-type-assertion

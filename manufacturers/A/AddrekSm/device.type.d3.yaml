@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 781768ac-1eee-5c2b-a3fc-052f51551329
-  macAddresses:
-  - 40:4A:18:00:00:00/24
-  manufacturer: Addrek Smart Solutions
-  manufacturerUri: https://device-type.com
-  name: AddrekSm
-type: d3-device-type-assertion

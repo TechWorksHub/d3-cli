@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: be1c52d1-1037-5788-b9f8-81ffc9a3826a
-  macAddresses:
-  - 70:B3:D5:BF:F0:00/36
-  manufacturer: Sunsa, Inc
-  manufacturerUri: https://device-type.com
-  name: Sunsa
-type: d3-device-type-assertion

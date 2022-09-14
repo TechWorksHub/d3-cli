@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1587d6ab-c474-5d10-b95e-1da064824864
-  macAddresses:
-  - 00:19:95:00:00:00/24
-  manufacturer: Jurong Hi-Tech (Suzhou)Co.ltd
-  manufacturerUri: https://device-type.com
-  name: JurongHi
-type: d3-device-type-assertion

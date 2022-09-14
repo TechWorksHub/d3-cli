@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3bec89df-0ddc-5ef6-a195-c4e4f8434466
-  macAddresses:
-  - 08:3A:5C:00:00:00/24
-  manufacturer: Junilab, Inc.
-  manufacturerUri: https://device-type.com
-  name: Junilab
-type: d3-device-type-assertion

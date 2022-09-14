@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8afb4943-9b20-5b73-8dfd-b79409b60e11
-  macAddresses:
-  - 00:1A:79:00:00:00/24
-  manufacturer: Telecomunication Technologies Ltd.
-  manufacturerUri: https://device-type.com
-  name: Telecomu
-type: d3-device-type-assertion

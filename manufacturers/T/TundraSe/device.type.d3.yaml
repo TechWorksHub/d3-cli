@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f1cc9652-fdee-5fa2-8d4d-c73f3b496d3a
-  macAddresses:
-  - 00:06:D2:00:00:00/24
-  manufacturer: Tundra Semiconductor Corp.
-  manufacturerUri: https://device-type.com
-  name: TundraSe
-type: d3-device-type-assertion

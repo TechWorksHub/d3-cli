@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 663ad0cc-ddb1-5678-8c5b-ec5a0b05e695
-  macAddresses:
-  - A0:BB:3E:A0:00:00/28
-  manufacturer: Filo SRL
-  manufacturerUri: https://device-type.com
-  name: Filo
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b93911bd-a48f-5470-8bfd-c6df3ee50842
-  macAddresses:
-  - 48:65:EE:B0:00:00/28
-  manufacturer: "EnBW Energie Baden-W\xFCrttemberg AG"
-  manufacturerUri: https://device-type.com
-  name: EnBWEner
-type: d3-device-type-assertion

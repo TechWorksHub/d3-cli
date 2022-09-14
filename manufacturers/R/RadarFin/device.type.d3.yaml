@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9cd02e48-02f3-58c5-93f9-d353848031ef
-  macAddresses:
-  - 00:19:A5:00:00:00/24
-  manufacturer: RadarFind Corporation
-  manufacturerUri: https://device-type.com
-  name: RadarFin
-type: d3-device-type-assertion

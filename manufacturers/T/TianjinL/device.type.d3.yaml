@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d668df88-275a-5856-a95a-c8f51e43d20e
-  macAddresses:
-  - 00:69:67:E0:00:00/28
-  manufacturer: Tianjin Lianwu Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: TianjinL
-type: d3-device-type-assertion

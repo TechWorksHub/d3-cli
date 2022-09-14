@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 94595950-038c-5cc5-b870-cf8b1a04ea14
-  macAddresses:
-  - 0C:C6:55:00:00:00/24
-  manufacturer: Wuxi YSTen Technology Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: WuxiYSTe
-type: d3-device-type-assertion

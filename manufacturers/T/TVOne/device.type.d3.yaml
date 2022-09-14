@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1fde4fe3-5aa1-56eb-9dcb-14f4aa42e1d8
-  macAddresses:
-  - 00:16:9E:00:00:00/24
-  manufacturer: TV One Ltd
-  manufacturerUri: https://device-type.com
-  name: TVOne
-type: d3-device-type-assertion

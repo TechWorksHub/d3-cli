@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8b844da4-497f-5938-a893-f4db58a5f6f3
-  macAddresses:
-  - 70:B3:D5:C5:20:00/36
-  manufacturer: sensorway
-  manufacturerUri: https://device-type.com
-  name: sensorwa
-type: d3-device-type-assertion

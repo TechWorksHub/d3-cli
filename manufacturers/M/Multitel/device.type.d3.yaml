@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 27c800e4-c263-543e-aabb-82ec9995f5e8
-  macAddresses:
-  - 00:D0:64:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Multitel
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cb28740d-b44c-5275-b1c5-f4913704090a
-  macAddresses:
-  - 00:12:ED:00:00:00/24
-  manufacturer: AVG Advanced Technologies
-  manufacturerUri: https://device-type.com
-  name: AVGAdvan
-type: d3-device-type-assertion

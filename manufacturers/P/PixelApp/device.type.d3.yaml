@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4b67f567-1ee7-50ab-9a78-208cea8613ac
-  macAddresses:
-  - 70:B3:D5:25:10:00/36
-  manufacturer: PixelApps s.r.o.
-  manufacturerUri: https://device-type.com
-  name: PixelApp
-type: d3-device-type-assertion

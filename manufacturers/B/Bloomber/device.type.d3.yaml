@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b2dd581e-126b-558a-85b4-79a6ee339931
-  macAddresses:
-  - 00:0C:E9:00:00:00/24
-  manufacturer: Bloomberg L.P.
-  manufacturerUri: https://device-type.com
-  name: Bloomber
-type: d3-device-type-assertion

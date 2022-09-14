@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3bfbd6d4-1e5e-5891-812e-8c70a6b61af7
-  macAddresses:
-  - 00:24:96:00:00:00/24
-  manufacturer: Ginzinger electronic systems
-  manufacturerUri: https://device-type.com
-  name: Ginzinge
-type: d3-device-type-assertion

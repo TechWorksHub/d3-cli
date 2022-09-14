@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d68840f6-64a7-569b-b796-2d318f2c9537
-  macAddresses:
-  - E8:18:63:A0:00:00/28
-  manufacturer: JDM Mobile Internet Solution(Shanghai) Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: JDMMobil
-type: d3-device-type-assertion

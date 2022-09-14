@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b7746b67-d713-5325-a75e-04704f31cc0c
-  macAddresses:
-  - A8:58:7C:00:00:00/24
-  manufacturer: Shoogee GmbH & Co. KG
-  manufacturerUri: https://device-type.com
-  name: Shoogee
-type: d3-device-type-assertion

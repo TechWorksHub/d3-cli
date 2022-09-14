@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8eabfd4c-098d-5a0b-87bf-a1fdc1cc1b3a
-  macAddresses:
-  - 00:13:EF:00:00:00/24
-  manufacturer: Kingjon Digital Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: KingjonD
-type: d3-device-type-assertion

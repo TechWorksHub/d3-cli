@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9e97dda3-8b9e-5157-8d7e-f2fac10539b8
-  macAddresses:
-  - 00:09:51:00:00:00/24
-  manufacturer: Apogee Imaging Systems
-  manufacturerUri: https://device-type.com
-  name: ApogeeIm
-type: d3-device-type-assertion

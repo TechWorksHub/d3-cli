@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c34b815c-4686-51fe-a4a5-33a5af0cfe01
-  macAddresses:
-  - 00:50:C2:0B:C0:00/36
-  manufacturer: Infolink Software AG
-  manufacturerUri: https://device-type.com
-  name: Infolink
-type: d3-device-type-assertion

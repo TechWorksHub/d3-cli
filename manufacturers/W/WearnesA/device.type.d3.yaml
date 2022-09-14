@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a5dbfcff-8712-5f62-9523-9b17a676b96a
-  macAddresses:
-  - 00:40:78:00:00:00/24
-  manufacturer: Wearnes Automation Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: WearnesA
-type: d3-device-type-assertion

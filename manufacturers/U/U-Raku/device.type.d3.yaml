@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f8f585e7-0bb3-5f0a-8a55-294f826a7e48
-  macAddresses:
-  - C4:63:54:00:00:00/24
-  manufacturer: U-Raku, Inc.
-  manufacturerUri: https://device-type.com
-  name: U-Raku
-type: d3-device-type-assertion

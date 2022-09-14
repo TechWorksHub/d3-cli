@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e6ff8bb9-c5e8-580f-99f9-3750ed52018d
-  macAddresses:
-  - 7C:EF:61:00:00:00/24
-  manufacturer: STR Elektronik Josef Schlechtinger GmbH
-  manufacturerUri: https://device-type.com
-  name: STRElekt
-type: d3-device-type-assertion

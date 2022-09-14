@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bd633c44-eab7-5484-b26d-2110f4acffa9
-  macAddresses:
-  - 00:1C:9B:00:00:00/24
-  manufacturer: FEIG ELECTRONIC GmbH
-  manufacturerUri: https://device-type.com
-  name: FEIGELEC
-type: d3-device-type-assertion

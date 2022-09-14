@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0976df7e-c743-5df6-a48b-c6f1d68b8665
-  macAddresses:
-  - 70:B3:D5:80:C0:00/36
-  manufacturer: Algra tec AG
-  manufacturerUri: https://device-type.com
-  name: Algratec
-type: d3-device-type-assertion

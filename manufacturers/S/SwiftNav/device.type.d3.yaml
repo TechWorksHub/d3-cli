@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bdd9214b-7427-5d5e-bb4d-712acabb76a2
-  macAddresses:
-  - 8C:C8:F4:90:00:00/28
-  manufacturer: Swift Navigation Inc
-  manufacturerUri: https://device-type.com
-  name: SwiftNav
-type: d3-device-type-assertion

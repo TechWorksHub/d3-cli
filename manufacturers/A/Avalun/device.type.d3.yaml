@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 00ee4824-2c39-5d42-a909-4696967610d3
-  macAddresses:
-  - 60:D7:E3:00:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Avalun
-type: d3-device-type-assertion

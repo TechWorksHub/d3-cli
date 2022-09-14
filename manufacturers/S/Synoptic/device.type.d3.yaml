@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3b44b32d-1091-51e1-86d2-b32c9d203a79
-  macAddresses:
-  - 00:07:6F:00:00:00/24
-  manufacturer: Synoptics Limited
-  manufacturerUri: https://device-type.com
-  name: Synoptic
-type: d3-device-type-assertion

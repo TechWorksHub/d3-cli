@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 10037b07-4adf-54d6-84b0-b85b3b11f43d
-  macAddresses:
-  - 00:90:5D:00:00:00/24
-  manufacturer: Netcom Sicherheitstechnik Gmbh
-  manufacturerUri: https://device-type.com
-  name: NetcomSi
-type: d3-device-type-assertion

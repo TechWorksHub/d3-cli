@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b66d020f-6a49-568c-9d20-b7194e89a2f7
-  macAddresses:
-  - 00:1D:5B:00:00:00/24
-  manufacturer: Tecvan Informatica Ltda
-  manufacturerUri: https://device-type.com
-  name: TecvanIn
-type: d3-device-type-assertion

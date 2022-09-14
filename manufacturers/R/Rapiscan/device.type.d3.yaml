@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0a8f061e-7561-5c75-bd9d-384950926646
-  macAddresses:
-  - 70:B3:D5:CC:90:00/36
-  manufacturer: Rapiscan Systems
-  manufacturerUri: https://device-type.com
-  name: Rapiscan
-type: d3-device-type-assertion

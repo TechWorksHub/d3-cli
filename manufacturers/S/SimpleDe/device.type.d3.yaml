@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eb995166-6c24-58db-a79a-48cdca48a2a7
-  macAddresses:
-  - 00:07:94:00:00:00/24
-  manufacturer: Simple Devices, Inc.
-  manufacturerUri: https://device-type.com
-  name: SimpleDe
-type: d3-device-type-assertion

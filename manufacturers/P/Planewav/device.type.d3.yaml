@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f27d1ad9-c26f-53da-b242-c12fadad978d
-  macAddresses:
-  - 70:B3:D5:CB:40:00/36
-  manufacturer: Planewave Instruments
-  manufacturerUri: https://device-type.com
-  name: Planewav
-type: d3-device-type-assertion

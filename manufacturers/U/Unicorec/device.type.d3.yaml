@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 02907750-e3dd-5a0d-9775-3dbb02d10dfc
-  macAddresses:
-  - E4:2F:F6:00:00:00/24
-  manufacturer: Unicore communication Inc.
-  manufacturerUri: https://device-type.com
-  name: Unicorec
-type: d3-device-type-assertion

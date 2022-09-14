@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1e34e5a7-3801-564e-8506-143a702fece0
-  macAddresses:
-  - 80:7B:85:A0:00:00/28
-  manufacturer: Interplan Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Interpla
-type: d3-device-type-assertion

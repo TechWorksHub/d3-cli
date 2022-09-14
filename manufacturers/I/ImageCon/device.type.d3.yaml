@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c21c79fc-4824-59a3-b8aa-ab9aedfe31e2
-  macAddresses:
-  - 00:50:C2:53:A0:00/36
-  manufacturer: Image Control Design Limited
-  manufacturerUri: https://device-type.com
-  name: ImageCon
-type: d3-device-type-assertion

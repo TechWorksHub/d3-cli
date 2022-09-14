@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 465b25a8-111a-53dd-b535-8f1f3daa511c
-  macAddresses:
-  - 00:30:EA:00:00:00/24
-  manufacturer: TeraForce Technology Corporation
-  manufacturerUri: https://device-type.com
-  name: TeraForc
-type: d3-device-type-assertion

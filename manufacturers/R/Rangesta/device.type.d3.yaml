@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3cffe624-5a18-58c3-a1fa-c03bc90076d7
-  macAddresses:
-  - 00:05:54:00:00:00/24
-  manufacturer: Rangestar Wireless
-  manufacturerUri: https://device-type.com
-  name: Rangesta
-type: d3-device-type-assertion

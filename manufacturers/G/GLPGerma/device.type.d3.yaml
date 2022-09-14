@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fe88b8bb-a9fd-5c51-b37f-2a105f3350b6
-  macAddresses:
-  - F8:91:2A:00:00:00/24
-  manufacturer: GLP German Light Products GmbH
-  manufacturerUri: https://device-type.com
-  name: GLPGerma
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 43a34b18-7e00-5726-9489-0c98841277c6
-  macAddresses:
-  - 3C:42:7E:50:00:00/28
-  manufacturer: Geoplan Korea
-  manufacturerUri: https://device-type.com
-  name: GeoplanK
-type: d3-device-type-assertion

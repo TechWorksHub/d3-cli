@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 287ff293-3375-5dd7-a688-d5d8b4edcd0e
-  macAddresses:
-  - 00:00:DE:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Cetia
-type: d3-device-type-assertion

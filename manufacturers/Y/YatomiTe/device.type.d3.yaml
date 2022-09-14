@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 11e6793d-2c9f-5da1-8d14-8ff8aa54b65c
-  macAddresses:
-  - 7A:15:EC:00:00:00/24
-  manufacturer: Yatomi Techology(ZheJiang) Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: YatomiTe
-type: d3-device-type-assertion

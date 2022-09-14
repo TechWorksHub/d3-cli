@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 615b6ba7-ee89-5a73-a393-5a9d5d37227a
-  macAddresses:
-  - 00:13:C2:00:00:00/24
-  manufacturer: WACOM Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: WACOM
-type: d3-device-type-assertion

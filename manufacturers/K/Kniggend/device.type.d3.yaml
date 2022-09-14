@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9b122a0f-9385-5728-b886-0614edf22c59
-  macAddresses:
-  - 70:B3:D5:3D:D0:00/36
-  manufacturer: "Kniggendorf + K\xF6gler Security GmbH"
-  manufacturerUri: https://device-type.com
-  name: Kniggend
-type: d3-device-type-assertion

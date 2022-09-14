@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 70648961-3850-551a-b39f-2db0e224a6f4
-  macAddresses:
-  - 38:6E:21:00:00:00/24
-  manufacturer: Wasion Group Ltd.
-  manufacturerUri: https://device-type.com
-  name: WasionGr
-type: d3-device-type-assertion

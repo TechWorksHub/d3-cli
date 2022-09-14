@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 81815644-a79d-50ca-bc32-1275028209e1
-  macAddresses:
-  - 00:08:AE:00:00:00/24
-  manufacturer: PacketFront Network Products AB
-  manufacturerUri: https://device-type.com
-  name: PacketFr
-type: d3-device-type-assertion

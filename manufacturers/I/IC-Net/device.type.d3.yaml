@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 99b5dd87-70a1-559a-a38c-0abe36fea6de
-  macAddresses:
-  - 00:01:BA:00:00:00/24
-  manufacturer: IC-Net, Inc.
-  manufacturerUri: https://device-type.com
-  name: IC-Net
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dbb408e9-d8f4-505c-9b57-5c08ab9aa442
-  macAddresses:
-  - EA:B8:9B:00:00:00/24
-  manufacturer: Thread Group, Inc.
-  manufacturerUri: https://device-type.com
-  name: ThreadGr
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c49776a4-a212-58d8-aa2c-973a903a3d78
-  macAddresses:
-  - 00:17:72:00:00:00/24
-  manufacturer: ASTRO Strobel Kommunikationssysteme GmbH
-  manufacturerUri: https://device-type.com
-  name: ASTROStr
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 29c37443-a631-5f81-98e6-366a8264c1d8
-  macAddresses:
-  - 20:31:EB:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Hdsn
-type: d3-device-type-assertion

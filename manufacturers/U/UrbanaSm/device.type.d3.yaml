@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d9763be3-aa7b-5971-a9f8-3ddb2e85e637
-  macAddresses:
-  - 70:B3:D5:22:40:00/36
-  manufacturer: Urbana Smart Solutions Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: UrbanaSm
-type: d3-device-type-assertion

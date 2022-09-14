@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e836df16-23db-564e-a33a-fef78f6e00ab
-  macAddresses:
-  - 00:18:B5:00:00:00/24
-  manufacturer: Magna Carta
-  manufacturerUri: https://device-type.com
-  name: MagnaCar
-type: d3-device-type-assertion

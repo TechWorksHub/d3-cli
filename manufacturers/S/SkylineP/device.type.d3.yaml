@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2dc9c7d6-0c8b-5161-be21-1c6673f6057a
-  macAddresses:
-  - 00:50:C2:67:10:00/36
-  manufacturer: Skyline Products, Inc
-  manufacturerUri: https://device-type.com
-  name: SkylineP
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9513d3c5-8a12-506c-8577-2cda3c21e648
-  macAddresses:
-  - 20:BB:76:00:00:00/24
-  manufacturer: COL GIOVANNI PAOLO SpA
-  manufacturerUri: https://device-type.com
-  name: COLGIOVA
-type: d3-device-type-assertion

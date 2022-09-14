@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0d310183-f1f0-5ea5-b9f3-b47b6d00b8dd
-  macAddresses:
-  - 70:B3:D5:9C:C0:00/36
-  manufacturer: Zaxcom Inc
-  manufacturerUri: https://device-type.com
-  name: Zaxcom
-type: d3-device-type-assertion

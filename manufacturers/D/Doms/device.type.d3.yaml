@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c5f702bf-d8ec-5dfe-91b3-f9543ebef48a
-  macAddresses:
-  - 00:50:55:00:00:00/24
-  manufacturer: Doms A/S
-  manufacturerUri: https://device-type.com
-  name: Doms
-type: d3-device-type-assertion

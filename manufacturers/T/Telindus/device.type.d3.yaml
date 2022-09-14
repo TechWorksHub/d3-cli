@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 687ab5ac-65b7-50df-b748-086b0b4672c1
-  macAddresses:
-  - 00:C0:89:00:00:00/24
-  manufacturer: Telindus Distribution
-  manufacturerUri: https://device-type.com
-  name: Telindus
-type: d3-device-type-assertion

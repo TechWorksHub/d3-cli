@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0b5ce20c-ae9f-54c2-9a58-4c829ca9e4c7
-  macAddresses:
-  - 00:01:B1:00:00:00/24
-  manufacturer: General Bandwidth
-  manufacturerUri: https://device-type.com
-  name: GeneralB
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c4758e19-64cb-5c59-929e-5cd5a469b316
-  macAddresses:
-  - 70:B3:D5:1C:80:00/36
-  manufacturer: LDA audio video profesional S.L.
-  manufacturerUri: https://device-type.com
-  name: LDAaudio
-type: d3-device-type-assertion

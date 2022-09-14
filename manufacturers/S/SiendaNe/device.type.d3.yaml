@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4fbf85ee-34bf-5358-a281-02c3d039ebd1
-  macAddresses:
-  - 70:B3:D5:A8:10:00/36
-  manufacturer: Sienda New Media Technologies GmbH
-  manufacturerUri: https://device-type.com
-  name: SiendaNe
-type: d3-device-type-assertion

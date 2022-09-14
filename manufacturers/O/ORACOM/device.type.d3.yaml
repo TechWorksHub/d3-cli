@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bb9c5ff6-5afc-539a-afbf-50b43a424684
-  macAddresses:
-  - 00:0C:1B:00:00:00/24
-  manufacturer: ORACOM Co, Ltd.
-  manufacturerUri: https://device-type.com
-  name: ORACOM
-type: d3-device-type-assertion

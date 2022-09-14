@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fdb17388-a53a-5558-9633-cf8e100a2a96
-  macAddresses:
-  - 58:FC:DB:A0:00:00/28
-  manufacturer: Xmodus Systems GmbH
-  manufacturerUri: https://device-type.com
-  name: Xmodus
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c68622da-c4e8-59e8-bb0d-6737007e9437
-  macAddresses:
-  - D4:82:3E:00:00:00/24
-  manufacturer: Argosy Technologies, Ltd.
-  manufacturerUri: https://device-type.com
-  name: ArgosyTe
-type: d3-device-type-assertion

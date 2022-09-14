@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 363e686f-e1cc-581a-9fad-6fc5392b2180
-  macAddresses:
-  - 00:1D:32:00:00:00/24
-  manufacturer: Longkay Communication & Technology (Shanghai) Co. Ltd
-  manufacturerUri: https://device-type.com
-  name: LongkayC
-type: d3-device-type-assertion

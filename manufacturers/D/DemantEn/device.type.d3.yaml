@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e7bc04df-9136-5a49-8d16-6b162d4b70ad
-  macAddresses:
-  - 98:D9:3D:00:00:00/24
-  manufacturer: Demant Enterprise A/S
-  manufacturerUri: https://device-type.com
-  name: DemantEn
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8c56fcfc-163c-5d71-a05f-41240dc3d8a5
-  macAddresses:
-  - 00:50:C2:C9:50:00/36
-  manufacturer: IPSES S.r.l.
-  manufacturerUri: https://device-type.com
-  name: IPSES
-type: d3-device-type-assertion

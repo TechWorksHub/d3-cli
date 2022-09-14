@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d3ff475b-11df-5680-b513-8df6efa939ed
-  macAddresses:
-  - 00:1D:9D:00:00:00/24
-  manufacturer: Artjoy International Limited
-  manufacturerUri: https://device-type.com
-  name: ArtjoyIn
-type: d3-device-type-assertion

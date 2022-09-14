@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c4600b3a-16a1-52de-ad25-88fdef0ea43c
-  macAddresses:
-  - 38:76:D1:00:00:00/24
-  manufacturer: Euronda SpA
-  manufacturerUri: https://device-type.com
-  name: Euronda
-type: d3-device-type-assertion

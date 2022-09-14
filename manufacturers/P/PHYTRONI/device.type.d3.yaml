@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1325a424-ab39-5931-87fc-99f7a8dbad3b
-  macAddresses:
-  - 60:C6:58:00:00:00/24
-  manufacturer: PHYTRONIX Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: PHYTRONI
-type: d3-device-type-assertion

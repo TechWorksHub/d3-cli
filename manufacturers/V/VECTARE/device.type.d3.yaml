@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 18cf8475-1973-5e72-b6a0-40b2a4210547
-  macAddresses:
-  - 70:B3:D5:6D:90:00/36
-  manufacturer: VECTARE Inc
-  manufacturerUri: https://device-type.com
-  name: VECTARE
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c14f1f77-90d9-5c3a-9763-25e25169851f
-  macAddresses:
-  - 00:06:B4:00:00:00/24
-  manufacturer: Vorne Industries, Inc.
-  manufacturerUri: https://device-type.com
-  name: VorneInd
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5d2c1667-f707-5ecc-9049-f70e52cb409b
-  macAddresses:
-  - BC:03:A7:00:00:00/24
-  manufacturer: Mfp Michelin
-  manufacturerUri: https://device-type.com
-  name: MfpMiche
-type: d3-device-type-assertion

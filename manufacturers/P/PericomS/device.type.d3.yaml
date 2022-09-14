@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ac60323a-a117-53af-b376-0692b5bd3972
-  macAddresses:
-  - 00:60:23:00:00:00/24
-  manufacturer: Pericom Semiconductor Corp.
-  manufacturerUri: https://device-type.com
-  name: PericomS
-type: d3-device-type-assertion

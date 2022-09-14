@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8ccd8977-d962-56e4-ada3-c9c61442f389
-  macAddresses:
-  - 00:1C:2B:00:00:00/24
-  manufacturer: Alertme.com Limited
-  manufacturerUri: https://device-type.com
-  name: Alertmec
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b9e3a323-edd8-5fd3-b9f3-01aac22355a9
-  macAddresses:
-  - 78:5E:E8:80:00:00/28
-  manufacturer: Jiangxi guoxuan radio and television technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: Jiangxig
-type: d3-device-type-assertion

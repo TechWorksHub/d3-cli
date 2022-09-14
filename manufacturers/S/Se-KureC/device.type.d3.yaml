@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 02b6071f-65c6-55bc-8862-fbceaaa963c6
-  macAddresses:
-  - 34:BA:51:00:00:00/24
-  manufacturer: Se-Kure Controls, Inc.
-  manufacturerUri: https://device-type.com
-  name: Se-KureC
-type: d3-device-type-assertion

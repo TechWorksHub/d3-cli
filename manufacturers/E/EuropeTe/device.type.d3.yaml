@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3f6aad72-9b1b-583b-abfb-78aaad83e99d
-  macAddresses:
-  - 00:50:C2:37:00:00/36
-  manufacturer: Europe Technologies
-  manufacturerUri: https://device-type.com
-  name: EuropeTe
-type: d3-device-type-assertion

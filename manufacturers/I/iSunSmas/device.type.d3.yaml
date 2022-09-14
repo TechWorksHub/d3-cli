@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7efdb3f7-a4e1-547d-a837-210126f98c7a
-  macAddresses:
-  - B8:F3:17:00:00:00/24
-  manufacturer: iSun Smasher Communications Private Limited
-  manufacturerUri: https://device-type.com
-  name: iSunSmas
-type: d3-device-type-assertion

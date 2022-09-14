@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 78706601-9e86-5ccd-a3dc-df5ca26021fa
-  macAddresses:
-  - 00:02:F2:00:00:00/24
-  manufacturer: eDevice, Inc.
-  manufacturerUri: https://device-type.com
-  name: eDevice
-type: d3-device-type-assertion

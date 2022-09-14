@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 707b7e73-0270-5c08-9ffb-18b8d10ac574
-  macAddresses:
-  - 00:0D:BF:00:00:00/24
-  manufacturer: TekTone Sound & Signal Mfg., Inc.
-  manufacturerUri: https://device-type.com
-  name: TekToneS
-type: d3-device-type-assertion

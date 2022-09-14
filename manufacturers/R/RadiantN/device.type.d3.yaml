@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3dcf62c5-981a-5495-8e23-c6a9f05c03fe
-  macAddresses:
-  - 00:50:C2:0A:90:00/36
-  manufacturer: Radiant Networks Plc
-  manufacturerUri: https://device-type.com
-  name: RadiantN
-type: d3-device-type-assertion

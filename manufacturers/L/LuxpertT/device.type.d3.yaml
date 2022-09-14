@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 885177d7-ce35-57a0-9fcc-f3ab2cc0982c
-  macAddresses:
-  - 00:50:C2:80:C0:00/36
-  manufacturer: Luxpert Technologies Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: LuxpertT
-type: d3-device-type-assertion

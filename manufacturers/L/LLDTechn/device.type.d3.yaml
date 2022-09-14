@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fb0dbd6c-e395-5047-9263-56290a2057ce
-  macAddresses:
-  - BC:34:00:E0:00:00/28
-  manufacturer: LLD Technology Ltd.
-  manufacturerUri: https://device-type.com
-  name: LLDTechn
-type: d3-device-type-assertion

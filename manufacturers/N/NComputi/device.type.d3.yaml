@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dd5b496c-abc9-5423-832a-d96a63be4fad
-  macAddresses:
-  - 00:0F:E0:00:00:00/24
-  manufacturer: NComputing Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: NComputi
-type: d3-device-type-assertion

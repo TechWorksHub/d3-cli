@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 28a10d2b-f61a-55a7-b0ae-a0e4e5b7e975
-  macAddresses:
-  - 00:A0:A9:00:00:00/24
-  manufacturer: Navtel Communications Inc.
-  manufacturerUri: https://device-type.com
-  name: NavtelCo
-type: d3-device-type-assertion

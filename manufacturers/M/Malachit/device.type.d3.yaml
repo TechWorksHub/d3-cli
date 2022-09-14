@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d55d1eb8-2a82-5a69-81a8-b3a1084a2fda
-  macAddresses:
-  - 00:06:5C:00:00:00/24
-  manufacturer: Malachite Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: Malachit
-type: d3-device-type-assertion

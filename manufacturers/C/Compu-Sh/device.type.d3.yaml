@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b99fc989-d0dc-5d7e-9ca3-701ab820c248
-  macAddresses:
-  - 00:00:CB:00:00:00/24
-  manufacturer: Compu-Shack Electronic Gmbh
-  manufacturerUri: https://device-type.com
-  name: Compu-Sh
-type: d3-device-type-assertion

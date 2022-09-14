@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 95143cf1-93c3-5f13-86e7-9596dc4b8e47
-  macAddresses:
-  - 00:07:90:00:00:00/24
-  manufacturer: Tri-M Technologies (s) Limited
-  manufacturerUri: https://device-type.com
-  name: Tri-MTec
-type: d3-device-type-assertion

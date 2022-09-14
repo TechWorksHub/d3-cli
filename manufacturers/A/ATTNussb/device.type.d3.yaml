@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8d74eb3a-6415-5d0d-8716-06f7f22b68f6
-  macAddresses:
-  - 70:B3:D5:2A:30:00/36
-  manufacturer: "ATT Nussbaum Pr\xFCftechnik GmbH"
-  manufacturerUri: https://device-type.com
-  name: ATTNussb
-type: d3-device-type-assertion

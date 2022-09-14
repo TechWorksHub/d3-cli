@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 84449e21-7014-5d5f-aaf1-664d7184e468
-  macAddresses:
-  - 00:18:FB:00:00:00/24
-  manufacturer: Compro Technology
-  manufacturerUri: https://device-type.com
-  name: ComproTe
-type: d3-device-type-assertion

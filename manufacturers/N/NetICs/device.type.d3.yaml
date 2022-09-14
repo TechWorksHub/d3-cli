@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4fe07ab5-0fb0-5269-ab94-a3cc7a8b62e7
-  macAddresses:
-  - 00:60:FD:00:00:00/24
-  manufacturer: NetICs, Inc.
-  manufacturerUri: https://device-type.com
-  name: NetICs
-type: d3-device-type-assertion

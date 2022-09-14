@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2f9764a9-3b1f-5713-b35c-e99b9d60e833
-  macAddresses:
-  - 00:50:C2:1E:D0:00/36
-  manufacturer: EMKA-electronic AG
-  manufacturerUri: https://device-type.com
-  name: EMKA-ele
-type: d3-device-type-assertion

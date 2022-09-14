@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3491bfad-68da-5543-ae7b-8d45bf20acb1
-  macAddresses:
-  - 7C:51:89:00:00:00/24
-  manufacturer: SG Wireless Limited
-  manufacturerUri: https://device-type.com
-  name: SGWirele
-type: d3-device-type-assertion

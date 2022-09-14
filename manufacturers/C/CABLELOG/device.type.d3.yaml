@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6c748aaa-5936-575a-b7b5-bb687ee1a0c4
-  macAddresses:
-  - 00:0F:57:00:00:00/24
-  manufacturer: CABLELOGIC Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: CABLELOG
-type: d3-device-type-assertion

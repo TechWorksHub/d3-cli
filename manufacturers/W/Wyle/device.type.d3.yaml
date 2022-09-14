@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a8b05e81-1b2a-5a18-ab61-44b869af2bf0
-  macAddresses:
-  - 00:A0:15:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Wyle
-type: d3-device-type-assertion

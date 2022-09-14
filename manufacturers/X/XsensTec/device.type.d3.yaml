@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 568f9d95-5442-5075-b289-179025a2fe9c
-  macAddresses:
-  - D4:22:CD:00:00:00/24
-  manufacturer: Xsens Technologies B.V.
-  manufacturerUri: https://device-type.com
-  name: XsensTec
-type: d3-device-type-assertion

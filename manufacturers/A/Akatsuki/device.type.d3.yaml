@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8c7b5f88-d5e3-52d1-a74d-7d27529b9fff
-  macAddresses:
-  - 00:0C:F4:00:00:00/24
-  manufacturer: Akatsuki Electric Mfg.Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: Akatsuki
-type: d3-device-type-assertion

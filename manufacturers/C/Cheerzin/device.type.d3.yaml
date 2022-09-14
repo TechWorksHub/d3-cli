@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c47240aa-26e4-578b-b7ac-fe7c39b5156e
-  macAddresses:
-  - 70:FF:5C:00:00:00/24
-  manufacturer: Cheerzing Communication(Xiamen)Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: Cheerzin
-type: d3-device-type-assertion

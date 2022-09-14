@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c8077f01-7cc6-5d3a-ac57-75f3a9472c57
-  macAddresses:
-  - 64:DB:81:00:00:00/24
-  manufacturer: Syszone Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Syszone
-type: d3-device-type-assertion

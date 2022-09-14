@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b909ff2c-273f-5d9b-a456-067bfe377eb5
-  macAddresses:
-  - AC:4F:FC:00:00:00/24
-  manufacturer: SVS-VISTEK GmbH
-  manufacturerUri: https://device-type.com
-  name: SVS-VIST
-type: d3-device-type-assertion

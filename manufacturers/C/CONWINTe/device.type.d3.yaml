@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 326641be-f15d-5946-8e1f-9d02fa2e5a46
-  macAddresses:
-  - FC:9F:E1:00:00:00/24
-  manufacturer: CONWIN.Tech. Ltd
-  manufacturerUri: https://device-type.com
-  name: CONWINTe
-type: d3-device-type-assertion

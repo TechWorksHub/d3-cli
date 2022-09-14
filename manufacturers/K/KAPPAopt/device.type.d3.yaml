@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3a16edf8-5caa-5fad-9eca-7806c9d815af
-  macAddresses:
-  - 00:0B:1E:00:00:00/24
-  manufacturer: KAPPA opto-electronics GmbH
-  manufacturerUri: https://device-type.com
-  name: KAPPAopt
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 63952877-c79f-549e-b59a-6ae6a0938771
-  macAddresses:
-  - F8:8A:3C:70:00:00/28
-  manufacturer: Josh.ai
-  manufacturerUri: https://device-type.com
-  name: Joshai
-type: d3-device-type-assertion

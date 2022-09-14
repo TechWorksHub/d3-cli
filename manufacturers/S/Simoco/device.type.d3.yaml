@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 747538cd-5d38-5e2b-83c8-619502c7e671
-  macAddresses:
-  - 00:1A:08:00:00:00/24
-  manufacturer: Simoco Ltd.
-  manufacturerUri: https://device-type.com
-  name: Simoco
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1c8f2505-f2f6-5a74-959a-c3e2036ff3ee
-  macAddresses:
-  - 00:20:FD:00:00:00/24
-  manufacturer: Itv Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: ItvTechn
-type: d3-device-type-assertion

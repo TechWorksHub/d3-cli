@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8bda3f69-dbfe-58b5-9b62-8c57a26bb33f
-  macAddresses:
-  - 00:12:5E:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Caen
-type: d3-device-type-assertion

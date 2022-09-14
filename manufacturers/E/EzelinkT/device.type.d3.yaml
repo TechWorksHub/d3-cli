@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9b1b9f4e-8e6a-51c7-a8f3-5c65c17b5cec
-  macAddresses:
-  - 6C:71:BD:00:00:00/24
-  manufacturer: Ezelink Telecom
-  manufacturerUri: https://device-type.com
-  name: EzelinkT
-type: d3-device-type-assertion

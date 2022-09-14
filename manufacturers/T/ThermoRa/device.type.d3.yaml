@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 12fd3270-e70a-5b20-9862-52af1865d725
-  macAddresses:
-  - 00:17:27:00:00:00/24
-  manufacturer: Thermo Ramsey Italia s.r.l.
-  manufacturerUri: https://device-type.com
-  name: ThermoRa
-type: d3-device-type-assertion

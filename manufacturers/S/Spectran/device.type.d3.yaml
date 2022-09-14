@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f4da1d0f-e3e0-5623-8948-140380c18c32
-  macAddresses:
-  - 8C:59:3C:50:00:00/28
-  manufacturer: Spectranetix
-  manufacturerUri: https://device-type.com
-  name: Spectran
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 88ae9000-5655-50e4-9522-1a341f299952
-  macAddresses:
-  - 24:18:C0:00:00:00/24
-  manufacturer: E. Wehrle GmbH
-  manufacturerUri: https://device-type.com
-  name: EWehrle
-type: d3-device-type-assertion

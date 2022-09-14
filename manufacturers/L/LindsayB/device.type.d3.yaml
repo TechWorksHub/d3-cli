@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cf97a15d-a45c-51a1-9325-c584267f2c44
-  macAddresses:
-  - 28:99:C7:00:00:00/24
-  manufacturer: Lindsay Broadband Inc
-  manufacturerUri: https://device-type.com
-  name: LindsayB
-type: d3-device-type-assertion

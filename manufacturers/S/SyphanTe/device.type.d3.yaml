@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 599a8bea-3d2c-5b33-9fd8-1be94679e639
-  macAddresses:
-  - 00:25:59:00:00:00/24
-  manufacturer: Syphan Technologies Ltd
-  manufacturerUri: https://device-type.com
-  name: SyphanTe
-type: d3-device-type-assertion

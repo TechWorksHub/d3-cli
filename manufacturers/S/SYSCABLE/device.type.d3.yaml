@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ab53a5eb-ca6e-541b-be7a-a837b7c67064
-  macAddresses:
-  - 9C:80:7D:00:00:00/24
-  manufacturer: SYSCABLE Korea Inc.
-  manufacturerUri: https://device-type.com
-  name: SYSCABLE
-type: d3-device-type-assertion

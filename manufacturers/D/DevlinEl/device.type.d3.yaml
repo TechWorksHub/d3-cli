@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7bca1913-a566-5583-84c8-707d6a82c089
-  macAddresses:
-  - 24:09:17:00:00:00/24
-  manufacturer: Devlin Electronics Limited
-  manufacturerUri: https://device-type.com
-  name: DevlinEl
-type: d3-device-type-assertion

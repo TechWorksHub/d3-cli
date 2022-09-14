@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 80e211b2-a464-5d00-b938-8b8dac88c13e
-  macAddresses:
-  - 00:0D:89:00:00:00/24
-  manufacturer: Bils Technology Inc
-  manufacturerUri: https://device-type.com
-  name: BilsTech
-type: d3-device-type-assertion

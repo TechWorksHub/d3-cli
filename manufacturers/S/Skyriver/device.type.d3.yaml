@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8259ccb0-9f1d-501f-96e0-7f0a263566d4
-  macAddresses:
-  - 70:B3:D5:C2:20:00/36
-  manufacturer: Skyriver Communications Inc.
-  manufacturerUri: https://device-type.com
-  name: Skyriver
-type: d3-device-type-assertion

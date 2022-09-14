@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3b9d5451-bfda-5bc6-ba42-b4b4795ce787
-  macAddresses:
-  - 34:E1:D1:20:00:00/28
-  manufacturer: Teton Camera LLC
-  manufacturerUri: https://device-type.com
-  name: TetonCam
-type: d3-device-type-assertion

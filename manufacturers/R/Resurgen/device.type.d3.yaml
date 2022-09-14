@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ea619745-9448-5724-836b-b8a7991071df
-  macAddresses:
-  - 00:50:C2:95:C0:00/36
-  manufacturer: Resurgent Health & Medical
-  manufacturerUri: https://device-type.com
-  name: Resurgen
-type: d3-device-type-assertion

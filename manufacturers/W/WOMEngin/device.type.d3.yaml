@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ea8ecc90-b647-5c2f-9b30-edba09d8401f
-  macAddresses:
-  - 94:66:E7:00:00:00/24
-  manufacturer: WOM Engineering
-  manufacturerUri: https://device-type.com
-  name: WOMEngin
-type: d3-device-type-assertion

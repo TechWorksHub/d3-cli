@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 04f596ad-c820-550b-8754-888d3eae772a
-  macAddresses:
-  - 6C:0F:6A:00:00:00/24
-  manufacturer: JDC Tech Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: JDCTech
-type: d3-device-type-assertion

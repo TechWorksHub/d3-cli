@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 89de984a-ea2b-5d8e-ae3b-a81184e1ab64
-  macAddresses:
-  - 08:BB:CC:00:00:00/24
-  manufacturer: AK-NORD EDV VERTRIEBSGES. mbH
-  manufacturerUri: https://device-type.com
-  name: AK-NORDE
-type: d3-device-type-assertion

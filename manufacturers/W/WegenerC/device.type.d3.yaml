@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e734646c-e881-598b-bffd-0981b421b930
-  macAddresses:
-  - 00:07:8B:00:00:00/24
-  manufacturer: Wegener Communications, Inc.
-  manufacturerUri: https://device-type.com
-  name: WegenerC
-type: d3-device-type-assertion

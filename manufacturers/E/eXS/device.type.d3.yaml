@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ba87b7d0-71cf-5469-a1ac-b94ce6e9c362
-  macAddresses:
-  - 00:14:83:00:00:00/24
-  manufacturer: eXS Inc.
-  manufacturerUri: https://device-type.com
-  name: eXS
-type: d3-device-type-assertion

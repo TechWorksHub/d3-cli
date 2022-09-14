@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 212177a4-721c-56c1-bf86-f9692d04a97f
-  macAddresses:
-  - 00:50:C2:D4:80:00/36
-  manufacturer: Watermark Estate Management Services, LLC
-  manufacturerUri: https://device-type.com
-  name: Watermar
-type: d3-device-type-assertion

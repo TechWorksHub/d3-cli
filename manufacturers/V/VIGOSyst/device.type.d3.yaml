@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1628ff39-237c-58f7-8535-6f6ef8eba15a
-  macAddresses:
-  - D4:53:AF:00:00:00/24
-  manufacturer: VIGO System S.A.
-  manufacturerUri: https://device-type.com
-  name: VIGOSyst
-type: d3-device-type-assertion

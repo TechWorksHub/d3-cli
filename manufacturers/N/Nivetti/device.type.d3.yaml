@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bbe82411-4842-5935-85cb-30999f7aea9e
-  macAddresses:
-  - 00:26:F7:00:00:00/24
-  manufacturer: Nivetti Systems Pvt. Ltd.
-  manufacturerUri: https://device-type.com
-  name: Nivetti
-type: d3-device-type-assertion

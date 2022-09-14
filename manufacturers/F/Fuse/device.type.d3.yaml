@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2f8e79ba-2779-5ca0-a496-20b6b14b1afe
-  macAddresses:
-  - 4C:65:A8:C0:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Fuse
-type: d3-device-type-assertion

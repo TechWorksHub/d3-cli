@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 667e382a-e7cc-5e5a-82b6-fb51f3c2a1ef
-  macAddresses:
-  - 70:B3:D5:43:D0:00/36
-  manufacturer: Veryx Technologies Private Limited
-  manufacturerUri: https://device-type.com
-  name: VeryxTec
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a1bc39ca-fce1-5ed9-80ed-be6f3b48c695
-  macAddresses:
-  - 6C:15:24:90:00:00/28
-  manufacturer: D-Home Smaart
-  manufacturerUri: https://device-type.com
-  name: D-HomeSm
-type: d3-device-type-assertion

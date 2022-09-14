@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0aa7964e-39c8-5dfc-b48e-aa97200fea6f
-  macAddresses:
-  - 00:08:CD:00:00:00/24
-  manufacturer: With-Net Inc
-  manufacturerUri: https://device-type.com
-  name: With-Net
-type: d3-device-type-assertion

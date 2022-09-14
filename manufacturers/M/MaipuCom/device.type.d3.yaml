@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 34e83201-5dac-5907-bf2d-784299ce2fc2
-  macAddresses:
-  - CC:D8:1F:00:00:00/24
-  manufacturer: Maipu Communication Technology Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: MaipuCom
-type: d3-device-type-assertion

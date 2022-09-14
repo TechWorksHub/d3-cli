@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dc545c15-3223-5d50-88f8-13894a487046
-  macAddresses:
-  - 40:D8:55:1B:50:00/36
-  manufacturer: A+EC Klein Ingenieurbuero
-  manufacturerUri: https://device-type.com
-  name: A+ECKlei
-type: d3-device-type-assertion

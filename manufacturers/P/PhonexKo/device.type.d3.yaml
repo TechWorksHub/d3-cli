@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cd98f2a7-ad8a-5693-bf7a-7fb57a6f785d
-  macAddresses:
-  - 00:19:23:00:00:00/24
-  manufacturer: Phonex Korea Co., LTD.
-  manufacturerUri: https://device-type.com
-  name: PhonexKo
-type: d3-device-type-assertion

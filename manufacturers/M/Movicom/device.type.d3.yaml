@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 73cabb36-0112-5e60-beb2-e9097ba03a0d
-  macAddresses:
-  - 70:B3:D5:5D:B0:00/36
-  manufacturer: Movicom LLC
-  manufacturerUri: https://device-type.com
-  name: Movicom
-type: d3-device-type-assertion

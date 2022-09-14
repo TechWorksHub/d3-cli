@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 35245dc9-d810-5e68-84b7-0e1fd97d7d5b
-  macAddresses:
-  - 38:F1:35:00:00:00/24
-  manufacturer: SensorTec-Canada
-  manufacturerUri: https://device-type.com
-  name: SensorTe
-type: d3-device-type-assertion

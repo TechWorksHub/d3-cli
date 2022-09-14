@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 79ff2478-fd2d-5791-b989-94592a9c632f
-  macAddresses:
-  - B0:D2:F5:00:00:00/24
-  manufacturer: Vello Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Vello
-type: d3-device-type-assertion

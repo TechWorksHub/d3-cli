@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: acffde6b-52ef-540e-b1bd-85aa460d742e
-  macAddresses:
-  - 4C:EE:B0:00:00:00/24
-  manufacturer: SHC Netzwerktechnik GmbH
-  manufacturerUri: https://device-type.com
-  name: SHCNetzw
-type: d3-device-type-assertion

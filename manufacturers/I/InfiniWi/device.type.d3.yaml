@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a1a033ef-78b3-52f5-bd3a-3cf188182c14
-  macAddresses:
-  - 14:B1:C8:00:00:00/24
-  manufacturer: InfiniWing, Inc.
-  manufacturerUri: https://device-type.com
-  name: InfiniWi
-type: d3-device-type-assertion

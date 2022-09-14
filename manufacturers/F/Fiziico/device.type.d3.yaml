@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 994d71f5-7140-5c02-84de-13224e4abb30
-  macAddresses:
-  - F0:AC:D7:E0:00:00/28
-  manufacturer: Fiziico Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Fiziico
-type: d3-device-type-assertion

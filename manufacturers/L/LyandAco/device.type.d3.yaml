@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3c7c49c9-e7c2-5063-914a-2f59a905c29e
-  macAddresses:
-  - C0:61:9A:30:00:00/28
-  manufacturer: Lyand Acoustic Technology Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: LyandAco
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 759f248b-7087-586e-bcb4-6103ba43d8c3
-  macAddresses:
-  - 00:24:29:00:00:00/24
-  manufacturer: Mk Master Inc.
-  manufacturerUri: https://device-type.com
-  name: MkMaster
-type: d3-device-type-assertion

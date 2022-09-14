@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a11e7f9e-7587-5366-9451-3119cb4e1bd6
-  macAddresses:
-  - 70:B3:D5:4A:30:00/36
-  manufacturer: Tualcom Elektronik A.S.
-  manufacturerUri: https://device-type.com
-  name: TualcomE
-type: d3-device-type-assertion

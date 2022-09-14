@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ef107e3a-9f37-5469-b660-0af2d0d81c25
-  macAddresses:
-  - 60:15:92:40:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Zaptec
-type: d3-device-type-assertion

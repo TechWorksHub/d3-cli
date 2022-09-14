@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3640d300-e796-539b-9854-0ad4656abd86
-  macAddresses:
-  - 38:B8:EB:C0:00:00/28
-  manufacturer: Ajax Systems Inc
-  manufacturerUri: https://device-type.com
-  name: Ajax
-type: d3-device-type-assertion

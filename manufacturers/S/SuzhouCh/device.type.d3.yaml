@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1b1ca393-2fc5-529d-b047-d767387e6c7e
-  macAddresses:
-  - F8:66:01:00:00:00/24
-  manufacturer: Suzhou Chi-tek information technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: SuzhouCh
-type: d3-device-type-assertion

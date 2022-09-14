@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a9fda60a-fe3b-513a-b7ac-a634c9721f51
-  macAddresses:
-  - 00:25:19:00:00:00/24
-  manufacturer: Viaas Inc
-  manufacturerUri: https://device-type.com
-  name: Viaas
-type: d3-device-type-assertion

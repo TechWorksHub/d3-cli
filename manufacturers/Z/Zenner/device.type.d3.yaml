@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 19c9eecb-c279-5bc0-9a38-a1419a69fa77
-  macAddresses:
-  - 04:B6:48:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Zenner
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ffbb1851-7fa3-5407-b1f2-42b927db94ea
-  macAddresses:
-  - 4C:1A:95:00:00:00/24
-  manufacturer: Novakon Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Novakon
-type: d3-device-type-assertion

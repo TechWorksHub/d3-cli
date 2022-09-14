@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b05a1b22-2a21-5409-a3c6-06dd15c7db7d
-  macAddresses:
-  - 00:50:C2:0E:20:00/36
-  manufacturer: Visual Circuits Corp.
-  manufacturerUri: https://device-type.com
-  name: VisualCi
-type: d3-device-type-assertion

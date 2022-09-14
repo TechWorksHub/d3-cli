@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 39d146b7-51f8-5b6c-ab43-27c271f9e494
-  macAddresses:
-  - 94:88:15:00:00:00/24
-  manufacturer: Infinique Worldwide Inc
-  manufacturerUri: https://device-type.com
-  name: Infiniqu
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 722bc2d6-99e9-5df7-a736-e6fe058e370f
-  macAddresses:
-  - 00:0A:1B:00:00:00/24
-  manufacturer: Stream Labs
-  manufacturerUri: https://device-type.com
-  name: StreamLa
-type: d3-device-type-assertion

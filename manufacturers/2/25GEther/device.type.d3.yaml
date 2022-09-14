@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ad3804f1-9d89-52be-97de-f189d667e337
-  macAddresses:
-  - 6A:73:7D:00:00:00/24
-  manufacturer: 25G Ethernet Consortium
-  manufacturerUri: https://device-type.com
-  name: 25GEther
-type: d3-device-type-assertion

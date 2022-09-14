@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 40c34811-e403-5b06-a18a-c6b5e46d2d01
-  macAddresses:
-  - 00:50:C2:36:C0:00/36
-  manufacturer: RISCO Group
-  manufacturerUri: https://device-type.com
-  name: RISCOGro
-type: d3-device-type-assertion

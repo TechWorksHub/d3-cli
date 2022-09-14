@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7d2b415a-aca6-5648-8623-88b2673781d0
-  macAddresses:
-  - 54:35:DF:00:00:00/24
-  manufacturer: Symeo GmbH
-  manufacturerUri: https://device-type.com
-  name: Symeo
-type: d3-device-type-assertion

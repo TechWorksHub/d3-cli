@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6a89a4b2-7a94-5682-84c2-a806ff4d9385
-  macAddresses:
-  - 00:60:8A:00:00:00/24
-  manufacturer: Citadel Computer
-  manufacturerUri: https://device-type.com
-  name: CitadelC
-type: d3-device-type-assertion

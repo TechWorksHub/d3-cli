@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c3235475-5dc6-5c7b-936f-c258ca5556a3
-  macAddresses:
-  - 70:B3:D5:5D:70:00/36
-  manufacturer: Clockwork Dog
-  manufacturerUri: https://device-type.com
-  name: Clockwor
-type: d3-device-type-assertion

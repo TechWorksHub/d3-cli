@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b6d06b09-5954-5988-99c4-f37a73217333
-  macAddresses:
-  - 00:05:66:00:00:00/24
-  manufacturer: Secui.com Corporation
-  manufacturerUri: https://device-type.com
-  name: Secuicom
-type: d3-device-type-assertion

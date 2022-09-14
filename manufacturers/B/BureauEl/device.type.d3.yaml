@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 286c9aff-54f6-548e-b225-2281c2650dc9
-  macAddresses:
-  - 04:71:4B:50:00:00/28
-  manufacturer: Bureau Electronique Appliquee
-  manufacturerUri: https://device-type.com
-  name: BureauEl
-type: d3-device-type-assertion

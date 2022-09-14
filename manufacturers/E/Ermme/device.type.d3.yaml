@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4c95cca9-e953-50d7-b599-b25be3621530
-  macAddresses:
-  - 00:0E:0F:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Ermme
-type: d3-device-type-assertion

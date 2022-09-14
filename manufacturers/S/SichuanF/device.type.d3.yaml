@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0d006379-6304-5100-963f-286f9eeb8e51
-  macAddresses:
-  - 80:02:F4:50:00:00/28
-  manufacturer: Sichuan Fanyi Technology Co. Ltd.
-  manufacturerUri: https://device-type.com
-  name: SichuanF
-type: d3-device-type-assertion

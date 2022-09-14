@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c76b5575-0762-5d98-9960-4ed255d60f07
-  macAddresses:
-  - 00:40:51:00:00:00/24
-  manufacturer: Garbee and Garbee
-  manufacturerUri: https://device-type.com
-  name: Garbeean
-type: d3-device-type-assertion

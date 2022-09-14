@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3dcc2d3c-a2c2-5adb-aefe-9ea579b287db
-  macAddresses:
-  - 30:89:44:00:00:00/24
-  manufacturer: DEVA Broadcast Ltd.
-  manufacturerUri: https://device-type.com
-  name: DEVABroa
-type: d3-device-type-assertion

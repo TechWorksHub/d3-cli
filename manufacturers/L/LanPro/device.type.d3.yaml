@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0052d6b3-e716-520c-bfde-dddfe662f604
-  macAddresses:
-  - 00:27:11:00:00:00/24
-  manufacturer: LanPro Inc
-  manufacturerUri: https://device-type.com
-  name: LanPro
-type: d3-device-type-assertion

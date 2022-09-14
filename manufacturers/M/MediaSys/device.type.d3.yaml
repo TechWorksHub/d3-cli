@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8833af0f-3ade-54fe-818a-7e0a246b3b17
-  macAddresses:
-  - 00:13:BF:00:00:00/24
-  manufacturer: Media System Planning Corp.
-  manufacturerUri: https://device-type.com
-  name: MediaSys
-type: d3-device-type-assertion

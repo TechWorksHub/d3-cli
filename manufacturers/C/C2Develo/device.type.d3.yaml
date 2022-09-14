@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d2abe03f-9cca-5428-8136-5d606ec0cd12
-  macAddresses:
-  - D8:97:60:00:00:00/24
-  manufacturer: C2 Development, Inc.
-  manufacturerUri: https://device-type.com
-  name: C2Develo
-type: d3-device-type-assertion

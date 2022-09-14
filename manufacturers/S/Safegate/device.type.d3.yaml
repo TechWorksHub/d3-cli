@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8b14efb9-4012-5e1e-aa7b-5a9905276404
-  macAddresses:
-  - 00:50:C2:48:60:00/36
-  manufacturer: Safegate International AB
-  manufacturerUri: https://device-type.com
-  name: Safegate
-type: d3-device-type-assertion

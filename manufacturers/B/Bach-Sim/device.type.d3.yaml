@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 12e17957-de3c-5e1d-b599-a4b49c83f9a2
-  macAddresses:
-  - C4:55:C2:00:00:00/24
-  manufacturer: Bach-Simpson
-  manufacturerUri: https://device-type.com
-  name: Bach-Sim
-type: d3-device-type-assertion

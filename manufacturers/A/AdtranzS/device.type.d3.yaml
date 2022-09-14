@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8ce91564-be5a-5a96-864f-fdab825ea5bd
-  macAddresses:
-  - 00:06:30:00:00:00/24
-  manufacturer: Adtranz Sweden
-  manufacturerUri: https://device-type.com
-  name: AdtranzS
-type: d3-device-type-assertion

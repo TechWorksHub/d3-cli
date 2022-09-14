@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9261a085-f841-523c-8288-ad3d42b79cf3
-  macAddresses:
-  - 00:0F:7B:00:00:00/24
-  manufacturer: Arce Sistemas, S.A.
-  manufacturerUri: https://device-type.com
-  name: ArceSist
-type: d3-device-type-assertion

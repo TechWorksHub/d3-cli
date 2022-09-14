@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6c2f0ded-e081-5643-9405-141d5b60946d
-  macAddresses:
-  - 38:17:30:00:00:00/24
-  manufacturer: Ulrich Lippert GmbH & Co KG
-  manufacturerUri: https://device-type.com
-  name: UlrichLi
-type: d3-device-type-assertion

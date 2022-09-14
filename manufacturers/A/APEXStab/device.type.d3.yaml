@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d8eecc00-4b0b-5ec6-9217-8824c608fb7f
-  macAddresses:
-  - 70:B3:D5:A5:20:00/36
-  manufacturer: APEX Stabilizations GmbH
-  manufacturerUri: https://device-type.com
-  name: APEXStab
-type: d3-device-type-assertion

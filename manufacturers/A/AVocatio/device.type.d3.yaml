@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 69385237-9c9c-5697-8c09-c8da91156d3a
-  macAddresses:
-  - 00:50:C2:ED:80:00/36
-  manufacturer: AVocation Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: AVocatio
-type: d3-device-type-assertion

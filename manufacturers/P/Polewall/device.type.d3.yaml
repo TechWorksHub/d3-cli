@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 239d995f-20cb-5b2b-881b-72ac10f52899
-  macAddresses:
-  - 94:7C:3E:00:00:00/24
-  manufacturer: Polewall Norge AS
-  manufacturerUri: https://device-type.com
-  name: Polewall
-type: d3-device-type-assertion

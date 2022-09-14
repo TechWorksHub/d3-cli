@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a645da77-f3c6-541e-94ea-7a3425a5c0eb
-  macAddresses:
-  - 00:19:BA:00:00:00/24
-  manufacturer: Paradox Security Systems Ltd
-  manufacturerUri: https://device-type.com
-  name: ParadoxS
-type: d3-device-type-assertion

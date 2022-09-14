@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 88c35d7a-5bb1-5f84-862c-f98842c06c88
-  macAddresses:
-  - 98:8F:E0:30:00:00/28
-  manufacturer: Empowerment Technologies Inc.
-  manufacturerUri: https://device-type.com
-  name: Empowerm
-type: d3-device-type-assertion

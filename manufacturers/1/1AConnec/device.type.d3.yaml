@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f723833e-cecc-57bc-87ef-62b959bfb58c
-  macAddresses:
-  - 38:B8:EB:10:00:00/28
-  manufacturer: 1.A Connect GmbH
-  manufacturerUri: https://device-type.com
-  name: 1AConnec
-type: d3-device-type-assertion

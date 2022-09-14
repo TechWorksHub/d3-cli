@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f0d19231-a046-58ce-a6cc-769f4a2b0895
-  macAddresses:
-  - 00:03:C2:00:00:00/24
-  manufacturer: Solphone K.K.
-  manufacturerUri: https://device-type.com
-  name: Solphone
-type: d3-device-type-assertion

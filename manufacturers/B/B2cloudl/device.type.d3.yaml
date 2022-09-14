@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bec1576c-a075-5ed2-9711-6ce77230fd37
-  macAddresses:
-  - 70:B3:D5:29:E0:00/36
-  manufacturer: B2cloud lda
-  manufacturerUri: https://device-type.com
-  name: B2cloudl
-type: d3-device-type-assertion

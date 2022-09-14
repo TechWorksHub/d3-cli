@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f3672a8d-f9b8-5133-a046-a37cfaa1ade5
-  macAddresses:
-  - 70:B3:D5:C8:80:00/36
-  manufacturer: SINED srl
-  manufacturerUri: https://device-type.com
-  name: SINED
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4cdd11d4-e928-58ab-8875-71bc4512f4f8
-  macAddresses:
-  - F8:F2:5A:00:00:00/24
-  manufacturer: G-Lab GmbH
-  manufacturerUri: https://device-type.com
-  name: G-Lab
-type: d3-device-type-assertion

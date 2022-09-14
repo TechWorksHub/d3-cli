@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ce9c0e24-303f-5634-87cc-8845e1332c41
-  macAddresses:
-  - 00:07:63:00:00:00/24
-  manufacturer: Sunniwell Cyber Tech. Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Sunniwel
-type: d3-device-type-assertion

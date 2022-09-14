@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 363a8790-c306-536e-951c-6db4a4d793e5
-  macAddresses:
-  - 00:50:C2:34:90:00/36
-  manufacturer: SSI Schaefer Peem
-  manufacturerUri: https://device-type.com
-  name: SSISchae
-type: d3-device-type-assertion

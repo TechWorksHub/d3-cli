@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4c931565-5875-5aea-b7c6-856a4dbeca15
-  macAddresses:
-  - 00:09:2C:00:00:00/24
-  manufacturer: Hitpoint Inc.
-  manufacturerUri: https://device-type.com
-  name: Hitpoint
-type: d3-device-type-assertion

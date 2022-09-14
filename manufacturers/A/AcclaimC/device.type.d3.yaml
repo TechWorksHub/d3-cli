@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dcb36233-4215-569e-96cf-9381c6e343f6
-  macAddresses:
-  - 00:60:CE:00:00:00/24
-  manufacturer: Acclaim Communications
-  manufacturerUri: https://device-type.com
-  name: AcclaimC
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2a0d3433-85f1-5050-8a4e-22efce1367c0
-  macAddresses:
-  - E0:E6:31:00:00:00/24
-  manufacturer: Snb Technologies Limited
-  manufacturerUri: https://device-type.com
-  name: SnbTechn
-type: d3-device-type-assertion

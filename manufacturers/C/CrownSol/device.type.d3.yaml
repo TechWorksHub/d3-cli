@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 07058c40-7bff-50ad-a984-a7d4fe9f4a72
-  macAddresses:
-  - 70:B3:D5:9D:60:00/36
-  manufacturer: Crown Solar Power Fencing Systems
-  manufacturerUri: https://device-type.com
-  name: CrownSol
-type: d3-device-type-assertion

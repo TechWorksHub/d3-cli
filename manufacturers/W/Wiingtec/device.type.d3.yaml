@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 81674626-032b-5370-9cb5-3e7f193cc375
-  macAddresses:
-  - 70:B3:D5:6E:D0:00/36
-  manufacturer: Wiingtech International Co. LTD.
-  manufacturerUri: https://device-type.com
-  name: Wiingtec
-type: d3-device-type-assertion

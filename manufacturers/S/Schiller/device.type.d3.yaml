@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cead8cac-a29d-55af-b980-ea12c63879b8
-  macAddresses:
-  - 00:0D:B8:00:00:00/24
-  manufacturer: Schiller Ag
-  manufacturerUri: https://device-type.com
-  name: Schiller
-type: d3-device-type-assertion

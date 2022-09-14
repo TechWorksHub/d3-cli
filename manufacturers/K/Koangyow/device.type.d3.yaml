@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a37dd363-15ad-50a8-b2c8-1841f16eb5a6
-  macAddresses:
-  - 64:31:39:30:00:00/28
-  manufacturer: Koangyow Integration Machine Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Koangyow
-type: d3-device-type-assertion

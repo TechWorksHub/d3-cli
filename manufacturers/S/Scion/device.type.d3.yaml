@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 21762bd2-db7c-5e38-843b-dfb2e413312b
-  macAddresses:
-  - 00:0B:27:00:00:00/24
-  manufacturer: Scion Corporation
-  manufacturerUri: https://device-type.com
-  name: Scion
-type: d3-device-type-assertion

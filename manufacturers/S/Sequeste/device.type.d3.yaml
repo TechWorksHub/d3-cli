@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 59f6992c-c203-5a98-b148-f80e451089ab
-  macAddresses:
-  - 00:50:C2:72:B0:00/36
-  manufacturer: Sequestered Solutions
-  manufacturerUri: https://device-type.com
-  name: Sequeste
-type: d3-device-type-assertion

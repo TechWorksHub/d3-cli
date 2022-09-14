@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8473c477-6421-52e8-ae11-90eb139cc3cb
-  macAddresses:
-  - 40:48:FD:30:00:00/28
-  manufacturer: RL Controls LLC.
-  manufacturerUri: https://device-type.com
-  name: RLContro
-type: d3-device-type-assertion

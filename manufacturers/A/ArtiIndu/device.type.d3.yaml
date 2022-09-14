@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1770e8e5-0849-5770-9c78-079737eee624
-  macAddresses:
-  - 00:17:70:00:00:00/24
-  manufacturer: Arti Industrial Electronics Ltd.
-  manufacturerUri: https://device-type.com
-  name: ArtiIndu
-type: d3-device-type-assertion

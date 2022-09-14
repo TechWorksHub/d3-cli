@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 218f19e2-c8e5-5114-99a0-c27b4559857c
-  macAddresses:
-  - 4C:E1:73:20:00:00/28
-  manufacturer: Lenovo Data Center Group
-  manufacturerUri: https://device-type.com
-  name: LenovoDa
-type: d3-device-type-assertion

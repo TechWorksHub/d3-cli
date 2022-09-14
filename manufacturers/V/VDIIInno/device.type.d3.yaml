@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3e17e7d6-23e3-5464-8cb2-bde3ab29bdc5
-  macAddresses:
-  - C8:9F:42:00:00:00/24
-  manufacturer: VDII Innovation AB
-  manufacturerUri: https://device-type.com
-  name: VDIIInno
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ff971ece-d008-5139-a579-dae7db0cd5c3
-  macAddresses:
-  - 00:17:92:00:00:00/24
-  manufacturer: Falcom Wireless Comunications Gmbh
-  manufacturerUri: https://device-type.com
-  name: FalcomWi
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d8313722-fb62-55b5-a853-5ef5ebac1292
-  macAddresses:
-  - D4:25:CC:D0:00:00/28
-  manufacturer: Combined Energy Technologies Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: Combined
-type: d3-device-type-assertion

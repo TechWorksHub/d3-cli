@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 845491d8-e565-5155-8c9e-77a3df9d32dc
-  macAddresses:
-  - 08:00:2F:00:00:00/24
-  manufacturer: Prime Computer
-  manufacturerUri: https://device-type.com
-  name: PrimeCom
-type: d3-device-type-assertion

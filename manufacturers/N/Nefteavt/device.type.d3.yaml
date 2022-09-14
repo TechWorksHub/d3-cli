@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 99a6b8c5-873b-5874-a487-826e9b2c2be6
-  macAddresses:
-  - 70:B3:D5:58:50:00/36
-  manufacturer: Nefteavtomatika
-  manufacturerUri: https://device-type.com
-  name: Nefteavt
-type: d3-device-type-assertion

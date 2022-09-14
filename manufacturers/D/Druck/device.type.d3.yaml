@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8fa23ef7-f085-59ca-a223-39c0f2d7f714
-  macAddresses:
-  - 70:B3:D5:EA:A0:00/36
-  manufacturer: Druck Ltd.
-  manufacturerUri: https://device-type.com
-  name: Druck
-type: d3-device-type-assertion

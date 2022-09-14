@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 657d3828-4e08-5a26-aa01-cda4c3b19c23
-  macAddresses:
-  - 00:1B:7B:00:00:00/24
-  manufacturer: The Tintometer Ltd
-  manufacturerUri: https://device-type.com
-  name: Tintomet
-type: d3-device-type-assertion

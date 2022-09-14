@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: af9daffa-2bfb-5b7a-ac83-b59d41e6a1bc
-  macAddresses:
-  - 00:06:17:00:00:00/24
-  manufacturer: Redswitch Inc.
-  manufacturerUri: https://device-type.com
-  name: Redswitc
-type: d3-device-type-assertion

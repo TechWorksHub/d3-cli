@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e929edb1-7c7c-5f57-9144-daa5d723b542
-  macAddresses:
-  - 00:50:C2:C0:50:00/36
-  manufacturer: Doppler Systems LLC
-  manufacturerUri: https://device-type.com
-  name: Doppler
-type: d3-device-type-assertion

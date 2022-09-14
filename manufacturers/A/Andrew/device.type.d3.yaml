@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 554f1068-2898-53cd-961f-ddc2353dc8ea
-  macAddresses:
-  - 00:12:35:00:00:00/24
-  manufacturer: Andrew Corporation
-  manufacturerUri: https://device-type.com
-  name: Andrew
-type: d3-device-type-assertion

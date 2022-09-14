@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ec1bf2c0-bc19-59b4-8d18-0ba35005386c
-  macAddresses:
-  - 00:23:58:00:00:00/24
-  manufacturer: Systel Sa
-  manufacturerUri: https://device-type.com
-  name: Systel
-type: d3-device-type-assertion

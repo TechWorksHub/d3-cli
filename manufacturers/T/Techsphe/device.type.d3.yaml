@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d32fc660-09be-5baa-b630-cb3c95a9bc6e
-  macAddresses:
-  - 00:15:10:00:00:00/24
-  manufacturer: Techsphere Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Techsphe
-type: d3-device-type-assertion

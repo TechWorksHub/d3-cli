@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 16f16ee5-d22c-51f8-a0c2-70ca74691208
-  macAddresses:
-  - 00:50:C2:C2:40:00/36
-  manufacturer: Qualnetics Corporation
-  manufacturerUri: https://device-type.com
-  name: Qualneti
-type: d3-device-type-assertion

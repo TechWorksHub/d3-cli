@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fd779766-43ea-5da3-aa40-5ca874ed8150
-  macAddresses:
-  - 00:01:7D:00:00:00/24
-  manufacturer: ThermoQuest
-  manufacturerUri: https://device-type.com
-  name: ThermoQu
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 61f719c1-2fdd-5243-be59-9350972f2fe7
-  macAddresses:
-  - C0:A3:9E:00:00:00/24
-  manufacturer: EarthCam, Inc.
-  manufacturerUri: https://device-type.com
-  name: EarthCam
-type: d3-device-type-assertion

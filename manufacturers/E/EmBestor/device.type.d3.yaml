@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6bf21ca1-8f94-524b-939e-ca833a667984
-  macAddresses:
-  - B4:50:62:00:00:00/24
-  manufacturer: EmBestor Technology Inc.
-  manufacturerUri: https://device-type.com
-  name: EmBestor
-type: d3-device-type-assertion

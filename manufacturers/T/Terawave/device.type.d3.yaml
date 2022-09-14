@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 47d09c3b-4af4-5e96-bc16-0924891aabd1
-  macAddresses:
-  - 00:30:FC:00:00:00/24
-  manufacturer: Terawave Communications, Inc.
-  manufacturerUri: https://device-type.com
-  name: Terawave
-type: d3-device-type-assertion

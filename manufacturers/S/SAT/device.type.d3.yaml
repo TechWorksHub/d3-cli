@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f3bf3cb0-d613-5e21-85cc-f16d6bd371af
-  macAddresses:
-  - 00:E0:A8:00:00:00/24
-  manufacturer: SAT GmbH & Co.
-  manufacturerUri: https://device-type.com
-  name: SAT
-type: d3-device-type-assertion

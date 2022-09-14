@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e6ed4725-8f8b-5fc6-96ec-97b3a63fdf9e
-  macAddresses:
-  - 00:60:E0:00:00:00/24
-  manufacturer: Axiom Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: AxiomTec
-type: d3-device-type-assertion

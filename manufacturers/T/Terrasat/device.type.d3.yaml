@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 02253c0e-d713-589d-a8f9-229c46901d90
-  macAddresses:
-  - 00:12:05:00:00:00/24
-  manufacturer: Terrasat Communications, Inc.
-  manufacturerUri: https://device-type.com
-  name: Terrasat
-type: d3-device-type-assertion

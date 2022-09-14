@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4dac9702-fe5f-599a-b2fd-2809c2811f04
-  macAddresses:
-  - 00:0F:72:00:00:00/24
-  manufacturer: Sandburst
-  manufacturerUri: https://device-type.com
-  name: Sandburs
-type: d3-device-type-assertion

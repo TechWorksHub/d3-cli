@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: deb22aea-2db1-5590-8b0e-279b81fb8e58
-  macAddresses:
-  - CC:18:7B:00:00:00/24
-  manufacturer: Manzanita Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Manzanit
-type: d3-device-type-assertion

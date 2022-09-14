@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6012a18c-b34c-51da-9563-08aff5bf09a5
-  macAddresses:
-  - 6C:DF:FB:C0:00:00/28
-  manufacturer: Toucan Systems Ltd
-  manufacturerUri: https://device-type.com
-  name: Toucan
-type: d3-device-type-assertion

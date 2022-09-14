@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 443d42f6-7742-511a-b63b-72a6c6cf818a
-  macAddresses:
-  - 00:07:E2:00:00:00/24
-  manufacturer: Bitworks, Inc.
-  manufacturerUri: https://device-type.com
-  name: Bitworks
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 707b85e1-4b75-56be-a6f3-ee6666c0863f
-  macAddresses:
-  - 70:B3:D5:82:10:00/36
-  manufacturer: HL2 group
-  manufacturerUri: https://device-type.com
-  name: HL2group
-type: d3-device-type-assertion

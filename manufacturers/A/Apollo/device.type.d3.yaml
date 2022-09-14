@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 766cc43b-c69d-5dd1-82b4-63faf92c9bef
-  macAddresses:
-  - 00:60:EE:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Apollo
-type: d3-device-type-assertion

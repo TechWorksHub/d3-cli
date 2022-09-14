@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f30eed5d-644e-5d77-9140-36b0636ea2bb
-  macAddresses:
-  - B0:C5:CA:10:00:00/28
-  manufacturer: Ivk-Sayany
-  manufacturerUri: https://device-type.com
-  name: Ivk-Saya
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5847f9c2-459b-5411-b34f-927b2aef957b
-  macAddresses:
-  - 00:50:C2:15:A0:00/36
-  manufacturer: Plextek Limited
-  manufacturerUri: https://device-type.com
-  name: Plextek
-type: d3-device-type-assertion

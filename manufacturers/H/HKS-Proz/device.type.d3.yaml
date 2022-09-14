@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6a7de605-d2e9-55a4-a5ba-373c2b2d6a17
-  macAddresses:
-  - 40:D8:55:10:E0:00/36
-  manufacturer: HKS-Prozesstechnik GmbH
-  manufacturerUri: https://device-type.com
-  name: HKS-Proz
-type: d3-device-type-assertion

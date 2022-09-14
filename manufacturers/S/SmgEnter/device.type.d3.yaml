@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d11d1fa4-2a2c-5351-b068-cf8318f30cc7
-  macAddresses:
-  - 1C:4B:B9:00:00:00/24
-  manufacturer: Smg Enterprise, Llc
-  manufacturerUri: https://device-type.com
-  name: SmgEnter
-type: d3-device-type-assertion

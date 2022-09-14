@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d22129fd-cca7-5cd1-899f-0f2a9a76ad7e
-  macAddresses:
-  - 00:A2:DA:00:00:00/24
-  manufacturer: INAT GmbH
-  manufacturerUri: https://device-type.com
-  name: INAT
-type: d3-device-type-assertion

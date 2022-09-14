@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cbac26c1-368d-55b2-b6ab-f6adb9dfdf46
-  macAddresses:
-  - FC:A4:7A:E0:00:00/28
-  manufacturer: Hefei Feier Smart Science&Technology Co. Ltd
-  manufacturerUri: https://device-type.com
-  name: HefeiFei
-type: d3-device-type-assertion

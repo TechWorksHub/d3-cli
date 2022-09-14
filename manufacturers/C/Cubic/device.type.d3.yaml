@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fb727ed6-0eb7-5bad-83d4-bf1f1186a690
-  macAddresses:
-  - 00:1B:C5:09:80:00/36
-  manufacturer: Cubic Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Cubic
-type: d3-device-type-assertion

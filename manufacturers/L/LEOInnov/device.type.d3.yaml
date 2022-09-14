@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9daee94d-9451-521d-bef3-2e20f1aa55aa
-  macAddresses:
-  - 78:25:7A:00:00:00/24
-  manufacturer: LEO Innovation Lab
-  manufacturerUri: https://device-type.com
-  name: LEOInnov
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ae6ea0c3-b8fd-559e-a84a-0bbbb4554aee
-  macAddresses:
-  - 84:E7:14:00:00:00/24
-  manufacturer: Liang Herng Enterprise,Co.Ltd.
-  manufacturerUri: https://device-type.com
-  name: LiangHer
-type: d3-device-type-assertion

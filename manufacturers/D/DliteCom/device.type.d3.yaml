@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5fb224f6-2d44-5de5-823f-2d169a1f5ade
-  macAddresses:
-  - 00:50:C2:E9:50:00/36
-  manufacturer: "Dlite Comercio, Importadora e Servi\xE7os de Automa\xE7\xE3o Ltda"
-  manufacturerUri: https://device-type.com
-  name: DliteCom
-type: d3-device-type-assertion

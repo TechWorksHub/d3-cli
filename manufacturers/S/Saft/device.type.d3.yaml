@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 04fc1818-eb67-5132-9a03-b549a69afb21
-  macAddresses:
-  - 2C:16:BD:30:00:00/28
-  manufacturer: Saft AB
-  manufacturerUri: https://device-type.com
-  name: Saft
-type: d3-device-type-assertion

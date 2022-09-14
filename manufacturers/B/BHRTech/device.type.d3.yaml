@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f46f2d6f-012e-5288-a6e7-e7fae9aa23cd
-  macAddresses:
-  - 54:E4:A9:00:00:00/24
-  manufacturer: BHR Tech GmbH
-  manufacturerUri: https://device-type.com
-  name: BHRTech
-type: d3-device-type-assertion

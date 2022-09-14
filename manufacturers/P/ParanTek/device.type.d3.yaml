@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 16985fdc-6db9-5921-849d-8827809b58a2
-  macAddresses:
-  - 64:5C:F3:00:00:00/24
-  manufacturer: ParanTek Inc.
-  manufacturerUri: https://device-type.com
-  name: ParanTek
-type: d3-device-type-assertion

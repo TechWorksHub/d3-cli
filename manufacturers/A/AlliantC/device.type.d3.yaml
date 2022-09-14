@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2051c2ca-e782-5b9e-92be-27e024f62b9f
-  macAddresses:
-  - 00:40:BA:00:00:00/24
-  manufacturer: Alliant Computer Systems Corp.
-  manufacturerUri: https://device-type.com
-  name: AlliantC
-type: d3-device-type-assertion

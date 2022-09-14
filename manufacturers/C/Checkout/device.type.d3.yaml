@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6ca43f38-42ec-56fc-a047-1d264357781d
-  macAddresses:
-  - 00:30:25:00:00:00/24
-  manufacturer: Checkout Computer Systems, Ltd
-  manufacturerUri: https://device-type.com
-  name: Checkout
-type: d3-device-type-assertion

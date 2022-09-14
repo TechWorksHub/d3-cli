@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f8c7e4f9-511d-598e-9cf3-7f5f2d7242d1
-  macAddresses:
-  - 38:A8:51:00:00:00/24
-  manufacturer: Moog, Ing
-  manufacturerUri: https://device-type.com
-  name: MoogIng
-type: d3-device-type-assertion

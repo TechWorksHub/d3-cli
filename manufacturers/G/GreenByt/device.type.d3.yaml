@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c5698913-9b1b-5f27-9639-d061e672433d
-  macAddresses:
-  - E0:81:77:00:00:00/24
-  manufacturer: GreenBytes, Inc.
-  manufacturerUri: https://device-type.com
-  name: GreenByt
-type: d3-device-type-assertion

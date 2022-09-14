@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 204f35fc-83e2-5915-a576-2e08a417b6b5
-  macAddresses:
-  - 18:D6:6A:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Inmarsat
-type: d3-device-type-assertion

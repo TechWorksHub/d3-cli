@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8658ed73-7b52-58ff-afbb-802521fea4f5
-  macAddresses:
-  - 00:1F:AB:00:00:00/24
-  manufacturer: I.S High Tech.Inc
-  manufacturerUri: https://device-type.com
-  name: ISHighTe
-type: d3-device-type-assertion

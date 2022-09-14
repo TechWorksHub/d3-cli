@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5131ff2c-0171-5ba1-b038-27fdc644c0b4
-  macAddresses:
-  - 38:F0:98:00:00:00/24
-  manufacturer: Vapor Stone Rail Systems
-  manufacturerUri: https://device-type.com
-  name: VaporSto
-type: d3-device-type-assertion

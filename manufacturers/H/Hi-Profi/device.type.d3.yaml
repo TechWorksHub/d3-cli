@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7f41abcb-7cd2-545b-b05c-4082aad99650
-  macAddresses:
-  - 88:5D:90:60:00:00/28
-  manufacturer: Hi-Profile Achievement (M) Sdn Bhd
-  manufacturerUri: https://device-type.com
-  name: Hi-Profi
-type: d3-device-type-assertion

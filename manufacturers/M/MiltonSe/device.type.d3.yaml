@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 690360b4-f5de-5e60-86b3-cd9d9db070c6
-  macAddresses:
-  - 40:50:E0:00:00:00/24
-  manufacturer: Milton Security Group LLC
-  manufacturerUri: https://device-type.com
-  name: MiltonSe
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 467af9b6-2923-5534-a758-e9f6cc94284a
-  macAddresses:
-  - C8:72:48:00:00:00/24
-  manufacturer: Aplicom Oy
-  manufacturerUri: https://device-type.com
-  name: Aplicom
-type: d3-device-type-assertion

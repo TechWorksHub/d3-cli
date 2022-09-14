@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 917658c4-387f-51f4-a726-de53589ec9e6
-  macAddresses:
-  - 98:27:82:80:00:00/28
-  manufacturer: CATS Power design
-  manufacturerUri: https://device-type.com
-  name: CATSPowe
-type: d3-device-type-assertion

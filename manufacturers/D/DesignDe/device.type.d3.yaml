@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 84ebf17f-a429-544f-a1a1-5335b8c512be
-  macAddresses:
-  - 00:22:32:00:00:00/24
-  manufacturer: Design Design Technology Ltd
-  manufacturerUri: https://device-type.com
-  name: DesignDe
-type: d3-device-type-assertion

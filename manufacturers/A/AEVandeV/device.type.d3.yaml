@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e835fa65-060a-5ee2-8936-9e9ba5964488
-  macAddresses:
-  - 70:B3:D5:C4:F0:00/36
-  manufacturer: AE Van de Vliet BVBA
-  manufacturerUri: https://device-type.com
-  name: AEVandeV
-type: d3-device-type-assertion

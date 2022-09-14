@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 68731189-4cb3-5ca7-98a2-38791599cb0a
-  macAddresses:
-  - 00:0E:3D:00:00:00/24
-  manufacturer: Televic N.V.
-  manufacturerUri: https://device-type.com
-  name: Televic
-type: d3-device-type-assertion

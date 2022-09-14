@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 18fa7cfd-81e8-5120-b964-faa2f6641def
-  macAddresses:
-  - 00:11:E0:00:00:00/24
-  manufacturer: U-MEDIA Communications, Inc.
-  manufacturerUri: https://device-type.com
-  name: U-MEDIAC
-type: d3-device-type-assertion

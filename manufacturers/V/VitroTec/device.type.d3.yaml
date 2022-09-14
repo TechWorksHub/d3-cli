@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9d93d3c2-f2bc-593d-b7bf-6bbcb20c66d3
-  macAddresses:
-  - 70:B3:D5:F1:90:00/36
-  manufacturer: Vitro Technology Corporation
-  manufacturerUri: https://device-type.com
-  name: VitroTec
-type: d3-device-type-assertion

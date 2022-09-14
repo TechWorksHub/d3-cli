@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f0965af1-cef9-5ae1-9a20-eb3921232f35
-  macAddresses:
-  - 00:25:4E:00:00:00/24
-  manufacturer: Vertex Wireless Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: VertexWi
-type: d3-device-type-assertion

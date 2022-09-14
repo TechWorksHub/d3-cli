@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d3ec91e0-ac16-5c7a-8405-a5feda5a315e
-  macAddresses:
-  - 60:07:7C:00:00:00/24
-  manufacturer: Jala Group
-  manufacturerUri: https://device-type.com
-  name: JalaGrou
-type: d3-device-type-assertion

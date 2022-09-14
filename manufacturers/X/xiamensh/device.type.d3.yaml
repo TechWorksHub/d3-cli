@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 358965e3-ad13-5367-87b1-e98a53de6829
-  macAddresses:
-  - FC:58:4A:00:00:00/24
-  manufacturer: xiamenshi c-chip technology co., ltd
-  manufacturerUri: https://device-type.com
-  name: xiamensh
-type: d3-device-type-assertion

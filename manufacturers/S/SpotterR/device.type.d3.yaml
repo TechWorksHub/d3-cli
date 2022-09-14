@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5c76be5b-8866-5e74-8601-4da6f3e9c198
-  macAddresses:
-  - 8C:51:09:C0:00:00/28
-  manufacturer: SpotterRF LLC
-  manufacturerUri: https://device-type.com
-  name: SpotterR
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 81f3e405-ea5f-5ff9-bcfd-2b33249fc39e
-  macAddresses:
-  - 00:18:C3:00:00:00/24
-  manufacturer: CS Corporation
-  manufacturerUri: https://device-type.com
-  name: CS
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dc8a2561-5031-5ac3-bd0f-639c0b141c5c
-  macAddresses:
-  - 00:0A:5D:00:00:00/24
-  manufacturer: FingerTec Worldwide Sdn Bhd
-  manufacturerUri: https://device-type.com
-  name: FingerTe
-type: d3-device-type-assertion

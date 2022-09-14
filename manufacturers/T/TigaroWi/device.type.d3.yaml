@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a95af70e-f6b6-5b84-a89a-e4a15ce97244
-  macAddresses:
-  - 7C:6B:52:00:00:00/24
-  manufacturer: Tigaro Wireless
-  manufacturerUri: https://device-type.com
-  name: TigaroWi
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 44ae458c-da53-5f5f-aa4f-9a427ccc03ea
-  macAddresses:
-  - 00:30:27:00:00:00/24
-  manufacturer: Kerbango, Inc.
-  manufacturerUri: https://device-type.com
-  name: Kerbango
-type: d3-device-type-assertion

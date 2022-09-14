@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8f43be3e-ea7b-5cb7-a392-cc1c09a1a96b
-  macAddresses:
-  - 70:B3:D5:61:A0:00/36
-  manufacturer: Rocket Lab Ltd.
-  manufacturerUri: https://device-type.com
-  name: RocketLa
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 60cce8a2-a646-54e2-bc41-4d51397698a5
-  macAddresses:
-  - 00:25:E2:00:00:00/24
-  manufacturer: Everspring Industry Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Everspri
-type: d3-device-type-assertion

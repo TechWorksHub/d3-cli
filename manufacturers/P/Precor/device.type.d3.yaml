@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2e7a36ca-8b21-5133-887f-ab388e3e58d8
-  macAddresses:
-  - 2C:CD:27:00:00:00/24
-  manufacturer: Precor Inc
-  manufacturerUri: https://device-type.com
-  name: Precor
-type: d3-device-type-assertion

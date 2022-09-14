@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aa7ceb87-b854-5694-b3a8-be480933de20
-  macAddresses:
-  - 00:50:C2:A4:00:00/36
-  manufacturer: Mosberger Consulting LLC
-  manufacturerUri: https://device-type.com
-  name: Mosberge
-type: d3-device-type-assertion

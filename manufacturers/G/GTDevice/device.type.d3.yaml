@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 48dd2e2f-77bb-50b7-ae98-9c23ce64a0f7
-  macAddresses:
-  - A8:3F:A1:10:00:00/28
-  manufacturer: GTDevice LLC
-  manufacturerUri: https://device-type.com
-  name: GTDevice
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 89483047-83e4-5e4d-afc4-36cd941d8d73
-  macAddresses:
-  - 00:1D:7F:00:00:00/24
-  manufacturer: Tekron International Ltd
-  manufacturerUri: https://device-type.com
-  name: TekronIn
-type: d3-device-type-assertion

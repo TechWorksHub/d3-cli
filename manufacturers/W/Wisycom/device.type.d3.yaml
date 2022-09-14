@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 062c958b-deb9-50a2-b78d-633b845d7d39
-  macAddresses:
-  - 3C:24:F0:30:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Wisycom
-type: d3-device-type-assertion

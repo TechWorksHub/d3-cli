@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 621f1c3c-4a73-5b01-8aff-58e63bcecf7f
-  macAddresses:
-  - 70:B3:D5:75:70:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Gabo
-type: d3-device-type-assertion

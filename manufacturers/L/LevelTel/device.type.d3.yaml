@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1e486ce7-14d1-5984-a804-a8c1a795c083
-  macAddresses:
-  - 00:50:C2:78:A0:00/36
-  manufacturer: Level Telecom
-  manufacturerUri: https://device-type.com
-  name: LevelTel
-type: d3-device-type-assertion

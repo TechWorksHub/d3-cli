@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4f302fbf-f078-57f0-88ff-3c8ca8563394
-  macAddresses:
-  - E0:95:79:00:00:00/24
-  manufacturer: ORTHOsoft inc, d/b/a Zimmer CAS
-  manufacturerUri: https://device-type.com
-  name: ORTHOsof
-type: d3-device-type-assertion

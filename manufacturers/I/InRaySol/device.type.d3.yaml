@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 694bed6c-2882-5b5d-86c3-4d48b5edaffc
-  macAddresses:
-  - 00:50:C2:7B:B0:00/36
-  manufacturer: InRay Solutions Ltd.
-  manufacturerUri: https://device-type.com
-  name: InRaySol
-type: d3-device-type-assertion

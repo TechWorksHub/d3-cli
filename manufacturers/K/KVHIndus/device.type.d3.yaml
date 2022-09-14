@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2b7affc5-324f-5ce0-becf-0ebe642208f7
-  macAddresses:
-  - CC:50:1C:00:00:00/24
-  manufacturer: KVH Industries, Inc.
-  manufacturerUri: https://device-type.com
-  name: KVHIndus
-type: d3-device-type-assertion

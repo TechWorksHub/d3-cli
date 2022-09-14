@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 070f550f-1f98-5547-89f3-bd44dbc14a8e
-  macAddresses:
-  - C8:90:3E:00:00:00/24
-  manufacturer: Pakton Technologies
-  manufacturerUri: https://device-type.com
-  name: PaktonTe
-type: d3-device-type-assertion

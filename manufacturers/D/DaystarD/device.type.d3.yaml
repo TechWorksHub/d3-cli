@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2340c006-1519-5b00-9344-642bddf9b35f
-  macAddresses:
-  - 00:20:2E:00:00:00/24
-  manufacturer: Daystar Digital
-  manufacturerUri: https://device-type.com
-  name: DaystarD
-type: d3-device-type-assertion

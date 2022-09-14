@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 87913fde-6c91-56fc-936d-242d6643022b
-  macAddresses:
-  - 70:B3:D5:98:30:00/36
-  manufacturer: ENS Engineered Network Systems
-  manufacturerUri: https://device-type.com
-  name: ENSEngin
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0b20fd66-4854-52f6-94cf-b56c3703acf0
-  macAddresses:
-  - 00:50:C2:5A:10:00/36
-  manufacturer: Vestfold Butikkdata AS
-  manufacturerUri: https://device-type.com
-  name: Vestfold
-type: d3-device-type-assertion

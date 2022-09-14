@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 324ff4eb-f55b-50f2-9f44-03484cca223a
-  macAddresses:
-  - FC:45:5F:00:00:00/24
-  manufacturer: Jiangxi Shanshui Optoelectronic Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: JiangxiS
-type: d3-device-type-assertion

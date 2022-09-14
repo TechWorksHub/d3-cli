@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c72d11d0-f5a4-5d9a-8ed9-4771819e59c3
-  macAddresses:
-  - 00:17:6B:00:00:00/24
-  manufacturer: Kiyon, Inc.
-  manufacturerUri: https://device-type.com
-  name: Kiyon
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c520920a-cbde-5d36-bd4d-d173463a7d7c
-  macAddresses:
-  - E4:95:6E:A0:00:00/28
-  manufacturer: Red Point Positioning, Corp.
-  manufacturerUri: https://device-type.com
-  name: RedPoint
-type: d3-device-type-assertion

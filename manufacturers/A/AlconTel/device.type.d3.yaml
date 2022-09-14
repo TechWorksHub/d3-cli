@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bd225673-1c41-5a45-b922-37e23e684020
-  macAddresses:
-  - 00:23:28:00:00:00/24
-  manufacturer: Alcon Telecommunications Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: AlconTel
-type: d3-device-type-assertion

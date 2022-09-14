@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3cddd68c-7686-52c1-b172-6a011666f139
-  macAddresses:
-  - 00:0C:B3:00:00:00/24
-  manufacturer: ROUND Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: ROUND
-type: d3-device-type-assertion

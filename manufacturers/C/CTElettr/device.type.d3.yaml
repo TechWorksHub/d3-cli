@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dda0c039-b7a0-503c-9325-66d337791436
-  macAddresses:
-  - 00:1A:CF:00:00:00/24
-  manufacturer: C.T. Elettronica
-  manufacturerUri: https://device-type.com
-  name: CTElettr
-type: d3-device-type-assertion

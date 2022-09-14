@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 72bcfcc0-edab-5895-af62-9af076e18daf
-  macAddresses:
-  - 60:99:D1:00:00:00/24
-  manufacturer: Vuzix / Lenovo
-  manufacturerUri: https://device-type.com
-  name: VuzixLen
-type: d3-device-type-assertion

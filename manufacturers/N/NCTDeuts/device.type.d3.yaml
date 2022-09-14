@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c14cc64e-cb47-5dcb-a0f0-4146e810046d
-  macAddresses:
-  - 00:0D:2D:00:00:00/24
-  manufacturer: NCT Deutschland GmbH
-  manufacturerUri: https://device-type.com
-  name: NCTDeuts
-type: d3-device-type-assertion

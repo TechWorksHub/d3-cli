@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f0de671c-eed5-5a8d-af70-b307f53015e5
-  macAddresses:
-  - 00:03:8A:00:00:00/24
-  manufacturer: America Online, Inc.
-  manufacturerUri: https://device-type.com
-  name: AmericaO
-type: d3-device-type-assertion

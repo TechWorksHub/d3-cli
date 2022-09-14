@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 49ed6dcc-c953-5196-8f15-774f64ba8de2
-  macAddresses:
-  - 00:50:C2:01:30:00/36
-  manufacturer: Sensys Technologies Inc.
-  manufacturerUri: https://device-type.com
-  name: SensysTe
-type: d3-device-type-assertion

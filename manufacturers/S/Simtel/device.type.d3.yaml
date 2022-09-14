@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1534767a-3c4d-521d-b364-3895bb6bfea9
-  macAddresses:
-  - 00:02:1E:00:00:00/24
-  manufacturer: Simtel S.R.L.
-  manufacturerUri: https://device-type.com
-  name: Simtel
-type: d3-device-type-assertion

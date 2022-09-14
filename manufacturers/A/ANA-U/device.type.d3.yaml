@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 960bd410-898f-55ba-a354-86b8f1c83362
-  macAddresses:
-  - 00:50:C2:E9:40:00/36
-  manufacturer: ANA-U GmbH
-  manufacturerUri: https://device-type.com
-  name: ANA-U
-type: d3-device-type-assertion

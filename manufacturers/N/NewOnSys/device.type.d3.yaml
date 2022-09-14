@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 144a1c0a-fba6-5ccd-9b15-41dc0630641a
-  macAddresses:
-  - 00:50:C2:6E:10:00/36
-  manufacturer: NewOnSys Ltd.
-  manufacturerUri: https://device-type.com
-  name: NewOnSys
-type: d3-device-type-assertion

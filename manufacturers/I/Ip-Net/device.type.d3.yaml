@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f081f7b4-cb7c-5d6f-81f3-fd6d4e7ee223
-  macAddresses:
-  - 20:AA:25:00:00:00/24
-  manufacturer: Ip-Net Llc
-  manufacturerUri: https://device-type.com
-  name: Ip-Net
-type: d3-device-type-assertion

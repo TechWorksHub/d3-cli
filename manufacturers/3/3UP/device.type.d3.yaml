@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9694a039-11c1-5a5b-8bcf-3f09c0b39388
-  macAddresses:
-  - 00:08:DE:00:00:00/24
-  manufacturer: 3UP Systems
-  manufacturerUri: https://device-type.com
-  name: 3UP
-type: d3-device-type-assertion

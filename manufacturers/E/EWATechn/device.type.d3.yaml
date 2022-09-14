@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d92d1754-0f9c-5e17-a6d0-5d7e35ec423f
-  macAddresses:
-  - 00:0F:D2:00:00:00/24
-  manufacturer: EWA Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: EWATechn
-type: d3-device-type-assertion

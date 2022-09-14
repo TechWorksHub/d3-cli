@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ce9e57b5-1898-5b0d-aa2c-a3a3324fabd5
-  macAddresses:
-  - 8C:BE:24:00:00:00/24
-  manufacturer: Tashang Semiconductor(Shanghai) Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: TashangS
-type: d3-device-type-assertion

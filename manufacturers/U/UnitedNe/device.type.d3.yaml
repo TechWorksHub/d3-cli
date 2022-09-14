@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 090eea9f-0dee-5e41-a485-cff2a1e76fe8
-  macAddresses:
-  - 00:80:B5:00:00:00/24
-  manufacturer: United Networks Inc.
-  manufacturerUri: https://device-type.com
-  name: UnitedNe
-type: d3-device-type-assertion

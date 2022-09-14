@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4a396e53-331f-5369-914a-46fcd84808fe
-  macAddresses:
-  - 70:B3:D5:06:80:00/36
-  manufacturer: Onethinx BV
-  manufacturerUri: https://device-type.com
-  name: Onethinx
-type: d3-device-type-assertion

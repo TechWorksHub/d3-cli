@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0356fefc-7194-54bf-ad04-79817ecd87ea
-  macAddresses:
-  - 00:50:C2:D9:90:00/36
-  manufacturer: T-Industry, s.r.o.
-  manufacturerUri: https://device-type.com
-  name: T-Indust
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a40ab701-4021-585f-aee7-74877c04fbc6
-  macAddresses:
-  - 00:0F:C3:00:00:00/24
-  manufacturer: PalmPalm Technology, Inc.
-  manufacturerUri: https://device-type.com
-  name: PalmPalm
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5cacfe26-1370-502b-93c1-34a7ad197605
-  macAddresses:
-  - 54:A4:93:A0:00:00/28
-  manufacturer: Wonders Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: WondersT
-type: d3-device-type-assertion

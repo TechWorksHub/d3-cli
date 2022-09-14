@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0e492c11-e59e-5f0d-aee7-e71e37328b71
-  macAddresses:
-  - 70:B3:D5:03:A0:00/36
-  manufacturer: Ochno AB
-  manufacturerUri: https://device-type.com
-  name: Ochno
-type: d3-device-type-assertion

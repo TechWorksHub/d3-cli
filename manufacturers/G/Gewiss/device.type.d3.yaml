@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7548692b-89d3-5079-b60c-4ce2c6279098
-  macAddresses:
-  - CC:34:D7:00:00:00/24
-  manufacturer: Gewiss S.P.A.
-  manufacturerUri: https://device-type.com
-  name: Gewiss
-type: d3-device-type-assertion

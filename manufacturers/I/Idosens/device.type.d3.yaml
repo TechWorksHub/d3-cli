@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d4f07114-58b0-5e30-8881-1b81768e7287
-  macAddresses:
-  - 70:B3:D5:40:70:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Idosens
-type: d3-device-type-assertion

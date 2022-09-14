@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4a366acf-2df1-54eb-8d63-535fec925c82
-  macAddresses:
-  - 00:1F:EB:00:00:00/24
-  manufacturer: Trio Datacom Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: TrioData
-type: d3-device-type-assertion

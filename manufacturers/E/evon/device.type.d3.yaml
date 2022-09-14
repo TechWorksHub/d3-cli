@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9405049f-6eb6-5549-8913-b4d516d2a816
-  macAddresses:
-  - 64:62:8A:00:00:00/24
-  manufacturer: evon GmbH
-  manufacturerUri: https://device-type.com
-  name: evon
-type: d3-device-type-assertion

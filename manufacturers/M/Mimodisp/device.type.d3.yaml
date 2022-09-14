@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 841d3959-7a80-5f54-a858-f79323e3626e
-  macAddresses:
-  - 70:8C:BB:00:00:00/24
-  manufacturer: Mimodisplaykorea
-  manufacturerUri: https://device-type.com
-  name: Mimodisp
-type: d3-device-type-assertion

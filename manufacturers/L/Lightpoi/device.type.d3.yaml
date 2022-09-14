@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ee33e206-3197-5cfa-af71-def70df779b7
-  macAddresses:
-  - 00:04:E7:00:00:00/24
-  manufacturer: Lightpointe Communications, Inc
-  manufacturerUri: https://device-type.com
-  name: Lightpoi
-type: d3-device-type-assertion

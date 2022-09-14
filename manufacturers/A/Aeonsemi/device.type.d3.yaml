@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2262f96a-7c8c-51b7-98e8-5d291ee732f6
-  macAddresses:
-  - B8:02:A4:00:00:00/24
-  manufacturer: Aeonsemi, Inc.
-  manufacturerUri: https://device-type.com
-  name: Aeonsemi
-type: d3-device-type-assertion

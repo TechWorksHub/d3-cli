@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 539c3815-3969-5140-986b-89aae5b73510
-  macAddresses:
-  - 00:1C:45:00:00:00/24
-  manufacturer: Chenbro Micom Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: ChenbroM
-type: d3-device-type-assertion

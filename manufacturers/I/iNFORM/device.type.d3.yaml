@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2c0ff9e7-ce51-5d07-8284-770987c60977
-  macAddresses:
-  - D4:10:90:00:00:00/24
-  manufacturer: iNFORM Systems AG
-  manufacturerUri: https://device-type.com
-  name: iNFORM
-type: d3-device-type-assertion

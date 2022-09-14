@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e7144299-ac84-5322-8ecc-13fe20be002f
-  macAddresses:
-  - 00:0A:BE:00:00:00/24
-  manufacturer: OPNET Technologies CO., LTD.
-  manufacturerUri: https://device-type.com
-  name: OPNETTec
-type: d3-device-type-assertion

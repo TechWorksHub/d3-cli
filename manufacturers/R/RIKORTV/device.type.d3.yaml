@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b5c96e4d-5ca9-506b-b1b9-9195f41afe2e
-  macAddresses:
-  - 00:1D:C3:00:00:00/24
-  manufacturer: RIKOR TV, Ltd
-  manufacturerUri: https://device-type.com
-  name: RIKORTV
-type: d3-device-type-assertion

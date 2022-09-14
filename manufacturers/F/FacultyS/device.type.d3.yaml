@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 555f8e07-62f6-5a0a-9632-74b4e78616f2
-  macAddresses:
-  - 00:0C:21:00:00:00/24
-  manufacturer: Faculty of Science and Technology, Keio University
-  manufacturerUri: https://device-type.com
-  name: FacultyS
-type: d3-device-type-assertion

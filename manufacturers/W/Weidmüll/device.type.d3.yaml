@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 48bf9454-6c59-504b-9a91-541bd652eba3
-  macAddresses:
-  - 00:15:7E:00:00:00/24
-  manufacturer: "Weidm\xFCller Interface GmbH & Co. KG"
-  manufacturerUri: https://device-type.com
-  name: "Weidm\xFCll"
-type: d3-device-type-assertion

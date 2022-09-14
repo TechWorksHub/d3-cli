@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fd8a93ae-fb10-5cad-b354-1f3a803332eb
-  macAddresses:
-  - 70:E1:39:00:00:00/24
-  manufacturer: 3view Ltd
-  manufacturerUri: https://device-type.com
-  name: 3view
-type: d3-device-type-assertion

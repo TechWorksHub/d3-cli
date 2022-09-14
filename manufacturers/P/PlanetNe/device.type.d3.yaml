@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b8baa2f1-dec8-5319-914d-a4b0a7ced4db
-  macAddresses:
-  - 50:67:87:00:00:00/24
-  manufacturer: Planet Networks
-  manufacturerUri: https://device-type.com
-  name: PlanetNe
-type: d3-device-type-assertion

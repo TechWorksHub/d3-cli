@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 36e8feae-a717-505f-a832-ac129825cd83
-  macAddresses:
-  - 44:32:C2:00:00:00/24
-  manufacturer: GOAL Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: GOAL
-type: d3-device-type-assertion

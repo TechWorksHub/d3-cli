@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ad9a6ada-782d-5285-87d5-508772daa412
-  macAddresses:
-  - 70:B3:D5:29:30:00/36
-  manufacturer: Solar RIg Technologies
-  manufacturerUri: https://device-type.com
-  name: SolarRIg
-type: d3-device-type-assertion

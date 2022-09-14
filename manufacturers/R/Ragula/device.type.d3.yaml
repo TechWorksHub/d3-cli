@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 17f156e0-2f0a-56ef-9e86-034a73f38291
-  macAddresses:
-  - 00:20:52:00:00:00/24
-  manufacturer: Ragula Systems
-  manufacturerUri: https://device-type.com
-  name: Ragula
-type: d3-device-type-assertion

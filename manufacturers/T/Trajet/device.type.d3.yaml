@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2fb49395-9db4-54af-aedd-2467c03aa9d0
-  macAddresses:
-  - 00:0E:4F:00:00:00/24
-  manufacturer: Trajet GmbH
-  manufacturerUri: https://device-type.com
-  name: Trajet
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 77a6d606-3747-5010-9459-a57a3a978fbb
-  macAddresses:
-  - 70:B3:D5:66:00:00/36
-  manufacturer: Smart Service Technologies CO., LTD
-  manufacturerUri: https://device-type.com
-  name: SmartSer
-type: d3-device-type-assertion

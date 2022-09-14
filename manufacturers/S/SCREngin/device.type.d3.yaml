@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dc0ae50d-022d-561a-b69f-d6a84c0d1d5a
-  macAddresses:
-  - CC:D9:E9:00:00:00/24
-  manufacturer: SCR Engineers Ltd.
-  manufacturerUri: https://device-type.com
-  name: SCREngin
-type: d3-device-type-assertion

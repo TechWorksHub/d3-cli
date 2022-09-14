@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b755bd2e-6ba0-5d6d-8d8f-1c0cb9fa67db
-  macAddresses:
-  - 00:0F:2F:00:00:00/24
-  manufacturer: W-Linx Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: W-LinxTe
-type: d3-device-type-assertion

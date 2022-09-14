@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3f2ae7c3-4151-566c-b846-50da8efb1a15
-  macAddresses:
-  - 8C:AE:49:10:00:00/28
-  manufacturer: H3 Platform
-  manufacturerUri: https://device-type.com
-  name: H3Platfo
-type: d3-device-type-assertion

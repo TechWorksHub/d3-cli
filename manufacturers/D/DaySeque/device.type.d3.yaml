@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ba05e9af-2781-57cf-8a68-2328cbcfce22
-  macAddresses:
-  - 00:26:53:00:00:00/24
-  manufacturer: DaySequerra Corporation
-  manufacturerUri: https://device-type.com
-  name: DaySeque
-type: d3-device-type-assertion

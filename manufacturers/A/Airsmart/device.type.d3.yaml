@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bf0735d2-5e0b-57df-a059-6052eb82f0a0
-  macAddresses:
-  - 1C:88:79:20:00:00/28
-  manufacturer: Airsmart System Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: Airsmart
-type: d3-device-type-assertion

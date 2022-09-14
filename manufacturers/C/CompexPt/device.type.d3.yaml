@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 96f70ecc-38dd-5bc3-82a1-04a391add888
-  macAddresses:
-  - 04:F0:21:00:00:00/24
-  manufacturer: Compex Systems Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: CompexPt
-type: d3-device-type-assertion

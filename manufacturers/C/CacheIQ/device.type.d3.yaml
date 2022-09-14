@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f89aee99-be66-5c92-a5ce-b9e6b70204a7
-  macAddresses:
-  - 00:1F:8B:00:00:00/24
-  manufacturer: Cache IQ
-  manufacturerUri: https://device-type.com
-  name: CacheIQ
-type: d3-device-type-assertion

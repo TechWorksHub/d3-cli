@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 72690f41-9a96-5dcb-9011-e363d32fa2b8
-  macAddresses:
-  - 98:AA:FC:A0:00:00/28
-  manufacturer: SENKO Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: SENKO
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 88901b8e-0724-5989-91e8-779b60ae07df
-  macAddresses:
-  - 00:D0:CF:00:00:00/24
-  manufacturer: Moreton Bay
-  manufacturerUri: https://device-type.com
-  name: MoretonB
-type: d3-device-type-assertion

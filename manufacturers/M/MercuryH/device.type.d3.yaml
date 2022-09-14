@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e269748d-77be-5f6c-8914-d94ba02ce474
-  macAddresses:
-  - 00:1B:C5:00:A0:00/36
-  manufacturer: Mercury HMI Ltd
-  manufacturerUri: https://device-type.com
-  name: MercuryH
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 30d32072-d731-5669-8013-36aaaff6ab70
-  macAddresses:
-  - 58:09:E5:00:00:00/24
-  manufacturer: Kivic Inc.
-  manufacturerUri: https://device-type.com
-  name: Kivic
-type: d3-device-type-assertion

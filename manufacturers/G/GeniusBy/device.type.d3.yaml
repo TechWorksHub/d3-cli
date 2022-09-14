@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 191cbceb-ff3d-57a6-ba38-5fb4a4f2623c
-  macAddresses:
-  - 4C:73:67:00:00:00/24
-  manufacturer: Genius Bytes Software Solutions GmbH
-  manufacturerUri: https://device-type.com
-  name: GeniusBy
-type: d3-device-type-assertion

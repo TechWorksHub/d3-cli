@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 89b77cab-c54d-5a32-ab77-dc6762c2a290
-  macAddresses:
-  - A4:85:6B:00:00:00/24
-  manufacturer: Q Electronics Ltd
-  manufacturerUri: https://device-type.com
-  name: QElectro
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c5a34500-7f90-5244-bf1d-56901a585fdb
-  macAddresses:
-  - 88:C9:B3:60:00:00/28
-  manufacturer: Hugo Techno
-  manufacturerUri: https://device-type.com
-  name: HugoTech
-type: d3-device-type-assertion

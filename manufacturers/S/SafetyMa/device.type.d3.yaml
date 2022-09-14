@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4242773f-bb12-5d6a-868d-6ca2b002e869
-  macAddresses:
-  - 00:50:89:00:00:00/24
-  manufacturer: Safety Management Systems
-  manufacturerUri: https://device-type.com
-  name: SafetyMa
-type: d3-device-type-assertion

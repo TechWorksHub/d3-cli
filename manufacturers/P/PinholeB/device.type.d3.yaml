@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 834e9103-79c5-58be-b6f9-3bffb4234088
-  macAddresses:
-  - 78:CA:83:40:00:00/28
-  manufacturer: Pinhole (Beijing) Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: PinholeB
-type: d3-device-type-assertion

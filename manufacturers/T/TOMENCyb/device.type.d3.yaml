@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ecc39170-3298-5d76-9003-39070f6930d8
-  macAddresses:
-  - 00:13:55:00:00:00/24
-  manufacturer: TOMEN Cyber-business Solutions, Inc.
-  manufacturerUri: https://device-type.com
-  name: TOMENCyb
-type: d3-device-type-assertion

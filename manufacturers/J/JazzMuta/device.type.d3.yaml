@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cc70ab19-d80a-5266-a2a2-8211afcbf888
-  macAddresses:
-  - 00:14:27:00:00:00/24
-  manufacturer: JazzMutant
-  manufacturerUri: https://device-type.com
-  name: JazzMuta
-type: d3-device-type-assertion

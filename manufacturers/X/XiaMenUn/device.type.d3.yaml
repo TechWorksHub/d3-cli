@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0475e096-b734-5f83-a7ca-41ceeebc06b4
-  macAddresses:
-  - 58:F6:7B:00:00:00/24
-  manufacturer: Xia Men UnionCore Technology LTD.
-  manufacturerUri: https://device-type.com
-  name: XiaMenUn
-type: d3-device-type-assertion

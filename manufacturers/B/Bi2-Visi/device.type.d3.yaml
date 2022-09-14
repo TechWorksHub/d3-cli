@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 38b0dac8-9b90-51a6-95f9-017022a500ee
-  macAddresses:
-  - F0:2F:D8:00:00:00/24
-  manufacturer: Bi2-Vision
-  manufacturerUri: https://device-type.com
-  name: Bi2-Visi
-type: d3-device-type-assertion

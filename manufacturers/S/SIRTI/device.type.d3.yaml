@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 795edbab-a91f-5083-bce1-32de44b5e4b6
-  macAddresses:
-  - 00:1E:2E:00:00:00/24
-  manufacturer: SIRTI S.p.A.
-  manufacturerUri: https://device-type.com
-  name: SIRTI
-type: d3-device-type-assertion

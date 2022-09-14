@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9ffa0a2c-e612-5afb-841f-970e4c7e98a9
-  macAddresses:
-  - 00:50:C2:D0:40:00/36
-  manufacturer: Tehama Wireless
-  manufacturerUri: https://device-type.com
-  name: TehamaWi
-type: d3-device-type-assertion

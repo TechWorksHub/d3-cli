@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 64600ec8-dbbe-5cf3-b5e6-94944747aa9e
-  macAddresses:
-  - 00:30:BF:00:00:00/24
-  manufacturer: Multidata Gmbh
-  manufacturerUri: https://device-type.com
-  name: Multidat
-type: d3-device-type-assertion

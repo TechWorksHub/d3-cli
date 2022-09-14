@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5cc51ecb-1f57-584f-8611-2e280f136434
-  macAddresses:
-  - B8:65:3B:00:00:00/24
-  manufacturer: Bolymin, Inc.
-  manufacturerUri: https://device-type.com
-  name: Bolymin
-type: d3-device-type-assertion

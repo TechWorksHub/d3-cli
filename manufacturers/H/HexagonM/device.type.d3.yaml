@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9f35d7c8-a84c-562b-b59d-fb9b43afbdb3
-  macAddresses:
-  - 70:B3:D5:5E:00:00/36
-  manufacturer: Hexagon Metrology SAS
-  manufacturerUri: https://device-type.com
-  name: HexagonM
-type: d3-device-type-assertion

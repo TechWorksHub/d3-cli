@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9822051f-a532-59e6-b20a-519e5a1ab971
-  macAddresses:
-  - 98:DC:D9:00:00:00/24
-  manufacturer: UNITEC Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: UNITEC
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 25081bea-1ad2-56be-b06e-329b86b45260
-  macAddresses:
-  - 34:BA:9A:00:00:00/24
-  manufacturer: Asiatelco Technologies Co.
-  manufacturerUri: https://device-type.com
-  name: Asiatelc
-type: d3-device-type-assertion

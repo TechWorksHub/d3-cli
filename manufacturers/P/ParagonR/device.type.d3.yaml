@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 73d8fbc4-379e-5988-a411-570cf06a7bfc
-  macAddresses:
-  - C0:61:9A:00:00:00/28
-  manufacturer: Paragon Robotics LLC
-  manufacturerUri: https://device-type.com
-  name: ParagonR
-type: d3-device-type-assertion

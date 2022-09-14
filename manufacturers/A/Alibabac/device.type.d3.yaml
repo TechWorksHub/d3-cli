@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 36cd9491-eeb6-5515-852a-2f055654813c
-  macAddresses:
-  - FC:A6:4C:00:00:00/24
-  manufacturer: Alibaba cloud computing Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Alibabac
-type: d3-device-type-assertion

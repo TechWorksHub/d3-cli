@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fe91741d-b6bf-534a-951a-768a72626c4e
-  macAddresses:
-  - 00:30:4C:00:00:00/24
-  manufacturer: Appian Communications, Inc.
-  manufacturerUri: https://device-type.com
-  name: AppianCo
-type: d3-device-type-assertion

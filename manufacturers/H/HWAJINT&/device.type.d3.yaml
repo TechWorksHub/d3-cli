@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c348bf64-8001-5f2a-b9ee-a31e7d2cb2c4
-  macAddresses:
-  - 00:21:67:00:00:00/24
-  manufacturer: HWA JIN T&I Corp.
-  manufacturerUri: https://device-type.com
-  name: HWAJINT&
-type: d3-device-type-assertion

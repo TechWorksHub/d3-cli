@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 20c02a81-4be4-5252-ab46-160f3b96be4d
-  macAddresses:
-  - 64:C5:AA:00:00:00/24
-  manufacturer: South African Broadcasting Corporation
-  manufacturerUri: https://device-type.com
-  name: SouthAfr
-type: d3-device-type-assertion

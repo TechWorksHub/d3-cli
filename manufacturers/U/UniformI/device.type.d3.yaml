@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 367fad75-f4a3-5a60-a86d-cac2618d74ac
-  macAddresses:
-  - 00:30:F0:00:00:00/24
-  manufacturer: Uniform Industrial Corp.
-  manufacturerUri: https://device-type.com
-  name: UniformI
-type: d3-device-type-assertion

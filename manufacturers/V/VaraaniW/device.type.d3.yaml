@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2d8e7898-1189-5bf0-a0d8-e3fc1c872b12
-  macAddresses:
-  - 1C:21:D1:20:00:00/28
-  manufacturer: Varaani Works Oy
-  manufacturerUri: https://device-type.com
-  name: VaraaniW
-type: d3-device-type-assertion

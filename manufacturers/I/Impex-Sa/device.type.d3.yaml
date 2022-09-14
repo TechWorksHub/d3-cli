@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1dcc9d01-2395-573f-8b2b-818ab901ee89
-  macAddresses:
-  - 90:98:64:00:00:00/24
-  manufacturer: Impex-Sat GmbH&Co KG
-  manufacturerUri: https://device-type.com
-  name: Impex-Sa
-type: d3-device-type-assertion

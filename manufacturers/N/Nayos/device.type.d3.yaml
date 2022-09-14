@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 06492963-159b-5b64-90b5-41d63926099d
-  macAddresses:
-  - 00:50:C2:B6:10:00/36
-  manufacturer: Nayos LTD
-  manufacturerUri: https://device-type.com
-  name: Nayos
-type: d3-device-type-assertion

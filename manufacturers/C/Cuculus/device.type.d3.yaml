@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8b76937c-fb1e-5a08-8594-b5392d66b431
-  macAddresses:
-  - 20:CE:2A:30:00:00/28
-  manufacturer: Cuculus GmbH
-  manufacturerUri: https://device-type.com
-  name: Cuculus
-type: d3-device-type-assertion

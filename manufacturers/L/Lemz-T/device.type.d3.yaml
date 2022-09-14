@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 52ba7b59-bbe1-5d02-9ffb-04fbe6fdd53e
-  macAddresses:
-  - 70:B3:D5:30:60:00/36
-  manufacturer: Lemz-T, Llc
-  manufacturerUri: https://device-type.com
-  name: Lemz-T
-type: d3-device-type-assertion

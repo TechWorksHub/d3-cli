@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b1d73e05-09b0-5ad1-9c11-96f07a6210a6
-  macAddresses:
-  - 00:50:C2:50:E0:00/36
-  manufacturer: Fibresavers Corporation
-  manufacturerUri: https://device-type.com
-  name: Fibresav
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 17976efe-1b56-5308-90fb-0a723149123f
-  macAddresses:
-  - 00:0F:03:00:00:00/24
-  manufacturer: Com&C Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Com&C
-type: d3-device-type-assertion

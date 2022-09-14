@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 78af440b-8c6e-58b5-ab7d-e229ee279dbf
-  macAddresses:
-  - 70:B3:D5:1D:40:00/36
-  manufacturer: Brinkmann Audio GmbH
-  manufacturerUri: https://device-type.com
-  name: Brinkman
-type: d3-device-type-assertion

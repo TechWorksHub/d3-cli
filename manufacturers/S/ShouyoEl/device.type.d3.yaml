@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f8693575-4d58-5be7-999a-1daf181d3fad
-  macAddresses:
-  - 00:23:27:00:00:00/24
-  manufacturer: Shouyo Electronics CO., LTD
-  manufacturerUri: https://device-type.com
-  name: ShouyoEl
-type: d3-device-type-assertion

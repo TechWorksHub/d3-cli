@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f7f9c633-cb13-561c-8c42-34edc07a5dbe
-  macAddresses:
-  - 40:98:4C:00:00:00/24
-  manufacturer: Casacom Solutions AG
-  manufacturerUri: https://device-type.com
-  name: CasacomS
-type: d3-device-type-assertion

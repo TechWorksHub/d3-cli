@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0de2e9a4-a04a-5e78-9baa-8eab775bb4fe
-  macAddresses:
-  - 70:B3:D5:64:30:00/36
-  manufacturer: Marques,S.A.
-  manufacturerUri: https://device-type.com
-  name: Marques
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6400f2fa-7e85-5805-a6ef-0dfd0115a8bd
-  macAddresses:
-  - 00:26:21:00:00:00/24
-  manufacturer: InteliCloud Technology Inc.
-  manufacturerUri: https://device-type.com
-  name: InteliCl
-type: d3-device-type-assertion

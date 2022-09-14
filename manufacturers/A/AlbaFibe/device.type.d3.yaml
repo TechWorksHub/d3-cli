@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 627618fc-4e03-5192-81d0-e0596dbd2e89
-  macAddresses:
-  - 50:A0:BF:00:00:00/24
-  manufacturer: Alba Fiber Systems Inc.
-  manufacturerUri: https://device-type.com
-  name: AlbaFibe
-type: d3-device-type-assertion

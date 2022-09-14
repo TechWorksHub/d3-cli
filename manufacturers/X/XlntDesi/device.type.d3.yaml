@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6fa968a6-32a1-514e-ac2b-611574020079
-  macAddresses:
-  - 00:40:2F:00:00:00/24
-  manufacturer: Xlnt Designs Inc (XDI)
-  manufacturerUri: https://device-type.com
-  name: XlntDesi
-type: d3-device-type-assertion

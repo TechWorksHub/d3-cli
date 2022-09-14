@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fa366bf4-1a9b-55b8-8019-b31f976ea199
-  macAddresses:
-  - 00:12:3C:00:00:00/24
-  manufacturer: Second Rule LLC
-  manufacturerUri: https://device-type.com
-  name: SecondRu
-type: d3-device-type-assertion

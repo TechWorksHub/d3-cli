@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1898077e-02e4-5839-bbd5-9214904076fc
-  macAddresses:
-  - 00:90:37:00:00:00/24
-  manufacturer: Acucomm, Inc.
-  manufacturerUri: https://device-type.com
-  name: Acucomm
-type: d3-device-type-assertion

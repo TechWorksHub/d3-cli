@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b3f8dfb7-de6b-5daf-ad7e-4f8b623c030b
-  macAddresses:
-  - 50:62:55:00:00:00/28
-  manufacturer: Ufanet SC
-  manufacturerUri: https://device-type.com
-  name: UfanetSC
-type: d3-device-type-assertion

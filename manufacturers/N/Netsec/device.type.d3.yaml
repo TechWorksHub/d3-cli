@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5dd451da-9fc7-5eb8-879e-4fffe0be254f
-  macAddresses:
-  - 00:02:DB:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Netsec
-type: d3-device-type-assertion

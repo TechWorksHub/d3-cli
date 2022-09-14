@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4d3dae90-2349-5668-a94d-f34824456783
-  macAddresses:
-  - 00:50:C2:BD:20:00/36
-  manufacturer: Percello Ltd.
-  manufacturerUri: https://device-type.com
-  name: Percello
-type: d3-device-type-assertion

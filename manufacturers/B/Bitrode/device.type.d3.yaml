@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 25dd32b1-ca6c-572c-9fc0-a2ac7626981d
-  macAddresses:
-  - 00:25:27:00:00:00/24
-  manufacturer: Bitrode Corp.
-  manufacturerUri: https://device-type.com
-  name: Bitrode
-type: d3-device-type-assertion

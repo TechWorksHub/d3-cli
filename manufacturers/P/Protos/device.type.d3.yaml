@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 83e9e7b1-cb63-5991-96b1-90f61925c883
-  macAddresses:
-  - F8:8A:3C:A0:00:00/28
-  manufacturer: Protos GmbH
-  manufacturerUri: https://device-type.com
-  name: Protos
-type: d3-device-type-assertion

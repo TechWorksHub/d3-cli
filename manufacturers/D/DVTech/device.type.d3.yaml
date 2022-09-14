@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f5c5f7c8-01e4-56e0-9803-7090758425c0
-  macAddresses:
-  - 00:50:C2:A6:60:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: DVTech
-type: d3-device-type-assertion

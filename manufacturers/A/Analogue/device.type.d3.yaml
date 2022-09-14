@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fd5914e1-e6bb-5619-baa6-15ca1f862bf7
-  macAddresses:
-  - 00:1D:11:00:00:00/24
-  manufacturer: Analogue & Micro Ltd
-  manufacturerUri: https://device-type.com
-  name: Analogue
-type: d3-device-type-assertion

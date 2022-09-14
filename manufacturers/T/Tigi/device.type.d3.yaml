@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 87c4db66-ac14-502f-b397-a5ea12f4904d
-  macAddresses:
-  - 00:17:93:00:00:00/24
-  manufacturer: Tigi Corporation
-  manufacturerUri: https://device-type.com
-  name: Tigi
-type: d3-device-type-assertion

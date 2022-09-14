@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c23176b5-9f1c-5352-8607-79c48b40c7f6
-  macAddresses:
-  - DC:2B:66:00:00:00/24
-  manufacturer: InfoBLOCK S.A. de C.V.
-  manufacturerUri: https://device-type.com
-  name: InfoBLOC
-type: d3-device-type-assertion

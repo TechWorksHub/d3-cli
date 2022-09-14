@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 314d9bd4-b9e5-5645-818f-23e3504be31b
-  macAddresses:
-  - E8:93:F3:00:00:00/24
-  manufacturer: Graphiant Inc
-  manufacturerUri: https://device-type.com
-  name: Graphian
-type: d3-device-type-assertion

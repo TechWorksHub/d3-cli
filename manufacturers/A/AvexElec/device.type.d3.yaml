@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8843e1f4-34c7-51da-9382-071f4ce4a63d
-  macAddresses:
-  - 00:90:E3:00:00:00/24
-  manufacturer: Avex Electronics Inc.
-  manufacturerUri: https://device-type.com
-  name: AvexElec
-type: d3-device-type-assertion

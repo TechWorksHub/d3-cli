@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 398cf2cd-a64d-537d-a688-c6471b131a4f
-  macAddresses:
-  - F0:D7:AF:A0:00:00/28
-  manufacturer: Mstar Technologies,Inc
-  manufacturerUri: https://device-type.com
-  name: MstarTec
-type: d3-device-type-assertion

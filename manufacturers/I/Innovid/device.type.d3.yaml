@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 70146464-adad-5106-b406-03d3e3fa4d69
-  macAddresses:
-  - E0:5B:70:00:00:00/24
-  manufacturer: Innovid, Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Innovid
-type: d3-device-type-assertion

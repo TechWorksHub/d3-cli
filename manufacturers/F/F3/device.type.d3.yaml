@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4497d187-3d5b-57fc-8bf4-290e31067d7e
-  macAddresses:
-  - 00:03:29:00:00:00/24
-  manufacturer: F3, Inc.
-  manufacturerUri: https://device-type.com
-  name: F3
-type: d3-device-type-assertion

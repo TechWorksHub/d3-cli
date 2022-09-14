@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 651b1bd6-e597-5a5f-8a34-a3e50d15257d
-  macAddresses:
-  - 0C:6E:4F:00:00:00/24
-  manufacturer: PrimeVOLT Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: PrimeVOL
-type: d3-device-type-assertion

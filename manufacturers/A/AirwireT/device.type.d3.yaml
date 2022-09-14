@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 74457205-dd39-5b55-b4be-261d2581f49d
-  macAddresses:
-  - 1C:14:B3:00:00:00/24
-  manufacturer: Airwire Technologies
-  manufacturerUri: https://device-type.com
-  name: AirwireT
-type: d3-device-type-assertion

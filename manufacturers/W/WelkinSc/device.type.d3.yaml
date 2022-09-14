@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0c48f023-87a4-5c18-92b9-5b2c14642a71
-  macAddresses:
-  - 00:1E:4D:00:00:00/24
-  manufacturer: Welkin Sciences, LLC
-  manufacturerUri: https://device-type.com
-  name: WelkinSc
-type: d3-device-type-assertion

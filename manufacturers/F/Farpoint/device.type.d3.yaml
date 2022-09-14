@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a279d0d3-f461-51db-8f10-99d1b3a318ec
-  macAddresses:
-  - DA:0D:38:00:00:00/24
-  manufacturer: Farpointe Data, Inc.
-  manufacturerUri: https://device-type.com
-  name: Farpoint
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8554d289-49d8-5d8b-b83b-dcbe216a41ca
-  macAddresses:
-  - 00:50:32:00:00:00/24
-  manufacturer: Picazo Communications, Inc.
-  manufacturerUri: https://device-type.com
-  name: PicazoCo
-type: d3-device-type-assertion

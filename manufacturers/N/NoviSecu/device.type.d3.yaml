@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b4c655b0-4d5d-597a-a008-8f620588111f
-  macAddresses:
-  - 4C:B7:6D:00:00:00/24
-  manufacturer: Novi Security
-  manufacturerUri: https://device-type.com
-  name: NoviSecu
-type: d3-device-type-assertion

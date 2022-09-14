@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5a82061a-25fc-58c4-bb75-cbd3741e6136
-  macAddresses:
-  - 00:17:3A:00:00:00/24
-  manufacturer: Cloudastructure Inc
-  manufacturerUri: https://device-type.com
-  name: Cloudast
-type: d3-device-type-assertion

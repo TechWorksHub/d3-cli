@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8346a4e3-c166-5483-a9d0-91f283ab031d
-  macAddresses:
-  - 00:11:22:00:00:00/24
-  manufacturer: CIMSYS Inc
-  manufacturerUri: https://device-type.com
-  name: CIMSYS
-type: d3-device-type-assertion

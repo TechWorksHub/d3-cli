@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 16cb3ec9-b96c-59ee-81d9-cd6c76cb60a8
-  macAddresses:
-  - 00:19:29:00:00:00/24
-  manufacturer: 2M2B Montadora de Maquinas Bahia Brasil LTDA
-  manufacturerUri: https://device-type.com
-  name: 2M2BMont
-type: d3-device-type-assertion

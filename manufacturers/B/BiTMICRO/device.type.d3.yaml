@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3c1b268c-188c-54de-8cdf-0509a962b6f8
-  macAddresses:
-  - 00:0B:54:00:00:00/24
-  manufacturer: BiTMICRO Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: BiTMICRO
-type: d3-device-type-assertion

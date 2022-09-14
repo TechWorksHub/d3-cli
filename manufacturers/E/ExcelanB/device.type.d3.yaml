@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1a820cc9-a0b6-520d-9293-5d85347c07ce
-  macAddresses:
-  - 08:00:14:00:00:00/24
-  manufacturer: Excelan
-  manufacturerUri: https://device-type.com
-  name: ExcelanB
-type: d3-device-type-assertion

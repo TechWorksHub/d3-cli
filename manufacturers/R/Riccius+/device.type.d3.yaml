@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e944141c-07b9-5112-82aa-16d1df526ddc
-  macAddresses:
-  - 00:1F:FC:00:00:00/24
-  manufacturer: Riccius+Sohn GmbH
-  manufacturerUri: https://device-type.com
-  name: Riccius+
-type: d3-device-type-assertion

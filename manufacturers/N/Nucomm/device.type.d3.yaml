@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 185c8a4d-e122-52c6-a94b-1c4c9e25d553
-  macAddresses:
-  - 00:22:2B:00:00:00/24
-  manufacturer: Nucomm, Inc.
-  manufacturerUri: https://device-type.com
-  name: Nucomm
-type: d3-device-type-assertion

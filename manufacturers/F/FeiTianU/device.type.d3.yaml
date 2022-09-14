@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 742cf067-9b5f-52b0-b727-56a2c8915cf5
-  macAddresses:
-  - 5C:E0:CA:00:00:00/24
-  manufacturer: FeiTian United (Beijing) System Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: FeiTianU
-type: d3-device-type-assertion

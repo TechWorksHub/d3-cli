@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 42ac008d-57a2-58a9-8c0e-60acd7072fb7
-  macAddresses:
-  - B4:A3:05:00:00:00/24
-  manufacturer: Xiamen Yaxon Network Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: XiamenYa
-type: d3-device-type-assertion

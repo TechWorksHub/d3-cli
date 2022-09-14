@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7b78707b-e31d-5dae-b202-bc7ee10b5265
-  macAddresses:
-  - EC:96:81:00:00:00/24
-  manufacturer: 2276427 Ontario Inc
-  manufacturerUri: https://device-type.com
-  name: 2276427O
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 16a673c6-9546-5767-8962-539de63180cb
-  macAddresses:
-  - 00:18:A9:00:00:00/24
-  manufacturer: Ethernet Direct Corporation
-  manufacturerUri: https://device-type.com
-  name: Ethernet
-type: d3-device-type-assertion

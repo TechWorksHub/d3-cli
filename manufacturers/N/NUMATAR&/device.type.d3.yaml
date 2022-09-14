@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0f9a6f0a-cf00-5ffc-abc2-2f6334805d68
-  macAddresses:
-  - 70:B3:D5:E9:B0:00/36
-  manufacturer: NUMATA R&D Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: NUMATAR&
-type: d3-device-type-assertion

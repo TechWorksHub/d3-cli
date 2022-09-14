@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 12d52465-1207-5e04-9b67-923165a5db27
-  macAddresses:
-  - 00:07:0B:00:00:00/24
-  manufacturer: Novabase SGPS, SA
-  manufacturerUri: https://device-type.com
-  name: Novabase
-type: d3-device-type-assertion

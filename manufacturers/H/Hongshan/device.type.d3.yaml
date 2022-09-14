@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9d87b4b8-18d5-5127-8d33-54445caef4f7
-  macAddresses:
-  - 30:39:A9:00:00:00/24
-  manufacturer: Hongshan Information Science and Technology (HangZhou) Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: Hongshan
-type: d3-device-type-assertion

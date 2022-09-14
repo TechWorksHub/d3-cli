@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 13165663-1885-5e78-908c-c232c9da1922
-  macAddresses:
-  - 48:0B:B2:D0:00:00/28
-  manufacturer: M2Lab Ltd.
-  manufacturerUri: https://device-type.com
-  name: M2Lab
-type: d3-device-type-assertion

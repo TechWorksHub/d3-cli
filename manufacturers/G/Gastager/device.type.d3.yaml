@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c5ad0239-09df-5fbe-bee5-37c3676a7d23
-  macAddresses:
-  - 00:50:C2:57:90:00/36
-  manufacturer: Gastager Systemtechnik GmbH
-  manufacturerUri: https://device-type.com
-  name: Gastager
-type: d3-device-type-assertion

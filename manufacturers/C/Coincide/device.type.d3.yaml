@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c05561ac-1807-54db-9fe0-6b1597a6228a
-  macAddresses:
-  - 00:1B:C5:04:30:00/36
-  manufacturer: Coincident, Inc.
-  manufacturerUri: https://device-type.com
-  name: Coincide
-type: d3-device-type-assertion

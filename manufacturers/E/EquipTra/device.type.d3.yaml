@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fcd73329-d39c-521a-aa0f-882b17beb5c8
-  macAddresses:
-  - 00:01:00:00:00:00/24
-  manufacturer: Equip'Trans
-  manufacturerUri: https://device-type.com
-  name: EquipTra
-type: d3-device-type-assertion

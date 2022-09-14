@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fd87467a-fedd-54ef-bea8-3716f47be9c7
-  macAddresses:
-  - 00:50:C2:21:60:00/36
-  manufacturer: Level Control Systems
-  manufacturerUri: https://device-type.com
-  name: LevelCon
-type: d3-device-type-assertion

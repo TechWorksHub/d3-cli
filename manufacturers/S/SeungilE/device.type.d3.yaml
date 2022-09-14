@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b22870ce-7d50-58a6-ae3c-d3c682285a88
-  macAddresses:
-  - 64:2D:B7:00:00:00/24
-  manufacturer: Seungil Electronics
-  manufacturerUri: https://device-type.com
-  name: SeungilE
-type: d3-device-type-assertion

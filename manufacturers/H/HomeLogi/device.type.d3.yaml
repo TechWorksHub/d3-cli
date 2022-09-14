@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a73f40a4-42d9-58c0-a735-8ea1f9f5cfd7
-  macAddresses:
-  - 00:11:68:00:00:00/24
-  manufacturer: HomeLogic LLC
-  manufacturerUri: https://device-type.com
-  name: HomeLogi
-type: d3-device-type-assertion

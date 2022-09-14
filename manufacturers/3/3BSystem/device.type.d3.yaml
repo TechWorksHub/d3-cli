@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 517a3e6e-2fa9-51cd-a004-09e86e2772de
-  macAddresses:
-  - 00:0F:05:00:00:00/24
-  manufacturer: 3B System Inc.
-  manufacturerUri: https://device-type.com
-  name: 3BSystem
-type: d3-device-type-assertion

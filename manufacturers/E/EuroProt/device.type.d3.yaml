@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 05b33ebf-c8a5-58ad-96d0-3c9f51d344a0
-  macAddresses:
-  - 00:13:30:00:00:00/24
-  manufacturer: Euro Protection Surveillance
-  manufacturerUri: https://device-type.com
-  name: EuroProt
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 64221777-d029-5be6-a8d3-68f53954c922
-  macAddresses:
-  - 70:B3:D5:D9:D0:00/36
-  manufacturer: Electroimpact, Inc.
-  manufacturerUri: https://device-type.com
-  name: Electroi
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ab5174ae-eed1-59e4-b2c5-ccf2c9f3bf98
-  macAddresses:
-  - 80:AA:A4:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Usag
-type: d3-device-type-assertion

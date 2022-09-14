@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1e8c97a7-d7f5-5913-a525-9305317071f3
-  macAddresses:
-  - 00:16:11:00:00:00/24
-  manufacturer: Altecon Srl
-  manufacturerUri: https://device-type.com
-  name: Altecon
-type: d3-device-type-assertion

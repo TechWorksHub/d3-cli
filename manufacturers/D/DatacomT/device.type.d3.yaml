@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ff11366e-7f72-5bb5-bcac-9889ca335a8b
-  macAddresses:
-  - 00:40:0F:00:00:00/24
-  manufacturer: Datacom Technologies
-  manufacturerUri: https://device-type.com
-  name: DatacomT
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 42b04ddc-28ce-505c-b4ea-977105054375
-  macAddresses:
-  - 00:30:F7:00:00:00/24
-  manufacturer: Ramix Inc.
-  manufacturerUri: https://device-type.com
-  name: Ramix
-type: d3-device-type-assertion

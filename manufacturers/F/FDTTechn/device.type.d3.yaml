@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7735b150-642f-5231-ba91-2bb009f5b43f
-  macAddresses:
-  - F4:85:C6:00:00:00/24
-  manufacturer: FDT Technologies
-  manufacturerUri: https://device-type.com
-  name: FDTTechn
-type: d3-device-type-assertion

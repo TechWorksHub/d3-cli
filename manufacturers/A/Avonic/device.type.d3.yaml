@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 62cb27fd-f589-5719-9ddb-7c6e8d0e6117
-  macAddresses:
-  - 98:14:D2:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Avonic
-type: d3-device-type-assertion

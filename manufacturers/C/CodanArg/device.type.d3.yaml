@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7630e9cf-297f-5f5c-b5ee-55112b8ea8ad
-  macAddresses:
-  - 4A:AD:CE:00:00:00/24
-  manufacturer: Codan Argus Ag
-  manufacturerUri: https://device-type.com
-  name: CodanArg
-type: d3-device-type-assertion

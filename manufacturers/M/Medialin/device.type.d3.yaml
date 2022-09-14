@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f8474ddb-da6f-5e8e-a8b0-174eac8db7ad
-  macAddresses:
-  - 00:11:AF:00:00:00/24
-  manufacturer: Medialink-i,Inc
-  manufacturerUri: https://device-type.com
-  name: Medialin
-type: d3-device-type-assertion

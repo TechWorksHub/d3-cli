@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c5405dd0-71b2-55cb-903d-841cb4b09f2b
-  macAddresses:
-  - 90:7E:BA:00:00:00/24
-  manufacturer: Utek Technology (Shenzhen) Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: UtekTech
-type: d3-device-type-assertion

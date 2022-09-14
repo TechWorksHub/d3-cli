@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c303d773-cd99-5a65-aeb7-d9fcf1104b35
-  macAddresses:
-  - 70:B3:D5:0B:70:00/36
-  manufacturer: HAI ROBOTICS Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: HAIROBOT
-type: d3-device-type-assertion

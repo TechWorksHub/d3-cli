@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 54a594ee-47cc-5243-a057-3efd888ee0b7
-  macAddresses:
-  - A0:02:4A:20:00:00/28
-  manufacturer: Danriver Technologies Corp.
-  manufacturerUri: https://device-type.com
-  name: Danriver
-type: d3-device-type-assertion

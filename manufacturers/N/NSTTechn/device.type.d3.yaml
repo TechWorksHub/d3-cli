@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0177e6fb-78f4-52cb-b460-d50a8ac0d43d
-  macAddresses:
-  - 70:F8:E7:70:00:00/28
-  manufacturer: NST Technology Limited Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: NSTTechn
-type: d3-device-type-assertion

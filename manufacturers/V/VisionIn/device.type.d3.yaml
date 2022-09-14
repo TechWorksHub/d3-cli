@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 45b38c1c-27d3-55ff-b9cb-fb7e456e15c3
-  macAddresses:
-  - 4C:11:59:00:00:00/24
-  manufacturer: Vision Information & Communications
-  manufacturerUri: https://device-type.com
-  name: VisionIn
-type: d3-device-type-assertion

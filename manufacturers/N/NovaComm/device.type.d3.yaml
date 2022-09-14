@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 20415f6e-a64f-541e-a7ac-4dadab60fa60
-  macAddresses:
-  - 5C:B6:CC:00:00:00/24
-  manufacturer: NovaComm Technologies Inc.
-  manufacturerUri: https://device-type.com
-  name: NovaComm
-type: d3-device-type-assertion

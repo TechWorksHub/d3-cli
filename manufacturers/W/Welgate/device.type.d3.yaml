@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 49f722c1-67dc-5458-b0f4-9fd93a786895
-  macAddresses:
-  - 4C:26:E7:00:00:00/24
-  manufacturer: Welgate Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Welgate
-type: d3-device-type-assertion

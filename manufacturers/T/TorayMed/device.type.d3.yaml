@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9ff12a48-4a64-5034-b21a-95b42ad0376f
-  macAddresses:
-  - 70:B3:D5:2F:A0:00/36
-  manufacturer: Toray Medical Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: TorayMed
-type: d3-device-type-assertion

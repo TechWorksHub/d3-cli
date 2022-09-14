@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fe97c4f1-af6d-5db2-a24a-e4617d1a5c47
-  macAddresses:
-  - 00:18:1C:00:00:00/24
-  manufacturer: Exterity Limited
-  manufacturerUri: https://device-type.com
-  name: Exterity
-type: d3-device-type-assertion

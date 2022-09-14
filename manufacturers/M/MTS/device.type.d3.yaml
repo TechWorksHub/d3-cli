@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d420d9cf-e241-5816-8895-4f4ab780edad
-  macAddresses:
-  - 00:03:CA:00:00:00/24
-  manufacturer: MTS Systems Corp.
-  manufacturerUri: https://device-type.com
-  name: MTS
-type: d3-device-type-assertion

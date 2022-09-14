@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 26a586ad-ed51-513d-9e7b-f41981ccdce9
-  macAddresses:
-  - 80:A1:AB:00:00:00/24
-  manufacturer: Intellisis
-  manufacturerUri: https://device-type.com
-  name: Intellis
-type: d3-device-type-assertion

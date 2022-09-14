@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9fa7b0ab-9b91-5c2f-9002-ae1dad9192f2
-  macAddresses:
-  - 98:C8:45:00:00:00/24
-  manufacturer: PacketAccess
-  manufacturerUri: https://device-type.com
-  name: PacketAc
-type: d3-device-type-assertion

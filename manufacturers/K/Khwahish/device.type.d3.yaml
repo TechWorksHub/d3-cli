@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5c5c7ab1-d801-5965-8e12-fb7fcbe4f764
-  macAddresses:
-  - C4:02:E1:00:00:00/24
-  manufacturer: Khwahish Technologies Private Limited
-  manufacturerUri: https://device-type.com
-  name: Khwahish
-type: d3-device-type-assertion

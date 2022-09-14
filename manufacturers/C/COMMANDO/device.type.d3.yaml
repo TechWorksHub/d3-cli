@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f08a343a-78c6-59cd-ba74-7ccf1a36e670
-  macAddresses:
-  - 8C:02:FA:00:00:00/24
-  manufacturer: COMMANDO Networks Limited
-  manufacturerUri: https://device-type.com
-  name: COMMANDO
-type: d3-device-type-assertion

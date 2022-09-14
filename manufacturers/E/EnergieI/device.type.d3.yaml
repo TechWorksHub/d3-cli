@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 34aba7bd-37dd-5e9b-93ac-a091386824d6
-  macAddresses:
-  - 18:FD:CB:70:00:00/28
-  manufacturer: Energie Ip
-  manufacturerUri: https://device-type.com
-  name: EnergieI
-type: d3-device-type-assertion

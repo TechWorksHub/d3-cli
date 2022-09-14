@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 76822938-0a3a-5f83-a077-75911883c932
-  macAddresses:
-  - 00:50:C2:68:B0:00/36
-  manufacturer: Simtek Inc.
-  manufacturerUri: https://device-type.com
-  name: Simtek
-type: d3-device-type-assertion

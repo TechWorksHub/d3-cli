@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 96c92166-ff50-5f45-984e-16368994be30
-  macAddresses:
-  - 00:1B:C5:0C:70:00/36
-  manufacturer: Wizzilab Sas
-  manufacturerUri: https://device-type.com
-  name: Wizzilab
-type: d3-device-type-assertion

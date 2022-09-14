@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 16512f93-79c0-5765-8130-17e4a4dc8d97
-  macAddresses:
-  - 00:80:9E:00:00:00/24
-  manufacturer: Datus Gmbh
-  manufacturerUri: https://device-type.com
-  name: Datus
-type: d3-device-type-assertion

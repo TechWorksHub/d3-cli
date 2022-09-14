@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c5315b32-4b20-5624-863f-62bdf8ad89a5
-  macAddresses:
-  - 00:12:91:00:00:00/24
-  manufacturer: KWS Computersysteme GmbH
-  manufacturerUri: https://device-type.com
-  name: KWSCompu
-type: d3-device-type-assertion

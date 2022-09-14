@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 818a8550-2e42-57a1-8d5a-2bd8a231e7bf
-  macAddresses:
-  - 0C:5C:B5:B0:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Adi
-type: d3-device-type-assertion

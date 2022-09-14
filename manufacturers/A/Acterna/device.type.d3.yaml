@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2e56572b-d29e-5fcd-a32a-d4d05d9b7f55
-  macAddresses:
-  - 00:07:11:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Acterna
-type: d3-device-type-assertion

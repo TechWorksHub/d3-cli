@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4c6ed651-d470-58d0-8c8d-6b9dd7e3349e
-  macAddresses:
-  - 70:B3:D5:0C:D0:00/36
-  manufacturer: AML Oceanographic
-  manufacturerUri: https://device-type.com
-  name: AMLOcean
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 45ccfe23-c1ed-50b7-98f6-a532049f9cfb
-  macAddresses:
-  - 2C:6A:6F:D0:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Holjeron
-type: d3-device-type-assertion

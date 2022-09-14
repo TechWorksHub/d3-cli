@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e902d271-82e0-5609-9a93-2a853664e233
-  macAddresses:
-  - 58:20:8A:80:00:00/28
-  manufacturer: SAMIL CTS Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: SAMILCTS
-type: d3-device-type-assertion

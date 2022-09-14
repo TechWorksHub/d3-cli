@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c62144a5-563e-591e-a4d0-5af6a02452ad
-  macAddresses:
-  - 00:90:E4:00:00:00/24
-  manufacturer: Nec America, Inc.
-  manufacturerUri: https://device-type.com
-  name: NecAmeri
-type: d3-device-type-assertion

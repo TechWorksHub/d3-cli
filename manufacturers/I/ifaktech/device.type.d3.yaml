@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 58a2e743-3f44-52e0-9055-06403401fdc5
-  macAddresses:
-  - 70:B3:D5:26:40:00/36
-  manufacturer: ifak technology + service GmbH
-  manufacturerUri: https://device-type.com
-  name: ifaktech
-type: d3-device-type-assertion

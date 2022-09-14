@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a852d080-e92b-5fb4-b351-d09c9234972a
-  macAddresses:
-  - 00:0A:32:00:00:00/24
-  manufacturer: Xsido Corporation
-  manufacturerUri: https://device-type.com
-  name: Xsido
-type: d3-device-type-assertion

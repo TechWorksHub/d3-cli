@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 08c555d1-186c-50de-973e-1a195a3b4907
-  macAddresses:
-  - 00:1B:C5:0A:60:00/36
-  manufacturer: Balter Security GmbH
-  manufacturerUri: https://device-type.com
-  name: BalterSe
-type: d3-device-type-assertion

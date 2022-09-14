@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1993fcff-0042-5629-bf8c-af8b4fa66a38
-  macAddresses:
-  - DC:C6:22:00:00:00/24
-  manufacturer: Buheung System
-  manufacturerUri: https://device-type.com
-  name: BuheungS
-type: d3-device-type-assertion

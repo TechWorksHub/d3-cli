@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a4e81b48-a371-5d3c-9682-b565bf78ec22
-  macAddresses:
-  - FC:38:C4:00:00:00/24
-  manufacturer: China Grand Communications Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: ChinaGra
-type: d3-device-type-assertion

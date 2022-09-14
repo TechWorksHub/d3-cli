@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1695851d-7030-5f4e-b254-8af4346852bb
-  macAddresses:
-  - C4:DA:26:00:00:00/24
-  manufacturer: Noblex Sa
-  manufacturerUri: https://device-type.com
-  name: Noblex
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: de591ccd-25fe-5726-afb1-36ae98557dc5
-  macAddresses:
-  - 40:D8:55:03:F0:00/36
-  manufacturer: UniSVR Global Information Technology Corp.
-  manufacturerUri: https://device-type.com
-  name: UniSVRGl
-type: d3-device-type-assertion

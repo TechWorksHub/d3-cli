@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d0523d8a-81d0-5fa1-bdc4-0874b41ea8f7
-  macAddresses:
-  - 38:F5:57:00:00:00/24
-  manufacturer: Jolata, Inc.
-  manufacturerUri: https://device-type.com
-  name: Jolata
-type: d3-device-type-assertion

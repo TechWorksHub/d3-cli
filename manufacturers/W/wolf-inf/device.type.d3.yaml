@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 09652dfe-74ad-5b7c-8e90-269ca1b68d65
-  macAddresses:
-  - 00:50:C2:18:20:00/36
-  manufacturer: wolf-inf-tec
-  manufacturerUri: https://device-type.com
-  name: wolf-inf
-type: d3-device-type-assertion

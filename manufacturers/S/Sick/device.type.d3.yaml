@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ea276b8a-71fe-5d5c-b481-35a790e10413
-  macAddresses:
-  - 00:06:77:00:00:00/24
-  manufacturer: Sick Ag
-  manufacturerUri: https://device-type.com
-  name: Sick
-type: d3-device-type-assertion

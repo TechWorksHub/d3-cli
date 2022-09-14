@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c52d8c01-08cd-54a0-8126-44a0fd11d1ca
-  macAddresses:
-  - 00:A0:49:00:00:00/24
-  manufacturer: Digitech Industries, Inc.
-  manufacturerUri: https://device-type.com
-  name: Digitech
-type: d3-device-type-assertion

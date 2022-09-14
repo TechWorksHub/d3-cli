@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 238ab0d6-cf97-5f42-ae28-1a7f51a133e8
-  macAddresses:
-  - 00:50:C2:86:50:00/36
-  manufacturer: Persy Control Services B.v.
-  manufacturerUri: https://device-type.com
-  name: PersyCon
-type: d3-device-type-assertion

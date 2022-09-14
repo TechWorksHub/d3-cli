@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 104021de-4b2d-5ed4-80b6-2a5097d95919
-  macAddresses:
-  - F0:D1:B8:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Ledvance
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c48f30b1-749c-5839-9aa2-c586239ca9cb
-  macAddresses:
-  - E4:60:59:00:00:00/24
-  manufacturer: Pingtek Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Pingtek
-type: d3-device-type-assertion

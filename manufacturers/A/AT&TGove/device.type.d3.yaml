@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3276bbec-b275-5de5-95b2-3b446dc46b1c
-  macAddresses:
-  - 00:50:C2:87:D0:00/36
-  manufacturer: AT&T Government Solutions
-  manufacturerUri: https://device-type.com
-  name: AT&TGove
-type: d3-device-type-assertion

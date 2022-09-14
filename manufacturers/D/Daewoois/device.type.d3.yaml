@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6d3b898b-fc9b-5370-99a1-36664e15209c
-  macAddresses:
-  - 18:17:14:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Daewoois
-type: d3-device-type-assertion

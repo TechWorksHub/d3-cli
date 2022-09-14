@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bc4e3861-3e1b-5b10-aa34-26d09d193335
-  macAddresses:
-  - 88:5F:E8:90:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Sowee
-type: d3-device-type-assertion

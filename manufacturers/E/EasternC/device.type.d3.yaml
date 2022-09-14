@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d0616829-0dd0-5f5c-9973-ad0327f3a28f
-  macAddresses:
-  - 00:25:70:00:00:00/24
-  manufacturer: Eastern Communications Company Limited
-  manufacturerUri: https://device-type.com
-  name: EasternC
-type: d3-device-type-assertion

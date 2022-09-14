@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e6bcf112-291c-547e-b0db-d9f293b46a47
-  macAddresses:
-  - 00:06:04:00:00:00/24
-  manufacturer: '@Track Communications, Inc.'
-  manufacturerUri: https://device-type.com
-  name: '@TrackCo'
-type: d3-device-type-assertion

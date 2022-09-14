@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f29340c1-3ed1-5508-950c-8116124848cf
-  macAddresses:
-  - 78:DA:B3:00:00:00/24
-  manufacturer: GBO Technology
-  manufacturerUri: https://device-type.com
-  name: GBOTechn
-type: d3-device-type-assertion

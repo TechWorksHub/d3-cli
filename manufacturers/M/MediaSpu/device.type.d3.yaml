@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dce6d0ac-eed3-5703-a77a-6197db0d129d
-  macAddresses:
-  - 00:26:25:00:00:00/24
-  manufacturer: MediaSputnik
-  manufacturerUri: https://device-type.com
-  name: MediaSpu
-type: d3-device-type-assertion

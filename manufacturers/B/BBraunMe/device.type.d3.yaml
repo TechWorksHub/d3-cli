@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 611a133e-90a8-5fd4-ac3d-56c184b9f3d4
-  macAddresses:
-  - 00:12:21:00:00:00/24
-  manufacturer: B.Braun Melsungen AG
-  manufacturerUri: https://device-type.com
-  name: BBraunMe
-type: d3-device-type-assertion

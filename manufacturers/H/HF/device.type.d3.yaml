@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 95224a99-add8-5f06-a7c9-1f4fad771731
-  macAddresses:
-  - 00:14:9C:00:00:00/24
-  manufacturer: HF Company
-  manufacturerUri: https://device-type.com
-  name: HF
-type: d3-device-type-assertion

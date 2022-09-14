@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 602f8747-298c-5de7-9dd0-c60802fbedc3
-  macAddresses:
-  - 40:D8:55:18:E0:00/36
-  manufacturer: Kerun Visual Technology Co., Ltd.(Shenzhen)
-  manufacturerUri: https://device-type.com
-  name: KerunVis
-type: d3-device-type-assertion

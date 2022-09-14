@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f068942e-516f-517c-81a0-4fb6c1b98ddf
-  macAddresses:
-  - 00:04:26:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Autosys
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e5565c24-5178-5dfa-8d0b-6c1fd59ea0f5
-  macAddresses:
-  - 80:47:31:00:00:00/24
-  manufacturer: Packet Design, Inc.
-  manufacturerUri: https://device-type.com
-  name: PacketDe
-type: d3-device-type-assertion

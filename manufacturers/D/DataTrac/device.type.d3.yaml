@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: def3eaff-006d-5e25-8140-53c5bafa6c66
-  macAddresses:
-  - 00:02:C6:00:00:00/24
-  manufacturer: Data Track Technology PLC
-  manufacturerUri: https://device-type.com
-  name: DataTrac
-type: d3-device-type-assertion

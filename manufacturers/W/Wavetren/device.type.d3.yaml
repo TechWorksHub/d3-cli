@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c07a8827-47f9-58d4-8c66-164e0181c810
-  macAddresses:
-  - 00:1D:2C:00:00:00/24
-  manufacturer: Wavetrend Technologies (Pty) Limited
-  manufacturerUri: https://device-type.com
-  name: Wavetren
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a79b4528-8a17-52af-8a10-28c0366f4fd8
-  macAddresses:
-  - 40:17:F6:00:00:00/24
-  manufacturer: Tkh Security,S.L.U.
-  manufacturerUri: https://device-type.com
-  name: TkhSecur
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bd421ec4-3ce0-500c-a928-1be6cb9d9669
-  macAddresses:
-  - 14:1F:BA:D0:00:00/28
-  manufacturer: AJIS(DALIAN)co.,LTD
-  manufacturerUri: https://device-type.com
-  name: AJISDALI
-type: d3-device-type-assertion

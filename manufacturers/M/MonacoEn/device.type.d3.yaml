@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 77b2a156-adbb-55f8-9cca-01ee7544523e
-  macAddresses:
-  - 14:41:E2:00:00:00/24
-  manufacturer: Monaco Enterprises, Inc.
-  manufacturerUri: https://device-type.com
-  name: MonacoEn
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2f65376b-34cb-5acd-a2f3-79c946f1a38d
-  macAddresses:
-  - C8:F9:C8:00:00:00/24
-  manufacturer: NewSharp Technology(SuZhou)Co,Ltd
-  manufacturerUri: https://device-type.com
-  name: NewSharp
-type: d3-device-type-assertion

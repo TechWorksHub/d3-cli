@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9c2b28f3-1fbc-5501-8faf-1290ea322ab4
-  macAddresses:
-  - 70:B3:D5:AD:20:00/36
-  manufacturer: Wart-Elektronik
-  manufacturerUri: https://device-type.com
-  name: Wart-Ele
-type: d3-device-type-assertion

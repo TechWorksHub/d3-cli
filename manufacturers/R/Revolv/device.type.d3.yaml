@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d1b576d9-92e6-5b19-afad-41d5a879e717
-  macAddresses:
-  - B0:79:3C:00:00:00/24
-  manufacturer: Revolv Inc
-  manufacturerUri: https://device-type.com
-  name: Revolv
-type: d3-device-type-assertion

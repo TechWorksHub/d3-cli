@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9cab2f3c-d6d9-5503-a232-bff0d06e1ce7
-  macAddresses:
-  - 00:03:DC:00:00:00/24
-  manufacturer: Lexar Media, Inc.
-  manufacturerUri: https://device-type.com
-  name: LexarMed
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ce83e63f-1775-5a47-9d61-6a7634188f5f
-  macAddresses:
-  - 00:1A:56:00:00:00/24
-  manufacturer: ViewTel Co,. Ltd.
-  manufacturerUri: https://device-type.com
-  name: ViewTel
-type: d3-device-type-assertion

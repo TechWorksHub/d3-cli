@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7a9b3573-e3aa-57ff-800f-ae676c34f259
-  macAddresses:
-  - 74:1A:E0:40:00:00/28
-  manufacturer: Revl Inc.
-  manufacturerUri: https://device-type.com
-  name: Revl
-type: d3-device-type-assertion

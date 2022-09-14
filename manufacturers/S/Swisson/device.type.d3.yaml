@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 60b536c7-1973-5f48-aa53-c7119e06d195
-  macAddresses:
-  - 28:36:38:C0:00:00/28
-  manufacturer: Swisson AG
-  manufacturerUri: https://device-type.com
-  name: Swisson
-type: d3-device-type-assertion

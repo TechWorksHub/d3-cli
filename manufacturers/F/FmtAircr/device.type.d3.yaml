@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b880d841-2b37-5a2a-9895-ea61230ab6c4
-  macAddresses:
-  - 00:90:76:00:00:00/24
-  manufacturer: Fmt Aircraft Gate Support Systems Ab
-  manufacturerUri: https://device-type.com
-  name: FmtAircr
-type: d3-device-type-assertion

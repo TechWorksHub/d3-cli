@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a5c90097-5918-5b8d-b180-fe6c2a41c163
-  macAddresses:
-  - 44:11:C2:00:00:00/24
-  manufacturer: Telegartner Karl Gartner GmbH
-  manufacturerUri: https://device-type.com
-  name: Telegart
-type: d3-device-type-assertion

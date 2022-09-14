@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d44e7cfa-6477-5c03-9c6f-498b3cb0a071
-  macAddresses:
-  - 70:88:6B:50:00:00/28
-  manufacturer: Chengdu Ophylink Communication Technology Ltd.
-  manufacturerUri: https://device-type.com
-  name: ChengduO
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 55a46bc3-76d3-58f7-9252-acb919dc1152
-  macAddresses:
-  - C0:6C:6D:00:00:00/24
-  manufacturer: MagneMotion, Inc.
-  manufacturerUri: https://device-type.com
-  name: MagneMot
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c055eb48-bfb3-5309-9c75-5838af61aa51
-  macAddresses:
-  - 00:1D:78:00:00:00/24
-  manufacturer: Invengo Information Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: InvengoI
-type: d3-device-type-assertion

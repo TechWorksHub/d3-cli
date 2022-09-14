@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 45179c16-5a57-5a4d-bc52-b05d66afe26c
-  macAddresses:
-  - 8C:CF:5C:00:00:00/24
-  manufacturer: BEFEGA GmbH
-  manufacturerUri: https://device-type.com
-  name: BEFEGA
-type: d3-device-type-assertion

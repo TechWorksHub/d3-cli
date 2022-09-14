@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d3de529f-687f-5c4b-a426-22f00edf37b9
-  macAddresses:
-  - 70:B3:D5:D6:00:00/36
-  manufacturer: Flintab AB
-  manufacturerUri: https://device-type.com
-  name: Flintab
-type: d3-device-type-assertion

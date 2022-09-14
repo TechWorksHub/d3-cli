@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 91c23c6b-c886-5c88-ad88-5f6f546c63f0
-  macAddresses:
-  - 00:50:C2:CB:B0:00/36
-  manufacturer: Coptonix GmbH
-  manufacturerUri: https://device-type.com
-  name: Coptonix
-type: d3-device-type-assertion

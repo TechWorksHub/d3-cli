@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ea675cd1-6410-5432-9eeb-62e9cc6c822b
-  macAddresses:
-  - 00:1F:7A:00:00:00/24
-  manufacturer: WiWide Inc.
-  manufacturerUri: https://device-type.com
-  name: WiWide
-type: d3-device-type-assertion

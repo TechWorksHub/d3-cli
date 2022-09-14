@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 40590e61-ce19-56bc-8f5a-3642818700f5
-  macAddresses:
-  - 00:50:C2:BA:C0:00/36
-  manufacturer: Viteco Vnpt Jsc
-  manufacturerUri: https://device-type.com
-  name: VitecoVn
-type: d3-device-type-assertion

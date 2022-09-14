@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7738fc7f-870e-543d-a94b-b2a7c3bb664e
-  macAddresses:
-  - 00:20:1F:00:00:00/24
-  manufacturer: Best Power Technology, Inc.
-  manufacturerUri: https://device-type.com
-  name: BestPowe
-type: d3-device-type-assertion

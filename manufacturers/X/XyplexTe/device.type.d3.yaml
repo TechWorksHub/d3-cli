@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 27e4eeb2-006f-58c3-8388-7bda3e54344a
-  macAddresses:
-  - 08:00:87:00:00:00/24
-  manufacturer: Xyplex
-  manufacturerUri: https://device-type.com
-  name: XyplexTe
-type: d3-device-type-assertion

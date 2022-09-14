@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 67ffbd87-be57-5776-9119-4877e1f44b1b
-  macAddresses:
-  - 00:50:C2:93:60:00/36
-  manufacturer: Margaritis Engineering
-  manufacturerUri: https://device-type.com
-  name: Margarit
-type: d3-device-type-assertion

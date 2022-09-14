@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 009e75fe-afd6-5778-bc72-b25d4a3eca30
-  macAddresses:
-  - 00:1F:F2:00:00:00/24
-  manufacturer: VIA Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: VIATechn
-type: d3-device-type-assertion

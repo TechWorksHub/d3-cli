@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 961ec389-e928-5c06-a627-ae14291dd525
-  macAddresses:
-  - C0:F8:27:00:00:00/24
-  manufacturer: Rapidmax Technology Corporation
-  manufacturerUri: https://device-type.com
-  name: Rapidmax
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2a771340-1001-5637-a23c-994ab973c5dd
-  macAddresses:
-  - 80:19:FE:00:00:00/24
-  manufacturer: JianLing Technology CO., LTD
-  manufacturerUri: https://device-type.com
-  name: JianLing
-type: d3-device-type-assertion

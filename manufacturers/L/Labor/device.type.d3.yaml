@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5a3e5a78-1634-5c02-bd35-bbd5184e6a53
-  macAddresses:
-  - AC:0A:61:00:00:00/24
-  manufacturer: Labor S.r.L.
-  manufacturerUri: https://device-type.com
-  name: Labor
-type: d3-device-type-assertion

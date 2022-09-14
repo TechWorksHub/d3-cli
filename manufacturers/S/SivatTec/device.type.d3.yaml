@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ac16d037-afb0-5763-bf48-7e7cdb47ad1a
-  macAddresses:
-  - 3C:24:F0:80:00:00/28
-  manufacturer: Sivat Technology Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: SivatTec
-type: d3-device-type-assertion

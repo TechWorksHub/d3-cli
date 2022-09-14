@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0ed9db4d-6022-53a2-90bb-2180bda03325
-  macAddresses:
-  - B8:AE:1C:00:00:00/24
-  manufacturer: Smart Cube., Ltd
-  manufacturerUri: https://device-type.com
-  name: SmartCub
-type: d3-device-type-assertion

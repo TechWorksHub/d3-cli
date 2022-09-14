@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8dfb7554-fea5-51c3-aa9e-fcb1d92995c8
-  macAddresses:
-  - 00:16:37:00:00:00/24
-  manufacturer: CITEL SpA
-  manufacturerUri: https://device-type.com
-  name: CITEL
-type: d3-device-type-assertion

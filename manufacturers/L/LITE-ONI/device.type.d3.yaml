@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9366568d-adee-5e7f-9106-fc3fb7a9e18b
-  macAddresses:
-  - 00:23:03:00:00:00/24
-  manufacturer: LITE-ON IT Corporation
-  manufacturerUri: https://device-type.com
-  name: LITE-ONI
-type: d3-device-type-assertion

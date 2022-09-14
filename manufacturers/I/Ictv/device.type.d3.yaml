@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aa42213d-032c-5f6d-947c-660644d99e0e
-  macAddresses:
-  - 00:A0:9E:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Ictv
-type: d3-device-type-assertion

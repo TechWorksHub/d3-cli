@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 37fc0b28-a409-5551-ac61-41977ec816a0
-  macAddresses:
-  - 00:15:4A:00:00:00/24
-  manufacturer: Wanshih Electronic Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: WanshihE
-type: d3-device-type-assertion

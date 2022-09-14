@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 47d46968-161e-5be0-9786-5e36fcc961c4
-  macAddresses:
-  - 00:24:F6:00:00:00/24
-  manufacturer: Miyoshi Electronics Corporation
-  manufacturerUri: https://device-type.com
-  name: MiyoshiE
-type: d3-device-type-assertion

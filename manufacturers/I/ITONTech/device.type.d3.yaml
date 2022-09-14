@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bdc35caf-bd38-5435-94a3-73e11a2f790b
-  macAddresses:
-  - BC:14:EF:00:00:00/24
-  manufacturer: ITON Technology Limited
-  manufacturerUri: https://device-type.com
-  name: ITONTech
-type: d3-device-type-assertion

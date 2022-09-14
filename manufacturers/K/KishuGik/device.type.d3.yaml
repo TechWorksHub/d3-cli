@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e1c7bdd3-6023-54f4-8d37-98b217e6175d
-  macAddresses:
-  - 2C:92:2C:00:00:00/24
-  manufacturer: Kishu Giken Kogyou Company Ltd,.
-  manufacturerUri: https://device-type.com
-  name: KishuGik
-type: d3-device-type-assertion

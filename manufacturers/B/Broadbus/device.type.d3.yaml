@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8424fa18-e2a5-5ac6-ae18-f93a9cc21a38
-  macAddresses:
-  - 00:0C:0B:00:00:00/24
-  manufacturer: Broadbus Technologies
-  manufacturerUri: https://device-type.com
-  name: Broadbus
-type: d3-device-type-assertion

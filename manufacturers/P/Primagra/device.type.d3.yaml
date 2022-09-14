@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 17101d50-07ca-594b-b9b8-8c6e74132b8a
-  macAddresses:
-  - 00:0D:26:00:00:00/24
-  manufacturer: Primagraphics Limited
-  manufacturerUri: https://device-type.com
-  name: Primagra
-type: d3-device-type-assertion

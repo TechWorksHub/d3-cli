@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e4d94e9b-4de3-5718-98e7-3856cdcd2ab1
-  macAddresses:
-  - 38:1F:26:D0:00:00/28
-  manufacturer: Hwachang Corporation
-  manufacturerUri: https://device-type.com
-  name: Hwachang
-type: d3-device-type-assertion

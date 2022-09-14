@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2d36051f-14d1-56a3-a71c-07a8eebb9789
-  macAddresses:
-  - 70:B3:D5:51:70:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Ispher
-type: d3-device-type-assertion

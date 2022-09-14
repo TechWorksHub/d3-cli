@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2620c3dd-81c0-59f5-a023-c094eb3070d1
-  macAddresses:
-  - 08:16:D5:00:00:00/24
-  manufacturer: Goertek Inc.
-  manufacturerUri: https://device-type.com
-  name: Goertek
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 24d8879c-3c55-5041-8434-2db89f52131f
-  macAddresses:
-  - 00:50:C2:D3:40:00/36
-  manufacturer: GAON TECH corp.
-  manufacturerUri: https://device-type.com
-  name: GAONTECH
-type: d3-device-type-assertion

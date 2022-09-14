@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9578eaab-15ac-517d-aa33-38e0d034f852
-  macAddresses:
-  - AC:64:DD:E0:00:00/28
-  manufacturer: Digibird Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Digibird
-type: d3-device-type-assertion

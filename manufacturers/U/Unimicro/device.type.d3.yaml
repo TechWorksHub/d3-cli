@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6aa52fee-cc9d-511b-8f79-270ee5f3eef1
-  macAddresses:
-  - 00:C0:47:00:00:00/24
-  manufacturer: Unimicro Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Unimicro
-type: d3-device-type-assertion

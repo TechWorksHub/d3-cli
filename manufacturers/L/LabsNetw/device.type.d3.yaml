@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1dd19b8a-5e6d-5efe-a946-598a91cc208a
-  macAddresses:
-  - EA:2A:DB:00:00:00/24
-  manufacturer: Labs Network Industrie 4. 0 e.V.
-  manufacturerUri: https://device-type.com
-  name: LabsNetw
-type: d3-device-type-assertion

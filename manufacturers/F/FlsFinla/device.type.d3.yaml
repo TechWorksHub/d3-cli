@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e2963536-b7b0-5abe-a7fe-99285aed6e7c
-  macAddresses:
-  - 14:4F:D7:50:00:00/28
-  manufacturer: Fls Finland Oy
-  manufacturerUri: https://device-type.com
-  name: FlsFinla
-type: d3-device-type-assertion

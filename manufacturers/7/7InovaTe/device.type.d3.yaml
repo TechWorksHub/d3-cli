@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: acae6e3a-9dd3-57b2-810f-5dabaca078eb
-  macAddresses:
-  - 04:84:8A:00:00:00/24
-  manufacturer: 7Inova Technology Limited
-  manufacturerUri: https://device-type.com
-  name: 7InovaTe
-type: d3-device-type-assertion

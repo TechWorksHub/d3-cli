@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4039d087-4f93-5e41-b86c-386e49b57e75
-  macAddresses:
-  - E0:B2:60:00:00:00/24
-  manufacturer: Teno Network Technologies Company Limited
-  manufacturerUri: https://device-type.com
-  name: TenoNetw
-type: d3-device-type-assertion

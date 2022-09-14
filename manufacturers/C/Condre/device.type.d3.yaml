@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 347fd29f-4da3-50a1-9401-c698b4f82e71
-  macAddresses:
-  - 00:50:C2:5E:E0:00/36
-  manufacturer: Condre Corporation
-  manufacturerUri: https://device-type.com
-  name: Condre
-type: d3-device-type-assertion

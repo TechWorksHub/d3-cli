@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 29b6b7aa-eb6d-5952-8127-e95c0cbf9207
-  macAddresses:
-  - 00:50:C2:6F:40:00/36
-  manufacturer: Cryogenic Control Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Cryogeni
-type: d3-device-type-assertion

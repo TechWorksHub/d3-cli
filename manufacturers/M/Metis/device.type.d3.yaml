@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 40dab6a9-93f9-5e2e-b061-bee86c4b2577
-  macAddresses:
-  - 34:E9:FE:00:00:00/24
-  manufacturer: Metis Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Metis
-type: d3-device-type-assertion

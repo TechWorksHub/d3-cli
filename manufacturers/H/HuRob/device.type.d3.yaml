@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f99b9259-6ddb-53fb-84ed-f47112c037e0
-  macAddresses:
-  - 00:24:BC:00:00:00/24
-  manufacturer: HuRob Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: HuRob
-type: d3-device-type-assertion

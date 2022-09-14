@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 012cc1d0-4e68-588e-a465-94064293ebd0
-  macAddresses:
-  - 34:CC:28:00:00:00/24
-  manufacturer: Nexpring Co. LTD.,
-  manufacturerUri: https://device-type.com
-  name: Nexpring
-type: d3-device-type-assertion

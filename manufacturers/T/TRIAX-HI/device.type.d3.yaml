@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f572520b-43eb-5a06-b507-ed1bb960e31d
-  macAddresses:
-  - 00:1B:C5:00:60:00/36
-  manufacturer: TRIAX-HIRSCHMANN Multi-Media GmbH
-  manufacturerUri: https://device-type.com
-  name: TRIAX-HI
-type: d3-device-type-assertion

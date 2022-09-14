@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c2696a86-3d47-53da-9e76-b7b4198d7d4f
-  macAddresses:
-  - 00:50:C2:3C:40:00/36
-  manufacturer: Sypris Electronics
-  manufacturerUri: https://device-type.com
-  name: SyprisEl
-type: d3-device-type-assertion

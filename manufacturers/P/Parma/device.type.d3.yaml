@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: da7084e0-c06d-5303-9a54-307713950361
-  macAddresses:
-  - A8:5B:36:10:00:00/28
-  manufacturer: Parma Llc
-  manufacturerUri: https://device-type.com
-  name: Parma
-type: d3-device-type-assertion

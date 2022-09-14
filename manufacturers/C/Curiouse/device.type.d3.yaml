@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: be21bc97-9d4f-503e-90c9-e5256e4c3829
-  macAddresses:
-  - CC:3B:58:00:00:00/24
-  manufacturer: Curiouser Products Inc
-  manufacturerUri: https://device-type.com
-  name: Curiouse
-type: d3-device-type-assertion

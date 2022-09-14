@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e75663f0-1804-549e-8e7e-170e392f7766
-  macAddresses:
-  - 6C:DD:EF:00:00:00/24
-  manufacturer: EPCOMM Inc.
-  manufacturerUri: https://device-type.com
-  name: EPCOMM
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f805ab5e-3090-50fd-abcf-fea78026c9b4
-  macAddresses:
-  - 00:60:E2:00:00:00/24
-  manufacturer: Quest Engineering & Development
-  manufacturerUri: https://device-type.com
-  name: QuestEng
-type: d3-device-type-assertion

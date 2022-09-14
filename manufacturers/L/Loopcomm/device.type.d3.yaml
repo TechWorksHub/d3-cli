@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1e321b75-1114-5c71-b1f3-36d45ecda322
-  macAddresses:
-  - 00:1A:EF:00:00:00/24
-  manufacturer: Loopcomm Technology, Inc.
-  manufacturerUri: https://device-type.com
-  name: Loopcomm
-type: d3-device-type-assertion

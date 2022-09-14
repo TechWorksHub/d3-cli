@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7444a166-8032-550f-8333-64442e0b9bc8
-  macAddresses:
-  - 00:13:63:00:00:00/24
-  manufacturer: Verascape, Inc.
-  manufacturerUri: https://device-type.com
-  name: Verascap
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 967e91aa-a4d5-5d26-85da-973521de6179
-  macAddresses:
-  - 74:FD:A0:00:00:00/24
-  manufacturer: Compupal (Group) Corporation
-  manufacturerUri: https://device-type.com
-  name: Compupal
-type: d3-device-type-assertion

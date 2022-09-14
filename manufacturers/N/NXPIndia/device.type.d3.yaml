@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f62f5bc4-e7c5-5d6b-885d-69ffa3677667
-  macAddresses:
-  - C0:95:DA:00:00:00/24
-  manufacturer: NXP India Private Limited
-  manufacturerUri: https://device-type.com
-  name: NXPIndia
-type: d3-device-type-assertion

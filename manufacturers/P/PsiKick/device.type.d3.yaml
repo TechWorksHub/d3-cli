@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c71a79b2-54aa-5bb8-8f7a-f194e365bde9
-  macAddresses:
-  - BC:5E:A1:00:00:00/24
-  manufacturer: PsiKick, Inc.
-  manufacturerUri: https://device-type.com
-  name: PsiKick
-type: d3-device-type-assertion

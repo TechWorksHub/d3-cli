@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 09cfe903-5cba-5e53-ad1f-7525e9582e32
-  macAddresses:
-  - 00:B0:86:00:00:00/24
-  manufacturer: LocSoft Limited
-  manufacturerUri: https://device-type.com
-  name: LocSoft
-type: d3-device-type-assertion

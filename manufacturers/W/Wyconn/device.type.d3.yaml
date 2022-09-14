@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bc9bb65b-db2c-58c8-8996-4df4856ddf4f
-  macAddresses:
-  - A8:D8:8A:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Wyconn
-type: d3-device-type-assertion

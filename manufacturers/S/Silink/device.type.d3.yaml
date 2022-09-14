@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 21ce93a9-b525-5f44-965e-93bd813998ca
-  macAddresses:
-  - 00:12:51:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Silink
-type: d3-device-type-assertion

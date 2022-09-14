@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fe881983-7a49-51d1-950e-3b8098936fc9
-  macAddresses:
-  - 0C:C9:C6:00:00:00/24
-  manufacturer: Samwin Hong Kong Limited
-  manufacturerUri: https://device-type.com
-  name: SamwinHo
-type: d3-device-type-assertion

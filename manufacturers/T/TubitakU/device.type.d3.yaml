@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 05f1fb64-7d9f-5c06-ad19-5aa9d6b2042a
-  macAddresses:
-  - 14:73:73:00:00:00/24
-  manufacturer: Tubitak Uekae
-  manufacturerUri: https://device-type.com
-  name: TubitakU
-type: d3-device-type-assertion

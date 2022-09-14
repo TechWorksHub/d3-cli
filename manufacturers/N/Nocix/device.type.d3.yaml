@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: abe853e8-e454-5e13-b192-b28f9db79aa5
-  macAddresses:
-  - 70:B3:D5:BE:20:00/36
-  manufacturer: Nocix, LLC
-  manufacturerUri: https://device-type.com
-  name: Nocix
-type: d3-device-type-assertion

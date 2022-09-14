@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6a4e97e0-1f7c-5f61-8342-7b76ec54bda0
-  macAddresses:
-  - 60:F5:9C:00:00:00/24
-  manufacturer: CRU-Dataport
-  manufacturerUri: https://device-type.com
-  name: CRU-Data
-type: d3-device-type-assertion

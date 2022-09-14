@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1d73a4eb-aeeb-5c43-b3dd-8157f8a75c7a
-  macAddresses:
-  - BC:34:00:10:00:00/28
-  manufacturer: IPLINK Technology Corp
-  manufacturerUri: https://device-type.com
-  name: IPLINKTe
-type: d3-device-type-assertion

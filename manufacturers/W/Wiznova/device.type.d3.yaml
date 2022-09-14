@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 55cf37d8-29bd-574f-85f6-a1be28cfb583
-  macAddresses:
-  - 70:B3:D5:C6:20:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Wiznova
-type: d3-device-type-assertion

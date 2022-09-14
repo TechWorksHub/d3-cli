@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 38bf1849-29d1-5839-80f1-b543ed98aca0
-  macAddresses:
-  - 00:15:F5:00:00:00/24
-  manufacturer: Sustainable Energy Systems
-  manufacturerUri: https://device-type.com
-  name: Sustaina
-type: d3-device-type-assertion

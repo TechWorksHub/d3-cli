@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 763d4153-a517-533e-8b08-c6c0449c489f
-  macAddresses:
-  - 70:B3:D5:58:60:00/36
-  manufacturer: Aliter Technologies
-  manufacturerUri: https://device-type.com
-  name: AliterTe
-type: d3-device-type-assertion

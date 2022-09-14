@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a68ce220-fd89-571f-99fb-83a2fe832dcf
-  macAddresses:
-  - 00:07:DC:00:00:00/24
-  manufacturer: Atek Co, Ltd.
-  manufacturerUri: https://device-type.com
-  name: Atek
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 35275b9a-a289-5dab-85e4-b8e801ffc814
-  macAddresses:
-  - 00:50:C2:02:B0:00/36
-  manufacturer: Nova Engineering Inc.
-  manufacturerUri: https://device-type.com
-  name: NovaEngi
-type: d3-device-type-assertion

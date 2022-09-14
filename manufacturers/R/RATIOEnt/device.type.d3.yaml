@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0fa23867-3d8f-56c1-9cc0-11e13e176a8b
-  macAddresses:
-  - 00:22:3C:00:00:00/24
-  manufacturer: RATIO Entwicklungen GmbH
-  manufacturerUri: https://device-type.com
-  name: RATIOEnt
-type: d3-device-type-assertion

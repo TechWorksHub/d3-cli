@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9e24de10-c545-5475-a3c9-5b623b92aacb
-  macAddresses:
-  - 00:60:C7:00:00:00/24
-  manufacturer: Amati Communications Corp.
-  manufacturerUri: https://device-type.com
-  name: AmatiCom
-type: d3-device-type-assertion

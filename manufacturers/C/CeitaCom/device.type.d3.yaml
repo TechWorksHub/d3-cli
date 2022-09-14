@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 922cb77c-b3f2-5c1f-92b7-57961050a1a5
-  macAddresses:
-  - 04:11:19:50:00:00/28
-  manufacturer: Ceita Communication Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: CeitaCom
-type: d3-device-type-assertion

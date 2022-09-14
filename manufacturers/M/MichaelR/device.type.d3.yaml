@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5e51e782-a21e-53d5-b4c5-f1eedcd3f30b
-  macAddresses:
-  - 00:50:C2:E2:20:00/36
-  manufacturer: Michael Riedel Transformatorenbau GmbH
-  manufacturerUri: https://device-type.com
-  name: MichaelR
-type: d3-device-type-assertion

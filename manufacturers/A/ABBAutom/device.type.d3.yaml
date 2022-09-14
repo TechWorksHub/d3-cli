@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c12adb06-c41e-51ed-a1cf-26a21c59aa7b
-  macAddresses:
-  - 00:24:59:00:00:00/24
-  manufacturer: ABB Automation products GmbH
-  manufacturerUri: https://device-type.com
-  name: ABBAutom
-type: d3-device-type-assertion

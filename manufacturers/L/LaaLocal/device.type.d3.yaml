@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fa92edcb-221e-5ff8-939b-3d4740e47fe2
-  macAddresses:
-  - 2E:2E:2E:00:00:00/24
-  manufacturer: LAA (Locally Administered Address) for Meditech Systems
-  manufacturerUri: https://device-type.com
-  name: LaaLocal
-type: d3-device-type-assertion

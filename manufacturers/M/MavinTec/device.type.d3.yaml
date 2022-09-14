@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eca1fbab-aa8f-5f82-9c22-9c0e73a1922f
-  macAddresses:
-  - 00:09:DD:00:00:00/24
-  manufacturer: Mavin Technology Inc.
-  manufacturerUri: https://device-type.com
-  name: MavinTec
-type: d3-device-type-assertion

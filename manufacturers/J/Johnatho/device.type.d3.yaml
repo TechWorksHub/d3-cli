@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 93584c38-8379-5f9b-bb24-af55afe6bd9e
-  macAddresses:
-  - 00:A0:9D:00:00:00/24
-  manufacturer: Johnathon Freeman Technologies
-  manufacturerUri: https://device-type.com
-  name: Johnatho
-type: d3-device-type-assertion

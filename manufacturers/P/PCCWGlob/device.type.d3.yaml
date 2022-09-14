@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c6a20ba4-a6a3-5189-82b1-b3d70edf0453
-  macAddresses:
-  - 1C:1E:38:00:00:00/24
-  manufacturer: PCCW Global, Inc.
-  manufacturerUri: https://device-type.com
-  name: PCCWGlob
-type: d3-device-type-assertion

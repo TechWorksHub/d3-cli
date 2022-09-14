@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0f2f4bc3-d6e1-5925-a650-d212d40f4e21
-  macAddresses:
-  - 70:B3:D5:BF:40:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: CreevX
-type: d3-device-type-assertion

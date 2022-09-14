@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b70d3921-9e1f-595d-9fa8-2e961a2e4a50
-  macAddresses:
-  - 00:03:41:00:00:00/24
-  manufacturer: Axon Digital Design
-  manufacturerUri: https://device-type.com
-  name: AxonDigi
-type: d3-device-type-assertion

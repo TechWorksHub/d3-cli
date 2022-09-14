@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4f9c64e8-1d63-56d4-bd88-af8f1806d4fe
-  macAddresses:
-  - 00:00:DB:00:00:00/24
-  manufacturer: British Telecommunications plc
-  manufacturerUri: https://device-type.com
-  name: BritishT
-type: d3-device-type-assertion

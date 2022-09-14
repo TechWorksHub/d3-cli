@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aceca6c9-939d-5199-aec1-aae023b0d22e
-  macAddresses:
-  - 68:0A:D7:00:00:00/24
-  manufacturer: Yancheng Kecheng Optoelectronic Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Yancheng
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6df43634-4b87-5a91-95d2-3c6ca3edad6f
-  macAddresses:
-  - F4:90:CA:00:00:00/24
-  manufacturer: Tensorcom
-  manufacturerUri: https://device-type.com
-  name: Tensorco
-type: d3-device-type-assertion

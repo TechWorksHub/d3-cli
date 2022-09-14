@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 27ccdf3d-63ae-5da3-a724-cf4a93fa2726
-  macAddresses:
-  - 3C:39:E7:B0:00:00/28
-  manufacturer: chipsguide technology Co.,LTD
-  manufacturerUri: https://device-type.com
-  name: chipsgui
-type: d3-device-type-assertion

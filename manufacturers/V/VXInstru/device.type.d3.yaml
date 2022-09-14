@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1b53c022-7b1e-57d3-8fc3-31d62a09ea7f
-  macAddresses:
-  - 70:B3:D5:62:50:00/36
-  manufacturer: VX Instruments GmbH
-  manufacturerUri: https://device-type.com
-  name: VXInstru
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 29fe1c47-2c48-50dc-9585-fe445c0e8e91
-  macAddresses:
-  - 5C:0C:0E:00:00:00/24
-  manufacturer: Guizhou Huaxintong Semiconductor Technology Co Ltd
-  manufacturerUri: https://device-type.com
-  name: GuizhouH
-type: d3-device-type-assertion

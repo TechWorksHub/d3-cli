@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f577c6a0-7bee-509a-9af8-3a75642bf1ce
-  macAddresses:
-  - 00:03:43:00:00:00/24
-  manufacturer: Martin Professional A/S
-  manufacturerUri: https://device-type.com
-  name: MartinPr
-type: d3-device-type-assertion

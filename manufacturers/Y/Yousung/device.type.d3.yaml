@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aa97e015-49d2-5477-b553-4274ed66f870
-  macAddresses:
-  - 70:B3:D5:3B:40:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Yousung
-type: d3-device-type-assertion

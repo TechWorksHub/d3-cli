@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9ac17774-f47e-5905-8c3d-9296f27103b7
-  macAddresses:
-  - 00:50:C2:AC:B0:00/36
-  manufacturer: U-Care Inc.
-  manufacturerUri: https://device-type.com
-  name: U-Care
-type: d3-device-type-assertion

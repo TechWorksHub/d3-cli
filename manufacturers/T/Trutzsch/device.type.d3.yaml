@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 835fd8d5-0def-5bbc-a252-91ab98bb7e58
-  macAddresses:
-  - 00:07:20:00:00:00/24
-  manufacturer: Trutzschler GmbH & Co. KG
-  manufacturerUri: https://device-type.com
-  name: Trutzsch
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a543770e-e1d2-5472-9727-1fd99b7e4863
-  macAddresses:
-  - 00:21:CF:00:00:00/24
-  manufacturer: The Crypto Group
-  manufacturerUri: https://device-type.com
-  name: CryptoGr
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 74af1172-0f2f-5a29-96b9-c7ebb0f14356
-  macAddresses:
-  - 74:90:1F:00:00:00/24
-  manufacturer: Ragile Networks Inc.
-  manufacturerUri: https://device-type.com
-  name: RagileNe
-type: d3-device-type-assertion

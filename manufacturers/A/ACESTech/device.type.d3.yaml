@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 020df591-d4ec-5df2-a349-1f544047d32a
-  macAddresses:
-  - 7C:B5:42:00:00:00/24
-  manufacturer: ACES Technology
-  manufacturerUri: https://device-type.com
-  name: ACESTech
-type: d3-device-type-assertion

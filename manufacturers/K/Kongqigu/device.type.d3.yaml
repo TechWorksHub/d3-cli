@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 892bd56f-1f9b-5a9b-a9c7-9954c514b073
-  macAddresses:
-  - 34:D0:B8:E0:00:00/28
-  manufacturer: "Kongqiguanjia (Beijing)Technology co.\uFF0Cltd"
-  manufacturerUri: https://device-type.com
-  name: Kongqigu
-type: d3-device-type-assertion

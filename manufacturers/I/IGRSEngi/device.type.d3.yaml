@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e2df6207-1b2e-5f18-bddc-fd19b1aa38a6
-  macAddresses:
-  - D4:3A:65:00:00:00/24
-  manufacturer: IGRS Engineering Lab Ltd.
-  manufacturerUri: https://device-type.com
-  name: IGRSEngi
-type: d3-device-type-assertion

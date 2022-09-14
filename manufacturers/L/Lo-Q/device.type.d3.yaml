@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f73c0d12-1f68-57e0-ad73-7f25c7137b73
-  macAddresses:
-  - 00:50:C2:E1:E0:00/36
-  manufacturer: Lo-Q plc
-  manufacturerUri: https://device-type.com
-  name: Lo-Q
-type: d3-device-type-assertion

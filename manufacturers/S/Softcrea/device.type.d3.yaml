@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c0eff8cb-4c49-5742-b4f6-ecf521a71e58
-  macAddresses:
-  - 70:B3:D5:3C:70:00/36
-  manufacturer: Softcreate Corp.
-  manufacturerUri: https://device-type.com
-  name: Softcrea
-type: d3-device-type-assertion

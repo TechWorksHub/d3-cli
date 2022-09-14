@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f3aaea75-059f-5174-9e92-a81f37abe3c6
-  macAddresses:
-  - 00:13:F0:00:00:00/24
-  manufacturer: Wavefront Semiconductor
-  manufacturerUri: https://device-type.com
-  name: Wavefron
-type: d3-device-type-assertion

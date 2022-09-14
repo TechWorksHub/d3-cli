@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 107a176d-89eb-5656-8933-2ed3e8891aeb
-  macAddresses:
-  - 00:50:C2:12:90:00/36
-  manufacturer: TTPCom Ltd.
-  manufacturerUri: https://device-type.com
-  name: TTPCom
-type: d3-device-type-assertion

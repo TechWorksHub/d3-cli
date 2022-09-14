@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cad82e08-41bd-568d-a155-7e1980b67ef5
-  macAddresses:
-  - 3C:F7:D1:00:00:00/24
-  manufacturer: OMRON Corporation
-  manufacturerUri: https://device-type.com
-  name: OMRON
-type: d3-device-type-assertion

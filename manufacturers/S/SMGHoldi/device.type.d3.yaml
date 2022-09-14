@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1ca50fdd-7380-5f7f-a60a-c10fe29ad591
-  macAddresses:
-  - 18:D5:B6:00:00:00/24
-  manufacturer: SMG Holdings LLC
-  manufacturerUri: https://device-type.com
-  name: SMGHoldi
-type: d3-device-type-assertion

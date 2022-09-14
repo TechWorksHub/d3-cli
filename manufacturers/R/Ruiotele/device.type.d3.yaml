@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aab08697-121f-5c44-8879-51e949b02fff
-  macAddresses:
-  - 30:0A:C5:00:00:00/24
-  manufacturer: Ruio telecommunication technologies Co., Limited
-  manufacturerUri: https://device-type.com
-  name: Ruiotele
-type: d3-device-type-assertion

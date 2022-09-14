@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6e17085a-cc0a-5f6d-87a4-4a75d85a8c46
-  macAddresses:
-  - 00:1B:B4:00:00:00/24
-  manufacturer: Airvod Limited
-  manufacturerUri: https://device-type.com
-  name: Airvod
-type: d3-device-type-assertion

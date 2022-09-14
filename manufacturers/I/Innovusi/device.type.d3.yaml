@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b70c788f-4c41-5b49-8a69-7bf250eef0a4
-  macAddresses:
-  - 04:C3:E6:40:00:00/28
-  manufacturer: Innovusion Inc.
-  manufacturerUri: https://device-type.com
-  name: Innovusi
-type: d3-device-type-assertion

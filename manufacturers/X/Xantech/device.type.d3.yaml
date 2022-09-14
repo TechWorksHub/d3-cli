@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a2355783-1675-54a4-8f29-81a75b05a600
-  macAddresses:
-  - 00:15:D2:00:00:00/24
-  manufacturer: Xantech Corporation
-  manufacturerUri: https://device-type.com
-  name: Xantech
-type: d3-device-type-assertion

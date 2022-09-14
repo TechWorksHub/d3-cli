@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 01dd21fa-c637-59d5-9500-aea321f688e0
-  macAddresses:
-  - 00:24:55:00:00:00/24
-  manufacturer: MuLogic BV
-  manufacturerUri: https://device-type.com
-  name: MuLogic
-type: d3-device-type-assertion

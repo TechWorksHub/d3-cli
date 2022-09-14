@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d1a4a8b5-cce7-5133-bc2d-de489ce12a77
-  macAddresses:
-  - 10:BA:A5:00:00:00/24
-  manufacturer: Gana I&C Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: GanaI&C
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0652dd91-a0bf-5946-8df2-05fd83518aae
-  macAddresses:
-  - 14:9B:2F:00:00:00/24
-  manufacturer: JiangSu ZhongXie Intelligent Technology co., LTD
-  manufacturerUri: https://device-type.com
-  name: JiangSuZ
-type: d3-device-type-assertion

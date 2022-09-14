@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cc416762-9982-52a7-8e9e-5e09ed2586c1
-  macAddresses:
-  - 00:50:C2:F5:00:00/36
-  manufacturer: Moritex Corporation
-  manufacturerUri: https://device-type.com
-  name: Moritex
-type: d3-device-type-assertion

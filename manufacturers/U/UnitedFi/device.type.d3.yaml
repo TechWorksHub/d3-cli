@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 38f2704a-e661-5cad-bb99-3d91a199fc1a
-  macAddresses:
-  - 00:11:C2:00:00:00/24
-  manufacturer: United Fiber Optic Communication
-  manufacturerUri: https://device-type.com
-  name: UnitedFi
-type: d3-device-type-assertion

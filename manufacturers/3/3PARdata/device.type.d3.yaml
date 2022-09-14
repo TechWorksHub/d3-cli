@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ce605455-549b-54ec-ad75-587a981e70a2
-  macAddresses:
-  - 00:02:AC:00:00:00/24
-  manufacturer: 3PAR data
-  manufacturerUri: https://device-type.com
-  name: 3PARdata
-type: d3-device-type-assertion

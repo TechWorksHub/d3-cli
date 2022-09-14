@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: af133d1d-bccf-533a-b8ab-2396b336a258
-  macAddresses:
-  - 00:1D:23:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Sensus
-type: d3-device-type-assertion

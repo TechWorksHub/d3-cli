@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5ff749ad-2042-5c68-b83f-1b55b8d0c230
-  macAddresses:
-  - 64:AE:88:00:00:00/24
-  manufacturer: Polytec GmbH
-  manufacturerUri: https://device-type.com
-  name: Polytec
-type: d3-device-type-assertion

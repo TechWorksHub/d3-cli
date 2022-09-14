@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 873f12c3-5ffe-58e1-84a8-b74053093282
-  macAddresses:
-  - 00:03:BD:00:00:00/24
-  manufacturer: OmniCluster Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: OmniClus
-type: d3-device-type-assertion

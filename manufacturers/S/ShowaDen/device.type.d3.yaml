@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 981878a6-fc92-5962-9aae-01e48a737e76
-  macAddresses:
-  - F0:23:29:00:00:00/24
-  manufacturer: Showa Denki Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: ShowaDen
-type: d3-device-type-assertion

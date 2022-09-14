@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: df8fb801-f9ae-58be-8c79-3db4f46abdcf
-  macAddresses:
-  - 00:50:C2:62:70:00/36
-  manufacturer: JungleSystem Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: JungleSy
-type: d3-device-type-assertion

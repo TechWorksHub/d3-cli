@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8b89ed5a-b6ac-5490-aec5-96c3240acb41
-  macAddresses:
-  - 70:B3:D5:76:F0:00/36
-  manufacturer: Oti Ltd
-  manufacturerUri: https://device-type.com
-  name: Oti
-type: d3-device-type-assertion

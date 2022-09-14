@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eb50ebff-ea7a-5394-93db-9cdad108f297
-  macAddresses:
-  - 40:A3:6B:B0:00:00/28
-  manufacturer: Amobile Intelligent Corp.
-  manufacturerUri: https://device-type.com
-  name: AmobileI
-type: d3-device-type-assertion

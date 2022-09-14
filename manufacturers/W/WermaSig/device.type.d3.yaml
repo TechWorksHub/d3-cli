@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 777041f0-a95f-5ffc-8dc8-91c7ebd8a99e
-  macAddresses:
-  - D0:57:A1:00:00:00/24
-  manufacturer: Werma Signaltechnik GmbH & Co. KG
-  manufacturerUri: https://device-type.com
-  name: WermaSig
-type: d3-device-type-assertion

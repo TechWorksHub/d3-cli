@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a95e3d3e-1070-52ee-b07f-9eb92012ed8c
-  macAddresses:
-  - 00:0F:22:00:00:00/24
-  manufacturer: Helius, Inc.
-  manufacturerUri: https://device-type.com
-  name: Helius
-type: d3-device-type-assertion

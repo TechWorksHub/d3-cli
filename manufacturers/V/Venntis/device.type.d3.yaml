@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3d5a29d9-d6d4-549a-b54b-a2717e2a49c8
-  macAddresses:
-  - 00:25:17:00:00:00/24
-  manufacturer: Venntis, LLC
-  manufacturerUri: https://device-type.com
-  name: Venntis
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 56047a86-f40a-5c3b-80c1-1515c0cbe53b
-  macAddresses:
-  - 00:1A:5D:00:00:00/24
-  manufacturer: Mobinnova Corp.
-  manufacturerUri: https://device-type.com
-  name: Mobinnov
-type: d3-device-type-assertion

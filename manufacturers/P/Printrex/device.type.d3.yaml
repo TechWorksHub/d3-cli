@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8a7fcf92-314c-508c-9fb4-251b94699017
-  macAddresses:
-  - 00:1F:E9:00:00:00/24
-  manufacturer: Printrex, Inc.
-  manufacturerUri: https://device-type.com
-  name: Printrex
-type: d3-device-type-assertion

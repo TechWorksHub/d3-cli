@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 253b19ff-7fb9-5600-ac82-cb5a72370f4f
-  macAddresses:
-  - A8:EE:C6:00:00:00/24
-  manufacturer: Muuselabs NV/SA
-  manufacturerUri: https://device-type.com
-  name: Muuselab
-type: d3-device-type-assertion

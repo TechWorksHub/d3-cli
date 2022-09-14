@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 73536e6d-87b2-5b51-a26a-cd7ce70dae0a
-  macAddresses:
-  - 00:0E:19:00:00:00/24
-  manufacturer: LogicaCMG Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: LogicaCM
-type: d3-device-type-assertion

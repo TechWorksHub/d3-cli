@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 440591e4-fb96-578f-9d40-6ae630d5d353
-  macAddresses:
-  - 00:08:6B:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Mipsys
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c47eb985-60de-54db-9ff7-93bd1184980e
-  macAddresses:
-  - 00:09:AC:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Lanvoice
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3a68a5af-114e-50f5-ae5b-abfa8c901d7d
-  macAddresses:
-  - 3C:FB:96:00:00:00/24
-  manufacturer: Emcraft Systems LLC
-  manufacturerUri: https://device-type.com
-  name: Emcraft
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a86a28ae-6381-5a63-a278-0ba8209d77fd
-  macAddresses:
-  - 00:1A:A6:00:00:00/24
-  manufacturer: Telefunken Radio Communication Systems GmbH &CO.KG
-  manufacturerUri: https://device-type.com
-  name: Telefunk
-type: d3-device-type-assertion

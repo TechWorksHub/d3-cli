@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7d1ed6ee-dd3a-5cbc-9320-b24bc5924ff7
-  macAddresses:
-  - 00:06:B6:00:00:00/24
-  manufacturer: Nir-Or Israel Ltd.
-  manufacturerUri: https://device-type.com
-  name: Nir-OrIs
-type: d3-device-type-assertion

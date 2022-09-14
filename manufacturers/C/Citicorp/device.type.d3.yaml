@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bb6031c6-a6b7-5903-97be-c47cae6c3ac4
-  macAddresses:
-  - 00:A0:20:00:00:00/24
-  manufacturer: Citicorp/Tti
-  manufacturerUri: https://device-type.com
-  name: Citicorp
-type: d3-device-type-assertion

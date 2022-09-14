@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 683caaf7-8486-5718-a5ce-c4c39610ab93
-  macAddresses:
-  - 70:B3:D5:2F:10:00/36
-  manufacturer: Inspike S.R.L.
-  manufacturerUri: https://device-type.com
-  name: Inspike
-type: d3-device-type-assertion

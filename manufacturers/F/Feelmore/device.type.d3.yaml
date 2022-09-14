@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8cd0236d-3adf-5a7c-a925-e4f53eddfdd9
-  macAddresses:
-  - CC:4F:5C:80:00:00/28
-  manufacturer: Feelmore Labs
-  manufacturerUri: https://device-type.com
-  name: Feelmore
-type: d3-device-type-assertion

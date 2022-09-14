@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 42b2694f-aaf4-50b7-89ea-eda1cb122882
-  macAddresses:
-  - 00:19:53:00:00:00/24
-  manufacturer: Chainleader Communications Corp.
-  manufacturerUri: https://device-type.com
-  name: Chainlea
-type: d3-device-type-assertion

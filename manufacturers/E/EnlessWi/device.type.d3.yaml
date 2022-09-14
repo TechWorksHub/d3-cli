@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 970e8d62-42c2-51ad-8166-6bd872b6f892
-  macAddresses:
-  - 70:B3:D5:4F:D0:00/36
-  manufacturer: Enless Wireless
-  manufacturerUri: https://device-type.com
-  name: EnlessWi
-type: d3-device-type-assertion

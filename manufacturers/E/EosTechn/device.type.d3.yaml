@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c7a4ff0e-47d3-5b55-83ec-21388774ba77
-  macAddresses:
-  - 00:C0:DC:00:00:00/24
-  manufacturer: Eos Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: EosTechn
-type: d3-device-type-assertion

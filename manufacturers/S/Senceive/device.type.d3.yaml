@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 99a91553-9061-5e8a-aa03-77f0a4f20c0c
-  macAddresses:
-  - 00:1B:C5:0A:A0:00/36
-  manufacturer: Senceive Ltd
-  manufacturerUri: https://device-type.com
-  name: Senceive
-type: d3-device-type-assertion

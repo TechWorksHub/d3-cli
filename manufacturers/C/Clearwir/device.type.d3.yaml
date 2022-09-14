@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f0ae3915-3a0c-5c34-8d56-c1b936ac78d6
-  macAddresses:
-  - 00:1D:88:00:00:00/24
-  manufacturer: Clearwire
-  manufacturerUri: https://device-type.com
-  name: Clearwir
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 742bc2ca-4228-58a9-95ae-db5a3ffb8b7a
-  macAddresses:
-  - 00:08:1F:00:00:00/24
-  manufacturer: Pou Yuen Tech Corp. Ltd.
-  manufacturerUri: https://device-type.com
-  name: PouYuenT
-type: d3-device-type-assertion

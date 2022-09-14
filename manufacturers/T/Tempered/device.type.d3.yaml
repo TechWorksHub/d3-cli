@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 258fcfd3-a0ab-5338-bc7f-caced0dcf4d6
-  macAddresses:
-  - 48:06:6A:00:00:00/24
-  manufacturer: Tempered Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: Tempered
-type: d3-device-type-assertion

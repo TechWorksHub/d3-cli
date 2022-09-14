@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4efce679-ee01-5915-83a6-54501bf163d3
-  macAddresses:
-  - 70:B3:D5:0E:F0:00/36
-  manufacturer: Dextera Labs
-  manufacturerUri: https://device-type.com
-  name: DexteraL
-type: d3-device-type-assertion

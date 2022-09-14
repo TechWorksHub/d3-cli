@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7821343d-d54e-5c67-8836-2c8851f54108
-  macAddresses:
-  - 70:B3:D5:06:70:00/36
-  manufacturer: Neopath Integrated Systems Ltda
-  manufacturerUri: https://device-type.com
-  name: NeopathI
-type: d3-device-type-assertion

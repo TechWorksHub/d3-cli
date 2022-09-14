@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 38240bae-6cea-575b-8b88-5cc377ec9e94
-  macAddresses:
-  - 5C:85:7E:80:00:00/28
-  manufacturer: BeiJing Xinsheng Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: BeiJingX
-type: d3-device-type-assertion

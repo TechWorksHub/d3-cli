@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7aaaf0b9-bf40-565e-b1da-ff69d180e57f
-  macAddresses:
-  - 70:B3:D5:4A:E0:00/36
-  manufacturer: Reinhardt System- und Messelectronic GmbH
-  manufacturerUri: https://device-type.com
-  name: Reinhard
-type: d3-device-type-assertion

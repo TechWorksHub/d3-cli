@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a3077138-3d39-53f8-984b-b316d905af22
-  macAddresses:
-  - 00:21:7B:00:00:00/24
-  manufacturer: Bastec AB
-  manufacturerUri: https://device-type.com
-  name: Bastec
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9d93b442-0ee5-5546-bbfa-a97adf841373
-  macAddresses:
-  - 10:07:23:00:00:00/28
-  manufacturer: RippleTek Tech Ltd
-  manufacturerUri: https://device-type.com
-  name: RippleTe
-type: d3-device-type-assertion

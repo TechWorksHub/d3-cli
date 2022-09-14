@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4933ac7c-9c3e-5f0c-829f-cbe9e0050998
-  macAddresses:
-  - 00:00:00:00:00:00/24
-  manufacturer: Officially Xerox, but 0:0:0:0:0:0 is more common
-  manufacturerUri: https://device-type.com
-  name: 00:00:00
-type: d3-device-type-assertion

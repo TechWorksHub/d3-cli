@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7f8f1acb-afad-5a30-b8cd-937213fe8ce2
-  macAddresses:
-  - 00:04:70:00:00:00/24
-  manufacturer: ipUnplugged AB
-  manufacturerUri: https://device-type.com
-  name: ipUnplug
-type: d3-device-type-assertion

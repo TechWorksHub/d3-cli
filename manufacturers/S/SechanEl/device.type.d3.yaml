@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3ec9255f-61d4-58e4-8cea-42815b3073d5
-  macAddresses:
-  - 00:50:C2:6E:D0:00/36
-  manufacturer: Sechan Electronics, Inc.
-  manufacturerUri: https://device-type.com
-  name: SechanEl
-type: d3-device-type-assertion

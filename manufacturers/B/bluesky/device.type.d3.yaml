@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dfe52e3f-e997-57cc-986b-59f2c5491994
-  macAddresses:
-  - A4:29:B7:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: bluesky
-type: d3-device-type-assertion

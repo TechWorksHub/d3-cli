@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e7b6e8f4-b76b-5065-9efe-2441a94a3940
-  macAddresses:
-  - 00:13:F6:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Cintech
-type: d3-device-type-assertion

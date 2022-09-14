@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 829b9c78-5f15-5591-bf00-d13a8304282e
-  macAddresses:
-  - 00:1E:06:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Wibrain
-type: d3-device-type-assertion

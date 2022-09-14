@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e338f329-0239-5b42-b834-c11dae9b7646
-  macAddresses:
-  - 98:BC:57:00:00:00/24
-  manufacturer: Sva Technologies Co.Ltd
-  manufacturerUri: https://device-type.com
-  name: SvaTechn
-type: d3-device-type-assertion

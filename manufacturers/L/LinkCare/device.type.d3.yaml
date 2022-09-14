@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ef3e03f4-2c06-56cb-bc5b-c5d48d6c4dd8
-  macAddresses:
-  - 70:B3:D5:C8:00:00/36
-  manufacturer: Link Care Services
-  manufacturerUri: https://device-type.com
-  name: LinkCare
-type: d3-device-type-assertion

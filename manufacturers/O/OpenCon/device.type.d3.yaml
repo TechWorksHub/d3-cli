@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dce2cb39-8635-5246-a70f-80da171a4ac1
-  macAddresses:
-  - 00:50:A8:00:00:00/24
-  manufacturer: OpenCon Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: OpenCon
-type: d3-device-type-assertion

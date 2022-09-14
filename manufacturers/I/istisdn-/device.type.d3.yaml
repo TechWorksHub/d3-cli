@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 739ccd19-5d20-5631-a021-a18bfbf1856b
-  macAddresses:
-  - 00:04:65:00:00:00/24
-  manufacturer: i.s.t isdn-support technik GmbH
-  manufacturerUri: https://device-type.com
-  name: istisdn-
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 69ae4f07-5d56-5737-9351-4d3d1220f9a9
-  macAddresses:
-  - 00:14:7A:00:00:00/24
-  manufacturer: Eubus GmbH
-  manufacturerUri: https://device-type.com
-  name: Eubus
-type: d3-device-type-assertion

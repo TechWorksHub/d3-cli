@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 447bf78f-d7a1-5551-a905-f70b1bb12145
-  macAddresses:
-  - 84:57:87:00:00:00/24
-  manufacturer: DVR C&C Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: DVRC&C
-type: d3-device-type-assertion

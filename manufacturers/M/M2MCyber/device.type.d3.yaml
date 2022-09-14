@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e4756aa0-3567-53ef-86ba-1716b5ae8e5f
-  macAddresses:
-  - 70:B3:D5:FC:A0:00/36
-  manufacturer: M2M Cybernetics Pvt Ltd
-  manufacturerUri: https://device-type.com
-  name: M2MCyber
-type: d3-device-type-assertion

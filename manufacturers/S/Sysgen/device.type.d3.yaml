@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e972cf87-c030-545c-81dc-352c43e93d83
-  macAddresses:
-  - 00:40:6B:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Sysgen
-type: d3-device-type-assertion

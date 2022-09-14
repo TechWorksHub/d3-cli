@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7e6436a6-d3cc-5679-a206-681ac7af391a
-  macAddresses:
-  - 00:11:76:00:00:00/24
-  manufacturer: Intellambda Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Intellam
-type: d3-device-type-assertion

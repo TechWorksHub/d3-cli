@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 71a1897a-f89d-5f1a-9c86-8946d2228c72
-  macAddresses:
-  - 18:2B:05:00:00:00/24
-  manufacturer: 8D Technologies
-  manufacturerUri: https://device-type.com
-  name: 8DTechno
-type: d3-device-type-assertion

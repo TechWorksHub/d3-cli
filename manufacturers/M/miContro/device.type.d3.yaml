@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6de4e4f7-5916-53a6-abf8-7f051b874a98
-  macAddresses:
-  - 20:A7:83:00:00:00/24
-  manufacturer: miControl GmbH
-  manufacturerUri: https://device-type.com
-  name: miContro
-type: d3-device-type-assertion

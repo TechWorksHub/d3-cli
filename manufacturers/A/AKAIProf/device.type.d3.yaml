@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a0b0253c-79a7-5928-96fe-29902085c876
-  macAddresses:
-  - 00:20:C7:00:00:00/24
-  manufacturer: AKAI Professional M.I. Corp.
-  manufacturerUri: https://device-type.com
-  name: AKAIProf
-type: d3-device-type-assertion

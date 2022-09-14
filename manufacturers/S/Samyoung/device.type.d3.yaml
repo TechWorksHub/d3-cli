@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 082147ce-d588-593c-a825-2f0c70c1b733
-  macAddresses:
-  - 00:1A:F3:00:00:00/24
-  manufacturer: Samyoung Electronics
-  manufacturerUri: https://device-type.com
-  name: Samyoung
-type: d3-device-type-assertion

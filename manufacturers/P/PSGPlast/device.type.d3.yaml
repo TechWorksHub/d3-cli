@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cdb6a1ea-67b2-58a8-bb34-fee2e9d6041a
-  macAddresses:
-  - 90:0A:3A:00:00:00/24
-  manufacturer: PSG Plastic Service GmbH
-  manufacturerUri: https://device-type.com
-  name: PSGPlast
-type: d3-device-type-assertion

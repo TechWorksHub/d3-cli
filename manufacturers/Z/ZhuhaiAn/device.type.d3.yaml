@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f60a083d-399c-56f5-9fb4-aa069a0f718a
-  macAddresses:
-  - FC:61:79:00:00:00/28
-  manufacturer: Zhuhai Anjubao Electronics Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: ZhuhaiAn
-type: d3-device-type-assertion

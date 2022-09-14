@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b4b9d9c4-b320-579c-a34c-7d216a370caf
-  macAddresses:
-  - 30:1F:9A:C0:00:00/28
-  manufacturer: Origami Group Limited
-  manufacturerUri: https://device-type.com
-  name: OrigamiG
-type: d3-device-type-assertion

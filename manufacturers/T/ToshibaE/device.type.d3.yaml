@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 17925f0b-b26d-5b65-8da2-f5dd1b481749
-  macAddresses:
-  - 70:B3:D5:D2:80:00/36
-  manufacturer: Toshiba Electron Tubes & Devices Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: ToshibaE
-type: d3-device-type-assertion

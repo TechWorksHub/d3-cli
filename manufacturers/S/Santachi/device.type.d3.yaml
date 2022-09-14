@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 176ebbb1-a5c4-5a3a-b3c0-0d1a2670a5fd
-  macAddresses:
-  - 00:21:DB:00:00:00/24
-  manufacturer: Santachi Video Technology (Shenzhen) Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Santachi
-type: d3-device-type-assertion

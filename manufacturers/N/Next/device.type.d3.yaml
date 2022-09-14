@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b5702c72-3a0f-5405-8d88-c3fd2c0aebdf
-  macAddresses:
-  - 00:00:0F:00:00:00/24
-  manufacturer: Next, Inc.
-  manufacturerUri: https://device-type.com
-  name: Next
-type: d3-device-type-assertion

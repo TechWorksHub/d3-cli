@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7dc525dc-f90f-54e3-8c90-422d3f07c07d
-  macAddresses:
-  - 00:07:8F:00:00:00/24
-  manufacturer: Emkay Innovative Products
-  manufacturerUri: https://device-type.com
-  name: EmkayInn
-type: d3-device-type-assertion

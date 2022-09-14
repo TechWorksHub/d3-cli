@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b77ab83a-7674-5f04-91a4-06cc11a44558
-  macAddresses:
-  - 00:26:8E:00:00:00/24
-  manufacturer: Alta Solutions, Inc.
-  manufacturerUri: https://device-type.com
-  name: AltaSolu
-type: d3-device-type-assertion

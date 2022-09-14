@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8f6e879e-7aa3-58a0-a20d-de592dfafb16
-  macAddresses:
-  - 00:50:C2:A0:50:00/36
-  manufacturer: Adgil Design Inc.
-  manufacturerUri: https://device-type.com
-  name: AdgilDes
-type: d3-device-type-assertion

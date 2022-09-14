@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3af9cdab-cca8-572f-bdfa-674a81ea589a
-  macAddresses:
-  - 00:11:3D:00:00:00/24
-  manufacturer: Kn Soltec Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: KnSoltec
-type: d3-device-type-assertion

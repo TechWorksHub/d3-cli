@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a048325a-30b4-56fa-8c9a-6db48a51595d
-  macAddresses:
-  - 38:3A:21:D0:00:00/28
-  manufacturer: Colooc AB
-  manufacturerUri: https://device-type.com
-  name: Colooc
-type: d3-device-type-assertion

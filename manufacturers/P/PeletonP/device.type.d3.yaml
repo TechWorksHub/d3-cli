@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6e662469-e803-589e-a6f1-a48be31e8e1b
-  macAddresses:
-  - 00:50:C2:43:90:00/36
-  manufacturer: Peleton Photonic Systems
-  manufacturerUri: https://device-type.com
-  name: PeletonP
-type: d3-device-type-assertion

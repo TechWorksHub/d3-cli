@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7d72ca8d-5d3e-5e2c-8ecb-c98cb9df0c38
-  macAddresses:
-  - 00:0F:F3:00:00:00/24
-  manufacturer: Jung Myoung Communications&Technology
-  manufacturerUri: https://device-type.com
-  name: JungMyou
-type: d3-device-type-assertion

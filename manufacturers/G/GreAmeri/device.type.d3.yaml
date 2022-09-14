@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 31a7df67-7883-5139-b4cb-db2918c682a5
-  macAddresses:
-  - 00:30:7D:00:00:00/24
-  manufacturer: Gre America, Inc.
-  manufacturerUri: https://device-type.com
-  name: GreAmeri
-type: d3-device-type-assertion

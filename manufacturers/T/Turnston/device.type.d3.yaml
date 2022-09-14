@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 206bb72e-d721-5714-a33a-ec67a7d4780a
-  macAddresses:
-  - 00:90:6A:00:00:00/24
-  manufacturer: Turnstone Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Turnston
-type: d3-device-type-assertion

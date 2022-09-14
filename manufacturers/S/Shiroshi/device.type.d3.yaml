@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 888a45db-948b-58c6-b1e3-87e6be776870
-  macAddresses:
-  - 80:7B:85:00:00:00/28
-  manufacturer: Shiroshita Industrial Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Shiroshi
-type: d3-device-type-assertion

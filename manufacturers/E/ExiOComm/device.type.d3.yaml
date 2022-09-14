@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9eb173b1-a574-59a4-bdba-11a5880226e2
-  macAddresses:
-  - 00:02:DA:00:00:00/24
-  manufacturer: ExiO Communications, Inc.
-  manufacturerUri: https://device-type.com
-  name: ExiOComm
-type: d3-device-type-assertion

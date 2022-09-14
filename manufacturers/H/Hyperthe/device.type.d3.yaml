@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 790ecb90-2746-5f30-839a-d962c63b164d
-  macAddresses:
-  - 00:1E:29:00:00:00/24
-  manufacturer: Hypertherm Inc
-  manufacturerUri: https://device-type.com
-  name: Hyperthe
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5d8b767d-f940-524e-ae19-2c2082b16b6f
-  macAddresses:
-  - 00:08:5B:00:00:00/24
-  manufacturer: Hanbit Electronics Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: HanbitEl
-type: d3-device-type-assertion

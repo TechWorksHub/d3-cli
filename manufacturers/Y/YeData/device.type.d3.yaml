@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d42db554-d991-5478-adda-399973a30b6b
-  macAddresses:
-  - 00:22:7D:00:00:00/24
-  manufacturer: Ye Data Inc.
-  manufacturerUri: https://device-type.com
-  name: YeData
-type: d3-device-type-assertion

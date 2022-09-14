@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8b1bc4da-8f25-59ea-b486-a307c73d2396
-  macAddresses:
-  - 00:E0:02:00:00:00/24
-  manufacturer: Crossroads Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Crossroa
-type: d3-device-type-assertion

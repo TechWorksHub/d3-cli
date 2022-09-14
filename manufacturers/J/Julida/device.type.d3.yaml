@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e4bc9075-ab9f-5489-a54b-69b8f9c9b871
-  macAddresses:
-  - 04:11:19:E0:00:00/28
-  manufacturer: Julida Limited
-  manufacturerUri: https://device-type.com
-  name: Julida
-type: d3-device-type-assertion

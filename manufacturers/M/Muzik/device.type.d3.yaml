@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1640d59e-76bd-5637-a949-1413ff8ce79c
-  macAddresses:
-  - E4:4C:C7:A0:00:00/28
-  manufacturer: Muzik Inc
-  manufacturerUri: https://device-type.com
-  name: Muzik
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cfe55e82-4154-5729-b7fc-bfb089717832
-  macAddresses:
-  - 00:0E:18:00:00:00/24
-  manufacturer: MyA Technology
-  manufacturerUri: https://device-type.com
-  name: MyATechn
-type: d3-device-type-assertion

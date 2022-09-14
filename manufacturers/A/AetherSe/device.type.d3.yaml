@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5b9dc625-b195-5bfc-953a-18ab185840e1
-  macAddresses:
-  - B0:1F:81:70:00:00/28
-  manufacturer: Aether Services, Inc.
-  manufacturerUri: https://device-type.com
-  name: AetherSe
-type: d3-device-type-assertion

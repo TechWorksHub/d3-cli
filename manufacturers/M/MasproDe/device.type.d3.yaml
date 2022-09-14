@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 54c924c5-31ef-5d9f-8a33-6eb9baa14e46
-  macAddresses:
-  - 00:50:C9:00:00:00/24
-  manufacturer: Maspro Denkoh Corp.
-  manufacturerUri: https://device-type.com
-  name: MasproDe
-type: d3-device-type-assertion

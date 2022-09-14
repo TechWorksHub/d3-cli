@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ff4672d0-1df1-5a62-9f25-38c8b059bf6e
-  macAddresses:
-  - 00:09:F3:00:00:00/24
-  manufacturer: WELL Communication Corp.
-  manufacturerUri: https://device-type.com
-  name: WELLComm
-type: d3-device-type-assertion

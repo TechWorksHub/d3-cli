@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a471bc57-14c8-5e36-bd99-6aceaa261f67
-  macAddresses:
-  - 00:00:AB:00:00:00/24
-  manufacturer: Logic Modeling Corporation
-  manufacturerUri: https://device-type.com
-  name: LogicMod
-type: d3-device-type-assertion

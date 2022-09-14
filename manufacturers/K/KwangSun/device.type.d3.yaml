@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d9cbcefc-09a2-52a5-aed5-44f70f6f35c3
-  macAddresses:
-  - 00:1C:B9:00:00:00/24
-  manufacturer: Kwang Sung Electronics Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: KwangSun
-type: d3-device-type-assertion

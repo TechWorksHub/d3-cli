@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b35ffdf9-3424-55dc-8118-3d5eea9a58cc
-  macAddresses:
-  - 80:2A:FA:00:00:00/24
-  manufacturer: Germaneers GmbH
-  manufacturerUri: https://device-type.com
-  name: Germanee
-type: d3-device-type-assertion

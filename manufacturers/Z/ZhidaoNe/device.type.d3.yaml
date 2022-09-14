@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c8489f1f-d285-52ec-a2a5-11482aae1f0e
-  macAddresses:
-  - 1C:47:F6:00:00:00/24
-  manufacturer: Zhidao Network Technology(Shenzhen) Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: ZhidaoNe
-type: d3-device-type-assertion

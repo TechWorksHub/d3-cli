@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0b4ebcfe-d10f-57fa-93d7-762eba9c5c90
-  macAddresses:
-  - 70:B3:D5:E4:E0:00/36
-  manufacturer: Midfin Systems
-  manufacturerUri: https://device-type.com
-  name: Midfin
-type: d3-device-type-assertion

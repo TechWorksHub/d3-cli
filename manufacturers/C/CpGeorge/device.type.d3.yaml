@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eb1e022c-8a18-5234-8dce-5832d174b556
-  macAddresses:
-  - 00:09:99:00:00:00/24
-  manufacturer: Cp Georges Renault
-  manufacturerUri: https://device-type.com
-  name: CpGeorge
-type: d3-device-type-assertion

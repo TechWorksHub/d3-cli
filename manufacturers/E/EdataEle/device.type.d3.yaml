@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8bbe569f-e32a-56d7-b657-a7f0b6b9ea6f
-  macAddresses:
-  - 9C:14:65:00:00:00/24
-  manufacturer: "Edata Elektronik San. ve Tic. A.\u015E."
-  manufacturerUri: https://device-type.com
-  name: EdataEle
-type: d3-device-type-assertion

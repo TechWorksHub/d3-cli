@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 17884635-d2c9-5679-a48d-65a4286effea
-  macAddresses:
-  - 00:0E:AD:00:00:00/24
-  manufacturer: Metanoia Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: Metanoia
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ec8107c3-9259-53f4-a1c4-81872f4f68a0
-  macAddresses:
-  - F4:69:D5:60:00:00/28
-  manufacturer: TianJin KCHT Information Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: TianJinK
-type: d3-device-type-assertion

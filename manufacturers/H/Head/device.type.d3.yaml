@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cbb7a8a2-9926-508a-9026-15014352363d
-  macAddresses:
-  - 70:B3:D5:3E:30:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Head
-type: d3-device-type-assertion

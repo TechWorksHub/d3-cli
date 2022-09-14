@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5b0a7434-ac22-5b5d-80be-92f861ac2f98
-  macAddresses:
-  - 00:50:28:00:00:00/24
-  manufacturer: Aval Communications
-  manufacturerUri: https://device-type.com
-  name: AvalComm
-type: d3-device-type-assertion

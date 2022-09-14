@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fe55e3b5-973c-5037-9c33-2407720446d4
-  macAddresses:
-  - 00:13:AE:00:00:00/24
-  manufacturer: Radiance Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: Radiance
-type: d3-device-type-assertion

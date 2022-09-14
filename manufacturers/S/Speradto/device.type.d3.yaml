@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b5b59ff6-0cf7-5dfb-9e88-56255443e343
-  macAddresses:
-  - 00:1D:14:00:00:00/24
-  manufacturer: Speradtone Information Technology Limited
-  manufacturerUri: https://device-type.com
-  name: Speradto
-type: d3-device-type-assertion

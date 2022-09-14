@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: da234cab-0e4a-51f0-80c4-8548e36e71b6
-  macAddresses:
-  - 00:0C:6F:00:00:00/24
-  manufacturer: Amtek system co.,LTD.
-  manufacturerUri: https://device-type.com
-  name: Amteksys
-type: d3-device-type-assertion

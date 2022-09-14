@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e5de9c41-b4a3-50a4-934a-ca9403ae27d4
-  macAddresses:
-  - 70:B3:D5:B6:10:00/36
-  manufacturer: WuXi anktech Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: WuXiankt
-type: d3-device-type-assertion

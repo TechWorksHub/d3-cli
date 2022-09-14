@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c28179d5-6272-528e-8d87-5170ac68a9c9
-  macAddresses:
-  - 00:A0:EF:00:00:00/24
-  manufacturer: Lucidata Ltd.
-  manufacturerUri: https://device-type.com
-  name: Lucidata
-type: d3-device-type-assertion

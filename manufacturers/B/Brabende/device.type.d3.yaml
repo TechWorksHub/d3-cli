@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f69d6084-3dc8-5753-a62a-6446eec6c6f3
-  macAddresses:
-  - 88:C9:B3:50:00:00/28
-  manufacturer: Brabender Technologie GmbH & Co, KG
-  manufacturerUri: https://device-type.com
-  name: Brabende
-type: d3-device-type-assertion

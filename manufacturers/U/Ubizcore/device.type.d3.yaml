@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 85223c1f-4dae-53d7-8458-2e4a11a4682c
-  macAddresses:
-  - 48:F2:30:00:00:00/24
-  manufacturer: Ubizcore Co.,LTD
-  manufacturerUri: https://device-type.com
-  name: Ubizcore
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ffd54328-1c80-5d64-88aa-9fec11286d19
-  macAddresses:
-  - 00:18:BB:00:00:00/24
-  manufacturer: Eliwell Controls srl
-  manufacturerUri: https://device-type.com
-  name: EliwellC
-type: d3-device-type-assertion

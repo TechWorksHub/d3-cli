@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 694e5404-d523-55e7-8fa7-64dc33d53285
-  macAddresses:
-  - 00:1C:46:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Qtum
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 779c9377-4381-5540-9fcf-1e6c5ba1f527
-  macAddresses:
-  - 58:49:25:00:00:00/24
-  manufacturer: E3 Enterprise
-  manufacturerUri: https://device-type.com
-  name: E3Enterp
-type: d3-device-type-assertion

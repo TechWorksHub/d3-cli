@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 99ce3182-2e7b-5623-976e-c576c380e4f9
-  macAddresses:
-  - 00:12:26:00:00:00/24
-  manufacturer: Japan Direx Corporation
-  manufacturerUri: https://device-type.com
-  name: JapanDir
-type: d3-device-type-assertion

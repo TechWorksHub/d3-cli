@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c446aedd-d076-56ed-a0db-0f6c09094c45
-  macAddresses:
-  - EC:2A:F0:00:00:00/24
-  manufacturer: Ypsomed AG
-  manufacturerUri: https://device-type.com
-  name: Ypsomed
-type: d3-device-type-assertion

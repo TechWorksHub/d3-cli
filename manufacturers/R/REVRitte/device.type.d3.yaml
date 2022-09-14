@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 40d6e9bb-8bc3-5e1a-ab9a-202f81e4ce42
-  macAddresses:
-  - F8:D7:BF:00:00:00/24
-  manufacturer: REV Ritter GmbH
-  manufacturerUri: https://device-type.com
-  name: REVRitte
-type: d3-device-type-assertion

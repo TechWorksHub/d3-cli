@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 075b5ccd-a778-5fa9-91ff-f6e47c08c39f
-  macAddresses:
-  - 00:05:E3:00:00:00/24
-  manufacturer: LightSand Communications, Inc.
-  manufacturerUri: https://device-type.com
-  name: LightSan
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 630c071c-4eeb-50de-98de-b31905172ab2
-  macAddresses:
-  - 34:D0:B8:80:00:00/28
-  manufacturer: Vtrek Group International Ltd.
-  manufacturerUri: https://device-type.com
-  name: VtrekGro
-type: d3-device-type-assertion

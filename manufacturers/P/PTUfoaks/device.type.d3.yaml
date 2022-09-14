@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7b57692e-b8c0-5d6d-ad73-b7a597a6638c
-  macAddresses:
-  - 00:19:FC:00:00:00/24
-  manufacturer: PT. Ufoakses Sukses Luarbiasa
-  manufacturerUri: https://device-type.com
-  name: PTUfoaks
-type: d3-device-type-assertion

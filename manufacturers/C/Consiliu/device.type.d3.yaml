@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 48da34a4-df2a-5629-a88a-260265aa3aa5
-  macAddresses:
-  - 00:21:C4:00:00:00/24
-  manufacturer: Consilium AB
-  manufacturerUri: https://device-type.com
-  name: Consiliu
-type: d3-device-type-assertion

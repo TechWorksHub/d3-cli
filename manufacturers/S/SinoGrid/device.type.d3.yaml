@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7a9cf9e4-c94f-5b82-97cf-41c621304111
-  macAddresses:
-  - A0:3E:6B:70:00:00/28
-  manufacturer: SinoGrid Software Systems Inc.
-  manufacturerUri: https://device-type.com
-  name: SinoGrid
-type: d3-device-type-assertion

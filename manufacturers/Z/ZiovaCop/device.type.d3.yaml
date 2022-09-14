@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6549abdd-d716-51fd-a270-07a9b5c6b2ad
-  macAddresses:
-  - 00:1A:2E:00:00:00/24
-  manufacturer: Ziova Coporation
-  manufacturerUri: https://device-type.com
-  name: ZiovaCop
-type: d3-device-type-assertion

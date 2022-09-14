@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 538572aa-403c-5c4f-a1c3-7c3671636c1c
-  macAddresses:
-  - 00:1D:77:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: NSGate
-type: d3-device-type-assertion

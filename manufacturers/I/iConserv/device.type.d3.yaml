@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7054b3f3-4684-55cb-b3b9-7ed48e3b7327
-  macAddresses:
-  - E4:95:6E:B0:00:00/28
-  manufacturer: iConservo Inc
-  manufacturerUri: https://device-type.com
-  name: iConserv
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: abd194a9-660b-5029-b803-ab798bfee837
-  macAddresses:
-  - 40:D8:55:1B:60:00/36
-  manufacturer: Magic Systems
-  manufacturerUri: https://device-type.com
-  name: Magic
-type: d3-device-type-assertion

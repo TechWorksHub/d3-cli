@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 828b0f57-7b52-50de-a1af-5e02bdbb3c75
-  macAddresses:
-  - 58:FD:20:00:00:00/24
-  manufacturer: Systemhouse Solutions AB
-  manufacturerUri: https://device-type.com
-  name: Systemho
-type: d3-device-type-assertion

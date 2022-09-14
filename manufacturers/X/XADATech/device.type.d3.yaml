@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5634e497-99c7-5bd9-b221-55a929f8e06b
-  macAddresses:
-  - B4:E8:C9:00:00:00/24
-  manufacturer: XADA Technologies
-  manufacturerUri: https://device-type.com
-  name: XADATech
-type: d3-device-type-assertion

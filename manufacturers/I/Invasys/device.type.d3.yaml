@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a4794553-64b8-5d44-85a2-8dc07f4690e6
-  macAddresses:
-  - 04:C3:E6:50:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Invasys
-type: d3-device-type-assertion

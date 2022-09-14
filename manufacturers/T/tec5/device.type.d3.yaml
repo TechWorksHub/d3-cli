@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2a38a0f9-02ec-58b9-9f9c-440d7be64865
-  macAddresses:
-  - 00:50:C2:8F:50:00/36
-  manufacturer: tec5 AG
-  manufacturerUri: https://device-type.com
-  name: tec5
-type: d3-device-type-assertion

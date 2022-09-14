@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f57d5e71-2e54-55cf-8c9f-1d6e941521e6
-  macAddresses:
-  - F0:81:AF:00:00:00/24
-  manufacturer: Irz Automation Technologies Ltd
-  manufacturerUri: https://device-type.com
-  name: IrzAutom
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 556bc575-d249-5ee8-aad6-38641361485e
-  macAddresses:
-  - 70:B3:D5:D0:30:00/36
-  manufacturer: Digitella Inc.
-  manufacturerUri: https://device-type.com
-  name: Digitell
-type: d3-device-type-assertion

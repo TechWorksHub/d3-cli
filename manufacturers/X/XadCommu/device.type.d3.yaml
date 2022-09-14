@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 11fb0ad2-2b1a-532e-b533-0aa3e0058d77
-  macAddresses:
-  - 00:50:C2:9B:E0:00/36
-  manufacturer: Xad Communications Ltd
-  manufacturerUri: https://device-type.com
-  name: XadCommu
-type: d3-device-type-assertion

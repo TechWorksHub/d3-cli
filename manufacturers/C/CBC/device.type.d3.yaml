@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4fd0f3f3-9954-5859-913d-4f22191c4016
-  macAddresses:
-  - 00:1C:B8:00:00:00/24
-  manufacturer: CBC Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: CBC
-type: d3-device-type-assertion

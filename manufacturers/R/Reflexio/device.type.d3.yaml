@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 03480d9e-07b7-5fd3-97d3-fb4452f776a4
-  macAddresses:
-  - 70:B3:D5:29:80:00/36
-  manufacturer: Reflexion Medical
-  manufacturerUri: https://device-type.com
-  name: Reflexio
-type: d3-device-type-assertion

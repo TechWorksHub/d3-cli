@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: af69065c-517d-5a6f-9bf4-b806f43b79b4
-  macAddresses:
-  - 00:50:C2:BC:60:00/36
-  manufacturer: MireroTack
-  manufacturerUri: https://device-type.com
-  name: MireroTa
-type: d3-device-type-assertion

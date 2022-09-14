@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fa6ec30e-c5db-58de-8a2a-d5113da014c0
-  macAddresses:
-  - 00:14:70:00:00:00/24
-  manufacturer: Prokom Software SA
-  manufacturerUri: https://device-type.com
-  name: ProkomSo
-type: d3-device-type-assertion

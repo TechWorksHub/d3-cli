@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6139033d-1714-5500-8ab7-3b565b82dd73
-  macAddresses:
-  - 70:B3:D5:7E:50:00/36
-  manufacturer: Megaflex Oy
-  manufacturerUri: https://device-type.com
-  name: Megaflex
-type: d3-device-type-assertion

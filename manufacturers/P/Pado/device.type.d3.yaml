@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3ffc7fe8-fc90-53a6-be01-f7ea69b11d9a
-  macAddresses:
-  - 00:1C:56:00:00:00/24
-  manufacturer: Pado Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Pado
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2e0c98e9-e83a-5b2b-a1a9-48dcd363cfc9
-  macAddresses:
-  - 00:0A:17:00:00:00/24
-  manufacturer: Nestar Communications, Inc
-  manufacturerUri: https://device-type.com
-  name: NestarCo
-type: d3-device-type-assertion

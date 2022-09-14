@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0505e059-3ea1-5323-b1b1-d6564d864279
-  macAddresses:
-  - 34:5D:10:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Wytek
-type: d3-device-type-assertion

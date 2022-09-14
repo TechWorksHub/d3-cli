@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2ffb9256-49f7-584a-94f6-3fd4867eb978
-  macAddresses:
-  - 00:13:78:00:00:00/24
-  manufacturer: Qsan Technology, Inc.
-  manufacturerUri: https://device-type.com
-  name: QsanTech
-type: d3-device-type-assertion

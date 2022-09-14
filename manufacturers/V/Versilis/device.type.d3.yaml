@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1076527d-efae-58b2-9d5d-4240c0f12c5f
-  macAddresses:
-  - 70:B3:D5:4D:80:00/36
-  manufacturer: Versilis Inc.
-  manufacturerUri: https://device-type.com
-  name: Versilis
-type: d3-device-type-assertion

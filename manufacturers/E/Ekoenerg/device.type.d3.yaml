@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 119faff8-a6f6-5662-bf73-1b80d452c574
-  macAddresses:
-  - 78:D4:F1:30:00:00/28
-  manufacturer: Ekoenergetyka - Polska S.A.
-  manufacturerUri: https://device-type.com
-  name: Ekoenerg
-type: d3-device-type-assertion

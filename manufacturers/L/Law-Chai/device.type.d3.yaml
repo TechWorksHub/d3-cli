@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: df2c74ef-a61d-5629-a58c-104b7242bab8
-  macAddresses:
-  - 00:16:BB:00:00:00/24
-  manufacturer: Law-Chain Computer Technology Co Ltd
-  manufacturerUri: https://device-type.com
-  name: Law-Chai
-type: d3-device-type-assertion

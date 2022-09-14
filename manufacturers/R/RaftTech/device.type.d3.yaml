@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7f42d104-52ce-5dc2-a206-3fd734740d07
-  macAddresses:
-  - 70:B3:D5:8D:00:00/36
-  manufacturer: Raft Technologies
-  manufacturerUri: https://device-type.com
-  name: RaftTech
-type: d3-device-type-assertion

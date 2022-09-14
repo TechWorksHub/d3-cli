@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f91ba72b-0532-5512-97c5-6d69c877ac45
-  macAddresses:
-  - 00:07:18:00:00:00/24
-  manufacturer: iCanTek Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: iCanTek
-type: d3-device-type-assertion

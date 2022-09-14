@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 45675da9-a388-580b-96c6-475b0c6acfc9
-  macAddresses:
-  - 00:C0:05:00:00:00/24
-  manufacturer: Livingston Enterprises Inc
-  manufacturerUri: https://device-type.com
-  name: Livingst
-type: d3-device-type-assertion

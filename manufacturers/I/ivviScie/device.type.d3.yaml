@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9345ad70-388b-5907-a26f-ac1d729c9456
-  macAddresses:
-  - 60:08:37:00:00:00/24
-  manufacturer: ivvi Scientific(Nanchang)Co.Ltd
-  manufacturerUri: https://device-type.com
-  name: ivviScie
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f88dfe7d-434e-5012-9260-efb1dc13b509
-  macAddresses:
-  - 00:0E:95:00:00:00/24
-  manufacturer: Fujiya Denki Seisakusho Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: FujiyaDe
-type: d3-device-type-assertion

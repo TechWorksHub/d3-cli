@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 173d89b6-b207-565c-ae59-296c5ccc0516
-  macAddresses:
-  - 00:80:DA:00:00:00/24
-  manufacturer: Bruel & Kjaer
-  manufacturerUri: https://device-type.com
-  name: BruelKja
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 51291407-e9fb-5c4e-bd4a-dfe5b22a2974
-  macAddresses:
-  - 00:06:29:00:00:00/24
-  manufacturer: IBM RISC6000 system
-  manufacturerUri: https://device-type.com
-  name: IbmRisc6
-type: d3-device-type-assertion

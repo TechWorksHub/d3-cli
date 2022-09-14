@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b33a5ff0-8ec7-55ed-a122-12ef96103455
-  macAddresses:
-  - 70:B3:D5:A2:F0:00/36
-  manufacturer: Botek Systems AB
-  manufacturerUri: https://device-type.com
-  name: Botek
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 738e27a4-62d7-5978-91c4-6f710f9da2a7
-  macAddresses:
-  - E8:F2:26:00:00:00/24
-  manufacturer: Millson Custom Solutions Inc.
-  manufacturerUri: https://device-type.com
-  name: MillsonC
-type: d3-device-type-assertion

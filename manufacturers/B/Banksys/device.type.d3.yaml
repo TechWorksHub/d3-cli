@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fded80a0-133c-5873-8d1e-b7a9cc4a6229
-  macAddresses:
-  - 00:08:19:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Banksys
-type: d3-device-type-assertion

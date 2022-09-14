@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9becadc4-29db-5f6f-8b47-895a3ab68a98
-  macAddresses:
-  - 34:04:9E:50:00:00/28
-  manufacturer: Seeiner Technology Co.,LTD
-  manufacturerUri: https://device-type.com
-  name: SeeinerT
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 77e62b09-27df-5de9-830b-aa6b1fa8d896
-  macAddresses:
-  - 00:17:F5:00:00:00/24
-  manufacturer: Lig Neoptek
-  manufacturerUri: https://device-type.com
-  name: LigNeopt
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3db25468-9240-5639-aa62-e760ecc0acba
-  macAddresses:
-  - B4:85:47:00:00:00/24
-  manufacturer: Amptown System Company GmbH
-  manufacturerUri: https://device-type.com
-  name: AmptownS
-type: d3-device-type-assertion

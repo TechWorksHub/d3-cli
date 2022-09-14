@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9b8fed87-76f5-5bf7-9534-3593028ee67f
-  macAddresses:
-  - 00:14:ED:00:00:00/24
-  manufacturer: Airak, Inc.
-  manufacturerUri: https://device-type.com
-  name: Airak
-type: d3-device-type-assertion

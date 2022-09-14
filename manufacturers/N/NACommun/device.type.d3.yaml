@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 85056fe7-5ad6-5289-b887-e2ddfbc6eb80
-  macAddresses:
-  - 70:B3:D5:B9:20:00/36
-  manufacturer: N A Communications LLC
-  manufacturerUri: https://device-type.com
-  name: NACommun
-type: d3-device-type-assertion

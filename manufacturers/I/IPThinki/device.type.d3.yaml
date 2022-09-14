@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eea5ffca-05f4-57c4-ab1b-d2528b446cfd
-  macAddresses:
-  - 00:50:C2:88:40:00/36
-  manufacturer: IP Thinking A/S
-  manufacturerUri: https://device-type.com
-  name: IPThinki
-type: d3-device-type-assertion

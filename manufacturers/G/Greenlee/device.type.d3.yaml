@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0c14fe94-274f-51cc-b19d-72ff5a9d2594
-  macAddresses:
-  - 50:64:41:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Greenlee
-type: d3-device-type-assertion

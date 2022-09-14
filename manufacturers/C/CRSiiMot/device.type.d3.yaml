@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1e836034-085f-58cb-a272-e0861bce53db
-  macAddresses:
-  - DC:64:7C:00:00:00/24
-  manufacturer: C.R.S. iiMotion GmbH
-  manufacturerUri: https://device-type.com
-  name: CRSiiMot
-type: d3-device-type-assertion

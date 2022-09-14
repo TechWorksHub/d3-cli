@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 02bcda3b-b098-59b8-a7c1-7edb118821f0
-  macAddresses:
-  - BC:F8:11:00:00:00/24
-  manufacturer: Xiamen DNAKE Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: XiamenDN
-type: d3-device-type-assertion

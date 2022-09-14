@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dce8f3c7-722f-555a-bda6-e72cc0fa6c92
-  macAddresses:
-  - 00:15:A9:00:00:00/24
-  manufacturer: Kwang Woo I&C Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: KwangWoo
-type: d3-device-type-assertion

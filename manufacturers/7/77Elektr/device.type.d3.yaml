@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 29e26cb1-cfb7-5979-a44d-b341ce5fc09b
-  macAddresses:
-  - 00:14:2E:00:00:00/24
-  manufacturer: 77 Elektronika Kft.
-  manufacturerUri: https://device-type.com
-  name: 77Elektr
-type: d3-device-type-assertion

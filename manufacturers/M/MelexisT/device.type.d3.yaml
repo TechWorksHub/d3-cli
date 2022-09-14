@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: de44ac31-7638-5f31-a647-724e80646035
-  macAddresses:
-  - 98:80:BB:50:00:00/28
-  manufacturer: Melexis Technologies NV
-  manufacturerUri: https://device-type.com
-  name: MelexisT
-type: d3-device-type-assertion

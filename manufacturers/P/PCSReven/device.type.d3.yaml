@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d9faf825-affc-5bdb-a778-e0f69e3b9860
-  macAddresses:
-  - 00:03:8D:00:00:00/24
-  manufacturer: PCS Revenue Control Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: PCSReven
-type: d3-device-type-assertion

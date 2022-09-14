@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2ed0f00f-fe44-563c-bece-879340a0f6b1
-  macAddresses:
-  - 08:00:5D:00:00:00/24
-  manufacturer: Gould Inc.
-  manufacturerUri: https://device-type.com
-  name: Gould
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ecc332f4-6dc7-57bb-b288-23d456f01918
-  macAddresses:
-  - 00:50:C2:50:10:00/36
-  manufacturer: IBEX UK Limited
-  manufacturerUri: https://device-type.com
-  name: IBEXUK
-type: d3-device-type-assertion

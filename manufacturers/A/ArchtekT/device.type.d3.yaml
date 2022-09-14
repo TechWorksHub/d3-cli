@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ac1971e1-e77d-5ba9-af1d-2f831e9a4dca
-  macAddresses:
-  - 00:01:53:00:00:00/24
-  manufacturer: Archtek Telecom Corporation
-  manufacturerUri: https://device-type.com
-  name: ArchtekT
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 00c6efd6-5f65-58be-bf3d-6d11ac394e65
-  macAddresses:
-  - 70:B3:D5:77:10:00/36
-  manufacturer: Apator Miitors ApS
-  manufacturerUri: https://device-type.com
-  name: ApatorMi
-type: d3-device-type-assertion

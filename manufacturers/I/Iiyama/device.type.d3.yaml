@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c16b7816-f6f4-5ec7-975a-9b4184a39a1f
-  macAddresses:
-  - 64:33:B5:D0:00:00/28
-  manufacturer: Iiyama Corporation
-  manufacturerUri: https://device-type.com
-  name: Iiyama
-type: d3-device-type-assertion

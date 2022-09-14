@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ade0989a-c5e2-5067-8ba5-7f9619565971
-  macAddresses:
-  - 00:06:F1:00:00:00/24
-  manufacturer: Optillion
-  manufacturerUri: https://device-type.com
-  name: Optillio
-type: d3-device-type-assertion

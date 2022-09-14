@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2fd200c4-0fea-5343-adb6-df7546f7865a
-  macAddresses:
-  - 00:19:3C:00:00:00/24
-  manufacturer: HighPoint Technologies Incorporated
-  manufacturerUri: https://device-type.com
-  name: HighPoin
-type: d3-device-type-assertion

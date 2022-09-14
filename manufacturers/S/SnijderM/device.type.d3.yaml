@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5e826c70-daa2-5418-9454-faa4fe285fe7
-  macAddresses:
-  - 00:D0:0C:00:00:00/24
-  manufacturer: Snijder Micro Systems
-  manufacturerUri: https://device-type.com
-  name: SnijderM
-type: d3-device-type-assertion

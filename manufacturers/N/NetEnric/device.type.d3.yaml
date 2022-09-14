@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7a3a5990-3120-58fd-a30e-be8570bd4960
-  macAddresses:
-  - 00:11:D4:00:00:00/24
-  manufacturer: NetEnrich, Inc
-  manufacturerUri: https://device-type.com
-  name: NetEnric
-type: d3-device-type-assertion

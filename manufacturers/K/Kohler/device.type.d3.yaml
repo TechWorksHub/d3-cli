@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4a18c27a-fd1d-55e1-964b-10d8e044be8f
-  macAddresses:
-  - 00:14:6F:00:00:00/24
-  manufacturer: Kohler Co
-  manufacturerUri: https://device-type.com
-  name: Kohler
-type: d3-device-type-assertion

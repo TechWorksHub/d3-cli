@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5f26de8e-6924-54c6-ad8f-d66a2dd56c97
-  macAddresses:
-  - 00:19:86:00:00:00/24
-  manufacturer: Cheng Hongjian
-  manufacturerUri: https://device-type.com
-  name: ChengHon
-type: d3-device-type-assertion

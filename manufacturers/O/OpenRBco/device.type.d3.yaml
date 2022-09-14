@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cd64c2e6-cd41-597e-8495-7ed79ddf09ee
-  macAddresses:
-  - 00:1B:C5:00:10:00/36
-  manufacturer: OpenRB.com, Direct SIA
-  manufacturerUri: https://device-type.com
-  name: OpenRBco
-type: d3-device-type-assertion

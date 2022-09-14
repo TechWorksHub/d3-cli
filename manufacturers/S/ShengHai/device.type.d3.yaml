@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 32cdfff3-2e5d-5625-a1e8-f89f830c5900
-  macAddresses:
-  - 4C:AE:31:00:00:00/24
-  manufacturer: ShengHai Electronics (Shenzhen) Ltd
-  manufacturerUri: https://device-type.com
-  name: ShengHai
-type: d3-device-type-assertion

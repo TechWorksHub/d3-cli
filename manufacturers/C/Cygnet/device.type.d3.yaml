@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 516f39c1-1f42-5146-b7ec-97832b280219
-  macAddresses:
-  - 08:00:4F:00:00:00/24
-  manufacturer: Cygnet Systems
-  manufacturerUri: https://device-type.com
-  name: Cygnet
-type: d3-device-type-assertion

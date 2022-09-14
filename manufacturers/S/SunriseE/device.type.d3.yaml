@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d16a4d01-2c4c-5136-b406-5af1601d91aa
-  macAddresses:
-  - 70:B3:D5:BB:E0:00/36
-  manufacturer: Sunrise Systems Electronics Co. Inc.
-  manufacturerUri: https://device-type.com
-  name: SunriseE
-type: d3-device-type-assertion

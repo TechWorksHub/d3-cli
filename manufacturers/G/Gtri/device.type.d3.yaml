@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ea768b0c-e396-5bd2-8c61-c4dca87e30f3
-  macAddresses:
-  - 00:1E:19:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Gtri
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e7e9858a-fe9e-5c73-9afc-9ed255d55d3c
-  macAddresses:
-  - 0C:FE:5D:50:00:00/28
-  manufacturer: SELECTRIC Nachrichten-Systeme GmbH
-  manufacturerUri: https://device-type.com
-  name: SELECTRI
-type: d3-device-type-assertion

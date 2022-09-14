@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 983973df-29e7-5646-b584-ab41dd13e191
-  macAddresses:
-  - 00:1D:39:00:00:00/24
-  manufacturer: Moohadigital Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Moohadig
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 668a5873-6fe2-5372-b9bd-10f045db125d
-  macAddresses:
-  - 58:E1:6C:00:00:00/24
-  manufacturer: Ying Hua Information Technology (Shanghai)Co., LTD
-  manufacturerUri: https://device-type.com
-  name: YingHuaI
-type: d3-device-type-assertion

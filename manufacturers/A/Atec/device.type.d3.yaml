@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 58de088f-73fc-50aa-9d06-85241e658465
-  macAddresses:
-  - 00:50:C2:77:C0:00/36
-  manufacturer: Atec Srl
-  manufacturerUri: https://device-type.com
-  name: Atec
-type: d3-device-type-assertion

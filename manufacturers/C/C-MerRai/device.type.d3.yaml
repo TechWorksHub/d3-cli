@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 46e98a98-dde3-559a-8a3e-6ab7df28861d
-  macAddresses:
-  - 94:C9:B7:10:00:00/28
-  manufacturer: C-Mer Rainsoptics Limited
-  manufacturerUri: https://device-type.com
-  name: C-MerRai
-type: d3-device-type-assertion

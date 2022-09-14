@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3496b652-eb3a-5079-a0d4-055f17870422
-  macAddresses:
-  - 00:24:CA:00:00:00/24
-  manufacturer: Tobii Technology AB
-  manufacturerUri: https://device-type.com
-  name: TobiiTec
-type: d3-device-type-assertion

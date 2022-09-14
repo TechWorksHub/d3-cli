@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d1a8da34-89dd-5644-9bd5-a81ca82c3450
-  macAddresses:
-  - 70:B3:D5:E0:30:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Mbj
-type: d3-device-type-assertion

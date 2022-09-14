@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e103d3b2-b075-52ea-98a8-6de09bec5c11
-  macAddresses:
-  - B4:FE:8C:00:00:00/24
-  manufacturer: Centro Sicurezza Italia SpA
-  manufacturerUri: https://device-type.com
-  name: CentroSi
-type: d3-device-type-assertion

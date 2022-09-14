@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2e909a55-cdeb-5aa8-a47f-5e70d74722e5
-  macAddresses:
-  - 70:B3:D5:66:E0:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Siame
-type: d3-device-type-assertion

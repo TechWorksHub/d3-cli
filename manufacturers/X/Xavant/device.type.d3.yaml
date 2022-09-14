@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ecb24a6c-8e4f-5010-9698-b7ceb524900f
-  macAddresses:
-  - 70:B3:D5:1E:B0:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Xavant
-type: d3-device-type-assertion

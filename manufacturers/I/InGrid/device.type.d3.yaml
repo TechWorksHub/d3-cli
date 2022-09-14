@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 900123a7-9b97-5a34-a66b-fb8af8394b1c
-  macAddresses:
-  - 00:17:07:00:00:00/24
-  manufacturer: InGrid, Inc
-  manufacturerUri: https://device-type.com
-  name: InGrid
-type: d3-device-type-assertion

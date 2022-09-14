@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 06e858d4-67ef-5430-9e02-78ea1ee45546
-  macAddresses:
-  - CC:22:37:B0:00:00/28
-  manufacturer: Tolomatic, Inc.
-  manufacturerUri: https://device-type.com
-  name: Tolomati
-type: d3-device-type-assertion

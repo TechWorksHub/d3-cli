@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1c0dbdb4-a4bf-5dba-bdd9-6c8b2694e83a
-  macAddresses:
-  - F4:5B:73:00:00:00/24
-  manufacturer: Wanjiaan Interconnected Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Wanjiaan
-type: d3-device-type-assertion

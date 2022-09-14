@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6b445d22-9347-5fb8-9cdf-57e5c20506dc
-  macAddresses:
-  - 00:50:C2:BA:D0:00/36
-  manufacturer: Prediktor AS
-  manufacturerUri: https://device-type.com
-  name: Predikto
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e777e209-5028-52d9-8245-b266c0ae8e0f
-  macAddresses:
-  - 00:04:C7:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: NetMount
-type: d3-device-type-assertion

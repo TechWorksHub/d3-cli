@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d2a798bf-6560-5b91-bd61-272a0c19e4a4
-  macAddresses:
-  - 88:21:E3:00:00:00/24
-  manufacturer: Nebusens, S.L.
-  manufacturerUri: https://device-type.com
-  name: Nebusens
-type: d3-device-type-assertion

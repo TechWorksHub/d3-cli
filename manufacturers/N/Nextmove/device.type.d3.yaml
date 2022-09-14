@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9e2cc26a-e4ed-522e-9170-8947357557ca
-  macAddresses:
-  - 00:50:C2:BC:90:00/36
-  manufacturer: Nextmove Technologies
-  manufacturerUri: https://device-type.com
-  name: Nextmove
-type: d3-device-type-assertion

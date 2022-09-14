@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d50d6ff1-de63-555b-90b6-74ebafd3227c
-  macAddresses:
-  - 00:04:34:00:00:00/24
-  manufacturer: Accelent Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Accelent
-type: d3-device-type-assertion

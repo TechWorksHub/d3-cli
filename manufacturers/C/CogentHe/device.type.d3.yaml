@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c8c28208-6d13-5ed6-86c9-d8f7e0f31022
-  macAddresses:
-  - E8:94:4C:00:00:00/24
-  manufacturer: Cogent Healthcare Systems Ltd
-  manufacturerUri: https://device-type.com
-  name: CogentHe
-type: d3-device-type-assertion

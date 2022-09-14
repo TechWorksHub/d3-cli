@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ed0e594f-e80c-59ca-9a76-d973e6d7a586
-  macAddresses:
-  - 44:45:53:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Microsoft
-type: d3-device-type-assertion

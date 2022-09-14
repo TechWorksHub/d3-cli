@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 388002e5-7913-5595-8d72-6e4dd7b61663
-  macAddresses:
-  - 70:B3:D5:AF:70:00/36
-  manufacturer: DimoSystems BV
-  manufacturerUri: https://device-type.com
-  name: DimoSyst
-type: d3-device-type-assertion

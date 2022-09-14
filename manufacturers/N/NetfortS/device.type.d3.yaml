@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 57719d3a-9110-52cf-a902-099e77384c29
-  macAddresses:
-  - 70:B3:D5:ED:B0:00/36
-  manufacturer: Netfort Solutions
-  manufacturerUri: https://device-type.com
-  name: NetfortS
-type: d3-device-type-assertion

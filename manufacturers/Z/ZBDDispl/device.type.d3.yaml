@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5eed8c85-9f87-5dc1-8c8c-0043e8af286c
-  macAddresses:
-  - 34:9A:0D:00:00:00/24
-  manufacturer: ZBD Displays Ltd
-  manufacturerUri: https://device-type.com
-  name: ZBDDispl
-type: d3-device-type-assertion

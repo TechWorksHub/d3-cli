@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6654affa-6549-5012-b172-3c70145e5444
-  macAddresses:
-  - 00:07:DE:00:00:00/24
-  manufacturer: eCopilt AB
-  manufacturerUri: https://device-type.com
-  name: eCopilt
-type: d3-device-type-assertion

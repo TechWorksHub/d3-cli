@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ed2584c5-e9b8-5a62-860a-815ee6991a70
-  macAddresses:
-  - 00:0B:99:00:00:00/24
-  manufacturer: SensAble Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: SensAble
-type: d3-device-type-assertion

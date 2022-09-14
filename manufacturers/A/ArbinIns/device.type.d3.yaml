@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 82ae766e-4587-5a59-8c15-eb4b4e637fe8
-  macAddresses:
-  - 00:60:E3:00:00:00/24
-  manufacturer: Arbin Instruments
-  manufacturerUri: https://device-type.com
-  name: ArbinIns
-type: d3-device-type-assertion

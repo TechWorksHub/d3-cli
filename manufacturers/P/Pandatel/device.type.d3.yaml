@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 83eabc93-ca3e-5ee9-8d6e-f95d51458534
-  macAddresses:
-  - 00:20:F5:00:00:00/24
-  manufacturer: Pandatel Ag
-  manufacturerUri: https://device-type.com
-  name: Pandatel
-type: d3-device-type-assertion

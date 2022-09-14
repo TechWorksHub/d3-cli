@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 18b18160-639f-530a-8981-c06495c9027b
-  macAddresses:
-  - 00:50:C2:AB:E0:00/36
-  manufacturer: AP Labs
-  manufacturerUri: https://device-type.com
-  name: APLabs
-type: d3-device-type-assertion

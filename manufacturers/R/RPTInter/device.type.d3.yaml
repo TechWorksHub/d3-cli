@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 248e4ff3-c497-5c3f-9afb-ba780643196f
-  macAddresses:
-  - 00:40:95:00:00:00/24
-  manufacturer: R.P.T. Intergroups Int'L Ltd.
-  manufacturerUri: https://device-type.com
-  name: RPTInter
-type: d3-device-type-assertion

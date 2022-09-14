@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 76605cce-84d4-5ffa-9075-868ce6e2ba7a
-  macAddresses:
-  - 70:B3:D5:BE:00:00/36
-  manufacturer: Cognosos, Inc.
-  manufacturerUri: https://device-type.com
-  name: Cognosos
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fe102f94-8d10-5195-b428-395542f448e6
-  macAddresses:
-  - D0:BE:2C:00:00:00/24
-  manufacturer: CNSLink Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: CNSLink
-type: d3-device-type-assertion

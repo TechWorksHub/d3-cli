@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1bdb01c6-20db-5f4a-a7e7-1ab745afad96
-  macAddresses:
-  - 00:07:B7:00:00:00/24
-  manufacturer: Samurai Ind. Prods Eletronicos Ltda
-  manufacturerUri: https://device-type.com
-  name: SamuraiI
-type: d3-device-type-assertion

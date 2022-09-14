@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9a34779d-ad35-51bd-a6d8-72da41564d30
-  macAddresses:
-  - 00:00:8C:00:00:00/24
-  manufacturer: Alloy Computer Products (Australia) Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: AlloyCom
-type: d3-device-type-assertion

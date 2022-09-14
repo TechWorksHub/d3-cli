@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: acba8ed9-a64f-5af1-b116-715ec449824d
-  macAddresses:
-  - 00:22:C4:00:00:00/24
-  manufacturer: epro GmbH
-  manufacturerUri: https://device-type.com
-  name: epro
-type: d3-device-type-assertion

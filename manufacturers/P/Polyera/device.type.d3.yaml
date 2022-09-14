@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2b1a50af-dad3-57ce-a83f-ba87b3398bb5
-  macAddresses:
-  - FC:33:5F:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Polyera
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9b37550e-feda-55f4-8716-189f91922634
-  macAddresses:
-  - FC:85:96:00:00:00/24
-  manufacturer: Axonne Inc.
-  manufacturerUri: https://device-type.com
-  name: Axonne
-type: d3-device-type-assertion

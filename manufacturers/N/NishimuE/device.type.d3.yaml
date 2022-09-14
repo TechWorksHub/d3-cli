@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1740fdb8-9cd4-5c59-9f57-8954f5db185c
-  macAddresses:
-  - 00:90:01:00:00:00/24
-  manufacturer: Nishimu Electronics Industries Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: NishimuE
-type: d3-device-type-assertion

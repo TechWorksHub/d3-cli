@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7480ed09-dbbd-58d5-9167-96c1713f5acf
-  macAddresses:
-  - 00:C0:B6:00:00:00/24
-  manufacturer: HVE, Inc.
-  manufacturerUri: https://device-type.com
-  name: HVE
-type: d3-device-type-assertion

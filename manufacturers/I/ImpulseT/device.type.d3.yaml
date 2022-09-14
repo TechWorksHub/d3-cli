@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c230959a-bb9f-5550-9a5e-cee5d3452b7e
-  macAddresses:
-  - 00:C0:62:00:00:00/24
-  manufacturer: Impulse Technology
-  manufacturerUri: https://device-type.com
-  name: ImpulseT
-type: d3-device-type-assertion

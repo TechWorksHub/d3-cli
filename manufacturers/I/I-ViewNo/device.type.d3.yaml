@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2e2314e7-0721-5ad3-b71c-37bca819d989
-  macAddresses:
-  - 5C:17:37:00:00:00/24
-  manufacturer: I-View Now, LLC.
-  manufacturerUri: https://device-type.com
-  name: I-ViewNo
-type: d3-device-type-assertion

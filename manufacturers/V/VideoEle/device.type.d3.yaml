@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cfb43ef5-cf6e-54ee-a609-edcf7d80315d
-  macAddresses:
-  - 3A:02:92:00:00:00/24
-  manufacturer: Video Electronics Standards Association
-  manufacturerUri: https://device-type.com
-  name: VideoEle
-type: d3-device-type-assertion

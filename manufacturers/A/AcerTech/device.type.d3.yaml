@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 58e96d7a-6acf-51f1-a6ff-a67d65b46f10
-  macAddresses:
-  - 00:00:E2:00:00:00/24
-  manufacturer: Acer Technologies Corp.
-  manufacturerUri: https://device-type.com
-  name: AcerTech
-type: d3-device-type-assertion

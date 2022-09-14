@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4264046a-067c-58dd-8fb4-7c414947759d
-  macAddresses:
-  - 00:22:4B:00:00:00/24
-  manufacturer: Airtech Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: AirtechT
-type: d3-device-type-assertion

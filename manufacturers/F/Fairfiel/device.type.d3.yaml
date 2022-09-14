@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7dc58470-aa9b-5e79-af67-3d6abb1927da
-  macAddresses:
-  - C0:A0:C7:00:00:00/24
-  manufacturer: Fairfield Industries
-  manufacturerUri: https://device-type.com
-  name: Fairfiel
-type: d3-device-type-assertion

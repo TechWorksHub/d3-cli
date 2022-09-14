@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 259b4c8f-1839-52c7-af7b-68affadbb191
-  macAddresses:
-  - 00:50:C2:E7:50:00/36
-  manufacturer: Fsm Ag
-  manufacturerUri: https://device-type.com
-  name: Fsm
-type: d3-device-type-assertion

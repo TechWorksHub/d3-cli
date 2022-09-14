@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: be409650-2ebc-5d64-a8be-f1a0bb56e1b0
-  macAddresses:
-  - 00:17:9C:00:00:00/24
-  manufacturer: DEPRAG SCHULZ GMBH u. CO.
-  manufacturerUri: https://device-type.com
-  name: DEPRAGSC
-type: d3-device-type-assertion

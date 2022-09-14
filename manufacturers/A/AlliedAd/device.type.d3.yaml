@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b534d02a-1422-5527-a7b9-038033f438b3
-  macAddresses:
-  - 00:03:AE:00:00:00/24
-  manufacturer: Allied Advanced Manufacturing Pte, Ltd.
-  manufacturerUri: https://device-type.com
-  name: AlliedAd
-type: d3-device-type-assertion

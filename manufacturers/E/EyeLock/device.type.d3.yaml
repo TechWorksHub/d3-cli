@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cdb4ba17-67c7-52db-abdc-09c9611cafa6
-  macAddresses:
-  - 7C:47:7C:30:00:00/28
-  manufacturer: EyeLock LLC
-  manufacturerUri: https://device-type.com
-  name: EyeLock
-type: d3-device-type-assertion

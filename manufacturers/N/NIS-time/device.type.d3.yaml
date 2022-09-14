@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eea208d0-f058-5ece-8f9b-80ca8fb5c967
-  macAddresses:
-  - 00:50:C2:9C:B0:00/36
-  manufacturer: NIS-time GmbH
-  manufacturerUri: https://device-type.com
-  name: NIS-time
-type: d3-device-type-assertion

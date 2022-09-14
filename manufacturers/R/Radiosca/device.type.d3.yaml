@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: de738952-bb22-5fc7-9a45-2f2ec11edb46
-  macAddresses:
-  - 00:1D:75:00:00:00/24
-  manufacturer: Radioscape PLC
-  manufacturerUri: https://device-type.com
-  name: Radiosca
-type: d3-device-type-assertion

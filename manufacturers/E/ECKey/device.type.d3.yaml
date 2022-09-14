@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: be50865a-4f83-5a0c-9be5-1390a8d1de79
-  macAddresses:
-  - 00:1C:3E:00:00:00/24
-  manufacturer: ECKey Corporation
-  manufacturerUri: https://device-type.com
-  name: ECKey
-type: d3-device-type-assertion

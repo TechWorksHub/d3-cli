@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a467a887-860f-5bf7-b425-1da596e660b7
-  macAddresses:
-  - 18:D9:49:00:00:00/24
-  manufacturer: Qvis Labs, LLC
-  manufacturerUri: https://device-type.com
-  name: QvisLabs
-type: d3-device-type-assertion

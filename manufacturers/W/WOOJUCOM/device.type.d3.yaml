@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e305956e-5c07-55e0-831b-c9e3a4791ff3
-  macAddresses:
-  - 00:0B:AF:00:00:00/24
-  manufacturer: WOOJU COMMUNICATIONS Co,.Ltd
-  manufacturerUri: https://device-type.com
-  name: WOOJUCOM
-type: d3-device-type-assertion

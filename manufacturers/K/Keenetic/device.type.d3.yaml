@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a270e06b-65c2-5bea-ac8f-6c3b21bfc4ca
-  macAddresses:
-  - 50:FF:20:00:00:00/24
-  manufacturer: Keenetic Limited
-  manufacturerUri: https://device-type.com
-  name: Keenetic
-type: d3-device-type-assertion

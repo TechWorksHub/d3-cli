@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1b46853b-e58e-5fc5-b1ed-189194451df2
-  macAddresses:
-  - 00:03:5A:00:00:00/24
-  manufacturer: Photron Limited
-  manufacturerUri: https://device-type.com
-  name: Photron
-type: d3-device-type-assertion

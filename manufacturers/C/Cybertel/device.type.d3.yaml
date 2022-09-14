@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aa25c7aa-a7ad-559d-baad-67b1b1c72162
-  macAddresses:
-  - 5C:87:78:00:00:00/24
-  manufacturer: Cybertelbridge co.,ltd
-  manufacturerUri: https://device-type.com
-  name: Cybertel
-type: d3-device-type-assertion

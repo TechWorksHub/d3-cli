@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ba44d977-0e15-5154-8a38-0c9cf7b9ede7
-  macAddresses:
-  - 70:B3:D5:BD:60:00/36
-  manufacturer: Consarc Corporation
-  manufacturerUri: https://device-type.com
-  name: Consarc
-type: d3-device-type-assertion

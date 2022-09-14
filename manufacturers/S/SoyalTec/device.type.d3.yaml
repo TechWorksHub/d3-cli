@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fe5e5ec2-dd08-5abc-857b-9f715c4e65d8
-  macAddresses:
-  - 00:13:57:00:00:00/24
-  manufacturer: Soyal Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: SoyalTec
-type: d3-device-type-assertion

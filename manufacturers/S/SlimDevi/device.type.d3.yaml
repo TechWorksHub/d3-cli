@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fe07a557-90fa-5cc7-924f-645d83484660
-  macAddresses:
-  - 00:04:20:00:00:00/24
-  manufacturer: Slim Devices, Inc.
-  manufacturerUri: https://device-type.com
-  name: SlimDevi
-type: d3-device-type-assertion

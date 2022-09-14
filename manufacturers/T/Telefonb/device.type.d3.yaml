@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 92b005fc-e91e-57e9-ba42-244f3b7b13de
-  macAddresses:
-  - F8:1C:E5:00:00:00/24
-  manufacturer: Telefonbau Behnke GmbH
-  manufacturerUri: https://device-type.com
-  name: Telefonb
-type: d3-device-type-assertion

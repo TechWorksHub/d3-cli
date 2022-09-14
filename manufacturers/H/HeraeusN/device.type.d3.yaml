@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7e29d2df-a372-5bf9-b9c0-68cfed0bc2e3
-  macAddresses:
-  - 00:50:C2:8C:10:00/36
-  manufacturer: Heraeus Noblelight GmbH
-  manufacturerUri: https://device-type.com
-  name: HeraeusN
-type: d3-device-type-assertion

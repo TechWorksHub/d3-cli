@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 31263d66-310c-5f3e-93b3-7daba1114ecb
-  macAddresses:
-  - E0:B6:F5:60:00:00/28
-  manufacturer: POMCube Inc.
-  manufacturerUri: https://device-type.com
-  name: POMCube
-type: d3-device-type-assertion

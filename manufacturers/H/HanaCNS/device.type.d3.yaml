@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1ee35841-8b98-5e67-9b7a-78f36774615a
-  macAddresses:
-  - 00:23:A0:00:00:00/24
-  manufacturer: Hana CNS Co., LTD.
-  manufacturerUri: https://device-type.com
-  name: HanaCNS
-type: d3-device-type-assertion

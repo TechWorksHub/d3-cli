@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6f374318-3a82-55e1-ae2f-b9a22548833e
-  macAddresses:
-  - 00:40:85:00:00:00/24
-  manufacturer: Saab Instruments Ab
-  manufacturerUri: https://device-type.com
-  name: SaabInst
-type: d3-device-type-assertion

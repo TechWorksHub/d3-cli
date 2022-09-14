@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 66b60e17-64f9-54ff-a2c8-f090064fde3c
-  macAddresses:
-  - 00:C0:4A:00:00:00/24
-  manufacturer: Group 2000 Ag
-  manufacturerUri: https://device-type.com
-  name: Group200
-type: d3-device-type-assertion

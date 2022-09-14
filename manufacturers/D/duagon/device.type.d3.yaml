@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2dc1f588-9f85-50c4-a087-c93a34dc557e
-  macAddresses:
-  - 54:3B:30:00:00:00/24
-  manufacturer: duagon AG
-  manufacturerUri: https://device-type.com
-  name: duagon
-type: d3-device-type-assertion

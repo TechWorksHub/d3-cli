@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 58242a46-ebe7-5e0c-8e7f-157bf879c8aa
-  macAddresses:
-  - 00:24:0A:00:00:00/24
-  manufacturer: US Beverage Net
-  manufacturerUri: https://device-type.com
-  name: USBevera
-type: d3-device-type-assertion

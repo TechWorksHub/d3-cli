@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c64a9e66-8257-5b46-948e-a05ba476ffe0
-  macAddresses:
-  - 00:19:49:00:00:00/24
-  manufacturer: Tentel Comtech Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: TentelCo
-type: d3-device-type-assertion

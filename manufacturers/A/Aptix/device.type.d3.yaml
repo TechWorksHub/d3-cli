@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b2011546-89b1-596e-91b5-d9f5a40a0837
-  macAddresses:
-  - 00:E0:28:00:00:00/24
-  manufacturer: Aptix Corporation
-  manufacturerUri: https://device-type.com
-  name: Aptix
-type: d3-device-type-assertion

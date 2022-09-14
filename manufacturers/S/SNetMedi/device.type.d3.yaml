@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 81fa8097-3dd9-5356-b9e8-06b6c3bdc9a9
-  macAddresses:
-  - 14:DB:85:00:00:00/24
-  manufacturer: S Net Media
-  manufacturerUri: https://device-type.com
-  name: SNetMedi
-type: d3-device-type-assertion

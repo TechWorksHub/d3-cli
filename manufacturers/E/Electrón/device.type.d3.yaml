@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 76be7921-a497-5a67-85af-77a89a0779f7
-  macAddresses:
-  - 70:B3:D5:36:E0:00/36
-  manufacturer: "Electr\xF3nica Falc\xF3n S.A.U"
-  manufacturerUri: https://device-type.com
-  name: "Electr\xF3n"
-type: d3-device-type-assertion

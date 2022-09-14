@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fc99c037-f356-5a2c-9108-f4173eaec475
-  macAddresses:
-  - 60:29:D5:00:00:00/24
-  manufacturer: DAVOLINK Inc.
-  manufacturerUri: https://device-type.com
-  name: DAVOLINK
-type: d3-device-type-assertion

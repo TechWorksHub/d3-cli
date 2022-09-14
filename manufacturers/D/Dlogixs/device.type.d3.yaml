@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d81b7b3a-ff1b-591f-addd-0f5e0790c7e0
-  macAddresses:
-  - 90:CF:6F:00:00:00/24
-  manufacturer: Dlogixs Co Ltd
-  manufacturerUri: https://device-type.com
-  name: Dlogixs
-type: d3-device-type-assertion

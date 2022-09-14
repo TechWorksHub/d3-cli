@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ba1b9d41-82e7-5dca-a580-27c89fec867c
-  macAddresses:
-  - 40:D8:55:10:40:00/36
-  manufacturer: Imple Sistemas Eletronicos Embarcados Ltda
-  manufacturerUri: https://device-type.com
-  name: ImpleSis
-type: d3-device-type-assertion

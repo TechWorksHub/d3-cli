@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aebd0187-a86f-5d21-bf6b-00ab0337cbd4
-  macAddresses:
-  - 00:15:FB:00:00:00/24
-  manufacturer: setex schermuly textile computer gmbh
-  manufacturerUri: https://device-type.com
-  name: setexsch
-type: d3-device-type-assertion

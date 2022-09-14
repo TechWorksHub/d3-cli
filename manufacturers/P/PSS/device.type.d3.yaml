@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a916dcf6-234c-56de-af1a-a206f87efc6a
-  macAddresses:
-  - 60:15:92:C0:00:00/28
-  manufacturer: PSS Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: PSS
-type: d3-device-type-assertion

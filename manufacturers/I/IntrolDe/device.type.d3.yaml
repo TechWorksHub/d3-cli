@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 508894c2-2d40-570a-a0f6-9d1d37294508
-  macAddresses:
-  - F4:A4:54:60:00:00/28
-  manufacturer: Introl Design
-  manufacturerUri: https://device-type.com
-  name: IntrolDe
-type: d3-device-type-assertion

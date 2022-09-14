@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dfa7ec52-7e76-5057-bbb5-dcac2bd91a7f
-  macAddresses:
-  - 00:50:1F:00:00:00/24
-  manufacturer: Mrg Systems, Ltd.
-  manufacturerUri: https://device-type.com
-  name: Mrg
-type: d3-device-type-assertion

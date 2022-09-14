@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2e13fd31-02e5-5c0b-94e3-36a58d7cba21
-  macAddresses:
-  - 00:11:F4:00:00:00/24
-  manufacturer: woori-net
-  manufacturerUri: https://device-type.com
-  name: woori-ne
-type: d3-device-type-assertion

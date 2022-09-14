@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 70e37d80-50e3-5e4e-bf28-fe70e590560d
-  macAddresses:
-  - 70:B3:D5:3A:40:00/36
-  manufacturer: Ascenix Corporation
-  manufacturerUri: https://device-type.com
-  name: Ascenix
-type: d3-device-type-assertion

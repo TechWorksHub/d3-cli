@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 06d4095a-1fcd-52ff-8b78-857b6d4d826e
-  macAddresses:
-  - A4:3B:FA:50:00:00/28
-  manufacturer: BOI Solutions
-  manufacturerUri: https://device-type.com
-  name: BOISolut
-type: d3-device-type-assertion

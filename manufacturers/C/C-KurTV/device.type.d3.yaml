@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aa3d01ed-8f59-5c47-bb42-55fbac3ea16e
-  macAddresses:
-  - 38:9F:5A:00:00:00/24
-  manufacturer: C-Kur TV Inc.
-  manufacturerUri: https://device-type.com
-  name: C-KurTV
-type: d3-device-type-assertion

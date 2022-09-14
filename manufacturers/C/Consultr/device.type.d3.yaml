@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2886db4a-5ca1-503d-bc4a-5276da63432f
-  macAddresses:
-  - 00:14:43:00:00:00/24
-  manufacturer: Consultronics Europe Ltd
-  manufacturerUri: https://device-type.com
-  name: Consultr
-type: d3-device-type-assertion

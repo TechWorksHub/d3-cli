@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 43459f34-db28-5ce1-8097-f73bbdde3dbe
-  macAddresses:
-  - 00:D0:55:00:00:00/24
-  manufacturer: Kathrein-Werke Kg
-  manufacturerUri: https://device-type.com
-  name: Kathrein
-type: d3-device-type-assertion

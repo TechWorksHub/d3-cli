@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9f0fb6a3-b781-5a0a-bee6-745fafa25a3d
-  macAddresses:
-  - 00:12:FF:00:00:00/24
-  manufacturer: Lely Industries N.V.
-  manufacturerUri: https://device-type.com
-  name: LelyIndu
-type: d3-device-type-assertion

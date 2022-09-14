@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 76693980-b93e-54c6-bb6d-2addda4e0bd1
-  macAddresses:
-  - B4:4B:D6:00:00:00/28
-  manufacturer: G4S Monitoring Technologies Ltd
-  manufacturerUri: https://device-type.com
-  name: G4SMonit
-type: d3-device-type-assertion

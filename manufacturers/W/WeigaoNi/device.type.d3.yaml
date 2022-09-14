@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1bfcce0a-9e72-5dbf-a082-f3704a56c57f
-  macAddresses:
-  - 64:CF:13:00:00:00/24
-  manufacturer: Weigao Nikkiso(Weihai)Dialysis Equipment Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: WeigaoNi
-type: d3-device-type-assertion

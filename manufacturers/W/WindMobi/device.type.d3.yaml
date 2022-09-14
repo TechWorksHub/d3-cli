@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 46fac144-b600-59ae-8d0b-2e34c9c64429
-  macAddresses:
-  - BC:97:40:40:00:00/28
-  manufacturer: Wind Mobility Technology (Beijing) Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: WindMobi
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 000bc6f2-0d21-5720-a4b6-5a4d8c71f7b2
-  macAddresses:
-  - 8C:7B:F0:00:00:00/24
-  manufacturer: Xufeng Development Limited
-  manufacturerUri: https://device-type.com
-  name: XufengDe
-type: d3-device-type-assertion

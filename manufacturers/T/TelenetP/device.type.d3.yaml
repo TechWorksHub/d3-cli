@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f461dc71-4208-5a1e-9708-40eb349d62ab
-  macAddresses:
-  - BC:62:9F:00:00:00/24
-  manufacturer: Telenet Systems P. Ltd.
-  manufacturerUri: https://device-type.com
-  name: TelenetP
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 89bad35e-bcd0-504f-8446-6188712620a7
-  macAddresses:
-  - 00:15:6A:00:00:00/24
-  manufacturer: DG2L Technologies Pvt. Ltd.
-  manufacturerUri: https://device-type.com
-  name: DG2LTech
-type: d3-device-type-assertion

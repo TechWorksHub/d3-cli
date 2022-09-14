@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a4ad77ea-f1d0-56f0-8f80-2392b670a9da
-  macAddresses:
-  - 00:15:27:00:00:00/24
-  manufacturer: Balboa Instruments
-  manufacturerUri: https://device-type.com
-  name: BalboaIn
-type: d3-device-type-assertion

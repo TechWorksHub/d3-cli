@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d0c0c7d9-c782-590f-8347-c13692d15770
-  macAddresses:
-  - 00:21:EC:00:00:00/24
-  manufacturer: Solutronic GmbH
-  manufacturerUri: https://device-type.com
-  name: Solutron
-type: d3-device-type-assertion

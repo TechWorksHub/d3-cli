@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1d7c16fa-427f-5a8e-8625-ef88436d2ae1
-  macAddresses:
-  - 00:14:B7:00:00:00/24
-  manufacturer: AR Infotek Inc.
-  manufacturerUri: https://device-type.com
-  name: ARInfote
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: daeecf05-b86c-54b8-b4c7-21cf7c47867d
-  macAddresses:
-  - 00:0E:A0:00:00:00/24
-  manufacturer: NetKlass Technology Inc.
-  manufacturerUri: https://device-type.com
-  name: NetKlass
-type: d3-device-type-assertion

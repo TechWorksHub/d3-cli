@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b323b6d1-a96a-53e3-bef8-3cdd9f5313f0
-  macAddresses:
-  - E8:18:63:70:00:00/28
-  manufacturer: Siliconcube
-  manufacturerUri: https://device-type.com
-  name: Siliconc
-type: d3-device-type-assertion

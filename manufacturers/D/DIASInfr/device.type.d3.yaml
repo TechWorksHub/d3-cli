@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5f6232b4-56f9-5da7-8d03-099076d1c250
-  macAddresses:
-  - 00:50:C2:5F:00:00/36
-  manufacturer: DIAS Infrared GmbH
-  manufacturerUri: https://device-type.com
-  name: DIASInfr
-type: d3-device-type-assertion

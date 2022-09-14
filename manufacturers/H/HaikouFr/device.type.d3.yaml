@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9961b20b-c1e2-585a-bc39-a29fba22ec92
-  macAddresses:
-  - 74:5B:C5:90:00:00/28
-  manufacturer: Haikou Frun Flash&Mcu Microcontrol Technology Development Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: HaikouFr
-type: d3-device-type-assertion

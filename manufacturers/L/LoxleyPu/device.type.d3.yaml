@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fac9d9f3-b119-57ad-a226-617c0fe9ee98
-  macAddresses:
-  - E8:87:A3:00:00:00/24
-  manufacturer: Loxley Public Company Limited
-  manufacturerUri: https://device-type.com
-  name: LoxleyPu
-type: d3-device-type-assertion

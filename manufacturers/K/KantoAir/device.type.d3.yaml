@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: adf2aabd-46db-5f9d-b515-9adc127acc28
-  macAddresses:
-  - 74:E1:4A:90:00:00/28
-  manufacturer: Kanto Aircraft Instrument Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: KantoAir
-type: d3-device-type-assertion

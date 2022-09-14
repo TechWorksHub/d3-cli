@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b9433a20-f673-51e8-a81f-5022ce180899
-  macAddresses:
-  - 00:20:D7:00:00:00/24
-  manufacturer: JAPAN MINICOMPUTER SYSTEMS CO., Ltd.
-  manufacturerUri: https://device-type.com
-  name: JAPANMIN
-type: d3-device-type-assertion

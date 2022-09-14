@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 09ee5daf-fb95-5aa6-b548-a8d28624bd90
-  macAddresses:
-  - 54:D1:63:00:00:00/24
-  manufacturer: Max-Tech,Inc
-  manufacturerUri: https://device-type.com
-  name: Max-Tech
-type: d3-device-type-assertion

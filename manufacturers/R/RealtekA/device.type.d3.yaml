@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f4f3a4a0-2a9e-5b19-9a11-56246587827b
-  macAddresses:
-  - 52:54:AB:00:00:00/24
-  manufacturer: REALTEK (a Realtek 8029 based PCI Card)
-  manufacturerUri: https://device-type.com
-  name: RealtekA
-type: d3-device-type-assertion

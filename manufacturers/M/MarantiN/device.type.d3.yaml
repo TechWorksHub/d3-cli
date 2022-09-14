@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a55c182e-3c6f-5544-95af-ec62f441eb2a
-  macAddresses:
-  - 00:0B:A7:00:00:00/24
-  manufacturer: Maranti Networks
-  manufacturerUri: https://device-type.com
-  name: MarantiN
-type: d3-device-type-assertion

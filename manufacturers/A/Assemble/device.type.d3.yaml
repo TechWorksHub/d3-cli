@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e9d6eef1-2015-5978-85a4-f52349879a6d
-  macAddresses:
-  - 98:35:B8:00:00:00/24
-  manufacturer: Assembled Products Corporation
-  manufacturerUri: https://device-type.com
-  name: Assemble
-type: d3-device-type-assertion

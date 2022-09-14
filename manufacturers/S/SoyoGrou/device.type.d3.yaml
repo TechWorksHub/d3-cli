@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e3f53cfb-179a-5775-8086-f409406252f9
-  macAddresses:
-  - 00:02:62:00:00:00/24
-  manufacturer: Soyo Group Soyo Com Tech Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: SoyoGrou
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fbc1d666-6373-5b9a-803c-e8e18410baa6
-  macAddresses:
-  - 00:50:D7:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Telstrat
-type: d3-device-type-assertion

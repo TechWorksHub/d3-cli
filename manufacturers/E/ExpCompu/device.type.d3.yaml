@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0e707c47-dad4-5741-ae55-7ad1ed82a1f4
-  macAddresses:
-  - 00:60:F1:00:00:00/24
-  manufacturer: Exp Computer, Inc.
-  manufacturerUri: https://device-type.com
-  name: ExpCompu
-type: d3-device-type-assertion

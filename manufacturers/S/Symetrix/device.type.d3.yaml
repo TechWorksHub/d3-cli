@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fb8f0db7-0fd8-5137-938c-a14eabde9321
-  macAddresses:
-  - 00:0C:D0:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Symetrix
-type: d3-device-type-assertion

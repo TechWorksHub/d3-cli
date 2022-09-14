@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2685bb7a-1d04-5b71-b913-bfbad635ffa8
-  macAddresses:
-  - 28:F4:9B:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Leetek
-type: d3-device-type-assertion

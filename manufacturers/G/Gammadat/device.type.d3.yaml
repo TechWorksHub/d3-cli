@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 421b1a6a-7613-505c-9dc1-1beaeb55bf53
-  macAddresses:
-  - 00:20:5F:00:00:00/24
-  manufacturer: Gammadata Computer Gmbh
-  manufacturerUri: https://device-type.com
-  name: Gammadat
-type: d3-device-type-assertion

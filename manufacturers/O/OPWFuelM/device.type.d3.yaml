@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0cada3bb-7299-52a4-9436-3b51ab228bcf
-  macAddresses:
-  - 00:18:C6:00:00:00/24
-  manufacturer: OPW Fuel Management Systems
-  manufacturerUri: https://device-type.com
-  name: OPWFuelM
-type: d3-device-type-assertion

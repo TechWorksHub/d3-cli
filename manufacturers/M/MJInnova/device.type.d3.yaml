@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bac4c058-2c92-51ab-9c82-ee5500ae5a1f
-  macAddresses:
-  - 00:1C:8B:00:00:00/24
-  manufacturer: MJ Innovations Ltd.
-  manufacturerUri: https://device-type.com
-  name: MJInnova
-type: d3-device-type-assertion

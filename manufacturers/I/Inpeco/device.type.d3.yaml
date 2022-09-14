@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ea6a9725-058d-5e29-a41c-c612e52fa53b
-  macAddresses:
-  - 30:73:50:00:00:00/24
-  manufacturer: Inpeco SA
-  manufacturerUri: https://device-type.com
-  name: Inpeco
-type: d3-device-type-assertion

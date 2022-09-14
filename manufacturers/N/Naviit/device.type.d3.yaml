@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7d01e294-48d1-51b7-ad67-402e9b771412
-  macAddresses:
-  - 40:C7:C9:00:00:00/24
-  manufacturer: Naviit Inc.
-  manufacturerUri: https://device-type.com
-  name: Naviit
-type: d3-device-type-assertion

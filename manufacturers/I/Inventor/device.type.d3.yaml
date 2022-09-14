@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 33b4a8a6-8cd8-52ac-b357-6c6e13a5f2f7
-  macAddresses:
-  - 00:A0:5C:00:00:00/24
-  manufacturer: Inventory Conversion, Inc./
-  manufacturerUri: https://device-type.com
-  name: Inventor
-type: d3-device-type-assertion

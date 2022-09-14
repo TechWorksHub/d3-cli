@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3a10aa9c-c0f9-582c-8b1d-a9698f4dabac
-  macAddresses:
-  - 38:07:D4:00:00:00/24
-  manufacturer: Zeppelin Systems GmbH
-  manufacturerUri: https://device-type.com
-  name: Zeppelin
-type: d3-device-type-assertion

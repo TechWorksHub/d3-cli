@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cb5fd440-a0eb-5268-89bb-4d416c887d46
-  macAddresses:
-  - 00:C0:6B:00:00:00/24
-  manufacturer: Osi Plus Corporation
-  manufacturerUri: https://device-type.com
-  name: OsiPlus
-type: d3-device-type-assertion

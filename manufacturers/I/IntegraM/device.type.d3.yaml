@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9526f191-1c92-5645-83dd-3f8f43e18351
-  macAddresses:
-  - 70:B3:D5:B6:F0:00/36
-  manufacturer: Integra Metering SAS
-  manufacturerUri: https://device-type.com
-  name: IntegraM
-type: d3-device-type-assertion

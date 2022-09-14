@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: effaebdf-b716-5063-9346-2419b98b40d4
-  macAddresses:
-  - 54:7D:40:00:00:00/24
-  manufacturer: Powervision Tech Inc.
-  manufacturerUri: https://device-type.com
-  name: Powervis
-type: d3-device-type-assertion

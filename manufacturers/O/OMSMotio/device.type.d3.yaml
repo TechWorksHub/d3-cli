@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4deb3a38-dcaa-5a95-9fcc-58f19635b797
-  macAddresses:
-  - 00:16:82:00:00:00/24
-  manufacturer: OMS Motion
-  manufacturerUri: https://device-type.com
-  name: OMSMotio
-type: d3-device-type-assertion

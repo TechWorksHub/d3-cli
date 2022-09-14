@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 57a2d83c-a5f8-512e-ab6b-90e32252e869
-  macAddresses:
-  - C0:61:9A:10:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: KidKraft
-type: d3-device-type-assertion

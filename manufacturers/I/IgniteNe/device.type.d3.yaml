@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 537de937-3ca2-5978-be95-3fd509bb3a82
-  macAddresses:
-  - 28:76:10:00:00:00/24
-  manufacturer: IgniteNet
-  manufacturerUri: https://device-type.com
-  name: IgniteNe
-type: d3-device-type-assertion

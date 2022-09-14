@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7bf88bee-0d1a-5fd2-9acd-652eea3ce9d5
-  macAddresses:
-  - CC:4A:E1:00:00:00/24
-  manufacturer: fourtec -Fourier Technologies
-  manufacturerUri: https://device-type.com
-  name: fourtec-
-type: d3-device-type-assertion

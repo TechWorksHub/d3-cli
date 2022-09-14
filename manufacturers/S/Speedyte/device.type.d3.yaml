@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 711b269e-2b6f-5ece-9f36-890460b00cb9
-  macAddresses:
-  - C4:93:80:00:00:00/24
-  manufacturer: Speedytel technology
-  manufacturerUri: https://device-type.com
-  name: Speedyte
-type: d3-device-type-assertion

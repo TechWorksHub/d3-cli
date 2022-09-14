@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 242f4081-4828-5965-bfe7-736800bb1b40
-  macAddresses:
-  - 00:09:0B:00:00:00/24
-  manufacturer: MTL Instruments PLC
-  manufacturerUri: https://device-type.com
-  name: MTLInstr
-type: d3-device-type-assertion

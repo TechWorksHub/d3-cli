@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 34d60f6b-3363-5fd1-9b27-ea25b3393dff
-  macAddresses:
-  - C8:1A:FE:00:00:00/24
-  manufacturer: DLOGIC GmbH
-  manufacturerUri: https://device-type.com
-  name: DLOGIC
-type: d3-device-type-assertion

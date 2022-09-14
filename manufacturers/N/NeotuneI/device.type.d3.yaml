@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 99243c7b-f507-5ffb-8827-9c9e884455a0
-  macAddresses:
-  - 00:11:7F:00:00:00/24
-  manufacturer: Neotune Information Technology Corporation,.LTD
-  manufacturerUri: https://device-type.com
-  name: NeotuneI
-type: d3-device-type-assertion

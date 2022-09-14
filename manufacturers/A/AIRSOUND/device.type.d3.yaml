@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: adf37cbd-ffe4-51d0-81ae-81be02709757
-  macAddresses:
-  - E8:13:67:00:00:00/24
-  manufacturer: AIRSOUND Inc.
-  manufacturerUri: https://device-type.com
-  name: AIRSOUND
-type: d3-device-type-assertion

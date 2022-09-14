@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 98ec154b-2ff3-5938-800a-28dd184dff92
-  macAddresses:
-  - 00:22:20:00:00:00/24
-  manufacturer: Mitac Technology Corp
-  manufacturerUri: https://device-type.com
-  name: MitacTec
-type: d3-device-type-assertion

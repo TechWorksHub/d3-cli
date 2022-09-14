@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cc59e015-bf2d-57d2-86fc-479e76a15017
-  macAddresses:
-  - 00:1F:2A:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Accm
-type: d3-device-type-assertion

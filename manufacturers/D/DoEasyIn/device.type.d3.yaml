@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e7f6afb6-de5d-5cc6-93cf-8c80e00591f0
-  macAddresses:
-  - 54:A4:93:90:00:00/28
-  manufacturer: Do Easy International Limited
-  manufacturerUri: https://device-type.com
-  name: DoEasyIn
-type: d3-device-type-assertion

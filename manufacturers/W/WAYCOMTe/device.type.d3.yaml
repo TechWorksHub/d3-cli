@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a4008ed4-e4a4-577b-9cf8-a7bd94f676c4
-  macAddresses:
-  - 2C:27:9E:C0:00:00/28
-  manufacturer: WAYCOM Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: WAYCOMTe
-type: d3-device-type-assertion

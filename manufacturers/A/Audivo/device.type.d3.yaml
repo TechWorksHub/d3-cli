@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 026b543f-45e4-5656-8a42-2c66f1c30ce4
-  macAddresses:
-  - A8:5B:F3:00:00:00/24
-  manufacturer: Audivo GmbH
-  manufacturerUri: https://device-type.com
-  name: Audivo
-type: d3-device-type-assertion

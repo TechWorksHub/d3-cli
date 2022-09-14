@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a555d7d9-2469-561b-8a24-461c493c1a8b
-  macAddresses:
-  - 54:A0:4F:00:00:00/24
-  manufacturer: t-mac Technologies Ltd
-  manufacturerUri: https://device-type.com
-  name: t-macTec
-type: d3-device-type-assertion

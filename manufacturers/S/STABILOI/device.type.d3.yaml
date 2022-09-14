@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7a19ee7d-62a2-59b8-b8d6-c3406846cea3
-  macAddresses:
-  - 88:86:C2:00:00:00/24
-  manufacturer: STABILO International GmbH
-  manufacturerUri: https://device-type.com
-  name: STABILOI
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4ccac207-b3d6-5db5-9c10-c9f3b60f70cb
-  macAddresses:
-  - 00:24:0C:00:00:00/24
-  manufacturer: DELEC GmbH
-  manufacturerUri: https://device-type.com
-  name: DELEC
-type: d3-device-type-assertion

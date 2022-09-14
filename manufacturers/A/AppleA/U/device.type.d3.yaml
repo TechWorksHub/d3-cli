@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6a41efe7-92c3-5a19-bd57-9010fde9ba7d
-  macAddresses:
-  - 10:00:E0:00:00:00/24
-  manufacturer: Apple A/UX
-  manufacturerUri: https://device-type.com
-  name: AppleA/U
-type: d3-device-type-assertion

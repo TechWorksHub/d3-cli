@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7451ec63-6732-562a-8942-4b5c54bddf55
-  macAddresses:
-  - E8:DE:D6:00:00:00/24
-  manufacturer: Intrising Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: Intrisin
-type: d3-device-type-assertion

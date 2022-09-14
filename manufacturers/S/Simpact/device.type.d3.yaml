@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b630a8f1-8146-51a0-a4d4-16597b7a7b9a
-  macAddresses:
-  - 00:00:3E:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Simpact
-type: d3-device-type-assertion

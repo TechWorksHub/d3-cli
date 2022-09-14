@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a600d6cb-348c-51b6-a76a-31c9b003dd2f
-  macAddresses:
-  - 00:50:C2:FD:60:00/36
-  manufacturer: City Computing Ltd
-  manufacturerUri: https://device-type.com
-  name: CityComp
-type: d3-device-type-assertion

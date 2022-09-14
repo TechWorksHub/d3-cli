@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8021da08-9a8b-5f6c-a845-8a78b9fdae29
-  macAddresses:
-  - 70:88:6B:20:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: CVnet
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c030e39d-7a48-51ec-a6a8-5d7b0d2608b9
-  macAddresses:
-  - 80:59:FD:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Noviga
-type: d3-device-type-assertion

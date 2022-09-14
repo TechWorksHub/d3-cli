@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ae75ba3d-cbb2-594d-9a60-ea8c82477efe
-  macAddresses:
-  - 00:1E:34:00:00:00/24
-  manufacturer: CryptoMetrics
-  manufacturerUri: https://device-type.com
-  name: CryptoMe
-type: d3-device-type-assertion

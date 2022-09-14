@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 86503231-4753-5d90-ac97-f84cd6cb1ed0
-  macAddresses:
-  - 08:00:90:00:00:00/24
-  manufacturer: Sonoma Systems
-  manufacturerUri: https://device-type.com
-  name: Sonoma
-type: d3-device-type-assertion

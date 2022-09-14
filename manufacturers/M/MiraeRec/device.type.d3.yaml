@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7b706af6-f8ef-59ad-a200-ae1d4780db0a
-  macAddresses:
-  - EC:D0:0E:00:00:00/24
-  manufacturer: MiraeRecognition Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: MiraeRec
-type: d3-device-type-assertion

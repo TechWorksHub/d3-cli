@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 35b7b749-b9e1-5ae2-8c2c-0014ab6723f5
-  macAddresses:
-  - 3C:CA:87:00:00:00/24
-  manufacturer: Iders Incorporated
-  manufacturerUri: https://device-type.com
-  name: Iders
-type: d3-device-type-assertion

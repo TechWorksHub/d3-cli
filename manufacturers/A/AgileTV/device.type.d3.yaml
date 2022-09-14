@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c7bd59ec-fb6f-57b2-a020-a8e14734e22c
-  macAddresses:
-  - 00:05:57:00:00:00/24
-  manufacturer: Agile TV Corporation
-  manufacturerUri: https://device-type.com
-  name: AgileTV
-type: d3-device-type-assertion

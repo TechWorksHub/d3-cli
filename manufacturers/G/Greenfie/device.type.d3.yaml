@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 84453336-5833-5822-81df-40ce2e940ab2
-  macAddresses:
-  - 8C:19:2D:30:00:00/28
-  manufacturer: Greenfield Technology
-  manufacturerUri: https://device-type.com
-  name: Greenfie
-type: d3-device-type-assertion

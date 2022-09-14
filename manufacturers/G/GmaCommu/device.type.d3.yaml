@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ad20e907-0794-57d6-9b7e-74796e97ad62
-  macAddresses:
-  - 00:30:E9:00:00:00/24
-  manufacturer: Gma Communication Manufact'G
-  manufacturerUri: https://device-type.com
-  name: GmaCommu
-type: d3-device-type-assertion

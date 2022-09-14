@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ec983371-f893-5f3b-a16c-54b15eb41fa7
-  macAddresses:
-  - 1C:F0:61:00:00:00/24
-  manufacturer: SCAPS GmbH
-  manufacturerUri: https://device-type.com
-  name: SCAPS
-type: d3-device-type-assertion

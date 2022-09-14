@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 10952b90-c5f2-58af-857c-eca26ecadb71
-  macAddresses:
-  - 70:9E:86:00:00:00/24
-  manufacturer: X6D Limited
-  manufacturerUri: https://device-type.com
-  name: X6D
-type: d3-device-type-assertion

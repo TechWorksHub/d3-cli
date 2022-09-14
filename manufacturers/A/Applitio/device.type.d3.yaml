@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b4cdb94c-2463-5e5b-8f09-d9aa4043b486
-  macAddresses:
-  - 00:22:E8:00:00:00/24
-  manufacturer: Applition Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Applitio
-type: d3-device-type-assertion

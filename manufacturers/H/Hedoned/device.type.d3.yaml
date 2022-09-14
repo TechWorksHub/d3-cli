@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 30d057a8-95fc-5f09-b0e7-ee9c2ab0edc0
-  macAddresses:
-  - 00:25:99:00:00:00/24
-  manufacturer: Hedon e.d. B.V.
-  manufacturerUri: https://device-type.com
-  name: Hedoned
-type: d3-device-type-assertion

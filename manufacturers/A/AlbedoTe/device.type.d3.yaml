@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a7a6e6a3-7e1a-57c9-a268-4ea4a16fef54
-  macAddresses:
-  - 00:DB:1E:00:00:00/24
-  manufacturer: Albedo Telecom SL
-  manufacturerUri: https://device-type.com
-  name: AlbedoTe
-type: d3-device-type-assertion

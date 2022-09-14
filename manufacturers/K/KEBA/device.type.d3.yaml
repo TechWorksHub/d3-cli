@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8b73963c-0c44-5e83-9375-a39e2dd1f917
-  macAddresses:
-  - 00:60:B5:00:00:00/24
-  manufacturer: KEBA GmbH
-  manufacturerUri: https://device-type.com
-  name: KEBA
-type: d3-device-type-assertion

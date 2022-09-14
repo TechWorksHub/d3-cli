@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3cf034e2-b15e-5f7b-9d12-484efac48c68
-  macAddresses:
-  - 00:0E:63:00:00:00/24
-  manufacturer: Lemke Diagnostics GmbH
-  manufacturerUri: https://device-type.com
-  name: LemkeDia
-type: d3-device-type-assertion

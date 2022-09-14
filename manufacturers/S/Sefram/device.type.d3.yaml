@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 80b627bc-4e39-5fad-a502-b1265b43ef3e
-  macAddresses:
-  - 00:50:C2:FF:B0:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Sefram
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 975e7843-ed7b-50be-9155-9131cbfefc65
-  macAddresses:
-  - 88:A3:CC:00:00:00/24
-  manufacturer: Amatis Controls
-  manufacturerUri: https://device-type.com
-  name: AmatisCo
-type: d3-device-type-assertion

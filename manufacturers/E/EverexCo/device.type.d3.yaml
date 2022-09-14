@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 96207b17-9c30-5487-93e3-d6ed7b165cfd
-  macAddresses:
-  - 00:06:3F:00:00:00/24
-  manufacturer: Everex Communications Inc.
-  manufacturerUri: https://device-type.com
-  name: EverexCo
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ef580673-e3ee-5c21-b2ce-166eb53ebda3
-  macAddresses:
-  - 64:F6:F7:00:00:00/24
-  manufacturer: Anhui Dynamic Power Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: AnhuiDyn
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 90a6225b-fd1d-5df7-9b19-ec61b47b1f00
-  macAddresses:
-  - 00:22:45:00:00:00/24
-  manufacturer: Leine & Linde AB
-  manufacturerUri: https://device-type.com
-  name: LeineLin
-type: d3-device-type-assertion

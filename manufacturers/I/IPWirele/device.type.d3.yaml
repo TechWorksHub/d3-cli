@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bfdc61c2-b871-5de9-88fd-78ac71483ba1
-  macAddresses:
-  - 00:04:D8:00:00:00/24
-  manufacturer: IPWireless, Inc.
-  manufacturerUri: https://device-type.com
-  name: IPWirele
-type: d3-device-type-assertion

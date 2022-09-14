@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2a3c12c7-d29c-534d-b44c-acc7f15ca8d9
-  macAddresses:
-  - 00:1B:E8:00:00:00/24
-  manufacturer: Ultratronik GmbH
-  manufacturerUri: https://device-type.com
-  name: Ultratro
-type: d3-device-type-assertion

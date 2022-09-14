@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 25f70761-e47f-5c7a-9e8e-b2888a5ab2d7
-  macAddresses:
-  - 00:06:06:00:00:00/24
-  manufacturer: RapidWAN, Inc.
-  manufacturerUri: https://device-type.com
-  name: RapidWAN
-type: d3-device-type-assertion

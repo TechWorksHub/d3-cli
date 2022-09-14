@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fc58c1d5-332d-5e99-962e-41c532e9f329
-  macAddresses:
-  - 00:16:63:00:00:00/24
-  manufacturer: KBT Mobile
-  manufacturerUri: https://device-type.com
-  name: KBTMobil
-type: d3-device-type-assertion

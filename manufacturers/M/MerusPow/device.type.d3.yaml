@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 837cae0c-5a9e-5530-8be7-17f252b4590c
-  macAddresses:
-  - 70:B3:D5:37:C0:00/36
-  manufacturer: Merus Power Dynamics Ltd.
-  manufacturerUri: https://device-type.com
-  name: MerusPow
-type: d3-device-type-assertion

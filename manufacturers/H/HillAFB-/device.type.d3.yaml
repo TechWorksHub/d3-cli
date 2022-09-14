@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b1fdf126-e564-52b2-bc40-2eb8cf4aa9a5
-  macAddresses:
-  - 68:18:D9:00:00:00/24
-  manufacturer: Hill AFB - CAPRE Group
-  manufacturerUri: https://device-type.com
-  name: HillAFB-
-type: d3-device-type-assertion

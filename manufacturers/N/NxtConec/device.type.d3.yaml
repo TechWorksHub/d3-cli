@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 412d51ed-6210-5bec-a90d-0de8d1ac4eba
-  macAddresses:
-  - F0:93:3A:00:00:00/24
-  manufacturer: NxtConect
-  manufacturerUri: https://device-type.com
-  name: NxtConec
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fa778d26-4d2f-5d68-8ded-e15b778438f8
-  macAddresses:
-  - 00:1B:5F:00:00:00/24
-  manufacturer: Alien Technology
-  manufacturerUri: https://device-type.com
-  name: AlienTec
-type: d3-device-type-assertion

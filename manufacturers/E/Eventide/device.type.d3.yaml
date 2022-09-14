@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 75cfd964-0f56-5426-9fdb-9558e3532134
-  macAddresses:
-  - 00:15:F4:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Eventide
-type: d3-device-type-assertion

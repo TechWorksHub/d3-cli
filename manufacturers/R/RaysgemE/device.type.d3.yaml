@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d6cf3573-d147-524a-91bc-3fbfd76cccbe
-  macAddresses:
-  - F0:23:B9:20:00:00/28
-  manufacturer: Raysgem Electronics and Technology Co.Ltd
-  manufacturerUri: https://device-type.com
-  name: RaysgemE
-type: d3-device-type-assertion

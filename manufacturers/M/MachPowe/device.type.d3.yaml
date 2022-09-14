@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4fbb1b94-1388-5c6c-bafa-1389a637076b
-  macAddresses:
-  - 28:AC:67:00:00:00/24
-  manufacturer: Mach Power, Rappresentanze Internazionali s.r.l.
-  manufacturerUri: https://device-type.com
-  name: MachPowe
-type: d3-device-type-assertion

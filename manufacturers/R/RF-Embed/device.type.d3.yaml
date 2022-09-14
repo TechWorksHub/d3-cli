@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1fa4aa25-ac62-5911-b443-9340a032581e
-  macAddresses:
-  - 00:50:C2:BD:50:00/36
-  manufacturer: RF-Embedded GmbH
-  manufacturerUri: https://device-type.com
-  name: RF-Embed
-type: d3-device-type-assertion

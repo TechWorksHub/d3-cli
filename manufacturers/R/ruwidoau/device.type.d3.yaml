@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3291ed0f-c40d-5989-9498-c569dd8ed3b5
-  macAddresses:
-  - 1C:A2:B1:00:00:00/24
-  manufacturer: ruwido austria gmbh
-  manufacturerUri: https://device-type.com
-  name: ruwidoau
-type: d3-device-type-assertion

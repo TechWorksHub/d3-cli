@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7bc80967-8e0c-5068-a548-3e55fbf0a71b
-  macAddresses:
-  - EC:8E:AD:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Dlx
-type: d3-device-type-assertion

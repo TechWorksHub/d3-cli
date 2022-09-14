@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fc15fa7e-d2b5-56d1-9952-a31f581ec787
-  macAddresses:
-  - EC:9F:0D:10:00:00/28
-  manufacturer: Simula Technology Inc.
-  manufacturerUri: https://device-type.com
-  name: SimulaTe
-type: d3-device-type-assertion

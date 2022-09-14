@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3bc59717-b8d1-5f97-957b-d80ffdf0ee6e
-  macAddresses:
-  - 00:25:9F:00:00:00/24
-  manufacturer: TechnoDigital Technologies GmbH
-  manufacturerUri: https://device-type.com
-  name: TechnoDi
-type: d3-device-type-assertion

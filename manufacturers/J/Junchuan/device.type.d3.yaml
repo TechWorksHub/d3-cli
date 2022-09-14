@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 48e4c8e1-e978-536b-89f9-9dc682c6f64c
-  macAddresses:
-  - F4:69:D5:10:00:00/28
-  manufacturer: Junchuang (Xiamen) Automation Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: Junchuan
-type: d3-device-type-assertion

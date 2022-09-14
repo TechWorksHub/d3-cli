@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7a2c021e-c492-581c-9bcd-69603c384208
-  macAddresses:
-  - F4:69:D5:70:00:00/28
-  manufacturer: Rosco, Inc
-  manufacturerUri: https://device-type.com
-  name: Rosco
-type: d3-device-type-assertion

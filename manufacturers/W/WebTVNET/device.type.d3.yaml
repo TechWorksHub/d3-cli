@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 93f6a355-b54d-5007-9941-c219d058398d
-  macAddresses:
-  - 00:E0:1D:00:00:00/24
-  manufacturer: WebTV NETWORKS, INC.
-  manufacturerUri: https://device-type.com
-  name: WebTVNET
-type: d3-device-type-assertion

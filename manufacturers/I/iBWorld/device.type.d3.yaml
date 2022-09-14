@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3b94cb9e-8a30-5d45-bce8-588253e66020
-  macAddresses:
-  - 00:50:C2:F4:00:00/36
-  manufacturer: iBWorld co.,ltd.
-  manufacturerUri: https://device-type.com
-  name: iBWorld
-type: d3-device-type-assertion

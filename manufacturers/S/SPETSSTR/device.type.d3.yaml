@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1cdfe2c1-be35-5fd7-bc33-b352c5fb411c
-  macAddresses:
-  - 70:B3:D5:A3:90:00/36
-  manufacturer: SPETSSTROY-SVYAZ Ltd
-  manufacturerUri: https://device-type.com
-  name: SPETSSTR
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a0516415-6c7b-5420-954d-5407b99ae13b
-  macAddresses:
-  - 00:50:C2:56:30:00/36
-  manufacturer: Ortrat, S.L.
-  manufacturerUri: https://device-type.com
-  name: OrtratSL
-type: d3-device-type-assertion

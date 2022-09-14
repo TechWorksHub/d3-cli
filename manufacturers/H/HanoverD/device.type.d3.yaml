@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4dc5eb00-6c20-5cb6-93e3-3da17fdd6f12
-  macAddresses:
-  - 18:67:3F:00:00:00/24
-  manufacturer: Hanover Displays Limited
-  manufacturerUri: https://device-type.com
-  name: HanoverD
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e61e67d1-6a5d-5a28-ade0-607fb76702c8
-  macAddresses:
-  - 00:E0:6B:00:00:00/24
-  manufacturer: W&G Special Products
-  manufacturerUri: https://device-type.com
-  name: W&GSpeci
-type: d3-device-type-assertion

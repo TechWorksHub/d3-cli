@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 51d75698-ea04-5eb4-91b0-48e4088cc7dc
-  macAddresses:
-  - AC:CA:8E:00:00:00/24
-  manufacturer: ODA Technologies
-  manufacturerUri: https://device-type.com
-  name: ODATechn
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fb965fd1-a4a2-5758-8b30-3dd520b26775
-  macAddresses:
-  - 10:FB:F0:00:00:00/24
-  manufacturer: KangSheng LTD.
-  manufacturerUri: https://device-type.com
-  name: KangShen
-type: d3-device-type-assertion

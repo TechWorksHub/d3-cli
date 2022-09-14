@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ad0fd62f-b1bb-5b41-87c1-3db43df3c1ad
-  macAddresses:
-  - 00:09:81:00:00:00/24
-  manufacturer: Newport Networks
-  manufacturerUri: https://device-type.com
-  name: NewportN
-type: d3-device-type-assertion

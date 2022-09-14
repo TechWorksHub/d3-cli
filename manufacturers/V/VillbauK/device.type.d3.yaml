@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1256d5ad-456d-54d1-b64e-e5f56ef14581
-  macAddresses:
-  - 00:50:C2:9F:B0:00/36
-  manufacturer: Villbau Kft.
-  manufacturerUri: https://device-type.com
-  name: VillbauK
-type: d3-device-type-assertion

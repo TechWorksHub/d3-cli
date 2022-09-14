@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 874de623-d325-510f-9fc3-8e2ca4f105ea
-  macAddresses:
-  - 04:15:D9:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Viwone
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bed21c71-1d5d-52c2-9544-0a64a3b2670e
-  macAddresses:
-  - 00:40:EF:00:00:00/24
-  manufacturer: Hypercom, Inc.
-  manufacturerUri: https://device-type.com
-  name: Hypercom
-type: d3-device-type-assertion

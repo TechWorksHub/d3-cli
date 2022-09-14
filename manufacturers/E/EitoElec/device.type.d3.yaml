@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 91ec3ee4-6eb6-5d6e-8680-9b985f09ea77
-  macAddresses:
-  - 08:68:EA:00:00:00/24
-  manufacturer: Eito Electronics Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: EitoElec
-type: d3-device-type-assertion

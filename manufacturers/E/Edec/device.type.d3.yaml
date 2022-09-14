@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b24b5f05-ffeb-5b7e-a58b-d0e3442157cf
-  macAddresses:
-  - 00:60:14:00:00:00/24
-  manufacturer: Edec Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Edec
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e688b614-a83d-57fe-991e-120350a9a2ea
-  macAddresses:
-  - 00:30:45:00:00:00/24
-  manufacturer: Village Networks, Inc. (VNI)
-  manufacturerUri: https://device-type.com
-  name: VillageN
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ddd56bb8-6728-5088-9d44-c2a144c63bb5
-  macAddresses:
-  - B4:9E:AC:00:00:00/24
-  manufacturer: Imagik Int'l Corp
-  manufacturerUri: https://device-type.com
-  name: ImagikIn
-type: d3-device-type-assertion

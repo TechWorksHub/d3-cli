@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ba28fdf0-7f73-5525-a175-7c7f40c8f7f6
-  macAddresses:
-  - C4:FC:EF:00:00:00/24
-  manufacturer: SambaNova Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: SambaNov
-type: d3-device-type-assertion

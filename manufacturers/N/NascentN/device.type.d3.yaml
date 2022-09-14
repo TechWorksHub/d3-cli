@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4c823a20-fd80-51cb-be6f-59748f37229d
-  macAddresses:
-  - 00:A0:1C:00:00:00/24
-  manufacturer: Nascent Networks Corporation
-  manufacturerUri: https://device-type.com
-  name: NascentN
-type: d3-device-type-assertion

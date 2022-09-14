@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d779a3fc-3e44-5545-a0b7-acfa95aafc85
-  macAddresses:
-  - 00:1D:21:00:00:00/24
-  manufacturer: Alcad SL
-  manufacturerUri: https://device-type.com
-  name: AlcadSL
-type: d3-device-type-assertion

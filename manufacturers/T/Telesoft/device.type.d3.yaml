@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a09cacac-00d2-58fd-a951-f3c844f00ba9
-  macAddresses:
-  - 00:03:0C:00:00:00/24
-  manufacturer: Telesoft Technologies Ltd.
-  manufacturerUri: https://device-type.com
-  name: Telesoft
-type: d3-device-type-assertion

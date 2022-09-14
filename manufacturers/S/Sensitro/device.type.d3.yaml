@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8a68176f-5842-598f-8bfe-830d0aa12a1d
-  macAddresses:
-  - 00:50:C2:9B:D0:00/36
-  manufacturer: Sensitron Semiconductor
-  manufacturerUri: https://device-type.com
-  name: Sensitro
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ce9555b0-3a6f-5203-80ba-89bee72f562f
-  macAddresses:
-  - 00:16:70:00:00:00/24
-  manufacturer: SKNET Corporation
-  manufacturerUri: https://device-type.com
-  name: SKNET
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f1e00ec2-0921-5a6b-b5b1-f1e20c4362be
-  macAddresses:
-  - 00:09:CD:00:00:00/24
-  manufacturer: Hudson Soft Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: HudsonSo
-type: d3-device-type-assertion

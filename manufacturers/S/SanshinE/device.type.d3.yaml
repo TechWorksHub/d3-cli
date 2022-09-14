@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7feea7b8-ce53-534e-8432-fd5791e4541e
-  macAddresses:
-  - 4C:40:88:00:00:00/24
-  manufacturer: Sanshin Electronics Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: SanshinE
-type: d3-device-type-assertion

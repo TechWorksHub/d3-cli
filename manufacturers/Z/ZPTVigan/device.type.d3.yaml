@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 62b01a1a-97f9-5681-8fd6-c8ec6956df0f
-  macAddresses:
-  - C4:62:6B:00:00:00/24
-  manufacturer: ZPT Vigantice
-  manufacturerUri: https://device-type.com
-  name: ZPTVigan
-type: d3-device-type-assertion

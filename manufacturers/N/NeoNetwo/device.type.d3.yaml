@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 976b9018-846d-53a8-b1b3-c86c57d092d0
-  macAddresses:
-  - 00:90:70:00:00:00/24
-  manufacturer: Neo Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: NeoNetwo
-type: d3-device-type-assertion

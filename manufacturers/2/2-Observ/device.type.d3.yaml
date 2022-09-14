@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4427ae10-982b-5d66-bedc-27061dd90b15
-  macAddresses:
-  - 70:B3:D5:14:D0:00/36
-  manufacturer: 2-Observe
-  manufacturerUri: https://device-type.com
-  name: 2-Observ
-type: d3-device-type-assertion

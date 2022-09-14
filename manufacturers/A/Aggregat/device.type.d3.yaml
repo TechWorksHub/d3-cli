@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 93ec5fc2-ec88-5a5a-bb3f-b89b9003ca0f
-  macAddresses:
-  - 58:20:8A:30:00:00/28
-  manufacturer: Aggregate Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: Aggregat
-type: d3-device-type-assertion

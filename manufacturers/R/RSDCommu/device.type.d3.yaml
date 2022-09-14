@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fedcb0df-2ebd-59b6-9bc8-2fab1141d965
-  macAddresses:
-  - 00:1F:D9:00:00:00/24
-  manufacturer: RSD Communications Ltd
-  manufacturerUri: https://device-type.com
-  name: RSDCommu
-type: d3-device-type-assertion

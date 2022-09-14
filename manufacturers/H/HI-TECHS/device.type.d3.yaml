@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 71b1da52-d31d-5253-af84-d1ea3ea95fbd
-  macAddresses:
-  - 70:B3:D5:26:E0:00/36
-  manufacturer: HI-TECH SYSTEM Co. Ltd.
-  manufacturerUri: https://device-type.com
-  name: HI-TECHS
-type: d3-device-type-assertion

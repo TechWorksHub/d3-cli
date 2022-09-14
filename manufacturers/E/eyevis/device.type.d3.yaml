@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 85d5ce04-279c-5095-94e7-148e980aaa07
-  macAddresses:
-  - 1C:19:DE:00:00:00/24
-  manufacturer: eyevis GmbH
-  manufacturerUri: https://device-type.com
-  name: eyevis
-type: d3-device-type-assertion

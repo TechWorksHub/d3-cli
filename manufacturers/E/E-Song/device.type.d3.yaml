@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e09829da-e67a-5eb7-9905-10829b30bd98
-  macAddresses:
-  - F4:0E:11:50:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: E-Song
-type: d3-device-type-assertion

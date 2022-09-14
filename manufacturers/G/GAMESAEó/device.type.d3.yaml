@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: baeceb58-e2f5-5d4d-b2d3-79d3e7e160e6
-  macAddresses:
-  - 00:0C:F2:00:00:00/24
-  manufacturer: "GAMESA E\xF3lica"
-  manufacturerUri: https://device-type.com
-  name: "GAMESAE\xF3"
-type: d3-device-type-assertion

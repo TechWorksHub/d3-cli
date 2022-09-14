@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 549a88ec-b5b9-5d36-bf8a-a4a42d6883e3
-  macAddresses:
-  - 1C:C0:E1:E0:00:00/28
-  manufacturer: Yun Yang Fire Safety Equipment Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: YunYangF
-type: d3-device-type-assertion

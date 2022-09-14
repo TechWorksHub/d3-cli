@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: da48b5e1-e893-5632-a5c8-d3922bf02a89
-  macAddresses:
-  - 00:50:C2:5F:A0:00/36
-  manufacturer: LEA d.o.o.
-  manufacturerUri: https://device-type.com
-  name: LEAdoo
-type: d3-device-type-assertion

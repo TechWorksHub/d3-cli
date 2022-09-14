@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 846fb5a2-144b-54fb-9cf2-c33771146fe9
-  macAddresses:
-  - 70:B3:D5:CD:F0:00/36
-  manufacturer: 3D Printing Specialists
-  manufacturerUri: https://device-type.com
-  name: 3DPrinti
-type: d3-device-type-assertion

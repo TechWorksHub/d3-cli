@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5ce52a37-9e8c-52a5-aaed-121a35c06012
-  macAddresses:
-  - 00:50:C2:EA:E0:00/36
-  manufacturer: Alyrica Networks
-  manufacturerUri: https://device-type.com
-  name: AlyricaN
-type: d3-device-type-assertion

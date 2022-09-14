@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 01f19d8d-b852-5fef-a75e-ce38a9f345c9
-  macAddresses:
-  - 6C:40:C6:00:00:00/24
-  manufacturer: Nimbus Data, Inc.
-  manufacturerUri: https://device-type.com
-  name: NimbusDa
-type: d3-device-type-assertion

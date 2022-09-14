@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 47761f95-ac5a-5d4a-893e-3d6e5c81dbd6
-  macAddresses:
-  - 00:12:18:00:00:00/24
-  manufacturer: ARUZE Corporation
-  manufacturerUri: https://device-type.com
-  name: ARUZE
-type: d3-device-type-assertion

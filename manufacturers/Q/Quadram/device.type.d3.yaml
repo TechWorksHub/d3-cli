@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5dfec80a-e005-5a3e-93d4-773ada409b94
-  macAddresses:
-  - 00:00:E0:00:00:00/24
-  manufacturer: Quadram Corp.
-  manufacturerUri: https://device-type.com
-  name: Quadram
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 713dcac4-4168-5e84-8de4-f12707151802
-  macAddresses:
-  - 00:19:9E:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Nifty
-type: d3-device-type-assertion

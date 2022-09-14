@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7bcd1f9f-183e-5734-ab02-5756cf622fa8
-  macAddresses:
-  - E4:92:E7:00:00:00/24
-  manufacturer: Gridlink Tech. Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: Gridlink
-type: d3-device-type-assertion

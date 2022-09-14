@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: deae4c7c-05f5-5aeb-97ef-1672751d6bfb
-  macAddresses:
-  - CC:6B:F1:00:00:00/24
-  manufacturer: Sound Masking Inc.
-  manufacturerUri: https://device-type.com
-  name: SoundMas
-type: d3-device-type-assertion

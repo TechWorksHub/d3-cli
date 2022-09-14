@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2f249514-0d82-58e2-ba9e-e8ee133bf656
-  macAddresses:
-  - 04:E0:C4:00:00:00/24
-  manufacturer: Triumph-Adler Ag
-  manufacturerUri: https://device-type.com
-  name: Triumph-
-type: d3-device-type-assertion

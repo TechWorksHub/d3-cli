@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bf6daba7-5427-5d75-8d09-b0c42c5b82e7
-  macAddresses:
-  - 80:02:F4:A0:00:00/28
-  manufacturer: PassiveLogic
-  manufacturerUri: https://device-type.com
-  name: PassiveL
-type: d3-device-type-assertion

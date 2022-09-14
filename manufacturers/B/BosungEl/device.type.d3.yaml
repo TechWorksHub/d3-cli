@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6335fa66-9eb5-5444-8858-1ec4c5250dd6
-  macAddresses:
-  - 1C:AD:D1:00:00:00/24
-  manufacturer: Bosung Electronics Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: BosungEl
-type: d3-device-type-assertion

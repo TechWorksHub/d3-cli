@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cb75ff36-a0df-5555-b5b9-6a8d8f651cf4
-  macAddresses:
-  - 00:50:C2:76:60:00/36
-  manufacturer: Gutermann Technology GmbH
-  manufacturerUri: https://device-type.com
-  name: Guterman
-type: d3-device-type-assertion

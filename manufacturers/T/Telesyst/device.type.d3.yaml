@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 450c72ad-94db-5372-be20-0d9db3386347
-  macAddresses:
-  - 40:62:B6:00:00:00/24
-  manufacturer: Tele system communication
-  manufacturerUri: https://device-type.com
-  name: Telesyst
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8a3623ca-2f37-57de-8239-ffbe72e65988
-  macAddresses:
-  - 38:BB:23:00:00:00/24
-  manufacturer: OzVision America LLC
-  manufacturerUri: https://device-type.com
-  name: OzVision
-type: d3-device-type-assertion

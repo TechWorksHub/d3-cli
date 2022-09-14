@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f3f2d4fe-3667-508e-9e4b-647529b1014c
-  macAddresses:
-  - 70:B3:D5:27:C0:00/36
-  manufacturer: MOTION LIB,Inc.
-  manufacturerUri: https://device-type.com
-  name: MOTIONLI
-type: d3-device-type-assertion

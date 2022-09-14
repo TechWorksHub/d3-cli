@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f461f0ad-bcc6-59f0-9aeb-e47b775daadc
-  macAddresses:
-  - 70:B3:D5:92:20:00/36
-  manufacturer: Adcole Space
-  manufacturerUri: https://device-type.com
-  name: AdcoleSp
-type: d3-device-type-assertion

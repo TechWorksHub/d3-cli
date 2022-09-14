@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b3ebcb21-432f-5766-b58c-db5d2a42aa40
-  macAddresses:
-  - 00:12:04:00:00:00/24
-  manufacturer: u10 Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: u10Netwo
-type: d3-device-type-assertion

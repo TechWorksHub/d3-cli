@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a07c430d-f950-5b85-ba24-3a88b2feb471
-  macAddresses:
-  - 00:30:D4:00:00:00/24
-  manufacturer: AAE Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: AAE
-type: d3-device-type-assertion

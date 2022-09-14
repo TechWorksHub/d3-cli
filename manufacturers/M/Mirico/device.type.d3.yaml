@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8648adcf-aab7-53da-b76c-6d1906ef8fdd
-  macAddresses:
-  - 3C:FA:D3:E0:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Mirico
-type: d3-device-type-assertion

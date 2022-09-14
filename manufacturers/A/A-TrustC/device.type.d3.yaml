@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e225a872-a0b9-5ff8-9306-4ab18b2494be
-  macAddresses:
-  - 00:1F:D8:00:00:00/24
-  manufacturer: A-Trust Computer Corporation
-  manufacturerUri: https://device-type.com
-  name: A-TrustC
-type: d3-device-type-assertion

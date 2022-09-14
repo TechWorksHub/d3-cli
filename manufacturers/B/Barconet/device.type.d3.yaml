@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 865ba976-3191-5fbc-8345-5068cc49863b
-  macAddresses:
-  - 00:50:4B:00:00:00/24
-  manufacturer: Barconet N.V.
-  manufacturerUri: https://device-type.com
-  name: Barconet
-type: d3-device-type-assertion

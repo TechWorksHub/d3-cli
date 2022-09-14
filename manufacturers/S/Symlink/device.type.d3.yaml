@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 79fd84b3-6c8b-517c-8316-0a8284bf3519
-  macAddresses:
-  - 6C:15:24:D0:00:00/28
-  manufacturer: Symlink Corporation
-  manufacturerUri: https://device-type.com
-  name: Symlink
-type: d3-device-type-assertion

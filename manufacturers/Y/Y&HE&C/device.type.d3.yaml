@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 302fb5da-6a89-52f9-aa4c-7cd2afd59172
-  macAddresses:
-  - 04:D7:83:00:00:00/24
-  manufacturer: Y&H E&C Co.,LTD.
-  manufacturerUri: https://device-type.com
-  name: Y&HE&C
-type: d3-device-type-assertion

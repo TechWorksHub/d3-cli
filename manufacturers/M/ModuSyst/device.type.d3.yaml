@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0236a371-d7a2-5f3a-a4b5-5d9ddd38b940
-  macAddresses:
-  - 70:B3:D5:26:00:00/36
-  manufacturer: ModuSystems, Inc
-  manufacturerUri: https://device-type.com
-  name: ModuSyst
-type: d3-device-type-assertion

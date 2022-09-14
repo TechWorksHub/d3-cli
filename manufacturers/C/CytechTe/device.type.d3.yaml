@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 85f10c73-19c4-5b36-81fe-ed2b74eb144f
-  macAddresses:
-  - 40:D8:55:0F:E0:00/36
-  manufacturer: Cytech Technology Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: CytechTe
-type: d3-device-type-assertion

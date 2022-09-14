@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 506d8c4e-e2c0-5810-bd55-d34e6e8bc55c
-  macAddresses:
-  - F4:0E:11:00:00:00/28
-  manufacturer: realphone technology co.,ltd
-  manufacturerUri: https://device-type.com
-  name: realphon
-type: d3-device-type-assertion

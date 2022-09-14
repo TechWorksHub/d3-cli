@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 20f1cb4e-4b3b-5edc-ab51-efcba309b6c5
-  macAddresses:
-  - 00:23:C5:00:00:00/24
-  manufacturer: Radiation Safety and Control Services Inc
-  manufacturerUri: https://device-type.com
-  name: Radiatio
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e9a1adfd-c3c9-53e5-9ba0-b61b0659bc4f
-  macAddresses:
-  - 70:B3:D5:EB:70:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Skreens
-type: d3-device-type-assertion

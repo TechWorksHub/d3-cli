@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d310249a-e829-5043-b9c9-e0766e54520f
-  macAddresses:
-  - 40:F4:13:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Rubezh
-type: d3-device-type-assertion

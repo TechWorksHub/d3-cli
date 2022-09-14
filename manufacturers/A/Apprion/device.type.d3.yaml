@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f61d157a-2227-53eb-8a8a-72506825a4f1
-  macAddresses:
-  - 00:1B:12:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Apprion
-type: d3-device-type-assertion

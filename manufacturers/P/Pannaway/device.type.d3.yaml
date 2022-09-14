@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 11174fb2-5b3e-5964-b90b-90e105d6ea5c
-  macAddresses:
-  - 00:0A:9F:00:00:00/24
-  manufacturer: Pannaway Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: Pannaway
-type: d3-device-type-assertion

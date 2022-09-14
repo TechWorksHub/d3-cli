@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 20890512-a7fb-55b8-9ec6-3cc7d2829b27
-  macAddresses:
-  - 00:00:24:00:00:00/24
-  manufacturer: Connect As
-  manufacturerUri: https://device-type.com
-  name: ConnectA
-type: d3-device-type-assertion

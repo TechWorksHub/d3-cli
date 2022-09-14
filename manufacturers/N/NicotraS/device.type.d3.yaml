@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d42a0564-6a00-5846-8e3f-c3a4bff940e8
-  macAddresses:
-  - 00:30:8A:00:00:00/24
-  manufacturer: Nicotra Sistemi S.P.A
-  manufacturerUri: https://device-type.com
-  name: NicotraS
-type: d3-device-type-assertion

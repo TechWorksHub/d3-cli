@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4d6d6b94-98fb-5d62-861f-9edff64c9628
-  macAddresses:
-  - 18:20:12:00:00:00/24
-  manufacturer: Aztech Associates Inc.
-  manufacturerUri: https://device-type.com
-  name: AztechAs
-type: d3-device-type-assertion

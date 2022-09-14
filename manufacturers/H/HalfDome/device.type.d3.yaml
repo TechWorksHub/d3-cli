@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2081f443-ad5d-5b73-ab44-5b07c9989d2d
-  macAddresses:
-  - 00:04:41:00:00:00/24
-  manufacturer: Half Dome Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: HalfDome
-type: d3-device-type-assertion

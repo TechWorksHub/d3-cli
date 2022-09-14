@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d613f5dd-ac39-5b07-b6d9-7ecfb193510c
-  macAddresses:
-  - 00:80:59:00:00:00/24
-  manufacturer: Stanley Electric Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: StanleyE
-type: d3-device-type-assertion

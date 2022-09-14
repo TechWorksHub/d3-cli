@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1ca1848c-ea74-5895-9b1d-64a8920e930d
-  macAddresses:
-  - D0:93:80:00:00:00/24
-  manufacturer: Ducere Technologies Pvt. Ltd.
-  manufacturerUri: https://device-type.com
-  name: DucereTe
-type: d3-device-type-assertion

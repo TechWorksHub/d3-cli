@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6ab0dfbb-3f24-5135-9b61-bb98f2abc9cb
-  macAddresses:
-  - 00:11:37:00:00:00/24
-  manufacturer: Aichi Electric Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: AichiEle
-type: d3-device-type-assertion

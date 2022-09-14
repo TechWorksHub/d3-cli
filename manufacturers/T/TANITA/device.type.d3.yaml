@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 45cae0d0-43f4-550f-82f2-994768d318ea
-  macAddresses:
-  - 00:1C:0C:00:00:00/24
-  manufacturer: TANITA Corporation
-  manufacturerUri: https://device-type.com
-  name: TANITA
-type: d3-device-type-assertion

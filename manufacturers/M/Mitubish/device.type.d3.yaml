@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 25a42c0e-f2cd-5b22-92e7-5cdc182661b7
-  macAddresses:
-  - 1C:5D:80:00:00:00/24
-  manufacturer: Mitubishi Hitachi Power Systems Industries Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Mitubish
-type: d3-device-type-assertion

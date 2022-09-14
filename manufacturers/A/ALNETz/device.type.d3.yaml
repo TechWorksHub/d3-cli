@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 65de4de9-e520-51c6-a9d0-7d0d70ce662a
-  macAddresses:
-  - C0:D3:91:70:00:00/28
-  manufacturer: ALNETz Co.,LTD
-  manufacturerUri: https://device-type.com
-  name: ALNETz
-type: d3-device-type-assertion

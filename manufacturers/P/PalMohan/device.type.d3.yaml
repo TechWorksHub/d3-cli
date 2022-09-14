@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 18cb1d08-53aa-5674-838d-0ee0f998d88a
-  macAddresses:
-  - 34:BA:38:00:00:00/24
-  manufacturer: Pal Mohan Electronics Pvt Ltd
-  manufacturerUri: https://device-type.com
-  name: PalMohan
-type: d3-device-type-assertion

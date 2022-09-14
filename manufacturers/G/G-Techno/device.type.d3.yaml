@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6635c731-c124-50d0-9334-dcdb718904c0
-  macAddresses:
-  - 00:1C:0D:00:00:00/24
-  manufacturer: G-Technology, Inc.
-  manufacturerUri: https://device-type.com
-  name: G-Techno
-type: d3-device-type-assertion

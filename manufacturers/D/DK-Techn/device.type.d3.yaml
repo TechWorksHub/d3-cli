@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8eb1b5cd-5e38-5699-b208-92d0954c5aaf
-  macAddresses:
-  - 70:B3:D5:3C:00:00/36
-  manufacturer: DK-Technologies A/S
-  manufacturerUri: https://device-type.com
-  name: DK-Techn
-type: d3-device-type-assertion

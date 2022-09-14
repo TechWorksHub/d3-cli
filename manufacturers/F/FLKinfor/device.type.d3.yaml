@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 09926e77-a947-5511-b3f8-adc909a904b4
-  macAddresses:
-  - E4:4C:C7:E0:00:00/28
-  manufacturer: FLK information security technology Co,. Ltd
-  manufacturerUri: https://device-type.com
-  name: FLKinfor
-type: d3-device-type-assertion

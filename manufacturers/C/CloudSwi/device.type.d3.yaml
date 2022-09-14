@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6b3961a5-6e9a-5cc8-b195-784c0798ad39
-  macAddresses:
-  - 60:9F:9D:00:00:00/24
-  manufacturer: CloudSwitch
-  manufacturerUri: https://device-type.com
-  name: CloudSwi
-type: d3-device-type-assertion

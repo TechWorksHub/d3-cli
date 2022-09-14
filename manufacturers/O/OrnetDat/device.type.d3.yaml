@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 289b1d2f-470d-5b6e-bb60-e4b7114cc280
-  macAddresses:
-  - 00:20:AE:00:00:00/24
-  manufacturer: Ornet Data Communication Tech.
-  manufacturerUri: https://device-type.com
-  name: OrnetDat
-type: d3-device-type-assertion

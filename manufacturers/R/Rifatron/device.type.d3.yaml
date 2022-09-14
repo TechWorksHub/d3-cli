@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 852f4c09-1ea3-5dea-abdf-3a0bd34c4606
-  macAddresses:
-  - 00:0C:28:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Rifatron
-type: d3-device-type-assertion

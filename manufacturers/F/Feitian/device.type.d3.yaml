@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f70bee11-c382-5487-97b2-599f0e24f07e
-  macAddresses:
-  - 70:B3:D5:E2:60:00/36
-  manufacturer: Feitian Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: Feitian
-type: d3-device-type-assertion

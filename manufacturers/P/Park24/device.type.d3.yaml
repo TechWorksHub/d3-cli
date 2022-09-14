@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ed88a20c-ca80-5118-957c-300d0479b1c8
-  macAddresses:
-  - 70:B3:D5:EA:00:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Park24
-type: d3-device-type-assertion

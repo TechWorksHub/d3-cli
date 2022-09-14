@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e557de54-2dbd-5bdd-add7-9252efcdb868
-  macAddresses:
-  - 00:03:DF:00:00:00/24
-  manufacturer: Desana Systems
-  manufacturerUri: https://device-type.com
-  name: Desana
-type: d3-device-type-assertion

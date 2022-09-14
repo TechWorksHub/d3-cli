@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 15a2d46d-0685-5320-a09d-a3887d3be726
-  macAddresses:
-  - 00:05:46:00:00:00/24
-  manufacturer: KDDI Network & Solultions Inc.
-  manufacturerUri: https://device-type.com
-  name: KDDINetw
-type: d3-device-type-assertion

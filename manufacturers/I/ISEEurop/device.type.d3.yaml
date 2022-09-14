@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a9f54ba0-4f01-505e-ab76-b0e058bf550b
-  macAddresses:
-  - 40:F1:4C:00:00:00/24
-  manufacturer: ISE Europe SPRL
-  manufacturerUri: https://device-type.com
-  name: ISEEurop
-type: d3-device-type-assertion

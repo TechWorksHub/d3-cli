@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 87a2d366-f36e-5c78-bf41-39959856a443
-  macAddresses:
-  - 00:0D:48:00:00:00/24
-  manufacturer: AEWIN Technologies Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: AEWINTec
-type: d3-device-type-assertion

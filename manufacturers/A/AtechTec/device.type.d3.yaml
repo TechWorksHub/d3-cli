@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 630ddfb8-0b63-5da6-a413-70d1f8f533ed
-  macAddresses:
-  - 00:19:0E:00:00:00/24
-  manufacturer: Atech Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: AtechTec
-type: d3-device-type-assertion

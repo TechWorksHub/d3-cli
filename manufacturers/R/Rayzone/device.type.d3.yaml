@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ab8cd85a-255f-54e8-a0cf-b69de102e5a0
-  macAddresses:
-  - 00:24:62:00:00:00/24
-  manufacturer: Rayzone Corporation
-  manufacturerUri: https://device-type.com
-  name: Rayzone
-type: d3-device-type-assertion

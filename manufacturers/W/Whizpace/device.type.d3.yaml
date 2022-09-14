@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5c07b7c9-71c4-50b6-8c7c-3a5b6ea2ad93
-  macAddresses:
-  - F8:B5:68:B0:00:00/28
-  manufacturer: Whizpace Pte. Ltd.
-  manufacturerUri: https://device-type.com
-  name: Whizpace
-type: d3-device-type-assertion

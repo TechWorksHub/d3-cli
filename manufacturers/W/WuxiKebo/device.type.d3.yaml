@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 48b0f89a-13c2-5369-a9e4-ad54bbc27fa1
-  macAddresses:
-  - 00:52:18:00:00:00/24
-  manufacturer: Wuxi Keboda Electron Co.Ltd
-  manufacturerUri: https://device-type.com
-  name: WuxiKebo
-type: d3-device-type-assertion

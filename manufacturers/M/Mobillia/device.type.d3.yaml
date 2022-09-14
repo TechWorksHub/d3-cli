@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2a1bd60d-e14f-5f29-aed4-67e5909853f4
-  macAddresses:
-  - 00:06:94:00:00:00/24
-  manufacturer: Mobillian Corporation
-  manufacturerUri: https://device-type.com
-  name: Mobillia
-type: d3-device-type-assertion

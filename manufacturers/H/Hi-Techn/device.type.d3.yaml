@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 109a401c-c47e-5516-b8ef-d5be538e9a21
-  macAddresses:
-  - 00:09:64:00:00:00/24
-  manufacturer: Hi-Techniques, Inc.
-  manufacturerUri: https://device-type.com
-  name: Hi-Techn
-type: d3-device-type-assertion

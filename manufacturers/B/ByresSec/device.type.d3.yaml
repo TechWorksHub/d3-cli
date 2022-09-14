@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2f0d4c0e-61ce-50cf-b140-bda81c060ed7
-  macAddresses:
-  - 00:50:C2:B3:20:00/36
-  manufacturer: Byres Security Inc
-  manufacturerUri: https://device-type.com
-  name: ByresSec
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7e678e7e-c547-58aa-bb77-abda836540e7
-  macAddresses:
-  - A4:ED:43:70:00:00/28
-  manufacturer: Wuxi Junction Infomation Technology Incorporated Company
-  manufacturerUri: https://device-type.com
-  name: WuxiJunc
-type: d3-device-type-assertion

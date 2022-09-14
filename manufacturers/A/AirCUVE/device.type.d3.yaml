@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c8d1483c-efa0-5de9-82ac-3fe3da98e3f3
-  macAddresses:
-  - A0:EB:76:00:00:00/24
-  manufacturer: AirCUVE Inc.
-  manufacturerUri: https://device-type.com
-  name: AirCUVE
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 375b5de7-1ed9-53ee-b149-d28c79f32ca9
-  macAddresses:
-  - 70:B3:D5:E8:B0:00/36
-  manufacturer: Dream D&S Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: DreamD&S
-type: d3-device-type-assertion

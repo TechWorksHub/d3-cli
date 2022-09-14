@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0c19035a-272d-5939-990e-e7e1a3f0e98f
-  macAddresses:
-  - 00:50:C2:90:D0:00/36
-  manufacturer: EVK DI Kerschhaggl GmbH
-  manufacturerUri: https://device-type.com
-  name: EVKDIKer
-type: d3-device-type-assertion

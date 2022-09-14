@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6fcb2d48-6329-5931-8808-285e641d22e8
-  macAddresses:
-  - 00:12:CC:00:00:00/24
-  manufacturer: Bitatek CO., LTD
-  manufacturerUri: https://device-type.com
-  name: Bitatek
-type: d3-device-type-assertion

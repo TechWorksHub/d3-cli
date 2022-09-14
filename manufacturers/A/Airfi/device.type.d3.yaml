@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 812701b5-6571-52aa-9f93-2d4ab6ad0ead
-  macAddresses:
-  - BC:97:40:70:00:00/28
-  manufacturer: Airfi Oy AB
-  manufacturerUri: https://device-type.com
-  name: Airfi
-type: d3-device-type-assertion

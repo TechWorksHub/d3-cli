@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 937b2020-b793-5f6f-90ed-15daff9f3609
-  macAddresses:
-  - 00:50:C2:1E:30:00/36
-  manufacturer: Bluesocket, Inc.
-  manufacturerUri: https://device-type.com
-  name: Bluesock
-type: d3-device-type-assertion

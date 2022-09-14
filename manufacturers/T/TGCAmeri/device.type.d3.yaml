@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bd13f283-90c7-589e-978e-e0ff715f2294
-  macAddresses:
-  - 00:12:C6:00:00:00/24
-  manufacturer: TGC America, Inc
-  manufacturerUri: https://device-type.com
-  name: TGCAmeri
-type: d3-device-type-assertion

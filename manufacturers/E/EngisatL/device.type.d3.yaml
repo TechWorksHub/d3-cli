@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f4e7b0e0-cbe5-5b3f-b68c-2b39e64a1a8a
-  macAddresses:
-  - 84:8B:CD:D0:00:00/28
-  manufacturer: Engisat Lda
-  manufacturerUri: https://device-type.com
-  name: EngisatL
-type: d3-device-type-assertion

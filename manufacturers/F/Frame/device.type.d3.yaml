@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4e43e1a3-e1b2-5f4e-85a7-495835139026
-  macAddresses:
-  - 00:50:C2:8D:C0:00/36
-  manufacturer: Frame Systems Limited
-  manufacturerUri: https://device-type.com
-  name: Frame
-type: d3-device-type-assertion

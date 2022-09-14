@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 971c0429-099a-5064-ab00-6f7822dce829
-  macAddresses:
-  - 78:15:2D:00:00:00/24
-  manufacturer: Union Chip Technology Limited
-  manufacturerUri: https://device-type.com
-  name: UnionChi
-type: d3-device-type-assertion

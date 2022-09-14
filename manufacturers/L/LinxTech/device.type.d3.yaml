@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6fc7c844-c176-57fc-9207-c6715111cddc
-  macAddresses:
-  - C8:8E:D1:30:00:00/28
-  manufacturer: Linx Technologies
-  manufacturerUri: https://device-type.com
-  name: LinxTech
-type: d3-device-type-assertion

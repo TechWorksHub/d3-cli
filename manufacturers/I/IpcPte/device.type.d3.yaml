@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 348520dd-46a3-5a71-845c-65c15be3f004
-  macAddresses:
-  - 00:C0:DB:00:00:00/24
-  manufacturer: Ipc Corporation (Pte) Ltd.
-  manufacturerUri: https://device-type.com
-  name: IpcPte
-type: d3-device-type-assertion

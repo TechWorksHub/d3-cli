@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 63f09046-3ac4-5fc5-ad53-a3bef01d9d40
-  macAddresses:
-  - 70:B3:D5:E0:A0:00/36
-  manufacturer: Acouva, Inc.
-  manufacturerUri: https://device-type.com
-  name: Acouva
-type: d3-device-type-assertion

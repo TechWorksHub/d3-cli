@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cb338f71-524c-5051-8fdd-a9761fa0dac4
-  macAddresses:
-  - DC:FA:D5:00:00:00/24
-  manufacturer: STRONG Ges.m.b.H.
-  manufacturerUri: https://device-type.com
-  name: STRONGGe
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5bd27aa9-fd04-5a3f-8aa6-dc090c9c4039
-  macAddresses:
-  - 00:1C:C2:00:00:00/24
-  manufacturer: Part II Research, Inc.
-  manufacturerUri: https://device-type.com
-  name: PartIIRe
-type: d3-device-type-assertion

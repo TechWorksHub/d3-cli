@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 64a170dc-712e-5689-bed0-200744172f5d
-  macAddresses:
-  - 00:0D:4C:00:00:00/24
-  manufacturer: Outline Electronics Ltd.
-  manufacturerUri: https://device-type.com
-  name: OutlineE
-type: d3-device-type-assertion

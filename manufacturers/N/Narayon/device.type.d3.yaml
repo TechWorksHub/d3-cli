@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a7a42dc8-f792-509e-ad38-a06d9a921829
-  macAddresses:
-  - 00:13:67:00:00:00/24
-  manufacturer: Narayon. Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Narayon
-type: d3-device-type-assertion

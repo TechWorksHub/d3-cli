@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ce57b2c8-fae9-5ea1-955d-8c86af2003bb
-  macAddresses:
-  - 3C:6A:7D:00:00:00/24
-  manufacturer: Niigata Power Systems Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: NiigataP
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3ddb079e-0799-5f05-9be7-fc82dc257b45
-  macAddresses:
-  - CC:CE:40:00:00:00/24
-  manufacturer: Janteq Corp
-  manufacturerUri: https://device-type.com
-  name: Janteq
-type: d3-device-type-assertion

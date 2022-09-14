@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 49caf3c7-8b92-55a0-b242-7d56606a3cbe
-  macAddresses:
-  - 00:A0:D9:00:00:00/24
-  manufacturer: Convex Computer Corporation
-  manufacturerUri: https://device-type.com
-  name: ConvexCo
-type: d3-device-type-assertion

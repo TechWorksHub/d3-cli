@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9fb0b64d-ba90-5cfa-b751-7f6bb45c75b2
-  macAddresses:
-  - E8:6D:65:00:00:00/24
-  manufacturer: AUDIO MOBIL Elektronik GmbH
-  manufacturerUri: https://device-type.com
-  name: AUDIOMOB
-type: d3-device-type-assertion

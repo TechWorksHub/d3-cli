@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d7933e14-8fd2-5888-bbc4-bfe5d445e92d
-  macAddresses:
-  - 70:B3:D5:42:50:00/36
-  manufacturer: SinterCast
-  manufacturerUri: https://device-type.com
-  name: SinterCa
-type: d3-device-type-assertion

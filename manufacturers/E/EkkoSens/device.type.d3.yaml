@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: abfad517-3b34-5f96-b6c5-b12aac37f104
-  macAddresses:
-  - D0:14:11:00:00:00/28
-  manufacturer: EkkoSense Ltd
-  manufacturerUri: https://device-type.com
-  name: EkkoSens
-type: d3-device-type-assertion

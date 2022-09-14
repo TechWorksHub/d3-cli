@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: af749621-aa7e-5eb9-a196-de5eb79a4a4b
-  macAddresses:
-  - 00:1A:6F:00:00:00/24
-  manufacturer: MI.TEL s.r.l.
-  manufacturerUri: https://device-type.com
-  name: MITEL
-type: d3-device-type-assertion

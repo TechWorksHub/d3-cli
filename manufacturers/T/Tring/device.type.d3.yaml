@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0a77818f-f732-57d8-b8df-509848e15253
-  macAddresses:
-  - 58:20:8A:40:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Tring
-type: d3-device-type-assertion

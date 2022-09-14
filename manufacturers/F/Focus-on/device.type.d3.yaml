@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cecdd09c-88a1-5e14-b159-4668b44c227d
-  macAddresses:
-  - C4:A1:0E:C0:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Focus-on
-type: d3-device-type-assertion

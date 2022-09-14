@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 70a4e230-b2fa-5ae6-8ba0-a0135567a036
-  macAddresses:
-  - 00:43:FF:00:00:00/24
-  manufacturer: Ketron S.R.L.
-  manufacturerUri: https://device-type.com
-  name: Ketron
-type: d3-device-type-assertion

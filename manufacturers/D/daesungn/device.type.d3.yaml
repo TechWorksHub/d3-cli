@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 79da1529-2c77-511b-8764-606e336cb062
-  macAddresses:
-  - 3C:10:40:00:00:00/24
-  manufacturer: daesung network
-  manufacturerUri: https://device-type.com
-  name: daesungn
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ad1ff84c-a6c8-529e-8469-f8f317370386
-  macAddresses:
-  - 00:1E:F0:00:00:00/24
-  manufacturer: Gigafin Networks
-  manufacturerUri: https://device-type.com
-  name: GigafinN
-type: d3-device-type-assertion

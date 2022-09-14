@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8b5774e6-4f62-56c6-b202-f8e7875dc97a
-  macAddresses:
-  - 00:0E:88:00:00:00/24
-  manufacturer: Videotron Corp.
-  manufacturerUri: https://device-type.com
-  name: Videotro
-type: d3-device-type-assertion

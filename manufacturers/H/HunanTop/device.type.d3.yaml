@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4edf1e33-76fe-5869-9ef5-65f820cf225e
-  macAddresses:
-  - 2C:1B:C8:00:00:00/24
-  manufacturer: Hunan Topview Network System CO.,LTD
-  manufacturerUri: https://device-type.com
-  name: HunanTop
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f1131464-e99c-5574-88b4-517a808a2601
-  macAddresses:
-  - 20:0A:5E:00:00:00/24
-  manufacturer: Xiangshan Giant Eagle Technology Developing Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Xiangsha
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 99636753-cc31-58eb-a81b-e9b1efe68474
-  macAddresses:
-  - 00:15:38:00:00:00/24
-  manufacturer: RFID, Inc.
-  manufacturerUri: https://device-type.com
-  name: RFID
-type: d3-device-type-assertion

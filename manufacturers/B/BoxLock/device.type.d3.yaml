@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5ce100cd-7b19-55cb-9028-92735049407e
-  macAddresses:
-  - A0:75:EA:00:00:00/24
-  manufacturer: BoxLock, Inc.
-  manufacturerUri: https://device-type.com
-  name: BoxLock
-type: d3-device-type-assertion

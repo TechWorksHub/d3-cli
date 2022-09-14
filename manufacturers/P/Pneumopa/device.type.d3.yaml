@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7905f6f9-975f-57e0-8309-84c07f9fc876
-  macAddresses:
-  - 00:50:C2:6E:F0:00/36
-  manufacturer: Pneumopartners LaenneXT SA
-  manufacturerUri: https://device-type.com
-  name: Pneumopa
-type: d3-device-type-assertion

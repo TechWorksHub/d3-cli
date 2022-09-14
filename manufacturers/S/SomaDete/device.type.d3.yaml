@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 30bd3099-ba54-5b27-b60c-a1385ae7d555
-  macAddresses:
-  - A0:02:4A:30:00:00/28
-  manufacturer: SomaDetect Inc
-  manufacturerUri: https://device-type.com
-  name: SomaDete
-type: d3-device-type-assertion

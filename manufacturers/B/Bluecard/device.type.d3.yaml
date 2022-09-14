@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e5ec6c8b-3fd7-55c3-a6b2-09ecad52b511
-  macAddresses:
-  - 00:1E:38:00:00:00/24
-  manufacturer: Bluecard Software Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Bluecard
-type: d3-device-type-assertion

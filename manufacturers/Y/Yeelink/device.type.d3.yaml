@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aa8d3286-7f2e-5c30-a83b-4b8a49e2799c
-  macAddresses:
-  - F8:24:41:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Yeelink
-type: d3-device-type-assertion

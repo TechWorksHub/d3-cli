@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 35dc5dbc-ad2d-5a24-8516-70760f0ac441
-  macAddresses:
-  - 00:A0:CD:00:00:00/24
-  manufacturer: DR. JOHANNES HEIDENHAIN GmbH
-  manufacturerUri: https://device-type.com
-  name: DRJOHANN
-type: d3-device-type-assertion

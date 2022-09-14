@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c467acb2-2baf-5341-93fb-076f0be6e592
-  macAddresses:
-  - 00:1C:CD:00:00:00/24
-  manufacturer: Alektrona Corporation
-  manufacturerUri: https://device-type.com
-  name: Alektron
-type: d3-device-type-assertion

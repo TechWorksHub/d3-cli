@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fb118046-5050-5bed-9e07-835355f54166
-  macAddresses:
-  - 00:50:C2:26:90:00/36
-  manufacturer: Technisyst Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: Technisy
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1c82ae1e-5236-55d6-b8b1-8098c63eb23f
-  macAddresses:
-  - 70:B3:D5:B6:D0:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Movis
-type: d3-device-type-assertion

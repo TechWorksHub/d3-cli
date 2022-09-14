@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5bb57300-ac92-5424-ba45-b21db95851d1
-  macAddresses:
-  - 18:45:B3:50:00:00/28
-  manufacturer: Elpitech Llc
-  manufacturerUri: https://device-type.com
-  name: Elpitech
-type: d3-device-type-assertion

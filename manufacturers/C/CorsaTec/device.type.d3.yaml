@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d74b3bd3-55da-5408-a192-2daa3a1a6e8a
-  macAddresses:
-  - 28:29:CC:00:00:00/24
-  manufacturer: Corsa Technology Incorporated
-  manufacturerUri: https://device-type.com
-  name: CorsaTec
-type: d3-device-type-assertion

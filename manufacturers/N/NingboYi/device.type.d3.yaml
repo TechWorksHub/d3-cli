@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5ac1d125-7bea-5f64-9aab-342f145ab017
-  macAddresses:
-  - 00:17:8F:00:00:00/24
-  manufacturer: Ningbo Yidong Electronic Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: NingboYi
-type: d3-device-type-assertion

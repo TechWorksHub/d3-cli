@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0d3423fa-2a7c-5db5-8ea2-107fc41c2df3
-  macAddresses:
-  - 70:B3:D5:0D:B0:00/36
-  manufacturer: Cryptotronix LLC
-  manufacturerUri: https://device-type.com
-  name: Cryptotr
-type: d3-device-type-assertion

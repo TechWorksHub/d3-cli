@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fe7fe11a-de04-504f-8649-762485eba827
-  macAddresses:
-  - 68:6E:23:00:00:00/24
-  manufacturer: Wi3 Inc.
-  manufacturerUri: https://device-type.com
-  name: Wi3
-type: d3-device-type-assertion

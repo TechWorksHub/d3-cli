@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5fe6aee6-fe1c-593c-867d-51077cc2aa76
-  macAddresses:
-  - 70:B3:D5:EB:90:00/36
-  manufacturer: Thiel Audio Products Company, LLC
-  manufacturerUri: https://device-type.com
-  name: ThielAud
-type: d3-device-type-assertion

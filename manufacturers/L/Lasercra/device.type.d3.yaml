@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a3d117b1-373d-5e24-9c68-9cdfec615908
-  macAddresses:
-  - 00:23:17:00:00:00/24
-  manufacturer: Lasercraft Inc
-  manufacturerUri: https://device-type.com
-  name: Lasercra
-type: d3-device-type-assertion

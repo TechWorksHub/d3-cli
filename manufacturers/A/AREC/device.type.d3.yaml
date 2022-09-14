@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4a7123ce-946c-5f44-8e0e-e7e01795d973
-  macAddresses:
-  - BC:BA:E1:00:00:00/24
-  manufacturer: AREC Inc.
-  manufacturerUri: https://device-type.com
-  name: AREC
-type: d3-device-type-assertion

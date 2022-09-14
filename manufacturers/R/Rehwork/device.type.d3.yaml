@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ad0404a4-ffbe-5f65-896b-fec373ac3d0f
-  macAddresses:
-  - 70:B3:D5:5A:50:00/36
-  manufacturer: Rehwork GmbH
-  manufacturerUri: https://device-type.com
-  name: Rehwork
-type: d3-device-type-assertion

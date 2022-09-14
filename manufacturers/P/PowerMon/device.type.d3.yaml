@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5b66d86a-9381-569e-99eb-060fd508cc05
-  macAddresses:
-  - 00:1F:F4:00:00:00/24
-  manufacturer: Power Monitors, Inc.
-  manufacturerUri: https://device-type.com
-  name: PowerMon
-type: d3-device-type-assertion

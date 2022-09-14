@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: adc622aa-c8f0-5250-896b-08dae3c64784
-  macAddresses:
-  - 00:11:79:00:00:00/24
-  manufacturer: Singular Technology Co. Ltd.
-  manufacturerUri: https://device-type.com
-  name: Singular
-type: d3-device-type-assertion

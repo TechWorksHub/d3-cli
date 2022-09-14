@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 68e16959-9045-52e2-9c50-cdaab31f30f1
-  macAddresses:
-  - 70:B3:D5:6C:50:00/36
-  manufacturer: "CJSC \xABRussian telecom equipment company\xBB (CJSC RTEC)"
-  manufacturerUri: https://device-type.com
-  name: "CJSC\xABRus"
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a393d6fb-1ef2-5d0b-99c6-a975841edd98
-  macAddresses:
-  - 00:12:73:00:00:00/24
-  manufacturer: Stoke Inc
-  manufacturerUri: https://device-type.com
-  name: Stoke
-type: d3-device-type-assertion

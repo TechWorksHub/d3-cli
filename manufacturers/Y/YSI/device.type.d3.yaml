@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 90544799-c4c4-5891-a1eb-c835e235c874
-  macAddresses:
-  - 7C:55:E7:00:00:00/24
-  manufacturer: YSI, Inc.
-  manufacturerUri: https://device-type.com
-  name: YSI
-type: d3-device-type-assertion

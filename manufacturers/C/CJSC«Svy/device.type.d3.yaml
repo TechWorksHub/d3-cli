@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1b81ea66-bdae-5fd3-8997-b7aa53c33971
-  macAddresses:
-  - 0C:EF:AF:D0:00:00/28
-  manufacturer: "CJSC \xABSvyaz Engineering\xBB"
-  manufacturerUri: https://device-type.com
-  name: "CJSC\xABSvy"
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b71d2455-d691-5baa-a3ed-33b45de69de5
-  macAddresses:
-  - 88:01:18:00:00:00/24
-  manufacturer: BLT Co
-  manufacturerUri: https://device-type.com
-  name: BLT
-type: d3-device-type-assertion

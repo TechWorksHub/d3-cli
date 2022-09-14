@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d3816d97-4e4d-50ef-a0cc-e0497baeba5f
-  macAddresses:
-  - 00:0E:CE:00:00:00/24
-  manufacturer: S.I.T.T.I. S.p.A.
-  manufacturerUri: https://device-type.com
-  name: SITTI
-type: d3-device-type-assertion

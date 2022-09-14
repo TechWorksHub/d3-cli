@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 55b1321c-ea8e-540b-9d6f-68013dd972a6
-  macAddresses:
-  - 6C:AD:3F:00:00:00/24
-  manufacturer: Hubbell Building Automation, Inc.
-  manufacturerUri: https://device-type.com
-  name: HubbellB
-type: d3-device-type-assertion

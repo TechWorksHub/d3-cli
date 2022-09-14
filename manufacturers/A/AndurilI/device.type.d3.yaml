@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9cb882ae-4353-5e4c-bab0-57480be9c09e
-  macAddresses:
-  - E8:B4:70:C0:00:00/28
-  manufacturer: Anduril Industries
-  manufacturerUri: https://device-type.com
-  name: AndurilI
-type: d3-device-type-assertion

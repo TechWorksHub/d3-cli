@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5ea20409-5da7-57d2-a286-ff01201b7885
-  macAddresses:
-  - B8:14:13:00:00:00/24
-  manufacturer: Keen High Holding(HK) Ltd.
-  manufacturerUri: https://device-type.com
-  name: KeenHigh
-type: d3-device-type-assertion

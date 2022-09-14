@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 984e38f7-2325-57f1-b82d-03d7e24ee555
-  macAddresses:
-  - 78:99:5C:00:00:00/24
-  manufacturer: Nationz Technologies Inc
-  manufacturerUri: https://device-type.com
-  name: NationzT
-type: d3-device-type-assertion

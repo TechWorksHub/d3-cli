@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8cc46c68-4be5-5a0e-b948-516118b4050a
-  macAddresses:
-  - 70:B3:D5:B4:10:00/36
-  manufacturer: T&M Media Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: T&MMedia
-type: d3-device-type-assertion

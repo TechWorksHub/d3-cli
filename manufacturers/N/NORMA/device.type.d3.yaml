@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 49db9346-0fbf-5bfa-b210-4152c1280602
-  macAddresses:
-  - 00:50:C2:78:30:00/36
-  manufacturer: NORMA systems GmbH
-  manufacturerUri: https://device-type.com
-  name: NORMA
-type: d3-device-type-assertion

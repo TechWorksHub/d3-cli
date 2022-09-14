@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d5401973-e5c5-5191-828a-2c01bec6c46d
-  macAddresses:
-  - 00:23:E1:00:00:00/24
-  manufacturer: Cavena Image Products AB
-  manufacturerUri: https://device-type.com
-  name: CavenaIm
-type: d3-device-type-assertion

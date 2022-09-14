@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f707d4be-bc31-5567-b86c-0a136e7ca15b
-  macAddresses:
-  - 00:50:C2:12:E0:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Runcom
-type: d3-device-type-assertion

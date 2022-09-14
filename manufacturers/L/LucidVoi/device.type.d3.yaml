@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7a87a83e-2c16-530f-abba-14ff857ab182
-  macAddresses:
-  - 00:05:A4:00:00:00/24
-  manufacturer: Lucid Voice Ltd.
-  manufacturerUri: https://device-type.com
-  name: LucidVoi
-type: d3-device-type-assertion

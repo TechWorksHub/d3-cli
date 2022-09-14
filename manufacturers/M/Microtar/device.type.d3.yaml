@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 839528c0-4ce4-5179-880b-f782404b45d1
-  macAddresses:
-  - 00:50:C2:3B:00:00/36
-  manufacturer: Microtarget Tecnologia Digital Ltda.
-  manufacturerUri: https://device-type.com
-  name: Microtar
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8ac8179e-a855-59e1-9d13-e7795da9b71c
-  macAddresses:
-  - 00:50:C2:2E:B0:00/36
-  manufacturer: Lingg & Janke OHG
-  manufacturerUri: https://device-type.com
-  name: LinggJan
-type: d3-device-type-assertion

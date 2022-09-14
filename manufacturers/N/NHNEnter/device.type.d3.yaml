@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c4caa9df-66ab-54cf-907a-ad0e989cd6da
-  macAddresses:
-  - BC:8A:A3:00:00:00/24
-  manufacturer: NHN Entertainment
-  manufacturerUri: https://device-type.com
-  name: NHNEnter
-type: d3-device-type-assertion

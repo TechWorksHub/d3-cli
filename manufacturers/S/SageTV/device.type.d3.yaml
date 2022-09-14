@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 51ab93b3-20f9-5211-9097-ac92aad7c860
-  macAddresses:
-  - 00:23:A5:00:00:00/24
-  manufacturer: SageTV, LLC
-  manufacturerUri: https://device-type.com
-  name: SageTV
-type: d3-device-type-assertion

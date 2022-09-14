@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6940623b-d60b-55fb-9fd5-4ecd1ed4c3bd
-  macAddresses:
-  - DC:1D:D4:00:00:00/24
-  manufacturer: Microstep-MIS spol. s r.o.
-  manufacturerUri: https://device-type.com
-  name: Microste
-type: d3-device-type-assertion

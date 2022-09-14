@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 86f03c5e-7899-593e-9785-e70a84aa77bc
-  macAddresses:
-  - 00:50:C2:D1:60:00/36
-  manufacturer: Imricor Medical Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: ImricorM
-type: d3-device-type-assertion

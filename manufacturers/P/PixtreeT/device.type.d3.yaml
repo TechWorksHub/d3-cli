@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 69c56b98-466b-5f2e-a03a-9c5a495eb340
-  macAddresses:
-  - 00:50:C2:47:10:00/36
-  manufacturer: Pixtree Technologies, inc.
-  manufacturerUri: https://device-type.com
-  name: PixtreeT
-type: d3-device-type-assertion

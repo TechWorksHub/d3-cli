@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b2663f07-255e-5bd7-8a41-701d344ee676
-  macAddresses:
-  - 70:B3:D5:C2:F0:00/36
-  manufacturer: ATBiS Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: ATBiS
-type: d3-device-type-assertion

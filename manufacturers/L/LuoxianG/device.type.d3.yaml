@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ea354a96-cf7e-5fa0-b058-cb2989f875dd
-  macAddresses:
-  - A8:5B:36:40:00:00/28
-  manufacturer: Luoxian (Guandong) Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: LuoxianG
-type: d3-device-type-assertion

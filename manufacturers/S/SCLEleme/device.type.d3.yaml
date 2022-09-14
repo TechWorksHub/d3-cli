@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 712bf905-82b7-585d-8954-cf99691c872e
-  macAddresses:
-  - E4:AD:7D:00:00:00/24
-  manufacturer: SCL Elements
-  manufacturerUri: https://device-type.com
-  name: SCLEleme
-type: d3-device-type-assertion

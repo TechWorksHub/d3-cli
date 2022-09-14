@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 851c6a18-4c32-5a00-9eb4-b1f2e446ceca
-  macAddresses:
-  - A0:40:41:00:00:00/24
-  manufacturer: SAMWONFA Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: SAMWONFA
-type: d3-device-type-assertion

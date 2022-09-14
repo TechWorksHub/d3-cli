@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 398353ee-1667-5424-9346-078f532e9cfd
-  macAddresses:
-  - 78:88:8A:00:00:00/24
-  manufacturer: CDR Sp. z o.o. Sp. k.
-  manufacturerUri: https://device-type.com
-  name: CDRSpSpk
-type: d3-device-type-assertion

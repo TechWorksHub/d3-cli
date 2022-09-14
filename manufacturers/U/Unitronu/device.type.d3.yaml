@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 146e4e2d-e614-5b6a-ab49-656fe7a84c6b
-  macAddresses:
-  - 24:15:10:A0:00:00/28
-  manufacturer: Unitronux(Shenzhen) Intelligence Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: Unitronu
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: da313738-9c0c-51a8-a055-dfe7a6bff116
-  macAddresses:
-  - 90:61:0C:00:00:00/24
-  manufacturer: Fida International (S) Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: FidaInte
-type: d3-device-type-assertion

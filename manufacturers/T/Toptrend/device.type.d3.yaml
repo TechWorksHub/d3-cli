@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0e06bdf7-bb80-5ac7-99fc-f93a89dfbaa1
-  macAddresses:
-  - 00:06:37:00:00:00/24
-  manufacturer: Toptrend-Meta Information (ShenZhen) Inc.
-  manufacturerUri: https://device-type.com
-  name: Toptrend
-type: d3-device-type-assertion

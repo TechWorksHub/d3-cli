@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 98d6c462-f11c-50b3-bbfa-107489b17514
-  macAddresses:
-  - 04:88:E2:00:00:00/24
-  manufacturer: Beats Electronics LLC
-  manufacturerUri: https://device-type.com
-  name: BeatsEle
-type: d3-device-type-assertion

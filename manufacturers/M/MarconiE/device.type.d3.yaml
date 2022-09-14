@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 87b2f68f-c9b1-574f-9cf0-fbc457b0dc6e
-  macAddresses:
-  - 00:00:96:00:00:00/24
-  manufacturer: Marconi Electronics Ltd.
-  manufacturerUri: https://device-type.com
-  name: MarconiE
-type: d3-device-type-assertion

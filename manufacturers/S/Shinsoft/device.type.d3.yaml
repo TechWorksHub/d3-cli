@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e17956a5-337c-5af7-be00-5e7e6cccb61c
-  macAddresses:
-  - 50:62:55:E0:00:00/28
-  manufacturer: Shinsoft Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Shinsoft
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 06e60b78-dd26-5478-b7c5-f2d85ed36cd6
-  macAddresses:
-  - 3C:26:D5:00:00:00/24
-  manufacturer: Sotera Wireless
-  manufacturerUri: https://device-type.com
-  name: SoteraWi
-type: d3-device-type-assertion

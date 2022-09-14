@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2edf3c7e-b572-5aaf-8775-0a644b728749
-  macAddresses:
-  - 00:1A:B2:00:00:00/24
-  manufacturer: Cyber Solutions Inc.
-  manufacturerUri: https://device-type.com
-  name: CyberSol
-type: d3-device-type-assertion

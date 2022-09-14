@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f5bd547c-5cba-50a3-b480-4ade41060ac8
-  macAddresses:
-  - 70:B3:D5:EE:60:00/36
-  manufacturer: Vaunix Technology Corporation
-  manufacturerUri: https://device-type.com
-  name: VaunixTe
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d2c819d9-a3fc-5f7a-aae2-0b12f089b9e3
-  macAddresses:
-  - 94:0B:D5:00:00:00/24
-  manufacturer: Himax Technologies, Inc
-  manufacturerUri: https://device-type.com
-  name: HimaxTec
-type: d3-device-type-assertion

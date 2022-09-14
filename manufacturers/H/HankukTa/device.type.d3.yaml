@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0a77fc44-eeb7-5b84-afc7-292d9abde5db
-  macAddresses:
-  - 00:50:C2:3A:E0:00/36
-  manufacturer: Hankuk Tapi Computer Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: HankukTa
-type: d3-device-type-assertion

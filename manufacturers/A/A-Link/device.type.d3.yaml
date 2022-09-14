@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aa961978-4c5e-5abb-8e70-812552a06426
-  macAddresses:
-  - 00:1A:9F:00:00:00/24
-  manufacturer: A-Link Ltd
-  manufacturerUri: https://device-type.com
-  name: A-Link
-type: d3-device-type-assertion

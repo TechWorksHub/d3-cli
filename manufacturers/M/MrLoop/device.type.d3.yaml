@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e5ead2b3-e640-5947-af7f-32e03fdf9e25
-  macAddresses:
-  - 70:B3:D5:53:B0:00/36
-  manufacturer: Mr.Loop
-  manufacturerUri: https://device-type.com
-  name: MrLoop
-type: d3-device-type-assertion

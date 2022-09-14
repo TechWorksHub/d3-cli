@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5b257dd0-1a90-5261-8753-d3c318d3face
-  macAddresses:
-  - 60:50:C1:00:00:00/24
-  manufacturer: Kinetek Sports
-  manufacturerUri: https://device-type.com
-  name: KinetekS
-type: d3-device-type-assertion

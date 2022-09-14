@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9cc85745-1403-5ad1-ab89-8c7c98ed786a
-  macAddresses:
-  - 7C:1A:FC:00:00:00/24
-  manufacturer: Dalian Co-Edifice Video Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: DalianCo
-type: d3-device-type-assertion

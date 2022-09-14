@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0807a234-a896-5974-922b-0d70a8d0a59b
-  macAddresses:
-  - 00:50:C2:9C:80:00/36
-  manufacturer: ethermetrics
-  manufacturerUri: https://device-type.com
-  name: ethermet
-type: d3-device-type-assertion

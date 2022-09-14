@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eb29a2b2-b600-5ed3-9ee0-522134aec258
-  macAddresses:
-  - 70:B3:D5:9B:B0:00/36
-  manufacturer: Jinga-hi, Inc.
-  manufacturerUri: https://device-type.com
-  name: Jinga-hi
-type: d3-device-type-assertion

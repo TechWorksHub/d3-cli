@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 25d53db6-b077-5ead-b00e-73819b20d506
-  macAddresses:
-  - 0C:E5:D3:00:00:00/24
-  manufacturer: DH electronics GmbH
-  manufacturerUri: https://device-type.com
-  name: DHelectr
-type: d3-device-type-assertion

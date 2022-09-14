@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 52213249-247d-54bb-b179-31e7f314017b
-  macAddresses:
-  - 84:9D:C5:00:00:00/24
-  manufacturer: Centera Photonics Inc.
-  manufacturerUri: https://device-type.com
-  name: CenteraP
-type: d3-device-type-assertion

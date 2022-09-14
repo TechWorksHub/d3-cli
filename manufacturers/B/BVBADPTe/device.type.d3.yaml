@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d779fdc9-d5a1-5cf2-a93b-6f7885e0b8ac
-  macAddresses:
-  - 80:20:E1:00:00:00/24
-  manufacturer: BVBA DPTechnics
-  manufacturerUri: https://device-type.com
-  name: BVBADPTe
-type: d3-device-type-assertion

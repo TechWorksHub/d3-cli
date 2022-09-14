@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a570f6a6-2d65-59d5-93ae-88afbfa9a5f3
-  macAddresses:
-  - 00:0B:B9:00:00:00/24
-  manufacturer: Imsys AB
-  manufacturerUri: https://device-type.com
-  name: Imsys
-type: d3-device-type-assertion

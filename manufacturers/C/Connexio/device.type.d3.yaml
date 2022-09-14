@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fd36db44-14d2-5122-aad3-854cbf644bec
-  macAddresses:
-  - 00:0B:BD:00:00:00/24
-  manufacturer: Connexionz Limited
-  manufacturerUri: https://device-type.com
-  name: Connexio
-type: d3-device-type-assertion

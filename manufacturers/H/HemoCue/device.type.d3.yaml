@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c1d2c639-8dc1-5a4d-afeb-15ed9d42d9f6
-  macAddresses:
-  - 00:0A:91:00:00:00/24
-  manufacturer: HemoCue AB
-  manufacturerUri: https://device-type.com
-  name: HemoCue
-type: d3-device-type-assertion

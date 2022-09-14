@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0e6bf8af-8c9d-5678-b4f9-3183fd0d23de
-  macAddresses:
-  - 98:CB:27:00:00:00/24
-  manufacturer: Galore Networks Pvt. Ltd.
-  manufacturerUri: https://device-type.com
-  name: GaloreNe
-type: d3-device-type-assertion

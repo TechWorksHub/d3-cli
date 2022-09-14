@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4ca400a6-ca78-5821-b73c-e6425f096392
-  macAddresses:
-  - 70:B3:D5:09:80:00/36
-  manufacturer: Alcodex Technologies Private Limited
-  manufacturerUri: https://device-type.com
-  name: AlcodexT
-type: d3-device-type-assertion

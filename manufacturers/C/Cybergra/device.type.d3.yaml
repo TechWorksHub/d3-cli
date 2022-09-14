@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4e389bba-e298-52a5-9371-96f6ab1e5bc5
-  macAddresses:
-  - 00:80:65:00:00:00/24
-  manufacturer: Cybergraphic Systems Pty Ltd.
-  manufacturerUri: https://device-type.com
-  name: Cybergra
-type: d3-device-type-assertion

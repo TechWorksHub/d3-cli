@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 95acdf98-1cf0-5f4c-abce-251f07cf98ac
-  macAddresses:
-  - 00:02:93:00:00:00/24
-  manufacturer: Solid Data Systems
-  manufacturerUri: https://device-type.com
-  name: SolidDat
-type: d3-device-type-assertion

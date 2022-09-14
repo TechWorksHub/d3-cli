@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 69f6d951-3b4d-5f6d-9f1b-240cd8594dc0
-  macAddresses:
-  - 70:B3:D5:43:A0:00/36
-  manufacturer: ARKS Enterprises, Inc.
-  manufacturerUri: https://device-type.com
-  name: ARKSEnte
-type: d3-device-type-assertion

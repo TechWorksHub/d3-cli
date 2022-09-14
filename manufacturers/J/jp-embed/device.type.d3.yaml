@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6524f457-3bda-53dc-90e8-20c2c208e7d7
-  macAddresses:
-  - 00:0C:EE:00:00:00/24
-  manufacturer: jp-embedded
-  manufacturerUri: https://device-type.com
-  name: jp-embed
-type: d3-device-type-assertion

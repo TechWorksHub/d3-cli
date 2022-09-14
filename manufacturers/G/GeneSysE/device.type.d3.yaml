@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4a68b626-759c-5786-83c0-a9d2c13e17b4
-  macAddresses:
-  - 40:D8:55:0E:F0:00/36
-  manufacturer: GeneSys Elektronik GmbH
-  manufacturerUri: https://device-type.com
-  name: GeneSysE
-type: d3-device-type-assertion

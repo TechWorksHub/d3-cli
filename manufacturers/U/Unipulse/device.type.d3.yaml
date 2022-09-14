@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 267fe3b5-bdff-5d6e-ada5-d25f8c9897ef
-  macAddresses:
-  - 00:60:8D:00:00:00/24
-  manufacturer: Unipulse Corp.
-  manufacturerUri: https://device-type.com
-  name: Unipulse
-type: d3-device-type-assertion

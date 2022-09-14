@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 949aa806-3d2a-572b-81c2-466a1f5d870d
-  macAddresses:
-  - 00:00:51:00:00:00/24
-  manufacturer: Hob Electronic Gmbh & Co. Kg
-  manufacturerUri: https://device-type.com
-  name: HobElect
-type: d3-device-type-assertion

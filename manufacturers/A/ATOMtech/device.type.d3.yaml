@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b11f48ba-e24b-5843-8f1b-7278993924b0
-  macAddresses:
-  - 7C:DD:E9:00:00:00/24
-  manufacturer: ATOM tech Inc.
-  manufacturerUri: https://device-type.com
-  name: ATOMtech
-type: d3-device-type-assertion

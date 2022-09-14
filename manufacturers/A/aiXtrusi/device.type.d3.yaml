@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: de9ac321-054f-5c5f-b16f-474111b103b6
-  macAddresses:
-  - 00:50:C2:7D:C0:00/36
-  manufacturer: aiXtrusion GmbH
-  manufacturerUri: https://device-type.com
-  name: aiXtrusi
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 833cf41f-d31e-59f3-8c10-a1af9ba4dcfc
-  macAddresses:
-  - 00:24:7A:00:00:00/24
-  manufacturer: FU YI CHENG Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: FUYICHEN
-type: d3-device-type-assertion

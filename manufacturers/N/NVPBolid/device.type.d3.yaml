@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c56f70ec-bc0b-589e-a567-be777601f36b
-  macAddresses:
-  - 00:18:BC:00:00:00/24
-  manufacturer: ZAO NVP Bolid
-  manufacturerUri: https://device-type.com
-  name: NVPBolid
-type: d3-device-type-assertion

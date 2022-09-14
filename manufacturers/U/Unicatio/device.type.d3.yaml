@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 73d4f559-3a47-586c-9e6a-b80c3715857d
-  macAddresses:
-  - 00:0A:C7:00:00:00/24
-  manufacturer: Unication Group
-  manufacturerUri: https://device-type.com
-  name: Unicatio
-type: d3-device-type-assertion

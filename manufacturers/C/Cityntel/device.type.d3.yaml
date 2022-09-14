@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e4db5dba-9d2a-59dd-8fde-c2ae4e0b56e4
-  macAddresses:
-  - 70:B3:D5:58:90:00/36
-  manufacturer: Cityntel OU
-  manufacturerUri: https://device-type.com
-  name: Cityntel
-type: d3-device-type-assertion

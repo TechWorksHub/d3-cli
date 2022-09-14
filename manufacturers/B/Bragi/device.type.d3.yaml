@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d9c3ccdc-8391-5366-ae47-a967a5f1222d
-  macAddresses:
-  - D4:72:08:00:00:00/24
-  manufacturer: Bragi GmbH
-  manufacturerUri: https://device-type.com
-  name: Bragi
-type: d3-device-type-assertion

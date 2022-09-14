@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 84e05fcd-e06e-5608-85a5-e9dd87ddb857
-  macAddresses:
-  - 00:07:C9:00:00:00/24
-  manufacturer: Technol Seven Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: TechnolS
-type: d3-device-type-assertion

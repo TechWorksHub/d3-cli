@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 08e0409a-d741-579e-8a77-5e750715a116
-  macAddresses:
-  - 94:C9:62:00:00:00/24
-  manufacturer: Teseq AG
-  manufacturerUri: https://device-type.com
-  name: Teseq
-type: d3-device-type-assertion

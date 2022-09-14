@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f218bcf5-af87-5bd4-9158-cd8a3b025217
-  macAddresses:
-  - F4:D7:B2:00:00:00/24
-  manufacturer: LGS Innovations, LLC
-  manufacturerUri: https://device-type.com
-  name: LGSInnov
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7115bd33-a2b2-515a-b528-3c70a551935e
-  macAddresses:
-  - 00:50:C2:8F:00:00/36
-  manufacturer: Xentras Communications
-  manufacturerUri: https://device-type.com
-  name: XentrasC
-type: d3-device-type-assertion

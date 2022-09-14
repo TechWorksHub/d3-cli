@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9e11cf38-86f5-51a4-a983-d5ed9560754e
-  macAddresses:
-  - 74:E1:4A:D0:00:00/28
-  manufacturer: Knog Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: Knog
-type: d3-device-type-assertion

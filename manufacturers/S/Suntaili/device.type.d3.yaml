@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 97e68205-a728-5ae2-9015-20c21b61a278
-  macAddresses:
-  - E0:AA:B0:00:00:00/24
-  manufacturer: Suntaili Enterprise Co. Ltd,
-  manufacturerUri: https://device-type.com
-  name: Suntaili
-type: d3-device-type-assertion

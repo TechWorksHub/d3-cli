@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6a8091f2-1111-5e73-be8c-c9dac2bc48e8
-  macAddresses:
-  - C8:2C:2B:90:00:00/28
-  manufacturer: BIOT Sp. z o.o.
-  manufacturerUri: https://device-type.com
-  name: BIOTSp
-type: d3-device-type-assertion

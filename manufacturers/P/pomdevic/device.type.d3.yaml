@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7ced9686-bc05-523a-aa92-9cffb28082b1
-  macAddresses:
-  - 10:0C:24:00:00:00/24
-  manufacturer: pomdevices, LLC
-  manufacturerUri: https://device-type.com
-  name: pomdevic
-type: d3-device-type-assertion

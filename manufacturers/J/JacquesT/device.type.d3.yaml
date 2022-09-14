@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 34dbed2a-d0c7-56c9-ac95-e44d7d3ba838
-  macAddresses:
-  - 00:09:3C:00:00:00/24
-  manufacturer: Jacques Technologies P/L
-  manufacturerUri: https://device-type.com
-  name: JacquesT
-type: d3-device-type-assertion

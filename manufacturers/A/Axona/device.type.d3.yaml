@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a14de34e-eb61-598f-a0be-6b78bc1e483c
-  macAddresses:
-  - 00:24:42:00:00:00/24
-  manufacturer: Axona Limited
-  manufacturerUri: https://device-type.com
-  name: Axona
-type: d3-device-type-assertion

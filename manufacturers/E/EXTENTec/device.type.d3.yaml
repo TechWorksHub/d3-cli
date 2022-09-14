@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9a664bd1-7e8d-5c47-847a-b32c5551e275
-  macAddresses:
-  - CC:E0:C3:00:00:00/24
-  manufacturer: EXTEN Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: EXTENTec
-type: d3-device-type-assertion

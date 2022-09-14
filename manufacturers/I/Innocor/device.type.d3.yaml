@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2b592a9d-ad76-5bc6-9a28-a91b87d3bb1a
-  macAddresses:
-  - 00:50:C2:02:D0:00/36
-  manufacturer: Innocor LTD
-  manufacturerUri: https://device-type.com
-  name: Innocor
-type: d3-device-type-assertion

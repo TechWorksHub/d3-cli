@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d4da930b-92f0-53c8-970c-a0d51e5ef4d3
-  macAddresses:
-  - FC:E1:86:00:00:00/24
-  manufacturer: A3M Co., LTD
-  manufacturerUri: https://device-type.com
-  name: A3M
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1238e875-8b42-579a-88ec-f4f1a72e6a65
-  macAddresses:
-  - 20:85:93:C0:00:00/28
-  manufacturer: Regloplas AG
-  manufacturerUri: https://device-type.com
-  name: Reglopla
-type: d3-device-type-assertion

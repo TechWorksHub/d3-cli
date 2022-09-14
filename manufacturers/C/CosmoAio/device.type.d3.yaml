@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d6d36a68-1efe-500d-904d-1805967cdfe5
-  macAddresses:
-  - 10:54:D2:E0:00:00/28
-  manufacturer: Cosmo Aiot Technology Co Ltd
-  manufacturerUri: https://device-type.com
-  name: CosmoAio
-type: d3-device-type-assertion

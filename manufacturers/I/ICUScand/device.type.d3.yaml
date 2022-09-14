@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 95fc3231-fc09-53b5-9258-2b751b263ab7
-  macAddresses:
-  - 00:50:C2:E0:30:00/36
-  manufacturer: ICU Scandinavia Schweiz GmbH
-  manufacturerUri: https://device-type.com
-  name: ICUScand
-type: d3-device-type-assertion

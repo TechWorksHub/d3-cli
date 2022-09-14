@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cb57640a-d83a-5956-b10c-c2eb8a4f6390
-  macAddresses:
-  - 64:50:D6:00:00:00/24
-  manufacturer: Liquidtool Systems
-  manufacturerUri: https://device-type.com
-  name: Liquidto
-type: d3-device-type-assertion

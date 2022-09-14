@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d6aecae9-59d7-51d5-ad23-3d09ab42c9ef
-  macAddresses:
-  - 00:1A:B5:00:00:00/24
-  manufacturer: Home Network System
-  manufacturerUri: https://device-type.com
-  name: HomeNetw
-type: d3-device-type-assertion

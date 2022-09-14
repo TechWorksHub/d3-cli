@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0418881a-e858-5c09-8bea-285493de7cec
-  macAddresses:
-  - 00:06:68:00:00:00/24
-  manufacturer: Vicon Industries Inc.
-  manufacturerUri: https://device-type.com
-  name: ViconInd
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 467706ce-5067-514d-8245-9b7e502629a1
-  macAddresses:
-  - 64:DB:18:00:00:00/24
-  manufacturer: OpenPattern
-  manufacturerUri: https://device-type.com
-  name: OpenPatt
-type: d3-device-type-assertion

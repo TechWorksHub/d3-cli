@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 92a0254d-e8b7-521c-bc63-1f0d09e374f7
-  macAddresses:
-  - 40:D8:55:16:10:00/36
-  manufacturer: Solidscape Inc
-  manufacturerUri: https://device-type.com
-  name: Solidsca
-type: d3-device-type-assertion

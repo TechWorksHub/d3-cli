@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 531f149b-50b9-5fb4-983e-45970057c172
-  macAddresses:
-  - 00:50:C2:C5:40:00/36
-  manufacturer: HPC Platform
-  manufacturerUri: https://device-type.com
-  name: HPCPlatf
-type: d3-device-type-assertion

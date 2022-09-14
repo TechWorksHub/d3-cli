@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8ca1c95a-1521-5448-aedf-8eafbc57126b
-  macAddresses:
-  - A0:19:B2:80:00:00/28
-  manufacturer: MIS Industrie Systeme GmbH & Co. KG
-  manufacturerUri: https://device-type.com
-  name: MISIndus
-type: d3-device-type-assertion

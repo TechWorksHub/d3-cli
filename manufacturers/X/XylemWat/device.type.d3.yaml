@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3ffd2dcf-7c50-5728-9dee-b398945d4a26
-  macAddresses:
-  - 00:0C:F9:00:00:00/24
-  manufacturer: Xylem Water Solutions
-  manufacturerUri: https://device-type.com
-  name: XylemWat
-type: d3-device-type-assertion

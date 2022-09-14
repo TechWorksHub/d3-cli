@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 032906c2-5485-58b2-a1e0-8d11b6e53969
-  macAddresses:
-  - E8:36:1D:00:00:00/24
-  manufacturer: Sense Labs, Inc.
-  manufacturerUri: https://device-type.com
-  name: SenseLab
-type: d3-device-type-assertion

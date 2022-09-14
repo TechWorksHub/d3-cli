@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 14e18643-1f09-52b3-8191-d4b2b3aa3d9c
-  macAddresses:
-  - 00:08:E0:00:00:00/24
-  manufacturer: ATO Technology Ltd.
-  manufacturerUri: https://device-type.com
-  name: ATOTechn
-type: d3-device-type-assertion

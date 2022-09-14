@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d49a46ef-53fe-5f7d-8708-66a538335cf4
-  macAddresses:
-  - 30:43:D7:00:00:00/28
-  manufacturer: Symes Sa
-  manufacturerUri: https://device-type.com
-  name: Symes
-type: d3-device-type-assertion

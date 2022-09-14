@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7d73dcd3-a9f7-5c69-b962-6587d2f9218f
-  macAddresses:
-  - 70:B3:D5:F2:10:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: dds
-type: d3-device-type-assertion

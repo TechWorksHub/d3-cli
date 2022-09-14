@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2609ae4e-6868-52e8-a633-1428b843421c
-  macAddresses:
-  - 00:22:AD:00:00:00/24
-  manufacturer: Telesis Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: TelesisT
-type: d3-device-type-assertion

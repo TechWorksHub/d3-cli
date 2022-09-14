@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 563d83ab-9909-5f2b-9398-911638517854
-  macAddresses:
-  - D4:DF:57:00:00:00/24
-  manufacturer: Alpinion Medical Systems
-  manufacturerUri: https://device-type.com
-  name: Alpinion
-type: d3-device-type-assertion

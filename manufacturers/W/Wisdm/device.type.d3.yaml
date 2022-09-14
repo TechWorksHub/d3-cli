@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cb1f2fe5-f056-5163-a486-8569f95738a7
-  macAddresses:
-  - 00:20:3B:00:00:00/24
-  manufacturer: Wisdm Ltd.
-  manufacturerUri: https://device-type.com
-  name: Wisdm
-type: d3-device-type-assertion

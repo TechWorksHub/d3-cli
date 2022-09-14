@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9b7a07df-fc2a-59dd-b0e8-d4361a2ccf11
-  macAddresses:
-  - 3C:8A:E5:00:00:00/24
-  manufacturer: Tensun Information Technology(Hangzhou) Co.,LTD
-  manufacturerUri: https://device-type.com
-  name: TensunIn
-type: d3-device-type-assertion

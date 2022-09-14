@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c9860bf0-2bea-5842-91ae-ea10f20303c8
-  macAddresses:
-  - 00:E0:4A:00:00:00/24
-  manufacturer: ZX Technologies, Inc
-  manufacturerUri: https://device-type.com
-  name: ZXTechno
-type: d3-device-type-assertion

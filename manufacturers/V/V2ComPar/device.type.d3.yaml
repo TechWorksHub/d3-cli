@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ff403836-0223-54ba-9a79-4eaa5e78b8c2
-  macAddresses:
-  - 38:F8:B7:00:00:00/24
-  manufacturer: V2Com Participacoes S.A.
-  manufacturerUri: https://device-type.com
-  name: V2ComPar
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2eab2012-afdd-537c-861a-feeabcfb69ef
-  macAddresses:
-  - EC:10:00:00:00:00/24
-  manufacturer: Enance Source Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: EnanceSo
-type: d3-device-type-assertion

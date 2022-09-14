@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bbdd76c7-539a-5966-946a-44145aa6560e
-  macAddresses:
-  - 00:0D:68:00:00:00/24
-  manufacturer: Vinci Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Vinci
-type: d3-device-type-assertion

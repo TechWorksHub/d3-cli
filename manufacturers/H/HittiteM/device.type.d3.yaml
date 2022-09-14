@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 90156022-6ac1-5e19-9cf7-82df1e38ab34
-  macAddresses:
-  - 00:24:2A:00:00:00/24
-  manufacturer: Hittite Microwave Corporation
-  manufacturerUri: https://device-type.com
-  name: HittiteM
-type: d3-device-type-assertion

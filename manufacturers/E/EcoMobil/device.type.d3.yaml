@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a2e7c697-ddb0-5306-bea0-b6df790d981a
-  macAddresses:
-  - D0:C8:57:70:00:00/28
-  manufacturer: Eco Mobile
-  manufacturerUri: https://device-type.com
-  name: EcoMobil
-type: d3-device-type-assertion

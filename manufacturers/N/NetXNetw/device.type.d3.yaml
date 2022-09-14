@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5211e7f4-25ed-5455-b2c5-e046531c27c5
-  macAddresses:
-  - 44:A9:2C:40:00:00/28
-  manufacturer: NetX Networks a.s.
-  manufacturerUri: https://device-type.com
-  name: NetXNetw
-type: d3-device-type-assertion

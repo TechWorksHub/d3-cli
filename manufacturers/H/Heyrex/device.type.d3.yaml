@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e4204227-317f-5327-9012-12589f4d7e7f
-  macAddresses:
-  - DC:30:9C:00:00:00/24
-  manufacturer: Heyrex Limited
-  manufacturerUri: https://device-type.com
-  name: Heyrex
-type: d3-device-type-assertion

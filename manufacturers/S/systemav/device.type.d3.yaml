@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 661f42be-c062-550d-bb5e-b2bc21d33045
-  macAddresses:
-  - 88:3F:0C:00:00:00/24
-  manufacturer: system a.v. co., ltd.
-  manufacturerUri: https://device-type.com
-  name: systemav
-type: d3-device-type-assertion

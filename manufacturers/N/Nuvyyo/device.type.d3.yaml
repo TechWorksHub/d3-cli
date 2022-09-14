@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 65292853-9706-5680-9bf5-a47805cc1a5a
-  macAddresses:
-  - 50:87:B8:00:00:00/24
-  manufacturer: Nuvyyo Inc
-  manufacturerUri: https://device-type.com
-  name: Nuvyyo
-type: d3-device-type-assertion

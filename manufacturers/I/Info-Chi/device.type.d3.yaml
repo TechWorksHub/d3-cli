@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a07ff7c8-0480-5ba0-9abd-f48c0db97a1f
-  macAddresses:
-  - 00:50:C2:5E:80:00/36
-  manufacturer: Info-Chip Communications Ltd.
-  manufacturerUri: https://device-type.com
-  name: Info-Chi
-type: d3-device-type-assertion

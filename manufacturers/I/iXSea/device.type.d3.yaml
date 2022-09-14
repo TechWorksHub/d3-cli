@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a2d8639d-b386-5006-9bc5-d0d925853dfc
-  macAddresses:
-  - 00:19:8C:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: iXSea
-type: d3-device-type-assertion

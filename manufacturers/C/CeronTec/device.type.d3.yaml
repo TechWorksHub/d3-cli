@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 326d84a5-f85f-537b-af66-d9e283e21c88
-  macAddresses:
-  - 00:50:C2:A9:10:00/36
-  manufacturer: Ceron Tech Co.,LTD
-  manufacturerUri: https://device-type.com
-  name: CeronTec
-type: d3-device-type-assertion

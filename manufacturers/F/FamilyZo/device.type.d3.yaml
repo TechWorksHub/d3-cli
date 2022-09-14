@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4e01eef0-7b8b-5f53-93c8-5db84607725d
-  macAddresses:
-  - 78:FC:14:00:00:00/24
-  manufacturer: Family Zone Cyber Safety Ltd
-  manufacturerUri: https://device-type.com
-  name: FamilyZo
-type: d3-device-type-assertion

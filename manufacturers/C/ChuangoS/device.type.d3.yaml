@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ba330979-4cef-5acb-9c58-979897db279f
-  macAddresses:
-  - 84:DF:19:00:00:00/24
-  manufacturer: Chuango Security Technology Corporation
-  manufacturerUri: https://device-type.com
-  name: ChuangoS
-type: d3-device-type-assertion

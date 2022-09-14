@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e1bcbfe7-fdfd-5c3b-b79e-b6b83fd8dc65
-  macAddresses:
-  - 00:01:2E:00:00:00/24
-  manufacturer: PC Partner Ltd.
-  manufacturerUri: https://device-type.com
-  name: PCPartne
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b055c1b9-5c62-56bd-b854-b9549a26917a
-  macAddresses:
-  - 68:D2:47:00:00:00/24
-  manufacturer: Portalis LC
-  manufacturerUri: https://device-type.com
-  name: Portalis
-type: d3-device-type-assertion

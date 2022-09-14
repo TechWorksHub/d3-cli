@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bc392552-b46d-5da7-bfc3-89767a035b21
-  macAddresses:
-  - 70:B0:8C:00:00:00/24
-  manufacturer: Shenou Communication Equipment Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: ShenouCo
-type: d3-device-type-assertion

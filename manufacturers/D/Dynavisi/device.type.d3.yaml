@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f51be968-8222-5bef-8439-efcd2956e87f
-  macAddresses:
-  - 00:1A:F2:00:00:00/24
-  manufacturer: Dynavisions Schweiz AG
-  manufacturerUri: https://device-type.com
-  name: Dynavisi
-type: d3-device-type-assertion

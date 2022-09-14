@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 80420cd3-dceb-5f62-8506-e6ecf4dc6f4c
-  macAddresses:
-  - 00:90:ED:00:00:00/24
-  manufacturer: Central System Research Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: CentralS
-type: d3-device-type-assertion

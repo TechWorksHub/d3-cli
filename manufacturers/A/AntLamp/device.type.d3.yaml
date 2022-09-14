@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e85ae780-54cf-5b60-af0b-f9bd560074b9
-  macAddresses:
-  - 00:50:C2:73:50:00/36
-  manufacturer: Ant Lamp, Inc
-  manufacturerUri: https://device-type.com
-  name: AntLamp
-type: d3-device-type-assertion

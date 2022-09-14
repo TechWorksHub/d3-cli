@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2afb9729-ac1f-54bc-a55d-f2107d18450b
-  macAddresses:
-  - F4:69:D5:20:00:00/28
-  manufacturer: Pulsar Engineering srl
-  manufacturerUri: https://device-type.com
-  name: PulsarEn
-type: d3-device-type-assertion

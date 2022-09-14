@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1b77a1c2-138c-5a48-8963-1c81ed42f2b3
-  macAddresses:
-  - B4:4B:D6:60:00:00/28
-  manufacturer: Perspicace Intellegince Technology
-  manufacturerUri: https://device-type.com
-  name: Perspica
-type: d3-device-type-assertion

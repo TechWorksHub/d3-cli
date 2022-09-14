@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 851d81c4-d181-51a0-bc63-f1a3b6fd70eb
-  macAddresses:
-  - 88:F4:88:00:00:00/24
-  manufacturer: cellon communications technology(shenzhen)Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: cellonco
-type: d3-device-type-assertion

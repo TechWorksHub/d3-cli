@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 430f4eca-b934-5459-8b2c-61657848d88b
-  macAddresses:
-  - 70:B3:D5:DD:B0:00/36
-  manufacturer: Intra Corporation
-  manufacturerUri: https://device-type.com
-  name: Intra
-type: d3-device-type-assertion

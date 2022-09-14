@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4e230556-a661-5354-93de-a44535b2184d
-  macAddresses:
-  - 00:1A:68:00:00:00/24
-  manufacturer: Weltec Enterprise Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: WeltecEn
-type: d3-device-type-assertion

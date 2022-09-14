@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 24c9a9f0-1f55-5f65-b85b-4132941bd077
-  macAddresses:
-  - 00:40:46:00:00:00/24
-  manufacturer: Udc Research Limited
-  manufacturerUri: https://device-type.com
-  name: UdcResea
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2ee4a04c-34de-5d99-a4a0-8ba3af8f0a78
-  macAddresses:
-  - 0C:E8:2F:00:00:00/24
-  manufacturer: Bonfiglioli Vectron GmbH
-  manufacturerUri: https://device-type.com
-  name: Bonfigli
-type: d3-device-type-assertion

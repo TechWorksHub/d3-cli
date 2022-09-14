@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aa2a67bb-6f8e-5e03-99f7-026332afd46d
-  macAddresses:
-  - 00:0B:15:00:00:00/24
-  manufacturer: Platypus Technology
-  manufacturerUri: https://device-type.com
-  name: Platypus
-type: d3-device-type-assertion

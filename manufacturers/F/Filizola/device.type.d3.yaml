@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1720cb73-04ef-56e2-a35e-5b367c3af7f3
-  macAddresses:
-  - A4:E0:E6:00:00:00/24
-  manufacturer: Filizola S.A. Pesagem E Automacao
-  manufacturerUri: https://device-type.com
-  name: Filizola
-type: d3-device-type-assertion

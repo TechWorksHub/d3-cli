@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 07a32967-637d-5f6d-b6bb-40fd9f2dd391
-  macAddresses:
-  - 00:50:C2:73:D0:00/36
-  manufacturer: cryptiris
-  manufacturerUri: https://device-type.com
-  name: cryptiri
-type: d3-device-type-assertion

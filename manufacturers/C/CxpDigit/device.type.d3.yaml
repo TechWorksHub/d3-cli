@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 710f2b54-3a10-5f37-b23d-f07c8147d02c
-  macAddresses:
-  - 00:25:13:00:00:00/24
-  manufacturer: Cxp Digital Bv
-  manufacturerUri: https://device-type.com
-  name: CxpDigit
-type: d3-device-type-assertion

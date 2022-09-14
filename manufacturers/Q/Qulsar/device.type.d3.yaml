@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dd1c3ca6-6c4d-5e2c-8f55-70a8fff3128a
-  macAddresses:
-  - FC:AF:6A:00:00:00/24
-  manufacturer: Qulsar Inc
-  manufacturerUri: https://device-type.com
-  name: Qulsar
-type: d3-device-type-assertion

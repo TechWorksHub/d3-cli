@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ae1fef36-20d0-5b1c-901f-c3c93423df7d
-  macAddresses:
-  - 94:54:93:00:00:00/24
-  manufacturer: Rigado, LLC
-  manufacturerUri: https://device-type.com
-  name: Rigado
-type: d3-device-type-assertion

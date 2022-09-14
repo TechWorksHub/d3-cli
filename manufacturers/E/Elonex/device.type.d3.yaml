@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fb450f1e-be8f-5a96-ae29-c2384695cf02
-  macAddresses:
-  - 00:C0:5C:00:00:00/24
-  manufacturer: Elonex Plc
-  manufacturerUri: https://device-type.com
-  name: Elonex
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eef45c5e-435c-5d9d-ae0b-304384670938
-  macAddresses:
-  - 60:B6:06:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Phorus
-type: d3-device-type-assertion

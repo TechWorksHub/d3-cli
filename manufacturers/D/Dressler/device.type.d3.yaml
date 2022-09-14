@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 321ea35c-2911-50f4-9ec7-5b0540ab5e08
-  macAddresses:
-  - 00:40:98:00:00:00/24
-  manufacturer: Dressler Gmbh & Co.
-  manufacturerUri: https://device-type.com
-  name: Dressler
-type: d3-device-type-assertion

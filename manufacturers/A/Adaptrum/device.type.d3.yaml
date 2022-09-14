@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c6b5b4b7-2345-5ebf-9597-06c4d95c00ed
-  macAddresses:
-  - F0:F5:AE:00:00:00/24
-  manufacturer: Adaptrum Inc.
-  manufacturerUri: https://device-type.com
-  name: Adaptrum
-type: d3-device-type-assertion

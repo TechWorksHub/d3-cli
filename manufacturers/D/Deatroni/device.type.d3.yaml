@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4dfc64f5-a132-5e2c-a0c0-e957ca987c9e
-  macAddresses:
-  - A4:3B:FA:70:00:00/28
-  manufacturer: Deatronic srl
-  manufacturerUri: https://device-type.com
-  name: Deatroni
-type: d3-device-type-assertion

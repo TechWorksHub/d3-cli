@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c65a3a4a-883c-5683-ad55-938a5e92525e
-  macAddresses:
-  - 00:11:C8:00:00:00/24
-  manufacturer: Powercom Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Powercom
-type: d3-device-type-assertion

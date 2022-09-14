@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 88971680-ff6c-5c98-8110-b9f377a2fbe3
-  macAddresses:
-  - 00:50:C2:38:B0:00/36
-  manufacturer: InterBridge,Inc.
-  manufacturerUri: https://device-type.com
-  name: InterBri
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ab154f13-da13-538f-99be-f282c10d14e1
-  macAddresses:
-  - 00:20:08:00:00:00/24
-  manufacturer: Cable & Computer Technology
-  manufacturerUri: https://device-type.com
-  name: CableCom
-type: d3-device-type-assertion

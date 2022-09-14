@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0e65a31b-33ff-568d-885d-9bbce67e43e4
-  macAddresses:
-  - 00:50:C2:6C:10:00/36
-  manufacturer: RADIUS Sweden AB
-  manufacturerUri: https://device-type.com
-  name: RADIUSSw
-type: d3-device-type-assertion

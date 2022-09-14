@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ad9ef243-9ca3-5695-9e79-3fdaf5d0ace3
-  macAddresses:
-  - 00:1C:02:00:00:00/24
-  manufacturer: Pano Logic
-  manufacturerUri: https://device-type.com
-  name: PanoLogi
-type: d3-device-type-assertion

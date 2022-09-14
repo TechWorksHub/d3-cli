@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 64212ce0-fdbc-5339-a538-bcc5dd7629b5
-  macAddresses:
-  - 00:0E:C4:00:00:00/24
-  manufacturer: Iskra Transmission d.d.
-  manufacturerUri: https://device-type.com
-  name: IskraTra
-type: d3-device-type-assertion

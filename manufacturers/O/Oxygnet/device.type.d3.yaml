@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fb78a935-f4fa-5c96-a0ce-253e154e9cd3
-  macAddresses:
-  - 00:0B:50:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Oxygnet
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8db3f430-a27b-5fad-982c-4ec48a61b404
-  macAddresses:
-  - FC:D2:B6:70:00:00/28
-  manufacturer: Teamly Digital
-  manufacturerUri: https://device-type.com
-  name: TeamlyDi
-type: d3-device-type-assertion

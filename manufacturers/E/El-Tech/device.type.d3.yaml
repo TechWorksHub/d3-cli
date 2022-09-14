@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b7aba18e-3672-5ffe-a216-40623222c247
-  macAddresses:
-  - 00:18:86:00:00:00/24
-  manufacturer: El-Tech, Inc.
-  manufacturerUri: https://device-type.com
-  name: El-Tech
-type: d3-device-type-assertion

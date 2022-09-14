@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 140ae571-9e81-5ba9-999c-509c27e8bb33
-  macAddresses:
-  - AC:64:DD:00:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Jia-Teng
-type: d3-device-type-assertion

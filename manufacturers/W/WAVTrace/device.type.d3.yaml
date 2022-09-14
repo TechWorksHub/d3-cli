@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e3bb17d9-b6e9-555b-aa06-c62800176808
-  macAddresses:
-  - 00:90:11:00:00:00/24
-  manufacturer: WAVTrace, Inc.
-  manufacturerUri: https://device-type.com
-  name: WAVTrace
-type: d3-device-type-assertion

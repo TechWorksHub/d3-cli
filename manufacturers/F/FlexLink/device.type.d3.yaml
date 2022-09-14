@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 12b02c0c-b2bd-5f12-9214-8d6bb0aa4520
-  macAddresses:
-  - A0:28:33:B0:00:00/28
-  manufacturer: FlexLink AB
-  manufacturerUri: https://device-type.com
-  name: FlexLink
-type: d3-device-type-assertion

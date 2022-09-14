@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c50c88fe-8fea-573c-9b15-65bd063f7365
-  macAddresses:
-  - 70:B3:D5:A6:A0:00/36
-  manufacturer: Privafy, Inc
-  manufacturerUri: https://device-type.com
-  name: Privafy
-type: d3-device-type-assertion

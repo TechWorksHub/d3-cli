@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eab643a4-e824-5d2a-b247-f25abf35bb13
-  macAddresses:
-  - 8C:AE:49:90:00:00/28
-  manufacturer: TTR Corporation
-  manufacturerUri: https://device-type.com
-  name: TTR
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bcf5e71c-8a33-52fc-b56c-0e8702d3a804
-  macAddresses:
-  - 04:D1:6E:20:00:00/28
-  manufacturer: s.d.i. s.p.a.
-  manufacturerUri: https://device-type.com
-  name: sdi
-type: d3-device-type-assertion

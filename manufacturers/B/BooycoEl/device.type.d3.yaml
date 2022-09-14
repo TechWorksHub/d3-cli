@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3bd1b23c-bac3-5682-b3d1-4b2d20530d1a
-  macAddresses:
-  - 00:50:C2:FF:60:00/36
-  manufacturer: Booyco Electronics
-  manufacturerUri: https://device-type.com
-  name: BooycoEl
-type: d3-device-type-assertion

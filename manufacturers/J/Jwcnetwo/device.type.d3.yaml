@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 247c7a92-e859-52a5-86fb-1faefc47fca2
-  macAddresses:
-  - BC:38:65:00:00:00/24
-  manufacturer: Jwcnetworks
-  manufacturerUri: https://device-type.com
-  name: Jwcnetwo
-type: d3-device-type-assertion

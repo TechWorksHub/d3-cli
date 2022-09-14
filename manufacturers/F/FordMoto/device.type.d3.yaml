@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e8d838fa-fa32-5a94-800f-929970997b92
-  macAddresses:
-  - 00:26:B4:00:00:00/24
-  manufacturer: Ford Motor Company
-  manufacturerUri: https://device-type.com
-  name: FordMoto
-type: d3-device-type-assertion

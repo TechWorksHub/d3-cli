@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a6fc7539-9d0e-51c5-b37f-4e53f60f02e1
-  macAddresses:
-  - 00:8B:FC:00:00:00/24
-  manufacturer: mixi,Inc.
-  manufacturerUri: https://device-type.com
-  name: mixi
-type: d3-device-type-assertion

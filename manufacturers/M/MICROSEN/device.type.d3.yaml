@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8bcd0905-4da1-5700-894a-c6b07b4c873a
-  macAddresses:
-  - 00:60:A7:00:00:00/24
-  manufacturer: MICROSENS GmbH & CO. KG
-  manufacturerUri: https://device-type.com
-  name: MICROSEN
-type: d3-device-type-assertion

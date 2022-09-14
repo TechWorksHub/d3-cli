@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2b3c8b6d-78c2-569d-8f8b-d9c10f12098b
-  macAddresses:
-  - 00:50:C2:61:B0:00/36
-  manufacturer: NCI Technologies Inc.
-  manufacturerUri: https://device-type.com
-  name: NCITechn
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 755da732-d8e4-5d90-a44c-97ed6acb6019
-  macAddresses:
-  - 9C:5C:8D:00:00:00/24
-  manufacturer: "Firemax Ind\xFAstria E Com\xE9rcio De Produtos Eletr\xF4nicos Ltda"
-  manufacturerUri: https://device-type.com
-  name: FiremaxI
-type: d3-device-type-assertion

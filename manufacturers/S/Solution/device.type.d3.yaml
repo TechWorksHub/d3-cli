@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fe00a5d8-af6e-5fab-82ae-0f63ec865192
-  macAddresses:
-  - 00:0E:B0:00:00:00/24
-  manufacturer: Solutions Radio BV
-  manufacturerUri: https://device-type.com
-  name: Solution
-type: d3-device-type-assertion

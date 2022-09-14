@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d93dd82b-6e0c-5aa8-aeb4-5bb321ed2206
-  macAddresses:
-  - 34:6F:ED:00:00:00/24
-  manufacturer: Enovation Controls
-  manufacturerUri: https://device-type.com
-  name: Enovatio
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2b6a1ff0-6126-5db9-b437-e2e7ddace646
-  macAddresses:
-  - 70:69:79:70:00:00/28
-  manufacturer: Intelitech SIA
-  manufacturerUri: https://device-type.com
-  name: Intelite
-type: d3-device-type-assertion

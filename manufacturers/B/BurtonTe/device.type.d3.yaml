@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fe6d5b2b-6538-5989-9942-559528237d45
-  macAddresses:
-  - 40:D8:55:09:70:00/36
-  manufacturer: Burton Technical Services LLC
-  manufacturerUri: https://device-type.com
-  name: BurtonTe
-type: d3-device-type-assertion

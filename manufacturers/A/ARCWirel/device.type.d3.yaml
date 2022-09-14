@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 48a920aa-3a85-5935-82c3-9c870238ba23
-  macAddresses:
-  - A8:87:ED:00:00:00/24
-  manufacturer: ARC Wireless LLC
-  manufacturerUri: https://device-type.com
-  name: ARCWirel
-type: d3-device-type-assertion

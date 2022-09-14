@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 80daa15f-8081-54aa-9f9a-c803a75c6f19
-  macAddresses:
-  - 3C:39:E7:80:00:00/28
-  manufacturer: Martem AS
-  manufacturerUri: https://device-type.com
-  name: MartemAS
-type: d3-device-type-assertion

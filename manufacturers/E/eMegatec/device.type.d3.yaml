@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ed712f03-52d7-538c-8627-9092cc57a47a
-  macAddresses:
-  - D8:9D:B9:00:00:00/24
-  manufacturer: eMegatech International Corp.
-  manufacturerUri: https://device-type.com
-  name: eMegatec
-type: d3-device-type-assertion

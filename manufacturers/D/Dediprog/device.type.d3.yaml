@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 730d3afb-ad9e-5356-845f-00663ddea594
-  macAddresses:
-  - F4:F6:46:00:00:00/24
-  manufacturer: Dediprog Technology Co. Ltd.
-  manufacturerUri: https://device-type.com
-  name: Dediprog
-type: d3-device-type-assertion

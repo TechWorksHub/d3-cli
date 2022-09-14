@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8f7c5f71-c4f3-5025-ad26-adfd3780f4f0
-  macAddresses:
-  - 44:A9:2C:10:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: uimcom
-type: d3-device-type-assertion

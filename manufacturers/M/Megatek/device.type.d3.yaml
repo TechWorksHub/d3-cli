@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 76380d25-9cb1-54eb-b059-61841099a509
-  macAddresses:
-  - 08:00:29:00:00:00/24
-  manufacturer: Megatek Corporation
-  manufacturerUri: https://device-type.com
-  name: Megatek
-type: d3-device-type-assertion

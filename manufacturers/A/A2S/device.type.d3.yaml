@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c39d7cc5-dafc-5885-9c02-9f1c3759718f
-  macAddresses:
-  - 40:D8:55:01:E0:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: A2S
-type: d3-device-type-assertion

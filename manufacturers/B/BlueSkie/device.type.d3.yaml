@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 99291b18-ed44-54a1-adf6-4bc1327ed6fb
-  macAddresses:
-  - 70:B3:D5:1D:80:00/36
-  manufacturer: Blue Skies Global LLC
-  manufacturerUri: https://device-type.com
-  name: BlueSkie
-type: d3-device-type-assertion

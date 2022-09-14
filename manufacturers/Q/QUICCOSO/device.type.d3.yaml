@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: af633ef3-9546-53c6-9b55-39db017ddb1d
-  macAddresses:
-  - 70:B3:D5:A7:E0:00/36
-  manufacturer: QUICCO SOUND Corporation
-  manufacturerUri: https://device-type.com
-  name: QUICCOSO
-type: d3-device-type-assertion

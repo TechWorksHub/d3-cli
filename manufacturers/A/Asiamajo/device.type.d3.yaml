@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 86e14603-fbe6-5ec1-be67-c6241278dcbe
-  macAddresses:
-  - 00:13:14:00:00:00/24
-  manufacturer: Asiamajor Inc.
-  manufacturerUri: https://device-type.com
-  name: Asiamajo
-type: d3-device-type-assertion

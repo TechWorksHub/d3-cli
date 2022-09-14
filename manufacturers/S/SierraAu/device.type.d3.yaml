@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e1804e9d-bbae-5545-bce3-368d71f820e1
-  macAddresses:
-  - 00:07:41:00:00:00/24
-  manufacturer: Sierra Automated Systems
-  manufacturerUri: https://device-type.com
-  name: SierraAu
-type: d3-device-type-assertion

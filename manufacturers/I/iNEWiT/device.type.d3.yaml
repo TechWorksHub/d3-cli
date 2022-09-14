@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 87440f16-54a0-57e0-913a-1cca2cba6783
-  macAddresses:
-  - 00:1C:36:00:00:00/24
-  manufacturer: iNEWiT NV
-  manufacturerUri: https://device-type.com
-  name: iNEWiT
-type: d3-device-type-assertion

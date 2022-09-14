@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: edfc00a4-f8d9-54e4-a2cd-63ca500414fc
-  macAddresses:
-  - A8:EF:26:00:00:00/24
-  manufacturer: Tritonwave
-  manufacturerUri: https://device-type.com
-  name: Tritonwa
-type: d3-device-type-assertion

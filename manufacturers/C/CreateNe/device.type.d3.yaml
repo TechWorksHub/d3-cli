@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e050da05-16b1-506f-b3ff-cb1d42f4d14f
-  macAddresses:
-  - AC:86:7E:00:00:00/24
-  manufacturer: Create New Technology (HK) Limited Company
-  manufacturerUri: https://device-type.com
-  name: CreateNe
-type: d3-device-type-assertion

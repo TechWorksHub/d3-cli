@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2b380360-850c-5080-a52e-29435f3305b5
-  macAddresses:
-  - 60:B9:33:00:00:00/24
-  manufacturer: Deutron Electronics Corp.
-  manufacturerUri: https://device-type.com
-  name: DeutronE
-type: d3-device-type-assertion

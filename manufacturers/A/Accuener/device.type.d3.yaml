@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8b82ed32-137a-5368-945d-3d9aeac0712e
-  macAddresses:
-  - EC:C3:8A:00:00:00/24
-  manufacturer: Accuenergy (CANADA) Inc
-  manufacturerUri: https://device-type.com
-  name: Accuener
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: db86f7fd-ddf6-51c9-b4e3-f04fb9b78ad9
-  macAddresses:
-  - 00:50:C2:C6:B0:00/36
-  manufacturer: SiGarden Sp z o.o.
-  manufacturerUri: https://device-type.com
-  name: SiGarden
-type: d3-device-type-assertion

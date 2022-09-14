@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bf62592a-ad86-50a0-962a-dbb1ac4422ff
-  macAddresses:
-  - 8C:1C:DA:00:00:00/28
-  manufacturer: CEOS Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: CEOS
-type: d3-device-type-assertion

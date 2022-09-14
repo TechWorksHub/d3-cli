@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9347f2b1-8810-5854-8c9e-b8858304d7b3
-  macAddresses:
-  - 00:50:C2:6A:F0:00/36
-  manufacturer: Nanoradio AB
-  manufacturerUri: https://device-type.com
-  name: Nanoradi
-type: d3-device-type-assertion

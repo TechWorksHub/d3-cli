@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 05002acb-20bf-5c59-8001-07450e96e7ec
-  macAddresses:
-  - 98:8F:E0:00:00:00/28
-  manufacturer: Valinso B.V.
-  manufacturerUri: https://device-type.com
-  name: Valinso
-type: d3-device-type-assertion

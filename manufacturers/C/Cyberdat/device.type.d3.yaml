@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 438486a1-eae6-5da5-977e-dc669f1e786b
-  macAddresses:
-  - 00:20:F7:00:00:00/24
-  manufacturer: Cyberdata Corporation
-  manufacturerUri: https://device-type.com
-  name: Cyberdat
-type: d3-device-type-assertion

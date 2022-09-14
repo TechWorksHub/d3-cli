@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b7a397ae-b336-5a62-a0b8-c4df45641d2b
-  macAddresses:
-  - 00:A0:09:00:00:00/24
-  manufacturer: Whitetree Network
-  manufacturerUri: https://device-type.com
-  name: Whitetre
-type: d3-device-type-assertion

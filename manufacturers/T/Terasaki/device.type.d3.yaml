@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8b1b6d9f-f266-5218-8569-eea8ccdbd88e
-  macAddresses:
-  - 00:50:87:00:00:00/24
-  manufacturer: Terasaki Electric Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Terasaki
-type: d3-device-type-assertion

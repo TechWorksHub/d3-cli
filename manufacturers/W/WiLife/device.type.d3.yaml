@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9ce2c5f3-c0fb-562a-a075-3d5790b8ff39
-  macAddresses:
-  - 00:12:AB:00:00:00/24
-  manufacturer: WiLife, Inc.
-  manufacturerUri: https://device-type.com
-  name: WiLife
-type: d3-device-type-assertion

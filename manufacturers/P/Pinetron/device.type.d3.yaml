@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dab88640-d3bc-533f-b72b-6650e5e975cd
-  macAddresses:
-  - 00:02:F1:00:00:00/24
-  manufacturer: Pinetron Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Pinetron
-type: d3-device-type-assertion

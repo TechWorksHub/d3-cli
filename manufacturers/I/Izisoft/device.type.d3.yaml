@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 344f3782-5095-568d-9025-884a3fa9980a
-  macAddresses:
-  - 00:50:C2:66:00:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Izisoft
-type: d3-device-type-assertion

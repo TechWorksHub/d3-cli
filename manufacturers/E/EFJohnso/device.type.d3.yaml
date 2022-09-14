@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 80bcd60d-dac0-55b5-a8d1-17af03da602a
-  macAddresses:
-  - 00:08:B8:00:00:00/24
-  manufacturer: E.F. Johnson
-  manufacturerUri: https://device-type.com
-  name: EFJohnso
-type: d3-device-type-assertion

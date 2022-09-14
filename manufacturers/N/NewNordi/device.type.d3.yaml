@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dddf8240-b443-53e3-8020-4594bec1f95a
-  macAddresses:
-  - 1C:87:74:C0:00:00/28
-  manufacturer: New Nordic Engineering
-  manufacturerUri: https://device-type.com
-  name: NewNordi
-type: d3-device-type-assertion

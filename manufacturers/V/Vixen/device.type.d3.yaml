@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fc66f5d0-91f7-5902-a331-7a42b1f5f325
-  macAddresses:
-  - 00:0C:34:00:00:00/24
-  manufacturer: Vixen Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Vixen
-type: d3-device-type-assertion

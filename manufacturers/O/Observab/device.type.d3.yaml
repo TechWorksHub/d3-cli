@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c2ed95e4-d137-5d66-8220-de087323c999
-  macAddresses:
-  - 04:71:4B:A0:00:00/28
-  manufacturer: Observables, Inc.
-  manufacturerUri: https://device-type.com
-  name: Observab
-type: d3-device-type-assertion

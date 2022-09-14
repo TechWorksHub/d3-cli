@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8c36b851-66be-5abd-a2e3-a2f049870d14
-  macAddresses:
-  - 70:B3:D5:5E:70:00/36
-  manufacturer: Heroic Technologies Inc.
-  manufacturerUri: https://device-type.com
-  name: HeroicTe
-type: d3-device-type-assertion

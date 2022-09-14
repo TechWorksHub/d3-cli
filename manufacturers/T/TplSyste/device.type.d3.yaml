@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1eae0131-1534-561c-b85b-f2fa5f357251
-  macAddresses:
-  - 58:63:9A:00:00:00/24
-  manufacturer: Tpl Systemes
-  manufacturerUri: https://device-type.com
-  name: TplSyste
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 64463111-62ac-5981-8376-3d9b43917b2c
-  macAddresses:
-  - 34:0C:ED:00:00:00/24
-  manufacturer: Moduel AB
-  manufacturerUri: https://device-type.com
-  name: Moduel
-type: d3-device-type-assertion

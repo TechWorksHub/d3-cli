@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3ff41898-45cc-5f57-9979-41e8da0c5961
-  macAddresses:
-  - F4:73:CA:00:00:00/24
-  manufacturer: Conversion Sound Inc.
-  manufacturerUri: https://device-type.com
-  name: Conversi
-type: d3-device-type-assertion

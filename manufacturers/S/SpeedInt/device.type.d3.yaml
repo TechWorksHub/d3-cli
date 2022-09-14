@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e9a1acef-3856-5916-952c-75e106bd4094
-  macAddresses:
-  - 00:80:A5:00:00:00/24
-  manufacturer: Speed International
-  manufacturerUri: https://device-type.com
-  name: SpeedInt
-type: d3-device-type-assertion

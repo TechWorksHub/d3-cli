@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2b5e0caf-97d5-560c-85aa-00aaaa5a86eb
-  macAddresses:
-  - AC:E9:AA:00:00:00/24
-  manufacturer: Hay Systems Ltd
-  manufacturerUri: https://device-type.com
-  name: Hay
-type: d3-device-type-assertion

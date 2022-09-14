@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 70619d51-1c44-5dfe-a6e7-a19ebdd053b7
-  macAddresses:
-  - 00:23:25:00:00:00/24
-  manufacturer: IOLAN Holding
-  manufacturerUri: https://device-type.com
-  name: IOLAN
-type: d3-device-type-assertion

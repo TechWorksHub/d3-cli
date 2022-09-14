@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5dc785d5-926f-59a4-aac0-54b9ae4c41c8
-  macAddresses:
-  - F0:D7:DC:00:00:00/24
-  manufacturer: Wesine (Wuhan) Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: WesineWu
-type: d3-device-type-assertion

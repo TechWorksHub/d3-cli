@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d77d4767-a195-5326-8d7b-94d12e8f95dc
-  macAddresses:
-  - 24:1F:2C:00:00:00/24
-  manufacturer: Calsys, Inc.
-  manufacturerUri: https://device-type.com
-  name: Calsys
-type: d3-device-type-assertion

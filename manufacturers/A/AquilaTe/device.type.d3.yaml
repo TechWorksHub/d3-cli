@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8798e1bd-c5ef-527e-8c78-f561490cab13
-  macAddresses:
-  - 00:24:99:00:00:00/24
-  manufacturer: Aquila Technologies
-  manufacturerUri: https://device-type.com
-  name: AquilaTe
-type: d3-device-type-assertion

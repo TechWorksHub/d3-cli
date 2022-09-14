@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 24fd460b-8bb9-5c71-b06a-9e3f0829f67e
-  macAddresses:
-  - 1C:C0:E1:B0:00:00/28
-  manufacturer: Exigent Sensors
-  manufacturerUri: https://device-type.com
-  name: ExigentS
-type: d3-device-type-assertion

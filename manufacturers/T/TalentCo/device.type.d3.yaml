@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 50948f06-61e7-5751-8b13-842948066dce
-  macAddresses:
-  - 00:1F:61:00:00:00/24
-  manufacturer: Talent Communication Networks Inc.
-  manufacturerUri: https://device-type.com
-  name: TalentCo
-type: d3-device-type-assertion

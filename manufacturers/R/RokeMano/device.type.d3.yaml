@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c49663a4-e5e3-5177-84a9-4f75363c9c1b
-  macAddresses:
-  - 00:50:C2:5C:E0:00/36
-  manufacturer: Roke Manor Research Ltd
-  manufacturerUri: https://device-type.com
-  name: RokeMano
-type: d3-device-type-assertion

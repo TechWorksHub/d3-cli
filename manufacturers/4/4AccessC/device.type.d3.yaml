@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a74d50d1-357d-5d48-82c3-328e96bb1e39
-  macAddresses:
-  - 00:13:CF:00:00:00/24
-  manufacturer: 4Access Communications
-  manufacturerUri: https://device-type.com
-  name: 4AccessC
-type: d3-device-type-assertion

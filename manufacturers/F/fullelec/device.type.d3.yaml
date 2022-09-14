@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bf84ba12-1e9b-57bb-86fb-49f36a945464
-  macAddresses:
-  - 00:50:C2:95:D0:00/36
-  manufacturer: full electronic system
-  manufacturerUri: https://device-type.com
-  name: fullelec
-type: d3-device-type-assertion

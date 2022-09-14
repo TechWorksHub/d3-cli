@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9530db03-129c-5ebe-a375-61d46f7af5c4
-  macAddresses:
-  - B0:C5:CA:80:00:00/28
-  manufacturer: Astyx GmbH
-  manufacturerUri: https://device-type.com
-  name: Astyx
-type: d3-device-type-assertion

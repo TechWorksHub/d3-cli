@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fb37688c-81e3-59c6-a60a-6abcac0d9712
-  macAddresses:
-  - 00:07:D3:00:00:00/24
-  manufacturer: SPGPrints B.V.
-  manufacturerUri: https://device-type.com
-  name: SPGPrint
-type: d3-device-type-assertion

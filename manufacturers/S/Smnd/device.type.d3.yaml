@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bfc42de3-b716-5c5c-88b3-25cc97b3fa42
-  macAddresses:
-  - 24:0D:6C:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Smnd
-type: d3-device-type-assertion

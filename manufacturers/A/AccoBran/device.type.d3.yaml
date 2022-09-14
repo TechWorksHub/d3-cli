@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 329e9ac4-e9db-5df8-8edf-1a9c83c6abea
-  macAddresses:
-  - 70:B3:D5:6F:60:00/36
-  manufacturer: Acco Brands Europe
-  manufacturerUri: https://device-type.com
-  name: AccoBran
-type: d3-device-type-assertion

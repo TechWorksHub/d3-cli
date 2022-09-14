@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b7c7bf3b-ad27-5693-8a2d-c2f36ee6d780
-  macAddresses:
-  - 00:1C:6A:00:00:00/24
-  manufacturer: Weiss Engineering Ltd.
-  manufacturerUri: https://device-type.com
-  name: WeissEng
-type: d3-device-type-assertion

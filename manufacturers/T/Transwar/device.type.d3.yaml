@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 06aa433c-43b4-5413-b48c-41bb9cc8db09
-  macAddresses:
-  - 00:40:9C:00:00:00/24
-  manufacturer: Transware
-  manufacturerUri: https://device-type.com
-  name: Transwar
-type: d3-device-type-assertion

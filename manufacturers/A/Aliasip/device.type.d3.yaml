@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3d957ffe-8e76-59c0-abe5-daefb39c2c78
-  macAddresses:
-  - 00:50:C2:EA:C0:00/36
-  manufacturer: Alias ip
-  manufacturerUri: https://device-type.com
-  name: Aliasip
-type: d3-device-type-assertion

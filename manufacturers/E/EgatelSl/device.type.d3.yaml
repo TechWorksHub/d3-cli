@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b70fdfa0-0e5b-5845-ab28-f067f43e547f
-  macAddresses:
-  - 50:ED:94:00:00:00/24
-  manufacturer: Egatel Sl
-  manufacturerUri: https://device-type.com
-  name: EgatelSl
-type: d3-device-type-assertion

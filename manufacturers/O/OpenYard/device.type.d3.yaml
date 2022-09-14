@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b3c85036-89b4-5c7a-ac77-82ddc98bad53
-  macAddresses:
-  - 08:F8:0D:80:00:00/28
-  manufacturer: OpenYard LLC
-  manufacturerUri: https://device-type.com
-  name: OpenYard
-type: d3-device-type-assertion

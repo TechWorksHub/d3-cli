@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 10596f39-e867-5a8d-bcd5-2ab7a75352aa
-  macAddresses:
-  - 00:80:FF:00:00:00/24
-  manufacturer: Soc. De Teleinformatique Rtc
-  manufacturerUri: https://device-type.com
-  name: SocDeTel
-type: d3-device-type-assertion

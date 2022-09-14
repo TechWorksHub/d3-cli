@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7a575d40-e82f-5d8f-9655-e0959287907f
-  macAddresses:
-  - C4:6D:F1:00:00:00/24
-  manufacturer: DataGravity
-  manufacturerUri: https://device-type.com
-  name: DataGrav
-type: d3-device-type-assertion

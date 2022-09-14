@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d943c563-2ae2-5efe-b684-7fc020b1aa65
-  macAddresses:
-  - D8:FB:11:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Axacore
-type: d3-device-type-assertion

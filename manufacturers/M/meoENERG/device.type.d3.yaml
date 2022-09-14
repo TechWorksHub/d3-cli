@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 32ab1c1c-10e6-53d5-823f-91badf8d2eb6
-  macAddresses:
-  - 70:B3:D5:7F:A0:00/36
-  manufacturer: meoENERGY
-  manufacturerUri: https://device-type.com
-  name: meoENERG
-type: d3-device-type-assertion

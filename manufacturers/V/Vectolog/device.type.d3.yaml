@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d8d15cc8-2377-5849-b5e3-3dce34f63692
-  macAddresses:
-  - 70:B3:D5:F5:00:00/36
-  manufacturer: Vectology,Inc
-  manufacturerUri: https://device-type.com
-  name: Vectolog
-type: d3-device-type-assertion

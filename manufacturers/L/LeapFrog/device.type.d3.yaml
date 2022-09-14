@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ab056cc1-4251-5457-818b-dffedce3db09
-  macAddresses:
-  - 80:38:FD:00:00:00/24
-  manufacturer: LeapFrog Enterprises, Inc.
-  manufacturerUri: https://device-type.com
-  name: LeapFrog
-type: d3-device-type-assertion

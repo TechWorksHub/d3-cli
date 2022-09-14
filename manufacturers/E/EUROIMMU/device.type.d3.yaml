@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e9605494-e878-5015-b4fc-60a8ef9aaa5c
-  macAddresses:
-  - 5C:F2:86:50:00:00/28
-  manufacturer: EUROIMMUN Medizinische Labordiagnostika AG
-  manufacturerUri: https://device-type.com
-  name: EUROIMMU
-type: d3-device-type-assertion

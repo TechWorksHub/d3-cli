@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 48ca42ed-1315-51b4-81b1-36b88ee4efca
-  macAddresses:
-  - 70:B3:D5:55:60:00/36
-  manufacturer: Ohashi Engineering Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: OhashiEn
-type: d3-device-type-assertion

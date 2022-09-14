@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e3422987-5a10-5e15-8571-ba19f3684caf
-  macAddresses:
-  - 54:61:EA:00:00:00/24
-  manufacturer: Zaplox AB
-  manufacturerUri: https://device-type.com
-  name: Zaplox
-type: d3-device-type-assertion

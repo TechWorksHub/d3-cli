@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7b4aee29-0185-519b-960c-90a623854ce3
-  macAddresses:
-  - 68:AF:13:00:00:00/24
-  manufacturer: Futura Mobility
-  manufacturerUri: https://device-type.com
-  name: FuturaMo
-type: d3-device-type-assertion

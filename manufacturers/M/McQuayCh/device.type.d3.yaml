@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1eb4a04a-53e4-5499-82a1-aa8088c3ee73
-  macAddresses:
-  - 00:50:C2:74:00:00/36
-  manufacturer: McQuay China
-  manufacturerUri: https://device-type.com
-  name: McQuayCh
-type: d3-device-type-assertion

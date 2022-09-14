@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 448b9f28-790b-5d86-9dd4-96ac4371037e
-  macAddresses:
-  - 8C:91:09:00:00:00/24
-  manufacturer: Toyoshima Electric Technoeogy(Suzhou) Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: Toyoshim
-type: d3-device-type-assertion

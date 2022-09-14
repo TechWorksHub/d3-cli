@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4e4f6efc-d50d-5fdb-832e-518b6652c740
-  macAddresses:
-  - 70:B3:D5:B8:E0:00/36
-  manufacturer: Ur Fog S.R.L.
-  manufacturerUri: https://device-type.com
-  name: UrFog
-type: d3-device-type-assertion

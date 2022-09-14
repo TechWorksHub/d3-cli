@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 77ed5158-7dfb-5d72-b56c-d91ff27acb0d
-  macAddresses:
-  - 00:50:C2:67:60:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Eds
-type: d3-device-type-assertion

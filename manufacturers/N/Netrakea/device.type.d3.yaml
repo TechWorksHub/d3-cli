@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3064dbf0-e125-5ba8-90e9-f08aefc78c05
-  macAddresses:
-  - 00:05:E7:00:00:00/24
-  manufacturer: Netrake an AudioCodes Company
-  manufacturerUri: https://device-type.com
-  name: Netrakea
-type: d3-device-type-assertion

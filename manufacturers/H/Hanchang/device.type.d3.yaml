@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b6046626-a31b-5daa-984a-442fd979ad0b
-  macAddresses:
-  - 00:11:8D:00:00:00/24
-  manufacturer: Hanchang System Corp.
-  manufacturerUri: https://device-type.com
-  name: Hanchang
-type: d3-device-type-assertion

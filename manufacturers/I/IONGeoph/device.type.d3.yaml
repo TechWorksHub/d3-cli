@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5b238888-b8a0-54d2-aaba-84c3d888b4f9
-  macAddresses:
-  - 00:17:D7:00:00:00/24
-  manufacturer: ION Geophysical Corporation Inc.
-  manufacturerUri: https://device-type.com
-  name: IONGeoph
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c22e7282-f95b-5320-b5d4-3836fdfcb1cf
-  macAddresses:
-  - 78:5E:E8:E0:00:00/28
-  manufacturer: Suzhou Tianping Advanced Digital Technologies Co.Ltd
-  manufacturerUri: https://device-type.com
-  name: SuzhouTi
-type: d3-device-type-assertion

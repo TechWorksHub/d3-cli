@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 305263c1-0a8e-5205-bd9c-157cbf2131f7
-  macAddresses:
-  - 00:17:24:00:00:00/24
-  manufacturer: Studer Professional Audio GmbH
-  manufacturerUri: https://device-type.com
-  name: StuderPr
-type: d3-device-type-assertion

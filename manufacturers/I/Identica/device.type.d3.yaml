@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 47e9d2f1-27b6-51f0-b2b9-5f9b890ef215
-  macAddresses:
-  - 00:0A:34:00:00:00/24
-  manufacturer: Identicard Systems Incorporated
-  manufacturerUri: https://device-type.com
-  name: Identica
-type: d3-device-type-assertion

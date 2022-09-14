@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 89acf365-6f40-54dc-8684-c77b398bca86
-  macAddresses:
-  - 40:D8:55:10:A0:00/36
-  manufacturer: Davis Derby Limited
-  manufacturerUri: https://device-type.com
-  name: DavisDer
-type: d3-device-type-assertion

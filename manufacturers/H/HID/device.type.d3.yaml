@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dfba9318-12c2-5f31-853a-7fc109515c6d
-  macAddresses:
-  - 00:06:8E:00:00:00/24
-  manufacturer: HID Corporation
-  manufacturerUri: https://device-type.com
-  name: HID
-type: d3-device-type-assertion

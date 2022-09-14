@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 17c3d366-7623-5307-b76d-74571b540adc
-  macAddresses:
-  - E4:AB:46:00:00:00/24
-  manufacturer: UAB Selteka
-  manufacturerUri: https://device-type.com
-  name: UABSelte
-type: d3-device-type-assertion

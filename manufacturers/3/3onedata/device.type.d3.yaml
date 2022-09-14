@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f673f64d-1d1f-5ecc-a76c-fbb9e944a7b8
-  macAddresses:
-  - 00:22:6F:00:00:00/24
-  manufacturer: 3onedata Technology Co. Ltd.
-  manufacturerUri: https://device-type.com
-  name: 3onedata
-type: d3-device-type-assertion

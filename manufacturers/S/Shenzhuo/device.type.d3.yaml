@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c3aee3b6-f2c8-581b-8153-60fc4fd87bae
-  macAddresses:
-  - F8:1D:78:C0:00:00/28
-  manufacturer: Shenzhuoyue Technology.,Ltd
-  manufacturerUri: https://device-type.com
-  name: Shenzhuo
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9bb4456d-0d80-52fc-b317-accba7d5c24e
-  macAddresses:
-  - 00:50:C2:C5:50:00/36
-  manufacturer: Watterott electronic
-  manufacturerUri: https://device-type.com
-  name: Watterot
-type: d3-device-type-assertion

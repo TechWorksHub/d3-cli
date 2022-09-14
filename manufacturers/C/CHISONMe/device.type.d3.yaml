@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2d09e6f8-7ce7-5f07-a0fb-9c64edd49bd6
-  macAddresses:
-  - 30:1F:9A:20:00:00/28
-  manufacturer: CHISON Medical Technologies Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: CHISONMe
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 05c60226-56cd-58cc-a0d3-14e0c8b82294
-  macAddresses:
-  - 00:16:14:00:00:00/24
-  manufacturer: Picosecond Pulse Labs
-  manufacturerUri: https://device-type.com
-  name: Picoseco
-type: d3-device-type-assertion

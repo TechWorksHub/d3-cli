@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8740ebfe-6e9b-5d4e-9c62-5e6f2de81e5c
-  macAddresses:
-  - 0C:5C:B5:90:00:00/28
-  manufacturer: Colordeve International
-  manufacturerUri: https://device-type.com
-  name: Colordev
-type: d3-device-type-assertion

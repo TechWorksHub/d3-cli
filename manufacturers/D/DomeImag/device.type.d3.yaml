@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b47c0277-2ce7-565d-96dd-ec756742910f
-  macAddresses:
-  - 0C:3C:65:00:00:00/24
-  manufacturer: Dome Imaging Inc
-  manufacturerUri: https://device-type.com
-  name: DomeImag
-type: d3-device-type-assertion

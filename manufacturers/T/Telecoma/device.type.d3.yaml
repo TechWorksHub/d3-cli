@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 86784fe3-3a75-511d-8526-648a6831786a
-  macAddresses:
-  - 28:2C:02:70:00:00/28
-  manufacturer: Telecom and Microelectonic Industries
-  manufacturerUri: https://device-type.com
-  name: Telecoma
-type: d3-device-type-assertion

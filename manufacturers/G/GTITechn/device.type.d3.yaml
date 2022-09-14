@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 54506836-08a8-511a-b9fc-7a1a6469fe0b
-  macAddresses:
-  - 70:B3:D5:B5:A0:00/36
-  manufacturer: GTI Technologies Inc
-  manufacturerUri: https://device-type.com
-  name: GTITechn
-type: d3-device-type-assertion

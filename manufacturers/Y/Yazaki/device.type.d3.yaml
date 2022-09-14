@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dd462f56-eeb8-55dd-94a9-81ae3625244d
-  macAddresses:
-  - 00:0F:DA:00:00:00/24
-  manufacturer: Yazaki Corporation
-  manufacturerUri: https://device-type.com
-  name: Yazaki
-type: d3-device-type-assertion

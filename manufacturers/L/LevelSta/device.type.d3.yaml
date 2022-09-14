@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c293e63d-289b-53a5-b632-f9fa8fcc5f84
-  macAddresses:
-  - 00:50:C2:A4:D0:00/36
-  manufacturer: LevelStar LLC.
-  manufacturerUri: https://device-type.com
-  name: LevelSta
-type: d3-device-type-assertion

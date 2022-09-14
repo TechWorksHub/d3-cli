@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 307d92a9-4686-5446-aac9-d7e26957eb1b
-  macAddresses:
-  - BC:66:41:D0:00:00/28
-  manufacturer: UtilLighting Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: UtilLigh
-type: d3-device-type-assertion

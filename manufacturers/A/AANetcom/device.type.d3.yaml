@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dabcb8a8-72c7-5fad-adc8-1ffa96e48981
-  macAddresses:
-  - 00:90:57:00:00:00/24
-  manufacturer: AANetcom, Inc.
-  manufacturerUri: https://device-type.com
-  name: AANetcom
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 407f768a-37a2-50e9-8064-09b138070a45
-  macAddresses:
-  - C0:58:A7:00:00:00/24
-  manufacturer: Pico Systems Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Pico
-type: d3-device-type-assertion

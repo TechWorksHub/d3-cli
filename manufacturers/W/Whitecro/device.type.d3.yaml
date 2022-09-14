@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0da11190-0b3b-5fa2-8c09-94cc8a0258b1
-  macAddresses:
-  - 00:90:D8:00:00:00/24
-  manufacturer: Whitecross Systems
-  manufacturerUri: https://device-type.com
-  name: Whitecro
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 62750449-0dbe-5b28-bf39-e9f6f5343c22
-  macAddresses:
-  - 00:50:C2:AE:90:00/36
-  manufacturer: ClearCorp Enterprises, Inc
-  manufacturerUri: https://device-type.com
-  name: ClearCor
-type: d3-device-type-assertion

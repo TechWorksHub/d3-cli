@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cedbb5f3-cf78-5d3f-8e1d-7e17aeb46dcf
-  macAddresses:
-  - CC:5C:75:00:00:00/24
-  manufacturer: Weightech Com. Imp. Exp. Equip. Pesagem Ltda
-  manufacturerUri: https://device-type.com
-  name: Weightec
-type: d3-device-type-assertion

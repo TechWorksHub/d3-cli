@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b2decdf3-710d-5126-8a1f-1fb3b2b03800
-  macAddresses:
-  - 08:F2:F4:00:00:00/24
-  manufacturer: Net One Partners Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: NetOnePa
-type: d3-device-type-assertion

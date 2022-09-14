@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7fe1a5bf-7145-5c2f-ba77-36c6a81cda03
-  macAddresses:
-  - 70:B3:D5:19:20:00/36
-  manufacturer: Aspt, Inc.
-  manufacturerUri: https://device-type.com
-  name: Aspt
-type: d3-device-type-assertion

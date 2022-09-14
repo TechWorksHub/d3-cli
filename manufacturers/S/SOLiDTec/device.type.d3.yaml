@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8336338e-0454-5d7e-91e7-2acbdd1e3898
-  macAddresses:
-  - DC:C1:01:00:00:00/24
-  manufacturer: SOLiD Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: SOLiDTec
-type: d3-device-type-assertion

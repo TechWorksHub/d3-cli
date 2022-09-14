@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ca2d4281-3583-565b-aebf-7570f7c82857
-  macAddresses:
-  - 70:1F:0B:00:00:00/24
-  manufacturer: Wilogy Srl
-  manufacturerUri: https://device-type.com
-  name: Wilogy
-type: d3-device-type-assertion

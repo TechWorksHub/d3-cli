@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 006d429e-4f6f-58a9-9ad6-8585c4780a9e
-  macAddresses:
-  - 3C:FA:D3:D0:00:00/28
-  manufacturer: AMobile Solutions (Xiamen) CO. , LTD.
-  manufacturerUri: https://device-type.com
-  name: AMobileS
-type: d3-device-type-assertion

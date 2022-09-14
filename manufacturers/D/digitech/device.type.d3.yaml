@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 87a90646-94aa-5ba4-a939-05d96f57ee65
-  macAddresses:
-  - 40:D8:55:13:40:00/36
-  manufacturer: digitech GmbH & Co. KG
-  manufacturerUri: https://device-type.com
-  name: digitech
-type: d3-device-type-assertion

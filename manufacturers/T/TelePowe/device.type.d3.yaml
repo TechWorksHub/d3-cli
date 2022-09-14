@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7640f037-ea37-5a06-a167-d898c5c23488
-  macAddresses:
-  - 00:14:8E:00:00:00/24
-  manufacturer: Tele Power Inc.
-  manufacturerUri: https://device-type.com
-  name: TelePowe
-type: d3-device-type-assertion

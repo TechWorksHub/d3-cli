@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 11aee3d5-8d3d-51ee-8e7d-5fdb2ea4de9c
-  macAddresses:
-  - 00:16:2F:00:00:00/24
-  manufacturer: "Geutebr\xFCck GmbH"
-  manufacturerUri: https://device-type.com
-  name: "Geutebr\xFC"
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: db1ff48d-819f-5453-be0f-e081482a8df8
-  macAddresses:
-  - 70:B3:D5:B7:F0:00/36
-  manufacturer: JSK System
-  manufacturerUri: https://device-type.com
-  name: JSKSyste
-type: d3-device-type-assertion

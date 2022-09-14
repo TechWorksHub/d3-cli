@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 073c4a25-578b-5d9c-8928-6447547c4f43
-  macAddresses:
-  - 00:50:C2:6C:70:00/36
-  manufacturer: QuickCircuit Ltd.
-  manufacturerUri: https://device-type.com
-  name: QuickCir
-type: d3-device-type-assertion

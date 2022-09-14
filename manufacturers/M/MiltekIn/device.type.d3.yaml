@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e70bb3ce-eddb-5de5-95e2-18621d978863
-  macAddresses:
-  - E8:B4:70:90:00:00/28
-  manufacturer: Miltek Industries Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: MiltekIn
-type: d3-device-type-assertion

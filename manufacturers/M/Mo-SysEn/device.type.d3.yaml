@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8554d0c0-4609-5918-b3de-e70790d89126
-  macAddresses:
-  - 70:B3:D5:07:50:00/36
-  manufacturer: Mo-Sys Engineering Ltd
-  manufacturerUri: https://device-type.com
-  name: Mo-SysEn
-type: d3-device-type-assertion

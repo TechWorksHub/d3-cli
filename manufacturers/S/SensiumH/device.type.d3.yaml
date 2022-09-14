@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5d7d9f3e-10e4-5b0c-8d58-390eda576c0e
-  macAddresses:
-  - CC:59:3E:00:00:00/24
-  manufacturer: Sensium Healthcare Limited
-  manufacturerUri: https://device-type.com
-  name: SensiumH
-type: d3-device-type-assertion

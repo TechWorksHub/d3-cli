@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7d165cf2-6963-5e8f-b6d7-c7c94b4d640f
-  macAddresses:
-  - 00:19:C4:00:00:00/24
-  manufacturer: Infocrypt Inc.
-  manufacturerUri: https://device-type.com
-  name: Infocryp
-type: d3-device-type-assertion

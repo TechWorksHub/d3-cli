@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cca62207-5b29-5abc-82ce-022d2bb9ad6c
-  macAddresses:
-  - 00:07:27:00:00:00/24
-  manufacturer: Zi Corporation (HK) Ltd.
-  manufacturerUri: https://device-type.com
-  name: ZiHK
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2b8356bc-3697-51e8-9a34-1b76cfc3c4bd
-  macAddresses:
-  - 8C:CD:A2:00:00:00/24
-  manufacturer: ACTP, Inc.
-  manufacturerUri: https://device-type.com
-  name: ACTP
-type: d3-device-type-assertion

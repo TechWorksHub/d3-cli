@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f46872df-4ede-5695-9aed-ff1ac7bff17f
-  macAddresses:
-  - 00:50:C2:99:20:00/36
-  manufacturer: IDT Sound Processing Corporation
-  manufacturerUri: https://device-type.com
-  name: IDTSound
-type: d3-device-type-assertion

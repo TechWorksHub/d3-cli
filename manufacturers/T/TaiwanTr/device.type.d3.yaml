@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 56dba3e3-f4ec-5a18-9baf-8a4ca5d1d2f3
-  macAddresses:
-  - 00:C0:D7:00:00:00/24
-  manufacturer: Taiwan Trading Center Dba
-  manufacturerUri: https://device-type.com
-  name: TaiwanTr
-type: d3-device-type-assertion

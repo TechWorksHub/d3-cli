@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 516438d4-f8df-56aa-b0b1-8b24bb708976
-  macAddresses:
-  - 00:05:09:00:00:00/24
-  manufacturer: AVOC Nishimura Ltd.
-  manufacturerUri: https://device-type.com
-  name: AVOCNish
-type: d3-device-type-assertion

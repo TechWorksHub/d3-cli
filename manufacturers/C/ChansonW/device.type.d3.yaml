@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 057e1fa1-060a-5238-a371-d380bba3ae4e
-  macAddresses:
-  - 9C:13:AB:00:00:00/24
-  manufacturer: Chanson Water Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: ChansonW
-type: d3-device-type-assertion

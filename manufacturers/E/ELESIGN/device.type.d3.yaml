@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 11906e3b-fb20-54ed-8194-416e65982f37
-  macAddresses:
-  - 00:04:B0:00:00:00/24
-  manufacturer: ELESIGN Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: ELESIGN
-type: d3-device-type-assertion

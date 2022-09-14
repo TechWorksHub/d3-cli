@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5c03da9c-e332-5df3-ac02-bd2453d4fdcb
-  macAddresses:
-  - 00:50:C2:D9:00:00/36
-  manufacturer: Dumps Electronic
-  manufacturerUri: https://device-type.com
-  name: DumpsEle
-type: d3-device-type-assertion

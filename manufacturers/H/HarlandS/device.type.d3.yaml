@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 01c9f458-cd94-5a89-b914-66a0a7810dc7
-  macAddresses:
-  - 00:50:C2:F2:20:00/36
-  manufacturer: Harland Simon plc
-  manufacturerUri: https://device-type.com
-  name: HarlandS
-type: d3-device-type-assertion

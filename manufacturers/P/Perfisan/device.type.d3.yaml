@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 997e420f-61e2-50c2-b6e3-143b6f41f7e9
-  macAddresses:
-  - 00:15:6B:00:00:00/24
-  manufacturer: Perfisans Networks Corp.
-  manufacturerUri: https://device-type.com
-  name: Perfisan
-type: d3-device-type-assertion

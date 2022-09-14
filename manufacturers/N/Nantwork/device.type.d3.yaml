@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 063427e7-ff3d-5523-a497-b17d7c3b2afb
-  macAddresses:
-  - D8:B8:F6:00:00:00/24
-  manufacturer: Nantworks
-  manufacturerUri: https://device-type.com
-  name: Nantwork
-type: d3-device-type-assertion

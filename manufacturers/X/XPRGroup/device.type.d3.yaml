@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 79c647e5-6621-57dd-9bc1-954257b11096
-  macAddresses:
-  - E4:1E:0A:40:00:00/28
-  manufacturer: XPR Group
-  manufacturerUri: https://device-type.com
-  name: XPRGroup
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 036fc62e-0019-57ad-8258-2fab5d2e5053
-  macAddresses:
-  - 00:0E:9F:00:00:00/24
-  manufacturer: TEMIC SDS GmbH
-  manufacturerUri: https://device-type.com
-  name: TEMICSDS
-type: d3-device-type-assertion

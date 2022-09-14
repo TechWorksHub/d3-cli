@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 865025f3-7965-5095-b3fe-a050d01282a9
-  macAddresses:
-  - 00:0D:C4:00:00:00/24
-  manufacturer: Emcore Corporation
-  manufacturerUri: https://device-type.com
-  name: Emcore
-type: d3-device-type-assertion

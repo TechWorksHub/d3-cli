@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7b41103e-484c-57be-a826-f33ff62080cc
-  macAddresses:
-  - 70:B3:D5:FB:80:00/36
-  manufacturer: Hyannis Port Research
-  manufacturerUri: https://device-type.com
-  name: HyannisP
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f390c591-1e14-5862-85ea-791969b7c172
-  macAddresses:
-  - 00:11:86:00:00:00/24
-  manufacturer: Prime Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Prime
-type: d3-device-type-assertion

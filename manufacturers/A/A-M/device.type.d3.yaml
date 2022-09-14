@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 26599bfb-d5fb-55ba-b7f6-da64e53a2b33
-  macAddresses:
-  - 70:B3:D5:3B:B0:00/36
-  manufacturer: A-M Systems
-  manufacturerUri: https://device-type.com
-  name: A-M
-type: d3-device-type-assertion

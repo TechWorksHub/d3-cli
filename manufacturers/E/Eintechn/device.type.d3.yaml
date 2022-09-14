@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 86d4ea43-799f-5805-8e42-6eccfc4d2c0b
-  macAddresses:
-  - 2C:91:27:00:00:00/24
-  manufacturer: Eintechno Corporation
-  manufacturerUri: https://device-type.com
-  name: Eintechn
-type: d3-device-type-assertion

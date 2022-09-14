@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 83285eab-a391-50ac-b53a-98abe1c1a700
-  macAddresses:
-  - 38:FD:FE:B0:00:00/28
-  manufacturer: Swedish Adrenaline AB
-  manufacturerUri: https://device-type.com
-  name: SwedishA
-type: d3-device-type-assertion

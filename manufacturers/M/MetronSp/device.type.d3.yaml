@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 879978f0-fdd0-5de2-a338-6bff17eeff04
-  macAddresses:
-  - 00:50:C2:48:D0:00/36
-  manufacturer: Metron Sp. z o.o.
-  manufacturerUri: https://device-type.com
-  name: MetronSp
-type: d3-device-type-assertion

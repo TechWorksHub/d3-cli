@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d37026c4-14d8-5fdc-93a0-daaa85c98745
-  macAddresses:
-  - 00:11:CE:00:00:00/24
-  manufacturer: Ubisense Limited
-  manufacturerUri: https://device-type.com
-  name: Ubisense
-type: d3-device-type-assertion

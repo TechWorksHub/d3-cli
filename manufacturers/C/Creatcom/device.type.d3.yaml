@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 19662ee8-1c79-53ac-9170-5d59d4c056ff
-  macAddresses:
-  - 9C:B7:93:00:00:00/24
-  manufacturer: Creatcomm Technology Inc.
-  manufacturerUri: https://device-type.com
-  name: Creatcom
-type: d3-device-type-assertion

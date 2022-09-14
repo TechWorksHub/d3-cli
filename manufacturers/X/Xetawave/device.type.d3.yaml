@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 975286f3-1026-5dce-8758-4b2cba04e4f0
-  macAddresses:
-  - 70:F1:E5:00:00:00/24
-  manufacturer: Xetawave LLC
-  manufacturerUri: https://device-type.com
-  name: Xetawave
-type: d3-device-type-assertion

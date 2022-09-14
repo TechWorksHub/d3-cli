@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 235a9d9d-59ea-559c-bc82-9d4143ec5da5
-  macAddresses:
-  - 00:40:92:00:00:00/24
-  manufacturer: Asp Computer Products, Inc.
-  manufacturerUri: https://device-type.com
-  name: AspCompu
-type: d3-device-type-assertion

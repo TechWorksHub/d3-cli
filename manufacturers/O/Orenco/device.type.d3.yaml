@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 02331ede-a757-5289-a940-ed75dc981053
-  macAddresses:
-  - 00:50:C2:50:00:00/36
-  manufacturer: Orenco Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Orenco
-type: d3-device-type-assertion

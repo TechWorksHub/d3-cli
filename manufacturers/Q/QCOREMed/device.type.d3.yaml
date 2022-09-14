@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 823446d2-29bf-5b6e-8fd7-9d64f4027141
-  macAddresses:
-  - 00:1B:C5:07:B0:00/36
-  manufacturer: QCORE Medical
-  manufacturerUri: https://device-type.com
-  name: QCOREMed
-type: d3-device-type-assertion

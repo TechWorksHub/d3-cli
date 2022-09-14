@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 67824fac-deb2-5262-9258-38e8739c0b18
-  macAddresses:
-  - 70:B3:D5:EB:E0:00/36
-  manufacturer: Sierra Pacific Innovations Corp
-  manufacturerUri: https://device-type.com
-  name: SierraPa
-type: d3-device-type-assertion

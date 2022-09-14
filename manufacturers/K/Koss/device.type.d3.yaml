@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 574ff188-c634-5bb7-88c1-dcccf63ab83f
-  macAddresses:
-  - C0:22:50:00:00:00/24
-  manufacturer: Koss Corporation
-  manufacturerUri: https://device-type.com
-  name: Koss
-type: d3-device-type-assertion

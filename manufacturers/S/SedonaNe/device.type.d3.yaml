@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fff4e5e1-4ba3-5250-a62a-ce1fe0feef44
-  macAddresses:
-  - 00:30:E3:00:00:00/24
-  manufacturer: Sedona Networks Corp.
-  manufacturerUri: https://device-type.com
-  name: SedonaNe
-type: d3-device-type-assertion

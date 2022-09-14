@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1b62d7d7-ab6f-5d24-8657-be9eacbc6b7a
-  macAddresses:
-  - 3C:5F:01:00:00:00/24
-  manufacturer: Synerchip Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Synerchi
-type: d3-device-type-assertion

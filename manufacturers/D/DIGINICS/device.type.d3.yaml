@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 183ff1fc-701f-56a9-a893-5d1ff4483709
-  macAddresses:
-  - 00:0D:E4:00:00:00/24
-  manufacturer: DIGINICS, Inc.
-  manufacturerUri: https://device-type.com
-  name: DIGINICS
-type: d3-device-type-assertion

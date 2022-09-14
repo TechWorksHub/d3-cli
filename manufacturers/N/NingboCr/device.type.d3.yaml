@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a7edb9d8-341a-533f-83fb-ebf81fa6f148
-  macAddresses:
-  - 70:B3:D5:90:70:00/36
-  manufacturer: Ningbo Crrc Times Transducer Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: NingboCr
-type: d3-device-type-assertion

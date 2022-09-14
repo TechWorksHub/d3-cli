@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 614fafa0-acfb-581b-922e-a0fe6d16e32c
-  macAddresses:
-  - 54:DF:00:00:00:00/24
-  manufacturer: Ulterius Technologies, LLC
-  manufacturerUri: https://device-type.com
-  name: Ulterius
-type: d3-device-type-assertion

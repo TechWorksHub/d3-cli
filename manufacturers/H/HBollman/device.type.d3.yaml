@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 84089818-4894-5367-8185-37066800e459
-  macAddresses:
-  - 00:A0:92:00:00:00/24
-  manufacturer: H. Bollmann Manufacturers, Ltd
-  manufacturerUri: https://device-type.com
-  name: HBollman
-type: d3-device-type-assertion

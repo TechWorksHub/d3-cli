@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 68fdf2e1-05fe-5422-9d8a-656b63f45244
-  macAddresses:
-  - 5C:A9:33:00:00:00/24
-  manufacturer: Luma Home
-  manufacturerUri: https://device-type.com
-  name: LumaHome
-type: d3-device-type-assertion

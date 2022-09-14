@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aa53c979-1ce9-565e-97f2-e683b38b3ef8
-  macAddresses:
-  - 6C:2E:72:00:00:00/24
-  manufacturer: B&B Exporting Limited
-  manufacturerUri: https://device-type.com
-  name: B&BExpor
-type: d3-device-type-assertion

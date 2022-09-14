@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 294f9b6f-5245-5746-97e1-c627df4e7cea
-  macAddresses:
-  - 04:E9:E5:00:00:00/24
-  manufacturer: Pjrc.Com, Llc
-  manufacturerUri: https://device-type.com
-  name: PjrcCom
-type: d3-device-type-assertion

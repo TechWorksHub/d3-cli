@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aec48fd0-4907-520e-bc42-c321f19af89d
-  macAddresses:
-  - 00:21:24:00:00:00/24
-  manufacturer: Optos Plc
-  manufacturerUri: https://device-type.com
-  name: Optos
-type: d3-device-type-assertion

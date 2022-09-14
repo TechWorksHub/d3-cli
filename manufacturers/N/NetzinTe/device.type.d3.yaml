@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 57e3e7d9-f0e8-5cdc-944a-ed1d0246113f
-  macAddresses:
-  - 00:E6:E8:00:00:00/24
-  manufacturer: Netzin Technology Corporation,.Ltd.
-  manufacturerUri: https://device-type.com
-  name: NetzinTe
-type: d3-device-type-assertion

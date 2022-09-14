@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 56634073-6d4b-563f-9d48-b7c21c52ecb0
-  macAddresses:
-  - 00:D0:0B:00:00:00/24
-  manufacturer: Rhk Technology, Inc.
-  manufacturerUri: https://device-type.com
-  name: RhkTechn
-type: d3-device-type-assertion

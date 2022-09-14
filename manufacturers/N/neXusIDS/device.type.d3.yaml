@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6f1fc783-d64c-5252-ae62-5d9d63e5d734
-  macAddresses:
-  - A4:D9:A4:00:00:00/24
-  manufacturer: neXus ID Solutions AB
-  manufacturerUri: https://device-type.com
-  name: neXusIDS
-type: d3-device-type-assertion

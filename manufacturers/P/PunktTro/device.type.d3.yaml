@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c7386e36-eec1-5fa6-9d33-7e33f6241c9e
-  macAddresses:
-  - 30:09:F9:40:00:00/28
-  manufacturer: Punkt Tronics AG
-  manufacturerUri: https://device-type.com
-  name: PunktTro
-type: d3-device-type-assertion

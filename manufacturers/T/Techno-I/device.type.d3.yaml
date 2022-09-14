@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 68ecf96d-e48f-5761-8d67-ae683768b0bf
-  macAddresses:
-  - 54:1B:5D:00:00:00/24
-  manufacturer: Techno-Innov
-  manufacturerUri: https://device-type.com
-  name: Techno-I
-type: d3-device-type-assertion

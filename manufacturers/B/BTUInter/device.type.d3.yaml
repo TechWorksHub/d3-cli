@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6a606218-6984-5085-9cb4-a35be0c35a81
-  macAddresses:
-  - 00:0C:AD:00:00:00/24
-  manufacturer: BTU International
-  manufacturerUri: https://device-type.com
-  name: BTUInter
-type: d3-device-type-assertion

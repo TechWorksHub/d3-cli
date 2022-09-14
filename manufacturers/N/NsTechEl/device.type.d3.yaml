@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1c7b732f-2100-5e88-8030-0613eb68f91d
-  macAddresses:
-  - 00:50:E1:00:00:00/24
-  manufacturer: Ns Tech Electronics Sdn Bhd
-  manufacturerUri: https://device-type.com
-  name: NsTechEl
-type: d3-device-type-assertion

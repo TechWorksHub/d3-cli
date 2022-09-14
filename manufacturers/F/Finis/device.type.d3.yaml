@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 619737fa-478d-5e03-983a-fda2c00b4e7b
-  macAddresses:
-  - C0:84:88:00:00:00/24
-  manufacturer: Finis Inc
-  manufacturerUri: https://device-type.com
-  name: Finis
-type: d3-device-type-assertion

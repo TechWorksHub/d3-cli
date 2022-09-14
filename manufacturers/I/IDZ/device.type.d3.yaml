@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4fff5b0a-83f4-5997-b2db-b4b652ba50fd
-  macAddresses:
-  - 70:B3:D5:7F:60:00/36
-  manufacturer: IDZ Ltd
-  manufacturerUri: https://device-type.com
-  name: IDZ
-type: d3-device-type-assertion

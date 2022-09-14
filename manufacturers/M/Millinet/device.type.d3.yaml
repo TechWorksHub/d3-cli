@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 84665de2-739e-51f9-a2d9-c2e68f5ef5f8
-  macAddresses:
-  - 00:21:51:00:00:00/24
-  manufacturer: Millinet Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Millinet
-type: d3-device-type-assertion

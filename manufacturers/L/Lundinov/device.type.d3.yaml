@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0ef6a52d-ef2c-5bef-b9c0-9ada8c965211
-  macAddresses:
-  - 00:16:DF:00:00:00/24
-  manufacturer: Lundinova AB
-  manufacturerUri: https://device-type.com
-  name: Lundinov
-type: d3-device-type-assertion

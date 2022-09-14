@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 386e3885-7403-5881-9429-8cf2411bc596
-  macAddresses:
-  - 7C:83:34:80:00:00/28
-  manufacturer: Silicon Xpandas Electronics Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: SiliconX
-type: d3-device-type-assertion

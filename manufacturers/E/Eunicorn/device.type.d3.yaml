@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 75bdb56d-ac55-52e1-b105-f19be70a1f57
-  macAddresses:
-  - 00:1C:85:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Eunicorn
-type: d3-device-type-assertion

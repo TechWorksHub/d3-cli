@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e5df0a60-557e-5a7c-bff5-5ccda7fd6031
-  macAddresses:
-  - 00:14:00:00:00:00/24
-  manufacturer: Minerva Korea Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: MinervaK
-type: d3-device-type-assertion

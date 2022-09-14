@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bc651db0-34d5-519a-bfbe-82bb547755c4
-  macAddresses:
-  - 00:26:74:00:00:00/24
-  manufacturer: Hunter Douglas
-  manufacturerUri: https://device-type.com
-  name: HunterDo
-type: d3-device-type-assertion

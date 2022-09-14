@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 142aa64a-0269-5636-afab-731c8e8607a5
-  macAddresses:
-  - D0:D9:4F:20:00:00/28
-  manufacturer: Teco Image Systems Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: TecoImag
-type: d3-device-type-assertion

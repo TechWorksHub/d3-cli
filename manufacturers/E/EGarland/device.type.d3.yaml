@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6b882680-6a01-55ba-9e01-ce6919b7e468
-  macAddresses:
-  - 00:40:62:00:00:00/24
-  manufacturer: E-Systems, Inc./Garland Div.
-  manufacturerUri: https://device-type.com
-  name: EGarland
-type: d3-device-type-assertion

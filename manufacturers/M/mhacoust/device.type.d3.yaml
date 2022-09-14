@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2005ad66-7b76-50b0-a663-1b8d633d8b4f
-  macAddresses:
-  - 00:1D:3A:00:00:00/24
-  manufacturer: mh acoustics LLC
-  manufacturerUri: https://device-type.com
-  name: mhacoust
-type: d3-device-type-assertion

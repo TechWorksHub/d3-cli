@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a6328434-0f61-549a-9503-9c51ea1fc16c
-  macAddresses:
-  - 00:0B:25:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Aeluros
-type: d3-device-type-assertion

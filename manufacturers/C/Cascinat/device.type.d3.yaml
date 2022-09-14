@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4b77b2ca-4af7-560e-bd5a-9d933b7af3c2
-  macAddresses:
-  - D8:7E:6F:00:00:00/24
-  manufacturer: Cascination Ag
-  manufacturerUri: https://device-type.com
-  name: Cascinat
-type: d3-device-type-assertion

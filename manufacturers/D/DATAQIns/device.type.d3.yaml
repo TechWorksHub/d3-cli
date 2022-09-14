@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 429842b8-35f9-5ee1-907c-355e29d5762d
-  macAddresses:
-  - 00:1B:81:00:00:00/24
-  manufacturer: DATAQ Instruments, Inc.
-  manufacturerUri: https://device-type.com
-  name: DATAQIns
-type: d3-device-type-assertion

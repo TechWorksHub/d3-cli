@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 52aeae0c-48a6-56b7-8137-6aac09a449f3
-  macAddresses:
-  - 04:FF:51:00:00:00/24
-  manufacturer: Novamedia Innovision Sp. Z O.O.
-  manufacturerUri: https://device-type.com
-  name: Novamedi
-type: d3-device-type-assertion

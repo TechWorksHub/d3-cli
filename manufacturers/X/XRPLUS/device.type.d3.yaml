@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 506482b4-0627-54ed-8f21-48a9bddded52
-  macAddresses:
-  - 00:26:F5:00:00:00/24
-  manufacturer: XRPLUS Inc.
-  manufacturerUri: https://device-type.com
-  name: XRPLUS
-type: d3-device-type-assertion

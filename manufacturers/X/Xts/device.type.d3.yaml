@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b202ddda-9125-58a8-9b41-6d168593fae8
-  macAddresses:
-  - A8:1B:18:00:00:00/24
-  manufacturer: Xts Corp
-  manufacturerUri: https://device-type.com
-  name: Xts
-type: d3-device-type-assertion

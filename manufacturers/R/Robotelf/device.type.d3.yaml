@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d636763d-87d0-506e-9266-40faf1c7a2d6
-  macAddresses:
-  - 70:B3:D5:1A:60:00/36
-  manufacturer: Robotelf Technologies (Chengdu) Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Robotelf
-type: d3-device-type-assertion

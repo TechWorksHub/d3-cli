@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 63fe7b2c-c9fe-5e5f-a94c-1450e91c1c84
-  macAddresses:
-  - 00:0C:65:00:00:00/24
-  manufacturer: Sunin Telecom
-  manufacturerUri: https://device-type.com
-  name: SuninTel
-type: d3-device-type-assertion

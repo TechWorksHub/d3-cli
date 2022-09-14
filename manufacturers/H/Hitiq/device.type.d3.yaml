@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 70b52d64-f432-5828-9d4b-7cb987634715
-  macAddresses:
-  - 7C:BC:84:90:00:00/28
-  manufacturer: Hitiq Limited
-  manufacturerUri: https://device-type.com
-  name: Hitiq
-type: d3-device-type-assertion

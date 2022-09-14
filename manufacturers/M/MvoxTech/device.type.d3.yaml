@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 948941d5-f843-5e0f-aae0-62599bd766ba
-  macAddresses:
-  - 00:1A:E5:00:00:00/24
-  manufacturer: Mvox Technologies Inc.
-  manufacturerUri: https://device-type.com
-  name: MvoxTech
-type: d3-device-type-assertion

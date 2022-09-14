@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 614a57c9-8145-51a1-a6cb-18cb73aab82e
-  macAddresses:
-  - 00:E0:F5:00:00:00/24
-  manufacturer: Teles Ag
-  manufacturerUri: https://device-type.com
-  name: Teles
-type: d3-device-type-assertion

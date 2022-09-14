@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5bd7eb9b-3bbd-59f2-8ed1-f9aaf4fdd7ad
-  macAddresses:
-  - 00:00:4E:00:00:00/24
-  manufacturer: Ampex Corporation
-  manufacturerUri: https://device-type.com
-  name: Ampex
-type: d3-device-type-assertion

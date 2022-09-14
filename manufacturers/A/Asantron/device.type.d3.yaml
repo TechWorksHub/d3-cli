@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e9184891-1b01-54c8-b841-9a1058f08bd5
-  macAddresses:
-  - 00:24:4F:00:00:00/24
-  manufacturer: Asantron Technologies Ltd.
-  manufacturerUri: https://device-type.com
-  name: Asantron
-type: d3-device-type-assertion

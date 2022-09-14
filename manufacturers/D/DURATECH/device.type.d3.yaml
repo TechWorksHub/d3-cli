@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a5213735-a7c0-582d-b3c4-1307ad02e066
-  macAddresses:
-  - A4:DA:22:30:00:00/28
-  manufacturer: DURATECH Enterprise,LLC
-  manufacturerUri: https://device-type.com
-  name: DURATECH
-type: d3-device-type-assertion

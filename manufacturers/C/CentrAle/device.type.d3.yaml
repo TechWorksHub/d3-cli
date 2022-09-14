@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c1148ab6-72bd-5565-a606-6fd29d4734bb
-  macAddresses:
-  - D0:76:50:00:00:00/28
-  manufacturer: CentrAlert, Inc.
-  manufacturerUri: https://device-type.com
-  name: CentrAle
-type: d3-device-type-assertion

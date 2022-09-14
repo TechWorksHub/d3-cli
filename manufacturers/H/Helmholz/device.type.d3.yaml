@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1302c98f-6a51-5a70-9141-6245d26484c2
-  macAddresses:
-  - 24:EA:40:00:00:00/24
-  manufacturer: Helmholz GmbH & Co. KG
-  manufacturerUri: https://device-type.com
-  name: Helmholz
-type: d3-device-type-assertion

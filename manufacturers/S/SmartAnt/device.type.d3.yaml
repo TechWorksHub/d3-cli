@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6b642c3d-2da6-54e0-8292-834dfc57797f
-  macAddresses:
-  - 00:1C:0B:00:00:00/24
-  manufacturer: SmartAnt Telecom
-  manufacturerUri: https://device-type.com
-  name: SmartAnt
-type: d3-device-type-assertion

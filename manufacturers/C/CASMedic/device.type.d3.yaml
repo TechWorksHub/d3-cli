@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8fe4839d-67cc-5995-9354-751c8ae4c3f5
-  macAddresses:
-  - 70:B3:D5:9D:B0:00/36
-  manufacturer: CAS Medical Systems, Inc
-  manufacturerUri: https://device-type.com
-  name: CASMedic
-type: d3-device-type-assertion

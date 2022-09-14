@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4d6da800-41c9-5fe5-897d-ca22d2f6c2bf
-  macAddresses:
-  - 3C:70:59:00:00:00/24
-  manufacturer: MakerBot Industries
-  manufacturerUri: https://device-type.com
-  name: MakerBot
-type: d3-device-type-assertion

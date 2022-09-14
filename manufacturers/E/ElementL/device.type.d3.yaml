@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7f94aa78-4590-5fe6-9c3a-b5dd11c1cf0d
-  macAddresses:
-  - 00:1C:3A:00:00:00/24
-  manufacturer: Element Labs, Inc.
-  manufacturerUri: https://device-type.com
-  name: ElementL
-type: d3-device-type-assertion

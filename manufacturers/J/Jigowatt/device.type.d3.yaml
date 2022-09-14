@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f216be18-7dff-55be-a2cc-c26d6fe12e43
-  macAddresses:
-  - 8C:93:51:00:00:00/24
-  manufacturer: Jigowatts Inc.
-  manufacturerUri: https://device-type.com
-  name: Jigowatt
-type: d3-device-type-assertion

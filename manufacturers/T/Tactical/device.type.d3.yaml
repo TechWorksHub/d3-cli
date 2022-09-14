@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f944256d-3fd2-56d7-bff8-923633a6802d
-  macAddresses:
-  - A8:A0:89:00:00:00/24
-  manufacturer: Tactical Communications
-  manufacturerUri: https://device-type.com
-  name: Tactical
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9360b898-6300-5bb6-940d-bff1508f4190
-  macAddresses:
-  - F8:93:F3:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Volans
-type: d3-device-type-assertion

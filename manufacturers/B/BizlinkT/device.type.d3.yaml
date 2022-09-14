@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5e474346-d553-59ba-8a8d-cd387b5617da
-  macAddresses:
-  - 0C:37:96:00:00:00/24
-  manufacturer: Bizlink Technology, Inc.
-  manufacturerUri: https://device-type.com
-  name: BizlinkT
-type: d3-device-type-assertion

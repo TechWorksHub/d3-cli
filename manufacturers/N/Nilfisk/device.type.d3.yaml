@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b1f39e74-e738-594f-a8a9-d46e404aa771
-  macAddresses:
-  - 90:80:60:00:00:00/24
-  manufacturer: Nilfisk A/S
-  manufacturerUri: https://device-type.com
-  name: Nilfisk
-type: d3-device-type-assertion

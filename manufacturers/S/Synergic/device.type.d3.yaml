@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b01b3501-3d20-5064-bee7-417a4fa4b057
-  macAddresses:
-  - 60:B3:87:00:00:00/24
-  manufacturer: Synergics Technologies GmbH
-  manufacturerUri: https://device-type.com
-  name: Synergic
-type: d3-device-type-assertion

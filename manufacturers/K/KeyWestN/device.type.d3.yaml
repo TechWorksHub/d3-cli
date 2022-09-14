@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d521ba64-b7a1-5cc8-8b69-0c36f9c405d6
-  macAddresses:
-  - 1C:82:59:B0:00:00/28
-  manufacturer: KeyWest Networks, Inc
-  manufacturerUri: https://device-type.com
-  name: KeyWestN
-type: d3-device-type-assertion

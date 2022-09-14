@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ac547174-7f75-5617-9084-aa395e56237f
-  macAddresses:
-  - 00:23:29:00:00:00/24
-  manufacturer: DDRdrive LLC
-  manufacturerUri: https://device-type.com
-  name: DDRdrive
-type: d3-device-type-assertion

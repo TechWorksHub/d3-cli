@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2b89442e-241c-5f0d-b27b-1bea1266e751
-  macAddresses:
-  - 00:26:CE:00:00:00/24
-  manufacturer: Kozumi USA Corp.
-  manufacturerUri: https://device-type.com
-  name: KozumiUS
-type: d3-device-type-assertion

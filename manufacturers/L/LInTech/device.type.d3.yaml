@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ae7fa5b9-39ab-5935-ae2d-ea1a540adba4
-  macAddresses:
-  - 00:21:1A:00:00:00/24
-  manufacturer: LInTech Corporation
-  manufacturerUri: https://device-type.com
-  name: LInTech
-type: d3-device-type-assertion

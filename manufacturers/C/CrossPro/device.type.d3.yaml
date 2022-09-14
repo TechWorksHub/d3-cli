@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3df0ef3d-8e20-500e-9d24-4b2ee9c5cccf
-  macAddresses:
-  - 00:50:C2:01:B0:00/36
-  manufacturer: Cross Products Ltd.
-  manufacturerUri: https://device-type.com
-  name: CrossPro
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7d6e88c9-b378-5584-89ac-36dd7d5ced7d
-  macAddresses:
-  - 00:1C:EC:00:00:00/24
-  manufacturer: Mobilesoft (Aust.) Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: Mobileso
-type: d3-device-type-assertion

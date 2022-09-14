@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 219445ad-6edc-5f17-b4f3-e45c10aaaf20
-  macAddresses:
-  - 00:18:F7:00:00:00/24
-  manufacturer: Kameleon Technologies
-  manufacturerUri: https://device-type.com
-  name: Kameleon
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2260fa42-f58e-5804-96c8-cc305f3c5a46
-  macAddresses:
-  - 00:1F:75:00:00:00/24
-  manufacturer: GiBahn Media
-  manufacturerUri: https://device-type.com
-  name: GiBahnMe
-type: d3-device-type-assertion

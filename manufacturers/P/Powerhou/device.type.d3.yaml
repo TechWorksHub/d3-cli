@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 26924d50-8a07-5903-ae6f-6d7904c71420
-  macAddresses:
-  - 3C:09:6D:00:00:00/24
-  manufacturer: Powerhouse Dynamics
-  manufacturerUri: https://device-type.com
-  name: Powerhou
-type: d3-device-type-assertion

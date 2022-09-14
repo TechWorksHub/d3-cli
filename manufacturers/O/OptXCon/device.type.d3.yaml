@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4b712eee-3094-54ab-914e-46075360f047
-  macAddresses:
-  - 00:04:BE:00:00:00/24
-  manufacturer: OptXCon, Inc.
-  manufacturerUri: https://device-type.com
-  name: OptXCon
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e14c53f9-5665-547e-bf11-79c7ab143438
-  macAddresses:
-  - 70:B3:D5:4E:80:00/36
-  manufacturer: Copious Imaging LLC
-  manufacturerUri: https://device-type.com
-  name: CopiousI
-type: d3-device-type-assertion

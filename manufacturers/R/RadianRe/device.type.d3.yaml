@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 56dd448f-7b66-5a9c-967f-80ea7b81a7b2
-  macAddresses:
-  - 70:B3:D5:9B:C0:00/36
-  manufacturer: Radian Research, Inc.
-  manufacturerUri: https://device-type.com
-  name: RadianRe
-type: d3-device-type-assertion

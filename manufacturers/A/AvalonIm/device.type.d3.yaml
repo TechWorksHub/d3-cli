@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c9f4254b-4879-5c7a-b6b5-fb1c9c647a48
-  macAddresses:
-  - 00:E0:0E:00:00:00/24
-  manufacturer: Avalon Imaging Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: AvalonIm
-type: d3-device-type-assertion

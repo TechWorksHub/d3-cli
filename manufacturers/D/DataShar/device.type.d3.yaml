@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c731a1fb-4a92-5b5a-9f67-7c4285d6dd69
-  macAddresses:
-  - 40:D8:55:0B:50:00/36
-  manufacturer: Data Sharing Consulting
-  manufacturerUri: https://device-type.com
-  name: DataShar
-type: d3-device-type-assertion

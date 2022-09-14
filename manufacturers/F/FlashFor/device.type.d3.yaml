@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c3fb38e8-4484-53e3-ba6c-4c78ac670c24
-  macAddresses:
-  - 88:A9:A7:90:00:00/28
-  manufacturer: FlashForge Corporation
-  manufacturerUri: https://device-type.com
-  name: FlashFor
-type: d3-device-type-assertion

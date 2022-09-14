@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8acace9f-4c8d-561d-bdcf-e96286beb31e
-  macAddresses:
-  - 00:15:CC:00:00:00/24
-  manufacturer: Uquest, Ltd.
-  manufacturerUri: https://device-type.com
-  name: Uquest
-type: d3-device-type-assertion

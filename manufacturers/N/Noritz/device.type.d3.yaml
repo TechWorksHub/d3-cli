@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f06d8794-ba12-5b0b-9e62-c8f1b3f69e41
-  macAddresses:
-  - 00:0A:4D:00:00:00/24
-  manufacturer: Noritz Corporation
-  manufacturerUri: https://device-type.com
-  name: Noritz
-type: d3-device-type-assertion

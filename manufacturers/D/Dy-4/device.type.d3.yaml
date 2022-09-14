@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5a6f91ac-4c3f-535e-845b-34e100155211
-  macAddresses:
-  - 00:80:7F:00:00:00/24
-  manufacturer: Dy-4 Incorporated
-  manufacturerUri: https://device-type.com
-  name: Dy-4
-type: d3-device-type-assertion

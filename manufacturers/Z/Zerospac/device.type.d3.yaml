@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d0379dd4-88ea-5e09-8c82-757e2bf1b195
-  macAddresses:
-  - 70:B3:D5:9E:80:00/36
-  manufacturer: Zerospace ICT Services B.V.
-  manufacturerUri: https://device-type.com
-  name: Zerospac
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 07b3a0f1-c703-541d-8daa-07e8d1a0c016
-  macAddresses:
-  - 00:1F:2B:00:00:00/24
-  manufacturer: Orange Logic
-  manufacturerUri: https://device-type.com
-  name: OrangeLo
-type: d3-device-type-assertion

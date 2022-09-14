@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ded06bed-9ef0-5830-ad5c-9bfa515c1ae4
-  macAddresses:
-  - 00:02:4C:00:00:00/24
-  manufacturer: SiByte, Inc.
-  manufacturerUri: https://device-type.com
-  name: SiByte
-type: d3-device-type-assertion

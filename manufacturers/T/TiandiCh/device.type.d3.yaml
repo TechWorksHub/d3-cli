@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d15c3816-5839-5d3c-bc5f-ede6fd3fd3e3
-  macAddresses:
-  - C0:FB:F9:A0:00:00/28
-  manufacturer: Tiandi(Changzhou) Automation Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: TiandiCh
-type: d3-device-type-assertion

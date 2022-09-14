@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b01fc17b-a7ee-5f53-a17c-ab327a967025
-  macAddresses:
-  - 70:B3:D5:F4:A0:00/36
-  manufacturer: Lacs Srl
-  manufacturerUri: https://device-type.com
-  name: Lacs
-type: d3-device-type-assertion

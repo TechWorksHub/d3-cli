@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 175384b1-bf2d-5e69-9dfb-51b0f8afde54
-  macAddresses:
-  - 28:F5:37:C0:00:00/28
-  manufacturer: Matricx Singapore Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: MatricxS
-type: d3-device-type-assertion

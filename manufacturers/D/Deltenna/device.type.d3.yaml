@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 28b21cf3-8f38-52a1-ad41-bc815df05f0a
-  macAddresses:
-  - F8:AC:6D:00:00:00/24
-  manufacturer: Deltenna Ltd
-  manufacturerUri: https://device-type.com
-  name: Deltenna
-type: d3-device-type-assertion

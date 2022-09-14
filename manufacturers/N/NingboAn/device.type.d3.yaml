@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 99717612-d779-5381-b4dd-e448e13ed627
-  macAddresses:
-  - 00:26:D6:00:00:00/24
-  manufacturer: Ningbo Andy Optoelectronic Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: NingboAn
-type: d3-device-type-assertion

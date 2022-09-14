@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 53824912-8551-537b-9439-07f5c4b56f88
-  macAddresses:
-  - 00:C0:21:00:00:00/24
-  manufacturer: Netexpress
-  manufacturerUri: https://device-type.com
-  name: Netexpre
-type: d3-device-type-assertion

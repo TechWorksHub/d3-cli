@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 51d29bac-2e28-5c76-bc25-72b9e7f7aa8c
-  macAddresses:
-  - 00:0A:44:00:00:00/24
-  manufacturer: Avery Dennison Deutschland GmbH
-  manufacturerUri: https://device-type.com
-  name: AveryDen
-type: d3-device-type-assertion

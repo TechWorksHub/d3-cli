@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0fc2b988-8eea-5ef3-8ae9-cb95645e18c7
-  macAddresses:
-  - 00:50:C2:B3:E0:00/36
-  manufacturer: Sage Consultants
-  manufacturerUri: https://device-type.com
-  name: SageCons
-type: d3-device-type-assertion

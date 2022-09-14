@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c4d85f2a-ce45-590b-9e27-86e168bfbfc6
-  macAddresses:
-  - 70:B3:D5:0B:10:00/36
-  manufacturer: AirBie AG
-  manufacturerUri: https://device-type.com
-  name: AirBie
-type: d3-device-type-assertion

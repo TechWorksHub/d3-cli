@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bfcdc681-ab18-5225-9ac9-4babe467afc4
-  macAddresses:
-  - 00:21:50:00:00:00/24
-  manufacturer: Eyeview Electronics
-  manufacturerUri: https://device-type.com
-  name: EyeviewE
-type: d3-device-type-assertion

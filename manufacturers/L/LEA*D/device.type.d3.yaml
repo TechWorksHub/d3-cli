@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ba87def2-269e-5a66-9f17-23fd93d1376d
-  macAddresses:
-  - 00:05:22:00:00:00/24
-  manufacturer: LEA*D Corporation, Inc.
-  manufacturerUri: https://device-type.com
-  name: LEA*D
-type: d3-device-type-assertion

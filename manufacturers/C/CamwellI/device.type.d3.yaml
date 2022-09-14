@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 302ac37c-d4fa-504b-93b4-2b646e5f5f42
-  macAddresses:
-  - 70:B3:D5:E7:80:00/36
-  manufacturer: Camwell India LLP
-  manufacturerUri: https://device-type.com
-  name: CamwellI
-type: d3-device-type-assertion

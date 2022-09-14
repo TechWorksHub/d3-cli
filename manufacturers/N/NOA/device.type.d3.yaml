@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fbabfc3d-bc27-5258-b978-b74e5e1ef9f4
-  macAddresses:
-  - 70:B3:D5:4E:E0:00/36
-  manufacturer: NOA Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: NOA
-type: d3-device-type-assertion

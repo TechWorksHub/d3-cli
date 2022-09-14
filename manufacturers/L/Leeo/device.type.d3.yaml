@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 206a2ad9-36c0-5676-b20f-8b87a5a68ecc
-  macAddresses:
-  - 50:F4:3C:00:00:00/24
-  manufacturer: Leeo Inc
-  manufacturerUri: https://device-type.com
-  name: Leeo
-type: d3-device-type-assertion

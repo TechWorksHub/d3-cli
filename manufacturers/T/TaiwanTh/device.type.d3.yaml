@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 69ad7679-2082-55b3-9d5d-74a465fce655
-  macAddresses:
-  - 00:14:4A:00:00:00/24
-  manufacturer: Taiwan Thick-Film Ind. Corp.
-  manufacturerUri: https://device-type.com
-  name: TaiwanTh
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2ca1ab1d-2af7-5e0b-b4bf-bd6e99c0f0c6
-  macAddresses:
-  - 94:D9:3C:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Enelps
-type: d3-device-type-assertion

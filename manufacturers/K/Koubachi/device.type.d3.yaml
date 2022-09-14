@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fb91550e-b124-5842-a4d4-d4c7bc99af31
-  macAddresses:
-  - 8C:05:51:00:00:00/24
-  manufacturer: Koubachi AG
-  manufacturerUri: https://device-type.com
-  name: Koubachi
-type: d3-device-type-assertion

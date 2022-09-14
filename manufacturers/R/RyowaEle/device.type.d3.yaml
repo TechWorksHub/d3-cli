@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f27645a9-10bc-5650-8758-22e159439c15
-  macAddresses:
-  - 08:8D:C8:00:00:00/24
-  manufacturer: Ryowa Electronics Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: RyowaEle
-type: d3-device-type-assertion

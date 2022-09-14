@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 402213ef-b1de-52e7-b856-c3c21f70f69f
-  macAddresses:
-  - 70:B3:D5:77:90:00/36
-  manufacturer: Dr.Bridge Aquatech
-  manufacturerUri: https://device-type.com
-  name: DrBridge
-type: d3-device-type-assertion

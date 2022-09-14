@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 94eb3b5e-3bb2-59cd-8cd5-b0a52ec3eaba
-  macAddresses:
-  - DC:4A:9E:D0:00:00/28
-  manufacturer: Happiest Baby Inc.
-  manufacturerUri: https://device-type.com
-  name: Happiest
-type: d3-device-type-assertion

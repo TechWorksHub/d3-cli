@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 56d40dd8-f754-5ea9-a499-929b6c1106df
-  macAddresses:
-  - 00:0B:E7:00:00:00/24
-  manufacturer: Comflux Technology Inc.
-  manufacturerUri: https://device-type.com
-  name: ComfluxT
-type: d3-device-type-assertion

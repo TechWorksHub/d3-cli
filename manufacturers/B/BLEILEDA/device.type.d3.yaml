@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f5fa4c73-7954-5d4d-8a7d-d2e171e1d68b
-  macAddresses:
-  - 00:50:C2:44:90:00/36
-  manufacturer: BLEILE DATENTECHNIK GmbH
-  manufacturerUri: https://device-type.com
-  name: BLEILEDA
-type: d3-device-type-assertion

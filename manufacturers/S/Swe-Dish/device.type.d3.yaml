@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e72409aa-c33e-5ee7-a2ac-d814a645958e
-  macAddresses:
-  - 00:1A:0C:00:00:00/24
-  manufacturer: Swe-Dish Satellite Systems AB
-  manufacturerUri: https://device-type.com
-  name: Swe-Dish
-type: d3-device-type-assertion

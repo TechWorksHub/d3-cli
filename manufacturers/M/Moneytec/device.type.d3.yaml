@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 62511293-76a3-5259-bac9-e02ffa9342a2
-  macAddresses:
-  - 00:25:43:00:00:00/24
-  manufacturer: Moneytech
-  manufacturerUri: https://device-type.com
-  name: Moneytec
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: da87b273-1c07-5f37-a11b-f2cb4470f18d
-  macAddresses:
-  - 40:D8:55:13:B0:00/36
-  manufacturer: Davin Technologies Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: DavinTec
-type: d3-device-type-assertion

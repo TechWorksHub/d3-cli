@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d1efcb3a-bfb7-5b2e-ba1c-116067262e63
-  macAddresses:
-  - 00:01:FF:00:00:00/24
-  manufacturer: Data Direct Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: DataDire
-type: d3-device-type-assertion

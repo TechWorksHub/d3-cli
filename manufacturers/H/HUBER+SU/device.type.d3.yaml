@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: de95e098-fd6e-54fd-84c6-d19aaa6f0ac8
-  macAddresses:
-  - 00:08:B0:00:00:00/24
-  manufacturer: HUBER+SUHNER BKtel GmbH
-  manufacturerUri: https://device-type.com
-  name: HUBER+SU
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d9347b66-fd6a-52bd-8e17-038604ac5313
-  macAddresses:
-  - 50:AB:3E:00:00:00/24
-  manufacturer: Qibixx AG
-  manufacturerUri: https://device-type.com
-  name: Qibixx
-type: d3-device-type-assertion

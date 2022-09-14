@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c4c0e9df-3161-5302-b8ad-c0f40644abbe
-  macAddresses:
-  - 00:20:CD:00:00:00/24
-  manufacturer: Hybrid Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: HybridNe
-type: d3-device-type-assertion

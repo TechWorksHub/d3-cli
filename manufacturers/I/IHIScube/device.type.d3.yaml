@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eeb839ae-305b-547c-84e8-ed01e0e42552
-  macAddresses:
-  - 00:50:C2:E1:50:00/36
-  manufacturer: IHI Scube Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: IHIScube
-type: d3-device-type-assertion

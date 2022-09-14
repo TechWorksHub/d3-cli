@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 871cdd95-b191-5b56-b7b6-8dbacd7776fb
-  macAddresses:
-  - 00:50:C2:08:E0:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Bsquare
-type: d3-device-type-assertion

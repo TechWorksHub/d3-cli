@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 47a1ee92-126c-5efb-be58-d6cf7013bf78
-  macAddresses:
-  - 00:12:5F:00:00:00/24
-  manufacturer: AWIND Inc.
-  manufacturerUri: https://device-type.com
-  name: AWIND
-type: d3-device-type-assertion

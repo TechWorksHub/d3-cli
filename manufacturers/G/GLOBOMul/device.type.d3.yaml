@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 12638e06-80c5-58f8-ac24-f45b477239d4
-  macAddresses:
-  - 08:F7:28:00:00:00/24
-  manufacturer: GLOBO Multimedia Sp. z o.o. Sp.k.
-  manufacturerUri: https://device-type.com
-  name: GLOBOMul
-type: d3-device-type-assertion

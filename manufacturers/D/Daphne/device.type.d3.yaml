@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7ea6defd-b54b-5989-a27e-ee9a6485ee06
-  macAddresses:
-  - 00:02:B4:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Daphne
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4e90c595-bfd1-5e1e-8979-e4f6112e2207
-  macAddresses:
-  - 08:DF:CB:00:00:00/24
-  manufacturer: Systrome Networks
-  manufacturerUri: https://device-type.com
-  name: Systrome
-type: d3-device-type-assertion

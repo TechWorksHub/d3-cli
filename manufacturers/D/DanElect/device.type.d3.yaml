@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aba0427c-5fd8-5c86-a9bc-06d6e5e9c9bf
-  macAddresses:
-  - 40:D8:55:05:20:00/36
-  manufacturer: Dan Electronics System (P) Limited
-  manufacturerUri: https://device-type.com
-  name: DanElect
-type: d3-device-type-assertion

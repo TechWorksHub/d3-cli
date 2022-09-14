@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0ccb93d6-8e75-583d-833f-a1c3e97a910e
-  macAddresses:
-  - 00:25:18:00:00:00/24
-  manufacturer: Power PLUS Communications AG
-  manufacturerUri: https://device-type.com
-  name: PowerPLU
-type: d3-device-type-assertion

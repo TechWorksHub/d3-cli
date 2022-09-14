@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 44d6209f-c31b-528a-8123-19f9d3a6fc2b
-  macAddresses:
-  - 00:90:8C:00:00:00/24
-  manufacturer: Etrend Electronics, Inc.
-  manufacturerUri: https://device-type.com
-  name: EtrendEl
-type: d3-device-type-assertion

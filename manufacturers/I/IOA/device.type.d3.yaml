@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f50da7a2-22fa-522f-8971-14cb7215f889
-  macAddresses:
-  - 00:07:F2:00:00:00/24
-  manufacturer: IOA Corporation
-  manufacturerUri: https://device-type.com
-  name: IOA
-type: d3-device-type-assertion

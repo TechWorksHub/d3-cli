@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d1dfe6a2-4181-572f-9b5b-776a7487ffa8
-  macAddresses:
-  - 98:37:13:00:00:00/24
-  manufacturer: PT.Navicom Indonesia
-  manufacturerUri: https://device-type.com
-  name: PTNavico
-type: d3-device-type-assertion

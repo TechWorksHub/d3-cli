@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dcfef669-7a05-5a58-9105-f9ac9c2237e1
-  macAddresses:
-  - 1C:0F:CF:00:00:00/24
-  manufacturer: Sypro Optics GmbH
-  manufacturerUri: https://device-type.com
-  name: SyproOpt
-type: d3-device-type-assertion

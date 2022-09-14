@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e9a8b711-53e1-5b1a-8b38-274076655c18
-  macAddresses:
-  - 00:80:12:00:00:00/24
-  manufacturer: IMS Corp.
-  manufacturerUri: https://device-type.com
-  name: ImsImsFa
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 17286319-1f88-5dfc-88aa-2186d60628bc
-  macAddresses:
-  - BC:88:C3:00:00:00/24
-  manufacturer: Ningbo Dooya Mechanic & Electronic Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: NingboDo
-type: d3-device-type-assertion

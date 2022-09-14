@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5f11e262-69d6-5a1d-b102-54c91ff45ea1
-  macAddresses:
-  - 00:50:BB:00:00:00/24
-  manufacturer: Cms Technologies
-  manufacturerUri: https://device-type.com
-  name: CmsTechn
-type: d3-device-type-assertion

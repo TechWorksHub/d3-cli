@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 280de10d-9c52-5476-9ce4-2e226d06146b
-  macAddresses:
-  - 00:50:C2:A6:D0:00/36
-  manufacturer: DTV Innovations
-  manufacturerUri: https://device-type.com
-  name: DTVInnov
-type: d3-device-type-assertion

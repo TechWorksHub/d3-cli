@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bfcb4681-5383-57d5-9e15-01c04063a201
-  macAddresses:
-  - 70:B3:D5:EF:A0:00/36
-  manufacturer: NextEra Energy Resources, LLC
-  manufacturerUri: https://device-type.com
-  name: NextEraE
-type: d3-device-type-assertion

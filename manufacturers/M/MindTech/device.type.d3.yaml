@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1d5c44f1-6917-5af6-ab80-cf29662cc9c8
-  macAddresses:
-  - E8:EF:05:00:00:00/24
-  manufacturer: Mind Tech International Limited
-  manufacturerUri: https://device-type.com
-  name: MindTech
-type: d3-device-type-assertion

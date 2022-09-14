@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 08ed29b3-483a-5e5b-89ff-f5cfbdf12e84
-  macAddresses:
-  - 00:30:B5:00:00:00/24
-  manufacturer: Tadiran Microwave Networks
-  manufacturerUri: https://device-type.com
-  name: TadiranM
-type: d3-device-type-assertion

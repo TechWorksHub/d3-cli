@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 85bca9b1-7b14-5c57-9b94-8d99a31c14b0
-  macAddresses:
-  - 00:03:17:00:00:00/24
-  manufacturer: Merlin Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Merlin
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 546504a8-a4e3-5935-924f-465eafa13696
-  macAddresses:
-  - 9C:F6:DD:90:00:00/28
-  manufacturer: "CAMA\uFF08Luoyang\uFF09Electronics Co.\uFF0CLtd"
-  manufacturerUri: https://device-type.com
-  name: "CAMA\uFF08Luo"
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f40d0242-5ecb-5288-93bb-52d9fe2bd367
-  macAddresses:
-  - BC:76:4E:00:00:00/24
-  manufacturer: Rackspace US, Inc.
-  manufacturerUri: https://device-type.com
-  name: Rackspac
-type: d3-device-type-assertion

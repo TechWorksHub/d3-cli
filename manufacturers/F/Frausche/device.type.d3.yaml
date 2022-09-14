@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c7294055-0058-5d6e-a73f-e5285a85ba08
-  macAddresses:
-  - 64:53:5D:00:00:00/24
-  manufacturer: Frauscher Sensortechnik
-  manufacturerUri: https://device-type.com
-  name: Frausche
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b827769e-d4e5-5de4-a9d1-472bb589efbe
-  macAddresses:
-  - 00:50:C2:B7:A0:00/36
-  manufacturer: Schnoor Industrieelektronik GmbH & Co. KG
-  manufacturerUri: https://device-type.com
-  name: SchnoorI
-type: d3-device-type-assertion

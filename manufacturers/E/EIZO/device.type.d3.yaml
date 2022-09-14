@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 85dba140-7e93-5411-a324-0aba53f79bf3
-  macAddresses:
-  - 00:90:93:00:00:00/24
-  manufacturer: EIZO Corporation
-  manufacturerUri: https://device-type.com
-  name: EIZO
-type: d3-device-type-assertion

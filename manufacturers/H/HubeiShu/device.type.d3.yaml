@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1bf083a0-9153-5e7f-9704-078329ac9be7
-  macAddresses:
-  - 58:48:49:50:00:00/28
-  manufacturer: Hubei Shudi Communication Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: HubeiShu
-type: d3-device-type-assertion

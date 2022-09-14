@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0256587f-d33e-51a2-a150-5e57d81605d9
-  macAddresses:
-  - 00:0A:8C:00:00:00/24
-  manufacturer: Guardware Systems Ltd.
-  manufacturerUri: https://device-type.com
-  name: Guardwar
-type: d3-device-type-assertion

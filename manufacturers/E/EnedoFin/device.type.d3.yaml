@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b8984a95-0e13-5741-9b6b-3a7e96246a94
-  macAddresses:
-  - 28:B7:7C:D0:00:00/28
-  manufacturer: Enedo Finland Oy
-  manufacturerUri: https://device-type.com
-  name: EnedoFin
-type: d3-device-type-assertion

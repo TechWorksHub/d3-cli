@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 262506da-2297-5baf-96e8-22cfa9edcc52
-  macAddresses:
-  - B8:D3:09:00:00:00/24
-  manufacturer: Cox Communications, Inc
-  manufacturerUri: https://device-type.com
-  name: CoxCommu
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d120ca29-aa27-5447-9b0a-a7c6d87154cb
-  macAddresses:
-  - 00:A0:A2:00:00:00/24
-  manufacturer: B810 S.R.L.
-  manufacturerUri: https://device-type.com
-  name: B810
-type: d3-device-type-assertion

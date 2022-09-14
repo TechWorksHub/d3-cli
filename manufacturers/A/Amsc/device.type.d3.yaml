@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1be62bd1-a504-5a58-ab85-579efaf4ccdf
-  macAddresses:
-  - 08:08:EA:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Amsc
-type: d3-device-type-assertion

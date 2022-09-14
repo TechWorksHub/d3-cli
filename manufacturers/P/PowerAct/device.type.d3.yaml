@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8b4168c9-ecc2-5ed8-83da-82b650900d1a
-  macAddresses:
-  - 4C:4B:F9:30:00:00/28
-  manufacturer: Power Active Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: PowerAct
-type: d3-device-type-assertion

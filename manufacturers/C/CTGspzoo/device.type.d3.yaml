@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ec4993aa-7cde-5344-ae2f-f45a0d3d7431
-  macAddresses:
-  - 70:B3:D5:39:60:00/36
-  manufacturer: CTG sp. z o. o.
-  manufacturerUri: https://device-type.com
-  name: CTGspzoo
-type: d3-device-type-assertion

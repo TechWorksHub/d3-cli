@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 66831107-1bde-5aae-a2ff-f2e0410a4d1b
-  macAddresses:
-  - 98:6C:5C:00:00:00/24
-  manufacturer: Jiangxi Gosun Guard Security Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: JiangxiG
-type: d3-device-type-assertion

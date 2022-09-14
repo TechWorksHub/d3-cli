@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e0e3f1f4-5613-57ac-87da-099a03aa1524
-  macAddresses:
-  - 00:24:07:00:00:00/24
-  manufacturer: Telem Sas
-  manufacturerUri: https://device-type.com
-  name: TelemSas
-type: d3-device-type-assertion

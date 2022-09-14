@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c16f656d-950f-5322-824f-36c785ff5bd6
-  macAddresses:
-  - 28:71:84:00:00:00/24
-  manufacturer: Spire Payments
-  manufacturerUri: https://device-type.com
-  name: SpirePay
-type: d3-device-type-assertion

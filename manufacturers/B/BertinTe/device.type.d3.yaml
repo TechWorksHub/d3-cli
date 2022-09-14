@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f5eeb94d-4a31-537c-bd78-13f9bef81f85
-  macAddresses:
-  - 8C:AE:49:30:00:00/28
-  manufacturer: Bertin Technologies
-  manufacturerUri: https://device-type.com
-  name: BertinTe
-type: d3-device-type-assertion

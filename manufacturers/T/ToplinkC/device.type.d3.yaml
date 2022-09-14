@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7b4a4d6d-b78a-5221-8016-054e653c0f29
-  macAddresses:
-  - 00:06:7B:00:00:00/24
-  manufacturer: Toplink C&C Corporation
-  manufacturerUri: https://device-type.com
-  name: ToplinkC
-type: d3-device-type-assertion

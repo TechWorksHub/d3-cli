@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0967ec8d-5c82-5591-8ecc-71e68a11e95d
-  macAddresses:
-  - 5C:5A:EA:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Ford
-type: d3-device-type-assertion

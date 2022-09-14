@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cb5d704b-9177-55d2-8c01-7de61c196b24
-  macAddresses:
-  - 00:0C:BA:00:00:00/24
-  manufacturer: Jamex, Inc.
-  manufacturerUri: https://device-type.com
-  name: Jamex
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8f0b8f66-feb7-5cf2-a9b0-d32a71e99119
-  macAddresses:
-  - 44:AA:E8:00:00:00/24
-  manufacturer: Nanotec Electronic GmbH & Co. KG
-  manufacturerUri: https://device-type.com
-  name: NanotecE
-type: d3-device-type-assertion

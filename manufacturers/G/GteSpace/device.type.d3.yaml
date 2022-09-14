@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c747b2db-ae01-5bfa-a1d4-7f9206dbd561
-  macAddresses:
-  - 00:40:65:00:00:00/24
-  manufacturer: Gte Spacenet
-  manufacturerUri: https://device-type.com
-  name: GteSpace
-type: d3-device-type-assertion

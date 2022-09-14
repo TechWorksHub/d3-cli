@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a806b5bd-c316-5b73-9166-e98e0a233252
-  macAddresses:
-  - 00:0E:89:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Clematic
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5d71ea7d-22a4-5503-bfeb-375f911a52d5
-  macAddresses:
-  - D4:00:57:00:00:00/24
-  manufacturer: MC Technologies GmbH
-  manufacturerUri: https://device-type.com
-  name: MCTechno
-type: d3-device-type-assertion

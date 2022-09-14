@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 650de968-d9ca-559c-9ea8-ecb65839e0dc
-  macAddresses:
-  - 1C:FD:08:E0:00:00/28
-  manufacturer: Meshbox Foundation Pte. Ltd.
-  manufacturerUri: https://device-type.com
-  name: MeshboxF
-type: d3-device-type-assertion

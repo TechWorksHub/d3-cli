@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a67b446f-8042-5a75-b949-ca7b001cc64f
-  macAddresses:
-  - FC:CD:2F:C0:00:00/28
-  manufacturer: Spedos ADS a.s.
-  manufacturerUri: https://device-type.com
-  name: SpedosAD
-type: d3-device-type-assertion

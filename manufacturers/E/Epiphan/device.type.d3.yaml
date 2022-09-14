@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 70c93442-7376-58b9-8fa7-ac5df8bd8855
-  macAddresses:
-  - 58:95:D8:70:00:00/28
-  manufacturer: Epiphan Systems Inc
-  manufacturerUri: https://device-type.com
-  name: Epiphan
-type: d3-device-type-assertion

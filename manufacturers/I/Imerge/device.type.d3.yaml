@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a8641f35-0133-5b49-865f-65cfcdc316f6
-  macAddresses:
-  - 00:0A:1A:00:00:00/24
-  manufacturer: Imerge Ltd
-  manufacturerUri: https://device-type.com
-  name: Imerge
-type: d3-device-type-assertion

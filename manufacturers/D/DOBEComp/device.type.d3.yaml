@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 69d2f8d8-7b0e-546f-9279-97100513acb3
-  macAddresses:
-  - 70:B3:D5:9D:F0:00/36
-  manufacturer: DOBE Computing
-  manufacturerUri: https://device-type.com
-  name: DOBEComp
-type: d3-device-type-assertion

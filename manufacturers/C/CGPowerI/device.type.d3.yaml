@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c9f40d5a-0376-5eaf-bbac-34aad319a5ab
-  macAddresses:
-  - 00:12:76:00:00:00/24
-  manufacturer: CG Power Systems Ireland Limited
-  manufacturerUri: https://device-type.com
-  name: CGPowerI
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ea6f3ac1-648c-5dac-ac6f-8d8516b8bc6d
-  macAddresses:
-  - 00:20:F3:00:00:00/24
-  manufacturer: Raynet Corporation
-  manufacturerUri: https://device-type.com
-  name: Raynet
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bdb0bdb2-21ed-5c0a-b4e7-f25938f74edf
-  macAddresses:
-  - 08:00:33:00:00:00/24
-  manufacturer: Bausch & Lomb
-  manufacturerUri: https://device-type.com
-  name: BauschLo
-type: d3-device-type-assertion

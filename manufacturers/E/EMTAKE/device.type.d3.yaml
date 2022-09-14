@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3be33bce-5a46-5f35-bf9a-3bdefe868cf6
-  macAddresses:
-  - F4:F1:97:00:00:00/24
-  manufacturer: EMTAKE Inc
-  manufacturerUri: https://device-type.com
-  name: EMTAKE
-type: d3-device-type-assertion

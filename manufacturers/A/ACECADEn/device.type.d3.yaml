@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e35a0b25-79a7-56fb-83f4-e7a616433d8e
-  macAddresses:
-  - 00:1B:58:00:00:00/24
-  manufacturer: ACE CAD Enterprise Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: ACECADEn
-type: d3-device-type-assertion

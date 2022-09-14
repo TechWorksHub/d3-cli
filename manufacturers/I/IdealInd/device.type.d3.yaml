@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b6ce6459-e1d4-54ce-9a04-62ff1b764f81
-  macAddresses:
-  - 00:16:06:00:00:00/24
-  manufacturer: Ideal Industries
-  manufacturerUri: https://device-type.com
-  name: IdealInd
-type: d3-device-type-assertion

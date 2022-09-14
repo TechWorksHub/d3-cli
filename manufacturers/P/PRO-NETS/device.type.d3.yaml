@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3f6f9949-5cb0-588b-9018-8e9e143794f0
-  macAddresses:
-  - 00:06:4F:00:00:00/24
-  manufacturer: PRO-NETS Technology Corporation
-  manufacturerUri: https://device-type.com
-  name: PRO-NETS
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 32ddc654-265a-5b52-a047-c7d7c96f940f
-  macAddresses:
-  - 00:50:C2:46:00:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Vitelnet
-type: d3-device-type-assertion

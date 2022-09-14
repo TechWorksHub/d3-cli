@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5f0faa1f-6d3d-5340-8ada-938a70a5ff91
-  macAddresses:
-  - 00:60:B7:00:00:00/24
-  manufacturer: Channelmatic, Inc.
-  manufacturerUri: https://device-type.com
-  name: Channelm
-type: d3-device-type-assertion

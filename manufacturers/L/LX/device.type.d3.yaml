@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 767572f9-9d0e-530c-bcb6-efc6664c5fd5
-  macAddresses:
-  - 1C:C0:E1:80:00:00/28
-  manufacturer: LX Corporation Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: LX
-type: d3-device-type-assertion

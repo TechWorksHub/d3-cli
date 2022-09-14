@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 66663595-b053-511b-8c56-7a106c00089d
-  macAddresses:
-  - 00:05:68:00:00:00/24
-  manufacturer: Piltofish Networks AB
-  manufacturerUri: https://device-type.com
-  name: Piltofis
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 91f5e81a-8017-5e09-9785-2bfeb40f39fe
-  macAddresses:
-  - 14:A6:2C:00:00:00/24
-  manufacturer: S.M. Dezac S.A.
-  manufacturerUri: https://device-type.com
-  name: SMDezac
-type: d3-device-type-assertion

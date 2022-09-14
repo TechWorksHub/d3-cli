@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8f883548-7f74-553e-ab77-bcde517b01a8
-  macAddresses:
-  - 40:48:FD:90:00:00/28
-  manufacturer: Plus One Global Ltd.
-  manufacturerUri: https://device-type.com
-  name: PlusOneG
-type: d3-device-type-assertion

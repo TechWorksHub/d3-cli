@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5a5bd4e7-8e3a-53b1-aa0f-91370409e2a5
-  macAddresses:
-  - 70:B3:D5:30:70:00/36
-  manufacturer: Energi innovation Aps
-  manufacturerUri: https://device-type.com
-  name: Energiin
-type: d3-device-type-assertion

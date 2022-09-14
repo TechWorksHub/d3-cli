@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8f7d3eff-928a-59e3-a222-ddf98d95f916
-  macAddresses:
-  - 00:80:0D:00:00:00/24
-  manufacturer: Vosswinkel FU
-  manufacturerUri: https://device-type.com
-  name: Vosswink
-type: d3-device-type-assertion

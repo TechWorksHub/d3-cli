@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5f8cda18-52b7-5262-9e8a-a458f255a633
-  macAddresses:
-  - 00:07:88:00:00:00/24
-  manufacturer: Clipcomm, Inc.
-  manufacturerUri: https://device-type.com
-  name: Clipcomm
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 89625e50-9b8b-5405-9465-e9a834f29a7b
-  macAddresses:
-  - 00:1A:28:00:00:00/24
-  manufacturer: ASWT Co., LTD. Taiwan Branch H.K.
-  manufacturerUri: https://device-type.com
-  name: ASWTTaiw
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 73b584dd-8aae-53d1-aacf-5a4f5b5197e4
-  macAddresses:
-  - D8:81:CE:00:00:00/24
-  manufacturer: Ahn Inc.
-  manufacturerUri: https://device-type.com
-  name: Ahn
-type: d3-device-type-assertion

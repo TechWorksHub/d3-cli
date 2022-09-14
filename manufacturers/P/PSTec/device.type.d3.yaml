@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8d30a5a4-89f6-5356-9e78-bf3913ac6f2b
-  macAddresses:
-  - B8:C2:27:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: PSTec
-type: d3-device-type-assertion

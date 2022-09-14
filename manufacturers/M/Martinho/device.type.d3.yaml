@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 233f7a59-6d6d-59df-ae36-44f3e8d5fa0d
-  macAddresses:
-  - 00:10:BA:00:00:00/24
-  manufacturer: Martinho-Davis Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Martinho
-type: d3-device-type-assertion

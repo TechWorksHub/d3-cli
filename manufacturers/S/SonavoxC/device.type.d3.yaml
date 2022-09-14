@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d014ab17-9db4-5fd8-9b77-0d5148e5a542
-  macAddresses:
-  - 30:3E:AD:00:00:00/24
-  manufacturer: Sonavox Canada Inc
-  manufacturerUri: https://device-type.com
-  name: SonavoxC
-type: d3-device-type-assertion

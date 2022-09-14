@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7871ecce-0704-520f-97e7-2b1c955cc7a9
-  macAddresses:
-  - 00:90:82:00:00:00/24
-  manufacturer: Force Institute
-  manufacturerUri: https://device-type.com
-  name: ForceIns
-type: d3-device-type-assertion

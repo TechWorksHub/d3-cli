@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 61cfda68-b822-564a-9900-e4a33c954e73
-  macAddresses:
-  - 70:B3:D5:87:F0:00/36
-  manufacturer: NAC Planning Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: NACPlann
-type: d3-device-type-assertion

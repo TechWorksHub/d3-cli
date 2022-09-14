@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6f3a6a7c-6eb8-5f6c-bab3-a2f34b5a292d
-  macAddresses:
-  - 70:B3:D5:BE:40:00/36
-  manufacturer: Kunshan excellent Intelligent Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Kunshane
-type: d3-device-type-assertion

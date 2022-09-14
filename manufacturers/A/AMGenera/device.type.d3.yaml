@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 157f51a0-7985-5291-bc18-d55118065cbe
-  macAddresses:
-  - 70:B3:D5:2C:60:00/36
-  manufacturer: AM General Contractor
-  manufacturerUri: https://device-type.com
-  name: AMGenera
-type: d3-device-type-assertion

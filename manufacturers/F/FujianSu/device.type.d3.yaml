@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 747d7c48-2e39-5c5b-b250-7acb33bc7e91
-  macAddresses:
-  - 00:1F:6F:00:00:00/24
-  manufacturer: Fujian Sunnada Communication Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: FujianSu
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 55cb638b-0cab-57c0-8a43-c196e0be14ac
-  macAddresses:
-  - FC:3C:E9:00:00:00/24
-  manufacturer: Tsingtong Technologies Co, Ltd.
-  manufacturerUri: https://device-type.com
-  name: Tsington
-type: d3-device-type-assertion

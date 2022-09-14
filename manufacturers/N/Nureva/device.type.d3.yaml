@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c14991aa-5358-5bea-8f14-3f69bf50cd72
-  macAddresses:
-  - E0:E7:BB:00:00:00/24
-  manufacturer: Nureva, Inc.
-  manufacturerUri: https://device-type.com
-  name: Nureva
-type: d3-device-type-assertion

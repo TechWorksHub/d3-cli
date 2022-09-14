@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6accc57b-5d27-5b3a-ac8a-82d93c812c0d
-  macAddresses:
-  - 00:50:C2:76:00:00/36
-  manufacturer: Ar'S Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: ArS
-type: d3-device-type-assertion

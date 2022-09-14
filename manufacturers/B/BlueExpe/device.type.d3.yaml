@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 89d5518e-e6b5-535b-9494-81879a54e85e
-  macAddresses:
-  - 00:11:B1:00:00:00/24
-  manufacturer: BlueExpert Technology Corp.
-  manufacturerUri: https://device-type.com
-  name: BlueExpe
-type: d3-device-type-assertion

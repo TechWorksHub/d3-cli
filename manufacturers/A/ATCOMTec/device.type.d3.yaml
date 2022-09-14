@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 76a4d7a1-8836-5dbd-ba6a-225f21ec3e46
-  macAddresses:
-  - 80:82:87:00:00:00/24
-  manufacturer: ATCOM Technology Co.Ltd.
-  manufacturerUri: https://device-type.com
-  name: ATCOMTec
-type: d3-device-type-assertion

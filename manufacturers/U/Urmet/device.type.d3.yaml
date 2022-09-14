@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 64596bd9-13a9-529a-8c7b-de231de4bdf8
-  macAddresses:
-  - 00:1E:E0:00:00:00/24
-  manufacturer: Urmet SpA
-  manufacturerUri: https://device-type.com
-  name: Urmet
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fdbbb0ba-b085-52f3-ae23-b54b4d80268f
-  macAddresses:
-  - 00:1D:C0:00:00:00/24
-  manufacturer: Enphase Energy
-  manufacturerUri: https://device-type.com
-  name: EnphaseE
-type: d3-device-type-assertion

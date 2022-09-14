@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8099bd7d-b56a-5b96-85a6-b9eb4fd2df50
-  macAddresses:
-  - A0:28:33:A0:00:00/28
-  manufacturer: Medical Evolution Kft
-  manufacturerUri: https://device-type.com
-  name: MedicalE
-type: d3-device-type-assertion

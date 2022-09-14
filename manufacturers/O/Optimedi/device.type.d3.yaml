@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8526b660-85da-5fff-81cf-52224a42a40a
-  macAddresses:
-  - 00:1C:E3:00:00:00/24
-  manufacturer: Optimedical Systems
-  manufacturerUri: https://device-type.com
-  name: Optimedi
-type: d3-device-type-assertion

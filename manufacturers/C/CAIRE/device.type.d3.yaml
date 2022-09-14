@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a22cd315-35d7-5d2c-9715-49b61f299e53
-  macAddresses:
-  - 4A:72:06:00:00:00/24
-  manufacturer: CAIRE, Inc.
-  manufacturerUri: https://device-type.com
-  name: CAIRE
-type: d3-device-type-assertion

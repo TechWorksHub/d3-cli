@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 666c1ecf-7936-5b8a-885a-c69e5accb520
-  macAddresses:
-  - 00:0D:84:00:00:00/24
-  manufacturer: Makus Inc.
-  manufacturerUri: https://device-type.com
-  name: Makus
-type: d3-device-type-assertion

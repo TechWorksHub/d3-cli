@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 73381b45-d940-551d-93eb-a81ee855edbf
-  macAddresses:
-  - 70:B3:D5:C8:30:00/36
-  manufacturer: CertusNet Inc.
-  manufacturerUri: https://device-type.com
-  name: CertusNe
-type: d3-device-type-assertion

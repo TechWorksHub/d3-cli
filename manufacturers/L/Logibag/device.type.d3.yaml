@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0dc99276-7f1c-5e24-b2ae-5d029888d59e
-  macAddresses:
-  - 00:D0:4E:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Logibag
-type: d3-device-type-assertion

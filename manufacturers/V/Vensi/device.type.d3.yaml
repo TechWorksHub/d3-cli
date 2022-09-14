@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b87d2751-1c60-526a-b2f1-2cbb6458b4df
-  macAddresses:
-  - 70:B3:D5:37:90:00/36
-  manufacturer: Vensi, Inc.
-  manufacturerUri: https://device-type.com
-  name: Vensi
-type: d3-device-type-assertion

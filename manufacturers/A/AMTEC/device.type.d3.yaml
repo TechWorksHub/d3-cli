@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4df28c32-299e-5486-bb26-57ffc44ce8a1
-  macAddresses:
-  - 00:60:3B:00:00:00/24
-  manufacturer: AMTEC spa
-  manufacturerUri: https://device-type.com
-  name: AMTEC
-type: d3-device-type-assertion

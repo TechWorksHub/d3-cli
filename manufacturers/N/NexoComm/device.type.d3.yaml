@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fc3faf19-461b-5337-8263-21a1f0282607
-  macAddresses:
-  - 00:50:00:00:00:00/24
-  manufacturer: Nexo Communications, Inc.
-  manufacturerUri: https://device-type.com
-  name: NexoComm
-type: d3-device-type-assertion

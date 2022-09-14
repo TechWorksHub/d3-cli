@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a3b3e754-b80f-52aa-9bee-11166cd0e0e9
-  macAddresses:
-  - A0:8C:9B:00:00:00/24
-  manufacturer: Xtreme Technologies Corp
-  manufacturerUri: https://device-type.com
-  name: XtremeTe
-type: d3-device-type-assertion

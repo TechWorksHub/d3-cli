@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d5cb4e5c-484f-54f0-b1f1-d4e3b315811a
-  macAddresses:
-  - 00:20:5D:00:00:00/24
-  manufacturer: Nanomatic Oy
-  manufacturerUri: https://device-type.com
-  name: Nanomati
-type: d3-device-type-assertion

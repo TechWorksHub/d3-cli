@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 110230e8-5d78-5c5e-a7fe-7c1e6c530037
-  macAddresses:
-  - 00:A0:91:00:00:00/24
-  manufacturer: Applicom International
-  manufacturerUri: https://device-type.com
-  name: Applicom
-type: d3-device-type-assertion

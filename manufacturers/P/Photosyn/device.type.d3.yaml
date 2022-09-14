@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 63ac474c-503f-5ee6-bb59-2929ee0c4d37
-  macAddresses:
-  - 7C:47:7C:10:00:00/28
-  manufacturer: Photosynth Inc.
-  manufacturerUri: https://device-type.com
-  name: Photosyn
-type: d3-device-type-assertion

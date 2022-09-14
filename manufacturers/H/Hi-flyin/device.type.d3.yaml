@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f5785a98-b001-5a0c-9131-74799c7069f7
-  macAddresses:
-  - AC:CF:23:00:00:00/24
-  manufacturer: Hi-flying electronics technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: Hi-flyin
-type: d3-device-type-assertion

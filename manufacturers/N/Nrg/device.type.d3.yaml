@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bbb6e0ea-81d7-5f1a-981e-be1b14c43dd5
-  macAddresses:
-  - B0:E5:0E:00:00:00/24
-  manufacturer: Nrg Systems Inc
-  manufacturerUri: https://device-type.com
-  name: Nrg
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 86bacd73-4509-56ff-a471-973d298309dd
-  macAddresses:
-  - 00:80:AE:00:00:00/24
-  manufacturer: Hughes Network Systems
-  manufacturerUri: https://device-type.com
-  name: HughesNe
-type: d3-device-type-assertion

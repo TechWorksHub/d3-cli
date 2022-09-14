@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bd242e6e-b079-5935-9a6d-baf61073a78c
-  macAddresses:
-  - 00:1D:87:00:00:00/24
-  manufacturer: VigTech Labs Sdn Bhd
-  manufacturerUri: https://device-type.com
-  name: VigTechL
-type: d3-device-type-assertion

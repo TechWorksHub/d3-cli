@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d182d19f-bb1c-5e52-9bb7-5cde7af01346
-  macAddresses:
-  - 70:B3:D5:41:80:00/36
-  manufacturer: DEV Systemtechnik GmbH& Co KG
-  manufacturerUri: https://device-type.com
-  name: DEVSyste
-type: d3-device-type-assertion

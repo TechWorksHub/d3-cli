@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 547683a7-65a3-5271-9708-485912f5fd40
-  macAddresses:
-  - 00:18:A0:00:00:00/24
-  manufacturer: Cierma Ascenseurs
-  manufacturerUri: https://device-type.com
-  name: CiermaAs
-type: d3-device-type-assertion

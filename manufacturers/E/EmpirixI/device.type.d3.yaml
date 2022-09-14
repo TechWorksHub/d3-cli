@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d2f0f1a3-3f60-5c82-a3e2-8a4f5aa2cf38
-  macAddresses:
-  - 00:50:C2:7E:60:00/36
-  manufacturer: Empirix Italy S.p.A.
-  manufacturerUri: https://device-type.com
-  name: EmpirixI
-type: d3-device-type-assertion

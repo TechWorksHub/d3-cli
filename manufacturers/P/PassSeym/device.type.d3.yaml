@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fd523971-5a1a-5e3e-b30c-22c8c9f45ba6
-  macAddresses:
-  - 64:62:66:60:00:00/28
-  manufacturer: Pass & Seymour, Inc d/b/a Legrand
-  manufacturerUri: https://device-type.com
-  name: PassSeym
-type: d3-device-type-assertion

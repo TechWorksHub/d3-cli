@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9ad7514e-00d2-5f04-bc0e-19fb4f868336
-  macAddresses:
-  - D0:14:11:70:00:00/28
-  manufacturer: Realwave Inc.
-  manufacturerUri: https://device-type.com
-  name: Realwave
-type: d3-device-type-assertion

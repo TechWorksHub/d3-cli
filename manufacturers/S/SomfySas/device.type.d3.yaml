@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0e72e9e6-682e-50da-bd9e-f47b66023a64
-  macAddresses:
-  - 40:D8:55:14:D0:00/36
-  manufacturer: Somfy Sas
-  manufacturerUri: https://device-type.com
-  name: SomfySas
-type: d3-device-type-assertion

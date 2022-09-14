@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 48fa85f9-ca70-5529-a993-81582ebdf031
-  macAddresses:
-  - 80:F8:EB:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: RayTight
-type: d3-device-type-assertion

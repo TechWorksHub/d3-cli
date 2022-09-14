@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 36dd661e-0669-50f5-916a-b3e7ad09f355
-  macAddresses:
-  - 00:A0:41:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Inficon
-type: d3-device-type-assertion

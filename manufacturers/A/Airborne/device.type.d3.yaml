@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 69cb1324-74c1-5e13-b4c9-40e239ab47a3
-  macAddresses:
-  - 70:B3:D5:46:B0:00/36
-  manufacturer: Airborne Engineering Limited
-  manufacturerUri: https://device-type.com
-  name: Airborne
-type: d3-device-type-assertion

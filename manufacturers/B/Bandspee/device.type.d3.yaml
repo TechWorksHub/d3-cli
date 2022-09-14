@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6aada88b-4bb4-5968-a253-cfc3457b6c8b
-  macAddresses:
-  - 00:06:B8:00:00:00/24
-  manufacturer: Bandspeed Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: Bandspee
-type: d3-device-type-assertion

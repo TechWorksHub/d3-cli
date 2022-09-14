@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f902390e-5b56-5f7e-a169-58599550a605
-  macAddresses:
-  - 00:1E:7C:00:00:00/24
-  manufacturer: Taiwick Limited
-  manufacturerUri: https://device-type.com
-  name: Taiwick
-type: d3-device-type-assertion

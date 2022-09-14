@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 96925801-c3e1-5540-be22-059edb83547b
-  macAddresses:
-  - 70:B3:D5:E2:70:00/36
-  manufacturer: Woodside Electronics
-  manufacturerUri: https://device-type.com
-  name: Woodside
-type: d3-device-type-assertion

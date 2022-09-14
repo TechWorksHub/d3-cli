@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 75ba77a7-7176-58d5-8c3c-9ee7eda30d34
-  macAddresses:
-  - 70:B3:D5:A9:60:00/36
-  manufacturer: "\xD6stling Marking Systems GmbH"
-  manufacturerUri: https://device-type.com
-  name: "\xD6stlingM"
-type: d3-device-type-assertion

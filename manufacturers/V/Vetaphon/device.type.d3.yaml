@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 52e3c3a4-d495-5a96-8ddb-7317e86a0074
-  macAddresses:
-  - 70:B3:D5:A0:E0:00/36
-  manufacturer: Vetaphone A/S
-  manufacturerUri: https://device-type.com
-  name: Vetaphon
-type: d3-device-type-assertion

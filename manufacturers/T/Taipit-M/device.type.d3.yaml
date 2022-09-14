@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 86265953-c18a-599b-9ce9-ec2a410a941b
-  macAddresses:
-  - 8C:AE:49:80:00:00/28
-  manufacturer: LLC Taipit - Measuring Equipment
-  manufacturerUri: https://device-type.com
-  name: Taipit-M
-type: d3-device-type-assertion

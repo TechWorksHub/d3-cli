@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 167152df-5270-515e-b74b-0d32b15e19a5
-  macAddresses:
-  - 98:27:82:90:00:00/28
-  manufacturer: Wuxi GuoYiHaiJu Technology Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: WuxiGuoY
-type: d3-device-type-assertion

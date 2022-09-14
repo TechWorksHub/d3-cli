@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d23df037-dd0b-5b72-a168-4a0ef0edef69
-  macAddresses:
-  - 00:1D:84:00:00:00/24
-  manufacturer: Gateway, Inc.
-  manufacturerUri: https://device-type.com
-  name: Gateway
-type: d3-device-type-assertion

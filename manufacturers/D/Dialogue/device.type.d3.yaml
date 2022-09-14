@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 08fd8d5c-038f-5538-991c-51662f7b05c2
-  macAddresses:
-  - 00:09:5D:00:00:00/24
-  manufacturer: Dialogue Technology Corp.
-  manufacturerUri: https://device-type.com
-  name: Dialogue
-type: d3-device-type-assertion

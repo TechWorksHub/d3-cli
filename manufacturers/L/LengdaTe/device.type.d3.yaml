@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d32fe206-d0c0-58c0-a01a-1ec4b3a0f5d7
-  macAddresses:
-  - 00:23:81:00:00:00/24
-  manufacturer: Lengda Technology(Xiamen) Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: LengdaTe
-type: d3-device-type-assertion

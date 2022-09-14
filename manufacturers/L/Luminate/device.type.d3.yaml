@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f45faeb6-b2dd-5e61-b40a-239ee20e4eb1
-  macAddresses:
-  - E8:5D:6B:00:00:00/24
-  manufacturer: Luminate Wireless
-  manufacturerUri: https://device-type.com
-  name: Luminate
-type: d3-device-type-assertion

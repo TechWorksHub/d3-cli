@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ec98431e-b387-5ec9-a20e-608d029a7711
-  macAddresses:
-  - 00:06:93:00:00:00/24
-  manufacturer: Flexus Computer Technology, Inc.
-  manufacturerUri: https://device-type.com
-  name: FlexusCo
-type: d3-device-type-assertion

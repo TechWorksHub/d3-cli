@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 696e1b08-5ca5-521b-be45-352b9d7c0217
-  macAddresses:
-  - C4:29:96:00:00:00/24
-  manufacturer: Signify B.V.
-  manufacturerUri: https://device-type.com
-  name: Signify
-type: d3-device-type-assertion

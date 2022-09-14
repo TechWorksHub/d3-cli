@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 56c789b5-3dff-5e8b-b5bd-e7b6a815841b
-  macAddresses:
-  - 00:50:C2:4A:20:00/36
-  manufacturer: SPECS GmbH
-  manufacturerUri: https://device-type.com
-  name: SPECS
-type: d3-device-type-assertion

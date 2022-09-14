@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 21ccdacb-a3e4-5cb7-ac3f-4ba4813b1d9d
-  macAddresses:
-  - 00:08:61:00:00:00/24
-  manufacturer: SoftEnergy Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: SoftEner
-type: d3-device-type-assertion

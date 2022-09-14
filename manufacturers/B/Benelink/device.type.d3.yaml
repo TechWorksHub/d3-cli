@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 61dd0f5a-44fe-556d-98ec-6531dd9cca0f
-  macAddresses:
-  - 08:F8:0D:90:00:00/28
-  manufacturer: Benelink Technology Inc.
-  manufacturerUri: https://device-type.com
-  name: Benelink
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d9df8d73-9c9f-526e-b455-d366c4e617c8
-  macAddresses:
-  - 00:1C:09:00:00:00/24
-  manufacturer: SAE Electronic Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: SAEElect
-type: d3-device-type-assertion

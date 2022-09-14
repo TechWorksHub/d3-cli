@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4051fb04-461a-5845-8d2a-8f8f579f3297
-  macAddresses:
-  - 00:00:2C:00:00:00/24
-  manufacturer: Autotote Limited
-  manufacturerUri: https://device-type.com
-  name: Autotote
-type: d3-device-type-assertion

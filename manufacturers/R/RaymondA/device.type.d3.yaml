@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f8c884bb-68bf-5c52-b791-7f8069cc33e5
-  macAddresses:
-  - 00:90:5B:00:00:00/24
-  manufacturer: Raymond And Lae Engineering
-  manufacturerUri: https://device-type.com
-  name: RaymondA
-type: d3-device-type-assertion

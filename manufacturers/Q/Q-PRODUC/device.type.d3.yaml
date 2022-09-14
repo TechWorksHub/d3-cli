@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e0be53c1-eb65-5fca-88a7-0253665d1b0e
-  macAddresses:
-  - BC:34:00:70:00:00/28
-  manufacturer: Q-PRODUCTS a. s.
-  manufacturerUri: https://device-type.com
-  name: Q-PRODUC
-type: d3-device-type-assertion

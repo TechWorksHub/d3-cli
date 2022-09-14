@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 91c4d30a-4b8a-50e5-9d9f-740e6bb9ec00
-  macAddresses:
-  - 00:0D:03:00:00:00/24
-  manufacturer: Matrics, Inc.
-  manufacturerUri: https://device-type.com
-  name: Matrics
-type: d3-device-type-assertion

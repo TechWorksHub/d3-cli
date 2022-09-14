@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e091f149-2ce6-5b09-ae51-15365ef32da0
-  macAddresses:
-  - 00:1D:F3:00:00:00/24
-  manufacturer: SBS Science & Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: SBSScien
-type: d3-device-type-assertion

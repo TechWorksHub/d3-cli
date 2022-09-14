@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5b2fbecc-7ff6-5a67-8efb-b0e4732eb8e4
-  macAddresses:
-  - A4:9B:F5:00:00:00/24
-  manufacturer: Hybridserver Tec GmbH
-  manufacturerUri: https://device-type.com
-  name: Hybridse
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7203c99b-1dea-56db-ac43-a52e10e288a4
-  macAddresses:
-  - 8C:FE:B4:00:00:00/24
-  manufacturer: Vsoontech Electronics Co., Limited
-  manufacturerUri: https://device-type.com
-  name: Vsoontec
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7d8099e0-c542-5ee3-8d6b-43a3970e5755
-  macAddresses:
-  - 00:50:C2:C3:60:00/36
-  manufacturer: SET GmbH
-  manufacturerUri: https://device-type.com
-  name: SET
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 369905f3-d3b2-5854-8ed3-ae743887d077
-  macAddresses:
-  - 60:E7:8A:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Unisem
-type: d3-device-type-assertion

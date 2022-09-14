@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2acfe1f5-5438-50c5-ba34-4569e82b96f0
-  macAddresses:
-  - CC:C6:2B:00:00:00/24
-  manufacturer: Tri-Systems Corporation
-  manufacturerUri: https://device-type.com
-  name: Tri
-type: d3-device-type-assertion

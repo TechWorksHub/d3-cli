@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 758a4821-897d-56f2-8b64-68cb048bc1ac
-  macAddresses:
-  - 00:B0:2A:00:00:00/24
-  manufacturer: ORSYS GmbH
-  manufacturerUri: https://device-type.com
-  name: ORSYS
-type: d3-device-type-assertion

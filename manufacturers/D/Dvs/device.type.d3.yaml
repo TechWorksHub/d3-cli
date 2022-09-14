@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e1d61e57-38ae-5209-a4bb-5a63f8461d49
-  macAddresses:
-  - 00:60:7A:00:00:00/24
-  manufacturer: Dvs Gmbh
-  manufacturerUri: https://device-type.com
-  name: Dvs
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 96d6cc8a-541e-5033-a8ac-7eb12a51ac18
-  macAddresses:
-  - 10:C7:3F:00:00:00/24
-  manufacturer: Midas Klark Teknik Ltd
-  manufacturerUri: https://device-type.com
-  name: MidasKla
-type: d3-device-type-assertion

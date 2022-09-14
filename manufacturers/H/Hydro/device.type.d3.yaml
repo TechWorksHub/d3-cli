@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e6c7837a-02cd-5153-8f02-8132221d7345
-  macAddresses:
-  - BC:35:E5:00:00:00/24
-  manufacturer: Hydro Systems Company
-  manufacturerUri: https://device-type.com
-  name: Hydro
-type: d3-device-type-assertion

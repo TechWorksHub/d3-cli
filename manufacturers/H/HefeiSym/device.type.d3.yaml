@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d761e344-01db-5949-8236-637ffc54465a
-  macAddresses:
-  - C8:05:9E:00:00:00/24
-  manufacturer: Hefei Symboltek Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: HefeiSym
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5f178a50-0fb0-54e1-86ff-d70cdb6e2b10
-  macAddresses:
-  - 70:B3:D5:BD:10:00/36
-  manufacturer: CableLabs
-  manufacturerUri: https://device-type.com
-  name: CableLab
-type: d3-device-type-assertion

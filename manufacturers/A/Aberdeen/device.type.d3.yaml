@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9064f37d-6df2-5cf8-a251-992c87579333
-  macAddresses:
-  - 00:15:43:00:00:00/24
-  manufacturer: Aberdeen Test Center
-  manufacturerUri: https://device-type.com
-  name: Aberdeen
-type: d3-device-type-assertion

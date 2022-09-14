@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f31cee32-4efa-5bdc-96ef-45db7a8bb383
-  macAddresses:
-  - 00:21:5F:00:00:00/24
-  manufacturer: IHSE GmbH
-  manufacturerUri: https://device-type.com
-  name: IHSE
-type: d3-device-type-assertion

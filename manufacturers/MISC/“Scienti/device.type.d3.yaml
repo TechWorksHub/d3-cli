@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fb6ec91e-4b10-5a0e-8547-47133f46c50d
-  macAddresses:
-  - 70:B3:D5:F2:50:00/36
-  manufacturer: "JSC \u201CScientific Industrial Enterprise \"Rubin\""
-  manufacturerUri: https://device-type.com
-  name: "\u201CScienti"
-type: d3-device-type-assertion

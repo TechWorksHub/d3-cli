@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1054ffdb-07ff-532a-ac7e-48ef8f588bde
-  macAddresses:
-  - 38:1F:26:B0:00:00/28
-  manufacturer: Deutronic Elektronik GmbH
-  manufacturerUri: https://device-type.com
-  name: Deutroni
-type: d3-device-type-assertion

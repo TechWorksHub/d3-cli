@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 995acfd0-ee3c-5350-922f-e87d35856baf
-  macAddresses:
-  - 78:3F:15:00:00:00/24
-  manufacturer: EasySYNC Ltd.
-  manufacturerUri: https://device-type.com
-  name: EasySYNC
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2229bbcd-5e76-5293-abfb-720da5729a35
-  macAddresses:
-  - E0:69:3A:00:00:00/24
-  manufacturer: Innophase Inc.
-  manufacturerUri: https://device-type.com
-  name: Innophas
-type: d3-device-type-assertion

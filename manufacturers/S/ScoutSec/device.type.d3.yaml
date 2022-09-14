@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2834f6ce-a427-5e69-9914-6a91f8d4ec2e
-  macAddresses:
-  - 2C:48:35:50:00:00/28
-  manufacturer: Scout Security, Inc.
-  manufacturerUri: https://device-type.com
-  name: ScoutSec
-type: d3-device-type-assertion

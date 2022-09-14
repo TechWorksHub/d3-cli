@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8c9e70f0-111a-5c1a-8239-1319a0c2f0bd
-  macAddresses:
-  - 50:A4:D0:50:00:00/28
-  manufacturer: TREXOM S.r.l.
-  manufacturerUri: https://device-type.com
-  name: TREXOM
-type: d3-device-type-assertion

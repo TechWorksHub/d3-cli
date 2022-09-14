@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 95641411-b059-5dfb-bebf-b5b90c70377a
-  macAddresses:
-  - 00:90:42:00:00:00/24
-  manufacturer: ECCS, Inc.
-  manufacturerUri: https://device-type.com
-  name: ECCS
-type: d3-device-type-assertion

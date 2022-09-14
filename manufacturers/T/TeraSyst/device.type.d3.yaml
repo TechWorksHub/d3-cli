@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 04f690f7-0c62-5681-b4e9-483cc3830775
-  macAddresses:
-  - 00:03:9E:00:00:00/24
-  manufacturer: Tera System Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: TeraSyst
-type: d3-device-type-assertion

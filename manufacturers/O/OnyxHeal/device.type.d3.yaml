@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d6b6e8d3-52a0-501b-a331-975101818bd0
-  macAddresses:
-  - 90:31:CD:00:00:00/24
-  manufacturer: Onyx Healthcare Inc.
-  manufacturerUri: https://device-type.com
-  name: OnyxHeal
-type: d3-device-type-assertion

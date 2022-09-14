@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 48467119-0339-5d0e-9fdd-99979b792a6d
-  macAddresses:
-  - 70:B3:D5:A9:F0:00/36
-  manufacturer: Master Meter Inc.
-  manufacturerUri: https://device-type.com
-  name: MasterMe
-type: d3-device-type-assertion

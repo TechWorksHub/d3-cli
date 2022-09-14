@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 007b5f0f-37eb-5112-94ce-13453af8ccfd
-  macAddresses:
-  - 88:C9:B3:00:00:00/28
-  manufacturer: Adopt Nettech Pvt Ltd
-  manufacturerUri: https://device-type.com
-  name: AdoptNet
-type: d3-device-type-assertion

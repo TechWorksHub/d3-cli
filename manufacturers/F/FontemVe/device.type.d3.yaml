@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2a5273d4-d0bf-5424-a2cb-f1e0a5b84fb6
-  macAddresses:
-  - AC:EE:70:00:00:00/24
-  manufacturer: Fontem Ventures BV
-  manufacturerUri: https://device-type.com
-  name: FontemVe
-type: d3-device-type-assertion

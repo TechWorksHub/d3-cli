@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d7905e20-e6aa-574c-8871-30cac46426d0
-  macAddresses:
-  - 00:0D:6C:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: M-Audio
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d0f38c92-67d8-5be4-b263-8f219c0676bf
-  macAddresses:
-  - 00:1C:72:00:00:00/24
-  manufacturer: Mayer & Cie GmbH & Co KG
-  manufacturerUri: https://device-type.com
-  name: MayerCie
-type: d3-device-type-assertion

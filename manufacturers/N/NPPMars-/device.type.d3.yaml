@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ef309438-b753-5336-af53-5bee195a613a
-  macAddresses:
-  - 70:B3:D5:37:40:00/36
-  manufacturer: OOO NPP Mars-Energo
-  manufacturerUri: https://device-type.com
-  name: NPPMars-
-type: d3-device-type-assertion

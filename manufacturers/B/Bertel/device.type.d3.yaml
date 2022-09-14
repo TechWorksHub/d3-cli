@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 792fcb92-d3c6-542d-982d-daef673196aa
-  macAddresses:
-  - A0:19:17:00:00:00/24
-  manufacturer: Bertel S.p.a.
-  manufacturerUri: https://device-type.com
-  name: Bertel
-type: d3-device-type-assertion

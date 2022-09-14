@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 60ba8ce7-0414-55fa-891d-59155a7fce10
-  macAddresses:
-  - 04:EE:E8:00:00:00/28
-  manufacturer: Zoomlion Huanuo(Beijing)Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: Zoomlion
-type: d3-device-type-assertion

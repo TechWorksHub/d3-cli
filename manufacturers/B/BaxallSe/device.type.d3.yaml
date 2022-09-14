@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5f940b7c-6f92-5a5f-8b13-6ce0a094ddc7
-  macAddresses:
-  - 00:90:88:00:00:00/24
-  manufacturer: Baxall Security Ltd.
-  manufacturerUri: https://device-type.com
-  name: BaxallSe
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eee29f22-2419-5ae9-96ac-762797e549b8
-  macAddresses:
-  - 2C:26:5F:E0:00:00/28
-  manufacturer: Hysentel Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Hysentel
-type: d3-device-type-assertion

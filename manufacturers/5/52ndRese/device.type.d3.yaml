@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a2ab7b1e-810a-51fd-86b3-a2aef05d21ee
-  macAddresses:
-  - 40:48:FD:50:00:00/28
-  manufacturer: The 52nd Research Institute of China Electronic Technology Group Corporation
-  manufacturerUri: https://device-type.com
-  name: 52ndRese
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 850edd4c-8ad8-5c8a-a2dd-a4c56d3ef432
-  macAddresses:
-  - 00:1E:4B:00:00:00/24
-  manufacturer: City Theatrical
-  manufacturerUri: https://device-type.com
-  name: CityThea
-type: d3-device-type-assertion

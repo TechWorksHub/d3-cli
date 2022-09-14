@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7f2a9304-38fb-5d61-bfac-3726316ee00d
-  macAddresses:
-  - D4:25:CC:E0:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Coperion
-type: d3-device-type-assertion

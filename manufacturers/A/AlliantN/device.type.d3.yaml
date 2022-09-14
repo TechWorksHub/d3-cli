@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5f44fd5a-814d-5b80-b648-bf2426bea36a
-  macAddresses:
-  - 00:12:E1:00:00:00/24
-  manufacturer: Alliant Networks, Inc
-  manufacturerUri: https://device-type.com
-  name: AlliantN
-type: d3-device-type-assertion

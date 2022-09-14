@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a07f21d2-b779-59bd-b45d-90280ac7ffdd
-  macAddresses:
-  - 00:22:B9:00:00:00/24
-  manufacturer: Analogix Seminconductor, Inc
-  manufacturerUri: https://device-type.com
-  name: Analogix
-type: d3-device-type-assertion

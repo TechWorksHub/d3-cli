@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 38307978-3bd6-53fe-b838-91886be18ab0
-  macAddresses:
-  - 70:B3:D5:34:F0:00/36
-  manufacturer: Royal Engineering Consultancy Private Limited
-  manufacturerUri: https://device-type.com
-  name: RoyalEng
-type: d3-device-type-assertion

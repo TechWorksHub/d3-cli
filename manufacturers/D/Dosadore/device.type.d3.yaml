@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a4bbc85a-9c31-50fd-a106-387d581eca4b
-  macAddresses:
-  - 70:B3:D5:C3:E0:00/36
-  manufacturer: Dosadores Alltronic
-  manufacturerUri: https://device-type.com
-  name: Dosadore
-type: d3-device-type-assertion

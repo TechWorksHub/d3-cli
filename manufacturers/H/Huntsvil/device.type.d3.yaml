@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 73366e74-7f75-5494-a9fe-db6da8aaa358
-  macAddresses:
-  - 00:20:53:00:00:00/24
-  manufacturer: Huntsville Microsystems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Huntsvil
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 758357e8-8e27-59be-b090-9a621a14cd3d
-  macAddresses:
-  - CC:96:35:00:00:00/24
-  manufacturer: LVS Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: LVS
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a8312f82-61f2-55f2-9a64-00577f47c3b3
-  macAddresses:
-  - 00:23:7E:00:00:00/24
-  manufacturer: Elster Gmbh
-  manufacturerUri: https://device-type.com
-  name: Elster
-type: d3-device-type-assertion

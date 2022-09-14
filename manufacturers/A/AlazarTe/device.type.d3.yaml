@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 40296ebb-4f07-5aa0-b010-3a496121a7ad
-  macAddresses:
-  - 70:B3:D5:69:70:00/36
-  manufacturer: Alazar Technologies Inc.
-  manufacturerUri: https://device-type.com
-  name: AlazarTe
-type: d3-device-type-assertion

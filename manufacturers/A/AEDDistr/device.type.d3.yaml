@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ba441ddc-ab6a-5b1b-b7a6-963be15c6851
-  macAddresses:
-  - 50:62:55:C0:00:00/28
-  manufacturer: AED Distribution
-  manufacturerUri: https://device-type.com
-  name: AEDDistr
-type: d3-device-type-assertion

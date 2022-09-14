@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9db1ba1b-6eb1-513a-ac6e-72bd40842546
-  macAddresses:
-  - 00:08:DA:00:00:00/24
-  manufacturer: SofaWare Technologies Ltd.
-  manufacturerUri: https://device-type.com
-  name: SofaWare
-type: d3-device-type-assertion

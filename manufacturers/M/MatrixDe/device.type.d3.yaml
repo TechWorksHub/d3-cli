@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 623f9229-c241-5966-b9de-48644d396490
-  macAddresses:
-  - 00:1A:57:00:00:00/24
-  manufacturer: Matrix Design Group, LLC
-  manufacturerUri: https://device-type.com
-  name: MatrixDe
-type: d3-device-type-assertion

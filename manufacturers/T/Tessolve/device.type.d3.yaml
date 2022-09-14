@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 53354581-9bf5-5977-8d81-867447552878
-  macAddresses:
-  - 50:AD:71:00:00:00/24
-  manufacturer: Tessolve Semiconductor Private Limited
-  manufacturerUri: https://device-type.com
-  name: Tessolve
-type: d3-device-type-assertion

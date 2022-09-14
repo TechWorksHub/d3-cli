@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5b4355d5-0def-52c8-818a-bd59a260589d
-  macAddresses:
-  - 4C:4B:F9:90:00:00/28
-  manufacturer: Tecnoplus Srl
-  manufacturerUri: https://device-type.com
-  name: Tecnoplu
-type: d3-device-type-assertion

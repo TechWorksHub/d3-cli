@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 12fe6071-a043-5e7a-984c-1a13e69deeba
-  macAddresses:
-  - 70:B3:D5:8B:50:00/36
-  manufacturer: xTom GmbH
-  manufacturerUri: https://device-type.com
-  name: xTom
-type: d3-device-type-assertion

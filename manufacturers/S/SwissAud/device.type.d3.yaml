@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 61b49e10-2943-5057-87e3-158ffab7f51a
-  macAddresses:
-  - 70:B3:D5:73:50:00/36
-  manufacturer: Swiss Audio
-  manufacturerUri: https://device-type.com
-  name: SwissAud
-type: d3-device-type-assertion

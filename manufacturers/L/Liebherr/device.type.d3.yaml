@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cb83cfb1-bcff-5551-a394-f50cf78bdb7f
-  macAddresses:
-  - 00:11:B8:00:00:00/24
-  manufacturer: Liebherr - Elektronik GmbH
-  manufacturerUri: https://device-type.com
-  name: Liebherr
-type: d3-device-type-assertion

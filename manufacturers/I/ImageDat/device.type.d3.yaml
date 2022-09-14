@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: baa71060-f6ca-51ff-86ee-53d4c1af9271
-  macAddresses:
-  - 00:A0:06:00:00:00/24
-  manufacturer: Image Data Processing System Group
-  manufacturerUri: https://device-type.com
-  name: ImageDat
-type: d3-device-type-assertion

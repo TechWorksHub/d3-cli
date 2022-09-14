@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c0e569fd-260e-51f9-a8d9-8018770cfb3a
-  macAddresses:
-  - 00:80:F7:00:00:00/24
-  manufacturer: Zenith Communications Products
-  manufacturerUri: https://device-type.com
-  name: ZenithCo
-type: d3-device-type-assertion

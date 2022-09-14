@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0d0fb17d-8ecf-5795-b926-b3d5d8763cda
-  macAddresses:
-  - 00:50:C2:C1:50:00/36
-  manufacturer: INO - Institut National d'Optique
-  manufacturerUri: https://device-type.com
-  name: INO-Inst
-type: d3-device-type-assertion

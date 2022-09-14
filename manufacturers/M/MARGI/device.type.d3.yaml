@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 295e3c4c-d0db-5d96-ae6f-99d699580f4d
-  macAddresses:
-  - 00:01:78:00:00:00/24
-  manufacturer: MARGI Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: MARGI
-type: d3-device-type-assertion

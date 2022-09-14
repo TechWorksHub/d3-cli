@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0d8eba72-ac64-5673-a5fa-1694246ba9ce
-  macAddresses:
-  - 00:50:C2:63:00:00/36
-  manufacturer: Aurora Flight Sciences
-  manufacturerUri: https://device-type.com
-  name: AuroraFl
-type: d3-device-type-assertion

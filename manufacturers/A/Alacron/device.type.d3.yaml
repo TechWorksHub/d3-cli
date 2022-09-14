@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1217a819-627f-5e4d-8604-4e581ecfd5b7
-  macAddresses:
-  - 00:22:42:00:00:00/24
-  manufacturer: Alacron Inc.
-  manufacturerUri: https://device-type.com
-  name: Alacron
-type: d3-device-type-assertion

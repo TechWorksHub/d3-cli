@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4c8c0a41-38aa-5400-b949-e06fb8bcd7c2
-  macAddresses:
-  - 88:2B:D7:00:00:00/24
-  manufacturer: "Add\xE9nergie Technologies"
-  manufacturerUri: https://device-type.com
-  name: "Add\xE9nerg"
-type: d3-device-type-assertion

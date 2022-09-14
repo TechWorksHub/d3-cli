@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dab70688-cbb2-5561-97f9-1df17eca24f9
-  macAddresses:
-  - 44:6C:24:00:00:00/24
-  manufacturer: Reallin Electronic Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: ReallinE
-type: d3-device-type-assertion

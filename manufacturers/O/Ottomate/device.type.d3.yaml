@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 28e8ee1e-231c-537e-a444-b6b16efa4c3b
-  macAddresses:
-  - E4:4C:C7:90:00:00/28
-  manufacturer: Ottomate International Pvt. Ltd.
-  manufacturerUri: https://device-type.com
-  name: Ottomate
-type: d3-device-type-assertion

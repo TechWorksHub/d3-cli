@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6facb07d-3ccd-5330-8222-11c5462e791b
-  macAddresses:
-  - 8C:35:79:00:00:00/24
-  manufacturer: QDIQO Sp. z o.o.
-  manufacturerUri: https://device-type.com
-  name: QDIQOSp
-type: d3-device-type-assertion

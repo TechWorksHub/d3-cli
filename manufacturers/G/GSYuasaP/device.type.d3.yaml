@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7bcc2945-fed7-582c-9538-9a21ba5ca190
-  macAddresses:
-  - 00:21:4E:00:00:00/24
-  manufacturer: GS Yuasa Power Supply Ltd.
-  manufacturerUri: https://device-type.com
-  name: GSYuasaP
-type: d3-device-type-assertion

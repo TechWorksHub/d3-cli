@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9d4a693d-ac5f-521c-9664-13d68f6d6c96
-  macAddresses:
-  - B4:2E:F8:00:00:00/24
-  manufacturer: Eline Technology co.Ltd
-  manufacturerUri: https://device-type.com
-  name: ElineTec
-type: d3-device-type-assertion

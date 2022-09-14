@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1b0b7cfa-edb1-5f82-aec8-3f811ad839a6
-  macAddresses:
-  - 00:0C:9F:00:00:00/24
-  manufacturer: NKE Corporation
-  manufacturerUri: https://device-type.com
-  name: NKE
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eda05dba-e62f-5a85-b724-851656ae7041
-  macAddresses:
-  - 40:13:D9:00:00:00/24
-  manufacturer: Global ES
-  manufacturerUri: https://device-type.com
-  name: GlobalES
-type: d3-device-type-assertion

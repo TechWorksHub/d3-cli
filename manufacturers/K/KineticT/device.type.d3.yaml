@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0d48afaa-be56-5995-a954-8f65e1c85cea
-  macAddresses:
-  - D4:9B:74:00:00:00/24
-  manufacturer: Kinetic Technologies
-  manufacturerUri: https://device-type.com
-  name: KineticT
-type: d3-device-type-assertion

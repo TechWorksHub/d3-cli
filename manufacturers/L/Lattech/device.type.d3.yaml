@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 55650592-0929-5f66-95fa-574c2afeec3b
-  macAddresses:
-  - 70:B3:D5:19:70:00/36
-  manufacturer: Lattech Systems Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: Lattech
-type: d3-device-type-assertion

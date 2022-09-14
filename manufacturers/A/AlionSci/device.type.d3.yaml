@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e35a6840-d386-5d2f-b20d-5c26c8ee81b4
-  macAddresses:
-  - 70:B3:D5:70:F0:00/36
-  manufacturer: Alion Science & Technology
-  manufacturerUri: https://device-type.com
-  name: AlionSci
-type: d3-device-type-assertion

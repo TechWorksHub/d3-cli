@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 33ea6c52-413a-5e33-8891-5340b445f16d
-  macAddresses:
-  - D0:13:1E:00:00:00/24
-  manufacturer: Sunrex Technology Corp
-  manufacturerUri: https://device-type.com
-  name: SunrexTe
-type: d3-device-type-assertion

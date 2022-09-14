@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8e913b0b-ba66-5d07-bdd8-05bd4277fbe6
-  macAddresses:
-  - 00:60:79:00:00:00/24
-  manufacturer: Mainstream Data, Inc.
-  manufacturerUri: https://device-type.com
-  name: Mainstre
-type: d3-device-type-assertion

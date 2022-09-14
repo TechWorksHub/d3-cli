@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8999f787-b3dc-5463-a02b-67fdb6406f66
-  macAddresses:
-  - 70:B3:D5:7F:80:00/36
-  manufacturer: Solvera Lynx d.d.
-  manufacturerUri: https://device-type.com
-  name: SolveraL
-type: d3-device-type-assertion

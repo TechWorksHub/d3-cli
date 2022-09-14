@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4007a8c9-bbf1-5ce8-9a29-c6a6b66f406c
-  macAddresses:
-  - 70:B3:D5:A2:50:00/36
-  manufacturer: PulseTor LLC
-  manufacturerUri: https://device-type.com
-  name: PulseTor
-type: d3-device-type-assertion

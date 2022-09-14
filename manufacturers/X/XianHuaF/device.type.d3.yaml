@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bbdc80c3-8083-5c39-94bf-0b36bac61c74
-  macAddresses:
-  - 54:9A:11:C0:00:00/28
-  manufacturer: Xi'an Hua Fan Technology Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: XianHuaF
-type: d3-device-type-assertion

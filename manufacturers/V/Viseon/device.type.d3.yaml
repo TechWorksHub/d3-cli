@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c866e3a3-3740-5546-b344-9bd9c8fdd20a
-  macAddresses:
-  - 00:12:C4:00:00:00/24
-  manufacturer: Viseon, Inc.
-  manufacturerUri: https://device-type.com
-  name: Viseon
-type: d3-device-type-assertion

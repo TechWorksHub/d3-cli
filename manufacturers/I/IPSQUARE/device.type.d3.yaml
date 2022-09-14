@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ce3e72a7-abbb-5a52-a792-50aceebe087a
-  macAddresses:
-  - 00:06:FA:00:00:00/24
-  manufacturer: IP SQUARE Co, Ltd.
-  manufacturerUri: https://device-type.com
-  name: IPSQUARE
-type: d3-device-type-assertion

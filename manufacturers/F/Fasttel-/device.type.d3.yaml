@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3724262f-f264-5d01-8085-426059c379ac
-  macAddresses:
-  - 00:24:69:00:00:00/24
-  manufacturer: Fasttel - Smart Doorphones
-  manufacturerUri: https://device-type.com
-  name: Fasttel-
-type: d3-device-type-assertion

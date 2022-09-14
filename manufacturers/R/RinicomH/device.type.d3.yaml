@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cd5de462-ca2e-50c2-8667-90d9cd10b7f2
-  macAddresses:
-  - 6C:61:26:00:00:00/24
-  manufacturer: Rinicom Holdings
-  manufacturerUri: https://device-type.com
-  name: RinicomH
-type: d3-device-type-assertion

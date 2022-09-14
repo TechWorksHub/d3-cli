@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 30987953-d745-5af6-97d1-2d6e6f8a6e46
-  macAddresses:
-  - AC:20:AA:00:00:00/24
-  manufacturer: DMATEK Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: DMATEK
-type: d3-device-type-assertion

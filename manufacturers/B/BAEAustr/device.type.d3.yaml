@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 787218ed-909f-5a96-adf5-fc440207c2af
-  macAddresses:
-  - 00:90:25:00:00:00/24
-  manufacturer: BAE Systems Australia (Electronic Systems) Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: BAEAustr
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fffa3356-190d-5f09-bebb-e7f269d1c010
-  macAddresses:
-  - 2C:D1:41:70:00:00/28
-  manufacturer: XiaMen 35.com Technology Co,.Ltd.
-  manufacturerUri: https://device-type.com
-  name: XiaMen35
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ceb9d99d-5121-55c0-9bdc-22d380f2ac7e
-  macAddresses:
-  - 00:50:C2:40:60:00/36
-  manufacturer: CoreStreet, Ltd
-  manufacturerUri: https://device-type.com
-  name: CoreStre
-type: d3-device-type-assertion

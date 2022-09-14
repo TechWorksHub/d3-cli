@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2f198514-6fa0-5e18-9e50-22e7bcfebb9b
-  macAddresses:
-  - 70:B3:D5:7B:00:00/36
-  manufacturer: Medisafe International
-  manufacturerUri: https://device-type.com
-  name: Medisafe
-type: d3-device-type-assertion

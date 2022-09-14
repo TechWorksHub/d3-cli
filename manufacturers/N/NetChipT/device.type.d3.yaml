@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1f985dc8-f5e1-53cd-9737-aba619ce6882
-  macAddresses:
-  - 00:03:9B:00:00:00/24
-  manufacturer: NetChip Technology, Inc.
-  manufacturerUri: https://device-type.com
-  name: NetChipT
-type: d3-device-type-assertion

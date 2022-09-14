@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 414910ee-9142-5a58-ab8b-5b87b5f535a0
-  macAddresses:
-  - 00:09:6C:00:00:00/24
-  manufacturer: Imedia Semiconductor Corp.
-  manufacturerUri: https://device-type.com
-  name: ImediaSe
-type: d3-device-type-assertion

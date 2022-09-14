@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 39f47164-b9cd-57bb-b069-af8957549e00
-  macAddresses:
-  - 60:64:53:00:00:00/24
-  manufacturer: AOD Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: AOD
-type: d3-device-type-assertion

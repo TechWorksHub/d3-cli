@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 80218a44-62ef-55b4-8a23-f21d39896fa5
-  macAddresses:
-  - 70:50:E7:60:00:00/28
-  manufacturer: Nippon Pulse America, Inc.
-  manufacturerUri: https://device-type.com
-  name: NipponPu
-type: d3-device-type-assertion

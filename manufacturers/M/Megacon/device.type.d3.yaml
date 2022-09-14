@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4b0d7907-da86-53a9-a197-505584ed62e2
-  macAddresses:
-  - 00:50:C2:CB:F0:00/36
-  manufacturer: Megacon AB
-  manufacturerUri: https://device-type.com
-  name: Megacon
-type: d3-device-type-assertion

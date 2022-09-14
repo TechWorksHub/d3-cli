@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 41713663-4f02-5ba7-8acd-8314f15916c5
-  macAddresses:
-  - 00:13:A6:00:00:00/24
-  manufacturer: Extricom Ltd
-  manufacturerUri: https://device-type.com
-  name: Extricom
-type: d3-device-type-assertion

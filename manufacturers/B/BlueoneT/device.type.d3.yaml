@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5a473d40-201e-51d6-b6d8-764e414e3741
-  macAddresses:
-  - 00:1B:46:00:00:00/24
-  manufacturer: Blueone Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: BlueoneT
-type: d3-device-type-assertion

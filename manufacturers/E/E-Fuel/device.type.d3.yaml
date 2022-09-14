@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1b216280-9590-522e-be16-01e481689a4a
-  macAddresses:
-  - B0:97:3A:00:00:00/24
-  manufacturer: E-Fuel Corporation
-  manufacturerUri: https://device-type.com
-  name: E-Fuel
-type: d3-device-type-assertion

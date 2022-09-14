@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ed7e33df-1c2f-5291-bc98-ccb90b6a5748
-  macAddresses:
-  - 00:1E:FA:00:00:00/24
-  manufacturer: PROTEI Ltd.
-  manufacturerUri: https://device-type.com
-  name: PROTEI
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9733f6a4-7e59-5d40-badd-2bbfd4705271
-  macAddresses:
-  - 70:B3:D5:21:50:00/36
-  manufacturer: Dataspeed Inc
-  manufacturerUri: https://device-type.com
-  name: Dataspee
-type: d3-device-type-assertion

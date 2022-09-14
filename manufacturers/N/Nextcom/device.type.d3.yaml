@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 858f90c3-a56c-5835-a426-0eb887d8800a
-  macAddresses:
-  - 00:40:B4:00:00:00/24
-  manufacturer: Nextcom K.K.
-  manufacturerUri: https://device-type.com
-  name: Nextcom
-type: d3-device-type-assertion

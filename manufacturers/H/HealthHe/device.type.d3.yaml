@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 16e3e4bc-fda4-5cc8-a894-c4165a19e9b5
-  macAddresses:
-  - 00:1B:E3:00:00:00/24
-  manufacturer: Health Hero Network, Inc.
-  manufacturerUri: https://device-type.com
-  name: HealthHe
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 160ea749-7a33-5f23-adcf-29721e61d979
-  macAddresses:
-  - 70:B3:D5:19:A0:00/36
-  manufacturer: WiSuite USA
-  manufacturerUri: https://device-type.com
-  name: WiSuiteU
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f424e278-123b-5d40-8504-a8aff0bcf024
-  macAddresses:
-  - 70:B3:D5:30:D0:00/36
-  manufacturer: Fiberbase
-  manufacturerUri: https://device-type.com
-  name: Fiberbas
-type: d3-device-type-assertion
