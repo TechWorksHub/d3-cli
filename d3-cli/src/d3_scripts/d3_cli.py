@@ -1,5 +1,6 @@
 #! /usr/bin/python3
-from guid import guid
+from .guid import guid
+from .d3_build import d3_build
 
 import argparse
 from pathlib import Path
@@ -12,7 +13,7 @@ del metadata  # optional, avoids polluting the results of dir(__package__)
 def cli(argv=None):
     parser = argparse.ArgumentParser(
         description="ManySecured D3 CLI for creating, linting and exporting D3 claims",
-        epilog="Example: d3-cli build manufacturers/",
+        epilog="Example: d3-cli ./manufacturers",
         formatter_class=argparse.ArgumentDefaultsHelpFormatter,
     )
     parser.add_argument(
@@ -53,11 +54,6 @@ def cli(argv=None):
         help="""Check that URIs/refs resolve.
         This can be very slow, so you may want to leave this off normally.""",
     )
-    parser.add_argument(
-        "--pass-on-failure",
-        help="Allow build to continue on failure to validate file claims.",
-        action="store_true",
-    )
 
     debug_level_group = parser.add_mutually_exclusive_group()
     debug_level_group.add_argument(
@@ -70,7 +66,8 @@ def cli(argv=None):
     args = parser.parse_args(argv)
 
     if args.version:
-        print(f"d3-cli, version {__version__}")  # TODO: check this version number is correct when installed
+        # TODO: check this version number is correct when installed
+        print(f"d3-cli, version {__version__}")
         return
 
     if args.guid:
@@ -81,7 +78,24 @@ def cli(argv=None):
                         logging.INFO), logging.ERROR)
     logging.basicConfig(level=log_level_sum)
 
-    print(args)
+    if len(args.input) == 0:
+        print("No directories provided, Exiting...")
+        return
+
+    if args.mode == "lint":
+        print("linting")
+    elif args.mode == "build":
+        print("building")
+        d3_build(
+            d3_folders=args.input,
+            output_dir=args.output,
+            check_uri_resolves=args.check_uri_resolves,
+        )
+
+    elif args.mode == "export":
+        print("exporting")
+    else:
+        raise Exception("unknown mode")
 
 
 if __name__ == "__main__":

@@ -1,5 +1,6 @@
 import functools
 import logging
+from pyclbr import Function
 import typing
 import warnings
 from pathlib import Path
@@ -8,7 +9,7 @@ from networkx import DiGraph
 import tqdm
 
 from .yaml_tools import is_valid_yaml_claim, load_claim, lint_yaml
-from .json_tools import is_json_unchanged, get_json_file_name, write_json
+from .json_tools import is_json_unchanged, write_json
 from .validate_schemas import (
     get_schema_validator_from_path,
     validate_claim_meta_schema,
@@ -82,6 +83,7 @@ def process_claim_file(
     type_map: BehaviourMap,
     check_uri_resolves: bool,
     pass_on_failure: bool,
+    get_json_filepath: Function,
 ) -> typing.List[Warning]:
     """Processes a single D3 claim file.
     Checks include:
@@ -98,7 +100,7 @@ def process_claim_file(
         List of warnings. If empty, no warnings.
         Warnings are hidden by default in multiprocessing.
     """
-    json_file_name = get_json_file_name(yaml_file_name)
+    json_file_name = get_json_filepath(yaml_file_name)
     Path(json_file_name).parent.mkdir(parents=True, exist_ok=True)
 
     # import yaml claim to Python dict (JSON)

@@ -9,14 +9,35 @@ import functools
 from .d3_utils import process_claim_file
 from .guid_tools import get_guid, check_guids, get_parent_claims, check_guids_array
 from .yaml_tools import is_valid_yaml_claim, get_yaml_suffixes, load_claim
-import typing
 from .claim_graph import build_claim_graph
 from .build_type_map import build_type_map
 from .d3_build_vulnerabilities import build_vulnerabilities
-from .json_tools import write_json, get_json_file_name
+from .json_tools import write_json
+import typing
 
-src_file = Path(__file__)
-yaml_dir = Path(__file__).parents[3] / "manufacturers"
+
+class PathFinder:
+    def __init__(self, output_dir):
+        self.d3_src_dst_map = {}
+        self.output_dir = output_dir
+
+    def add_to_d3_map(self, claim_filepath, folder):
+        claim_relative_filepath = claim_filepath.relative_to(folder)
+        json_filepath = Path(self.output_dir, str(claim_relative_filepath).replace(".yaml", ".json"))
+        self.d3_src_dst_map[str(claim_filepath)] = json_filepath
+        return claim_filepath
+
+    def get_json_filepath(self, yaml_filepath: str):
+        """Returns the filepath to the JSON file for a given YAML file.
+
+        Args:
+            yaml_filepath: The filepath to the YAML file
+
+        Returns:
+            The filepath to the JSON file
+        """
+        json_file_name = self.d3_src_dst_map[yaml_filepath]
+        return json_file_name
 
 
 def claim_handler(file_name):
@@ -27,8 +48,8 @@ def claim_handler(file_name):
 
 
 def d3_build(
-    d3_files: typing.Iterable[Path] = yaml_dir.glob("**/*.yaml"),
-    d3_folder=[Path(yaml_dir)],
+    d3_folders: typing.Iterable[Path],
+    output_dir: Path,
     check_uri_resolves: bool = True,
     pass_on_failure: bool = False,
 ):
@@ -38,12 +59,22 @@ def d3_build(
         d3_files: The D3 YAML files to build from.
                   Default is all YAML files in the
                   ../../../manufacturers directory
+        output_dir: The directory in which to put the built json directories.
+                  Default is ../../../manufacturers_json directory
         check_uri_resolves: Whether to check that URIs/refs resolve.
                             This can be very slow, so you may want to
                             leave this off normally.
         pass_on_failure: Whether to allow build to continue on failure
                          to validate file claims
     """
+    pathFinder = PathFinder(output_dir=output_dir)
+
+    d3_files = (
+        pathFinder.add_to_d3_map(d3_file, d3_folder)
+        for d3_folder in d3_folders
+        for d3_file in d3_folder.glob("**/*.yaml")
+    )
+
     print("Compiling D3 claims...")
     bar_format = "{desc: <20}|{bar}| {percentage:3.0f}% [{elapsed}]"
     pbar = tqdm(total=100, ncols=80, bar_format=bar_format)
@@ -68,15 +99,14 @@ def d3_build(
 
     pbar.set_description("Searching CVE dataset for vulnerabilities")
     cve_vulnerabilities = build_vulnerabilities(type_jsons, pbar, percentage_total=15)
-    for folder in d3_folder:
-        outputFolder = Path(get_json_file_name(str(folder)), "cve_vulnerabilities")
-        Path(outputFolder).mkdir(parents=True, exist_ok=True)
-        for vuln in cve_vulnerabilities:
-            json_file_name = Path(
-                outputFolder, f"{vuln['credentialSubject']['id']}.json"
-            )
-            # write JSON for CVE vulnerability
-            write_json(json_file_name, vuln)
+    outputFolder = Path(output_dir, "cve_vulnerabilities")
+    Path(outputFolder).mkdir(parents=True, exist_ok=True)
+    for vuln in cve_vulnerabilities:
+        json_file_name = Path(
+            outputFolder, f"{vuln['credentialSubject']['id']}.json"
+        )
+        # write JSON for CVE vulnerability
+        write_json(json_file_name, vuln)
     pbar.update(5)
 
     # check for duplicate GUID/UUIDs
@@ -101,6 +131,7 @@ def d3_build(
         type_map=type_map,
         check_uri_resolves=check_uri_resolves,
         pass_on_failure=pass_on_failure,
+        get_json_filepath=pathFinder.get_json_filepath,
     )
     pbar.update(10)
 
@@ -129,7 +160,7 @@ def cli(argv=None):
         "D3_FOLDER",
         nargs="*",
         help="Folders containing D3 YAML files.",
-        default=[f"{yaml_dir}"],
+        default=[],
         type=Path,
     )
     parser.add_argument(
@@ -156,17 +187,13 @@ def cli(argv=None):
     log_level_sum = min(sum(args.log_level or tuple(), logging.INFO), logging.ERROR)
     logging.basicConfig(level=log_level_sum)
 
-    print(args, args.D3_FOLDER)
-    d3_build(
-        d3_files=(
-            d3_file
-            for d3_folder in args.D3_FOLDER
-            for d3_file in Path(d3_folder).glob("**/*.yaml")
-        ),
-        d3_folder=args.D3_FOLDER,
-        check_uri_resolves=args.check_uri_resolves,
-        pass_on_failure=args.pass_on_failure,
-    )
+    for d3_folder in args.D3_FOLDER:
+        d3_build(
+            d3_folder=d3_folder,
+            output_dir=Path("."),
+            check_uri_resolves=args.check_uri_resolves,
+            pass_on_failure=args.pass_on_failure,
+        )
 
 
 if __name__ == "__main__":
