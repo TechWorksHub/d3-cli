@@ -1,4 +1,4 @@
-# Contributing to ManySecured-D3DB
+# Contributing to d3-cli
 
 This is a project that is hosted on GitHub. To contribute, you can fork the project and make your own changes.
 
