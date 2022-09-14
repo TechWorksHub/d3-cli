@@ -15,12 +15,13 @@ def check_uri(json_data: dict, schema: dict, check_uri_resolves: bool) -> None:
         None
     """
     properties = schema["properties"]
-    uri_fields = [key for key in properties.keys()
-                  if properties[key].get("format") == "uri"]
+    uri_fields = [
+        key for key in properties.keys() if properties[key].get("format") == "uri"
+    ]
 
     for uri_field in uri_fields:
         uri = json_data.get(uri_field)
-        if(uri is not None):
+        if uri is not None:
             # technically, this checks if the URI is valid URL,
             # but they're close enough that this will probably be okay
             urllib.parse.urlparse(uri)  # throws if invalid
@@ -37,7 +38,7 @@ def uri_resolves(uri: str) -> None:
     """
 
     # TODO: Temporary bypass for example uri
-    if(not uri == "https://device-type.com"):
+    if not uri == "https://device-type.com":
         try:
             # timeout of 5 seconds is pretty slow, but so are some people's servers
             response = requests.head(uri, timeout=5)

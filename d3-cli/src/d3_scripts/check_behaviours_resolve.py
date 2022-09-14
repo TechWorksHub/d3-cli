@@ -6,9 +6,7 @@ BehaviourMap = Dict[str, BehaviourJson]
 
 
 def check_behaviours_resolve(
-    json_data: dict,
-    schema: dict,
-    behaviour_jsons: BehaviourJsons,
+    json_data: dict, schema: dict, behaviour_jsons: BehaviourJsons,
 ) -> dict:
     """Checks whether behaviours resolve, throws if not.
     Args:
@@ -19,7 +17,7 @@ def check_behaviours_resolve(
         Behaviour JSON object
     """
     # If both the schema and data contain a behaviour field, check it resolves
-    if(schema["properties"].get("behaviour") and json_data.get("behaviour")):
+    if schema["properties"].get("behaviour") and json_data.get("behaviour"):
         behaviour_name = json_data["behaviour"]
         behaviour = retrieve_behaviour(behaviour_name, behaviour_jsons)
         if not behaviour:
@@ -53,7 +51,9 @@ def retrieve_behaviour(name: str, behaviour_jsons: BehaviourJsons) -> bool:
 T = TypeVar("T")
 
 
-def _cache_map_based_on_behaviour_jsons(f: Callable[[BehaviourJsons], T]) -> Callable[[BehaviourJsons], T]:
+def _cache_map_based_on_behaviour_jsons(
+    f: Callable[[BehaviourJsons], T]
+) -> Callable[[BehaviourJsons], T]:
     """Decorator that caches the result of a function based on the ID of behaviour_jsons.
 
     We can't use @functools.lru_cache because it doesn't work with lists/dicts, since

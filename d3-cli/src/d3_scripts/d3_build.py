@@ -72,7 +72,9 @@ def d3_build(
         outputFolder = Path(get_json_file_name(str(folder)), "cve_vulnerabilities")
         Path(outputFolder).mkdir(parents=True, exist_ok=True)
         for vuln in cve_vulnerabilities:
-            json_file_name = Path(outputFolder, f"{vuln['credentialSubject']['id']}.json")
+            json_file_name = Path(
+                outputFolder, f"{vuln['credentialSubject']['id']}.json"
+            )
             # write JSON for CVE vulnerability
             write_json(json_file_name, vuln)
     pbar.update(5)
@@ -87,7 +89,9 @@ def d3_build(
 
     # Pass behaviour files into process_claim_file function
     pbar.set_description("Finding inherited rules & checking for vulnerabilities")
-    behaviour_map = {claim["credentialSubject"]["id"]: claim for claim in behaviour_jsons}
+    behaviour_map = {
+        claim["credentialSubject"]["id"]: claim for claim in behaviour_jsons
+    }
     behaviour_graph = build_claim_graph(behaviour_map)
     type_map = build_type_map(type_jsons)
     process_claim = functools.partial(
@@ -112,8 +116,7 @@ def d3_build(
 
 
 def get_files_by_type(files, type_code):
-    return [file for file in files
-            if get_yaml_suffixes(file)[0] == "." + type_code]
+    return [file for file in files if get_yaml_suffixes(file)[0] == "." + type_code]
 
 
 def cli(argv=None):
@@ -138,37 +141,27 @@ def cli(argv=None):
     parser.add_argument(
         "--pass-on-failure",
         help="Allow build to continue on failure to validate file claims.",
-        action='store_true',
+        action="store_true",
     )
     debug_level_group = parser.add_mutually_exclusive_group()
     debug_level_group.add_argument(
-        "--verbose",
-        "-v",
-        dest="log_level",
-        action="append_const",
-        const=-10,
+        "--verbose", "-v", dest="log_level", action="append_const", const=-10,
     )
     debug_level_group.add_argument(
-        "--quiet",
-        "-q",
-        dest="log_level",
-        action="append_const",
-        const=10,
+        "--quiet", "-q", dest="log_level", action="append_const", const=10,
     )
 
     args = parser.parse_args(argv)
 
-    log_level_sum = min(
-        sum(args.log_level or tuple(), logging.INFO),
-        logging.ERROR
-    )
+    log_level_sum = min(sum(args.log_level or tuple(), logging.INFO), logging.ERROR)
     logging.basicConfig(level=log_level_sum)
 
+    print(args, args.D3_FOLDER)
     d3_build(
         d3_files=(
-          d3_file
-          for d3_folder in args.D3_FOLDER
-          for d3_file in Path(d3_folder).glob("**/*.yaml")
+            d3_file
+            for d3_folder in args.D3_FOLDER
+            for d3_file in Path(d3_folder).glob("**/*.yaml")
         ),
         d3_folder=args.D3_FOLDER,
         check_uri_resolves=args.check_uri_resolves,

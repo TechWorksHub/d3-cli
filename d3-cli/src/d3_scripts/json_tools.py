@@ -50,8 +50,11 @@ def is_json_same_as_claim(json_data, claim):
 
 def compare_properties(key, flat_json_data, flat_claim_data):
     if key == "credentialSubject.behaviour":
-        return (flat_claim_data.get(key, None) == flat_json_data.get("credentialSubject.behaviour.id", None) or
-                flat_claim_data.get(key, None) == flat_json_data.get("credentialSubject.behaviour.name", None))
+        return flat_claim_data.get(key, None) == flat_json_data.get(
+            "credentialSubject.behaviour.id", None
+        ) or flat_claim_data.get(key, None) == flat_json_data.get(
+            "credentialSubject.behaviour.name", None
+        )
     else:
         return flat_json_data.get(key, None) == flat_claim_data.get(key, None)
 
@@ -66,8 +69,7 @@ def get_json_file_name(yaml_file_name: str):
         The filepath to the JSON file
     """
     json_file_name = (
-        yaml_file_name
-        .replace(".yaml", ".json")
+        yaml_file_name.replace(".yaml", ".json")
         .replace("/manufacturers", "/manufacturers_json")
         .replace("\\manufacturers", "\\manufacturers_json")
     )

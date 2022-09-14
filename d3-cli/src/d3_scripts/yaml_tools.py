@@ -36,12 +36,8 @@ def is_valid_yaml_claim(file_name: str):
     ), f"File ({file_str}) has invalid d3 claim format {example}"
 
     d3_type, d3_ext, yaml_ext = get_yaml_suffixes(file_name)
-    assert (
-        d3_ext == ".d3"
-    ), f"File ({file_str}) missing .d3 extension {example}"
-    assert (
-        yaml_ext == ".yaml"
-    ), f"File ({file_str}) missing .yaml extension {example}"
+    assert d3_ext == ".d3", f"File ({file_str}) missing .d3 extension {example}"
+    assert yaml_ext == ".yaml", f"File ({file_str}) missing .yaml extension {example}"
     return True
 
 

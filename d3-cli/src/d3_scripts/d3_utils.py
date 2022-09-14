@@ -37,15 +37,12 @@ def _validate_d3_claim_uri(yaml_file_path: str, **check_uri_kwargs):
     schema = get_schema_validator_from_path(yaml_file_path).schema
     # check URIs and other refs resolve
     check_uri(
-        claim["credentialSubject"],
-        schema,
-        **check_uri_kwargs,
+        claim["credentialSubject"], schema, **check_uri_kwargs,
     )
 
 
 def validate_d3_claim_files(
-    yaml_file_names: typing.Sequence[str],
-    check_uri_resolves: bool = False
+    yaml_file_names: typing.Sequence[str], check_uri_resolves: bool = False
 ):
     """Checks whether D3 claim files are valid.
 
@@ -79,7 +76,8 @@ def validate_d3_claim_files(
 
 
 def process_claim_file(
-    yaml_file_name: str, behaviour_map: BehaviourMap,
+    yaml_file_name: str,
+    behaviour_map: BehaviourMap,
     behaviour_graph: DiGraph,
     type_map: BehaviourMap,
     check_uri_resolves: bool,
@@ -107,7 +105,9 @@ def process_claim_file(
     claim = load_claim(yaml_file_name)
 
     # if JSON already exists and is unchanged then skip, unless claim has parents (parents may have changed)
-    if len(claim.get("credentialSubject", {}).get("parents", [])) and is_json_unchanged(json_file_name, claim):
+    if len(claim.get("credentialSubject", {}).get("parents", [])) and is_json_unchanged(
+        json_file_name, claim
+    ):
         return []
 
     # validate schema
@@ -120,22 +120,30 @@ def process_claim_file(
 
         if claim["type"] == d3_type_codes["behaviour"]:
             # Gets aggregated rules, checking that specified parents exist
-            aggregated_rules = resolve_behaviour_rules(claim, behaviour_map, behaviour_graph)
+            aggregated_rules = resolve_behaviour_rules(
+                claim, behaviour_map, behaviour_graph
+            )
             # Replace claim rules with aggregated rules from parents
             claim["credentialSubject"]["rules"] = aggregated_rules
 
         if claim["type"] == d3_type_codes["type"]:
             claim_id = claim["credentialSubject"]["id"]
             # update type claim to use object in type_map - includes inherited properties
-            claim = deepcopy(type_map[claim_id])  # must use deepcopy to prevent modification of type_map
+            claim = deepcopy(
+                type_map[claim_id]
+            )  # must use deepcopy to prevent modification of type_map
 
         if claim["type"] == d3_type_codes["firmware"]:
             firmware_type = claim["credentialSubject"].get("type", None)
             if type_map.get(firmware_type, None) is None:
-                raise ValueError(f"Type {firmware_type} of firmware claim {claim['credentialSubject']['id']} not found")
+                raise ValueError(
+                    f"Type {firmware_type} of firmware claim {claim['credentialSubject']['id']} not found"
+                )
             if claim["credentialSubject"].get("behaviour", None) is None:
                 # if no behaviour of it's own, inherit from parent type to which firmware belongs
-                type_behaviour = type_map[firmware_type]["credentialSubject"].get("behaviour", None)
+                type_behaviour = type_map[firmware_type]["credentialSubject"].get(
+                    "behaviour", None
+                )
                 if type_behaviour is not None:
                     claim["credentialSubject"]["behaviour"] = type_behaviour
 
@@ -144,21 +152,20 @@ def process_claim_file(
             check_uri(
                 claim["credentialSubject"],
                 schema,
-                check_uri_resolves=check_uri_resolves
+                check_uri_resolves=check_uri_resolves,
             )
 
         # check behaviour statement is valid, if so add to claim
         claim["credentialSubject"] = check_behaviours_resolve(
-            claim["credentialSubject"],
-            schema,
-            behaviour_map.values())
+            claim["credentialSubject"], schema, behaviour_map.values()
+        )
 
         # write JSON if valid
         write_json(json_file_name, claim)
 
         return [*uri_warnings]
     except FileNotFoundError as err:
-        if (pass_on_failure):
+        if pass_on_failure:
             LOG.warn(f"Skipping claim {yaml_file_name} due to error: ${err}")
             return []
         else:

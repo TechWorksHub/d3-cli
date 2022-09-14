@@ -4,7 +4,9 @@ from iteration_utilities import unique_everseen
 from typing import List, Dict
 
 
-def resolve_behaviour_rules(claim: BehaviourJson, claim_map: BehaviourMap, claim_graph: nx.DiGraph) -> List[Dict]:
+def resolve_behaviour_rules(
+    claim: BehaviourJson, claim_map: BehaviourMap, claim_graph: nx.DiGraph
+) -> List[Dict]:
     """
     Resolve rules which apply for behaviour claim from parent behaviour inheritance.
 
@@ -29,5 +31,7 @@ def resolve_behaviour_rules(claim: BehaviourJson, claim_map: BehaviourMap, claim
             raise KeyError(f"Parent behaviour id {parent_id} of {id} doesn't exist")
         parent_rules = parent_claim["credentialSubject"].get("rules", [])
         aggregated_rules += parent_rules
-    unique_aggregated_rules = list(unique_everseen(aggregated_rules))  # De-duplicate any duplicate rules
+    unique_aggregated_rules = list(
+        unique_everseen(aggregated_rules)
+    )  # De-duplicate any duplicate rules
     return unique_aggregated_rules

@@ -41,17 +41,11 @@ def create_csv_templates() -> None:
     for name, header in csv_headers.items():
         file_name = csv_dir / f"{name}.csv"
         with open(file_name, "w") as csv_file:
-            csv_writer = DictWriter(
-                csv_file, fieldnames=header, dialect="unix"
-            )
+            csv_writer = DictWriter(csv_file, fieldnames=header, dialect="unix")
             csv_writer.writeheader()
 
 
-def write_csv_data(
-    file_name: path_type,
-    headers: List[str],
-    data: dict
-) -> None:
+def write_csv_data(file_name: path_type, headers: List[str], data: dict) -> None:
     """Writes data to a csv file from a list of headers and a dict of data.
 
     Args:

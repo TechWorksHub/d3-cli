@@ -2,9 +2,7 @@
 from pathlib import Path
 from tqdm import tqdm
 
-from .export_tools import (
-    create_csv_templates, d3_json_export_csv
-)
+from .export_tools import create_csv_templates, d3_json_export_csv
 from .d3_build import d3_build
 
 project_dir = Path(__file__).absolute().parents[3]

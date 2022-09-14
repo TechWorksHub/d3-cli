@@ -11,7 +11,7 @@ def get_guid_from_file(file_name: str) -> typing.Optional[str]:
     Returns:
         The GUID found in the YAML file (if it exists) | None
     """
-    if(is_valid_yaml_claim(file_name)):
+    if is_valid_yaml_claim(file_name):
         yaml_data = load_claim(file_name)
         # If the claim exists an ID field
         return get_guid(yaml_data)
@@ -74,22 +74,22 @@ def check_guids(guids: typing.List[str], file_names: typing.List[str]) -> bool:
         Boolean indicating if the GUIDs are unique and of the correct type
     """
     # ensure no duplicate GUIDs
-    assert (
-        len(guids) == len(set(guids))
+    assert len(guids) == len(
+        set(guids)
     ), f"Duplicate GUIDs found: \n{get_duplicate_guids(guids, file_names)}"
 
     # ensure each GUID is a valid UUID
     for guid in guids:
-        assert (
-            is_valid_guid(guid)
+        assert is_valid_guid(
+            guid
         ), f"Invalid GUID format: \n{find_guid_file_names(guid, file_names)}"
 
     return True
 
 
 def check_guids_array(
-        guids: typing.List[typing.List[str]],
-        file_names: typing.List[str]) -> bool:
+    guids: typing.List[typing.List[str]], file_names: typing.List[str]
+) -> bool:
     """
     Checks all parent GUIDs are unique (not referenced multiple times) and are
     of the correct type
@@ -99,13 +99,13 @@ def check_guids_array(
     Returns:
         Boolean indicating if the GUIDs are unique and of the correct type
     """
-    return all(check_guids(guid_list, [file_name]) for guid_list, file_name in zip(guids, file_names))
+    return all(
+        check_guids(guid_list, [file_name])
+        for guid_list, file_name in zip(guids, file_names)
+    )
 
 
-def get_duplicate_guids(
-    guids: typing.List[str],
-    file_names: typing.List[str]
-) -> str:
+def get_duplicate_guids(guids: typing.List[str], file_names: typing.List[str]) -> str:
     """
     Find duplicate GUIDs, and the name of their containing filename.
     Args:
@@ -115,10 +115,10 @@ def get_duplicate_guids(
         Message containing duplicate GUIDs and their filenames
     """
     import collections
+
     guids_counter = collections.Counter(guids)
     duplicates = [guid for guid in guids_counter if guids_counter[guid] > 1]
-    return "\n".join(
-        [find_guid_file_names(guid, file_names) for guid in duplicates])
+    return "\n".join([find_guid_file_names(guid, file_names) for guid in duplicates])
 
 
 def find_guid_file_names(guid_id: str, file_names: typing.List[str]) -> str:
@@ -130,5 +130,9 @@ def find_guid_file_names(guid_id: str, file_names: typing.List[str]) -> str:
     Returns:
         Message displaying the files that have the given GUID
     """
-    files = [file_name for file_name in file_names if get_guid_from_file(file_name) == guid_id]
+    files = [
+        file_name
+        for file_name in file_names
+        if get_guid_from_file(file_name) == guid_id
+    ]
     return guid_id + " in files:\n" + "\n".join(files)

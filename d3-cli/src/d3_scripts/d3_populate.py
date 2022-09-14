@@ -44,7 +44,7 @@ def generate_d3_type(mac: str, short_name: str, long_name: str):
             "manufacturerUri": "https://device-type.com",
             "name": short_name,
             "macAddresses": [],
-            "behaviour": "97c4fb11-5fb8-44c3-b449-107fdbb66a15"
+            "behaviour": "97c4fb11-5fb8-44c3-b449-107fdbb66a15",
         },
     }
 
@@ -56,9 +56,7 @@ def dump_yaml_files(populate_folder: str, d3_dict):
         # Create the folder with the given short company name
         os.makedirs(company_folder_path, exist_ok=True)
 
-        yaml_file_path = os.path.join(
-            company_folder_path, DEVICE_TYPE_FILENAME
-        )
+        yaml_file_path = os.path.join(company_folder_path, DEVICE_TYPE_FILENAME)
 
         d3_type = d3_dict[key]
         with open(yaml_file_path, mode="wt", encoding="utf-8") as file:
@@ -71,9 +69,7 @@ def d3_populate(csv_data, populate_folder: str):
     print("Populating to {}".format(populate_folder))
 
     hp = "[0-9a-fA-F]{2}"
-    manuf_re = re.compile(
-        r"^({}:{}:{})((:{})*)(/[0-9][0-9])*$".format(hp, hp, hp, hp)
-    )
+    manuf_re = re.compile(r"^({}:{}:{})((:{})*)(/[0-9][0-9])*$".format(hp, hp, hp, hp))
 
     d3_dict = {}
 

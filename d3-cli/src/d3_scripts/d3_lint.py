@@ -24,12 +24,10 @@ def cli(argv=None):
         "--glob-pattern",
         action="append",
         type=str,
-        help="A glob pattern to search for D3 files. Can be repeated for multiple glob patterns."
+        help="A glob pattern to search for D3 files. Can be repeated for multiple glob patterns.",
     )
     parser.add_argument(
-        "D3_FILE",
-        nargs="*",
-        help="Files to lint",
+        "D3_FILE", nargs="*", help="Files to lint",
     )
     parser.add_argument(
         "--check_uri_resolves",
@@ -38,31 +36,26 @@ def cli(argv=None):
     )
     debug_level_group = parser.add_mutually_exclusive_group()
     debug_level_group.add_argument(
-        "--verbose",
-        "-v",
-        dest="log_level",
-        action="append_const",
-        const=-10,
+        "--verbose", "-v", dest="log_level", action="append_const", const=-10,
     )
     debug_level_group.add_argument(
-        "--quiet",
-        "-q",
-        dest="log_level",
-        action="append_const",
-        const=10,
+        "--quiet", "-q", dest="log_level", action="append_const", const=10,
     )
     args = parser.parse_args(argv)
 
-    log_level_sum = min(
-        sum(args.log_level or tuple(), logging.INFO),
-        logging.ERROR
-    )
+    log_level_sum = min(sum(args.log_level or tuple(), logging.INFO), logging.ERROR)
     logging.basicConfig(level=log_level_sum)
 
     yaml_file_names = (
         *args.D3_FILE,
-        *(file for pattern in (args.glob_pattern or tuple()) for file in glob.iglob(pattern))
+        *(
+            file
+            for pattern in (args.glob_pattern or tuple())
+            for file in glob.iglob(pattern)
+        ),
     )
+
+    print(yaml_file_names)
     validate_d3_claim_files(yaml_file_names, check_uri_resolves=args.check_uri_resolves)
 
 
