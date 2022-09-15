@@ -1,0 +1,14 @@
+type: d3-device-type-assertion
+credentialSubject:
+  # unique identifiers
+  id: 4a56a9aa-131c-4bc3-84fb-0d54b60bac2d
+
+  # behaviour
+  behaviour: 5d4b78ed-ba30-4d95-8404-19ca9f8f117c
+
+  # general manufacturer information
+  manufacturer: Coca Cola
+  manufacturerUri: https://www.coca-cola.co.uk
+
+  # specific information
+  name: "Coca Cola Cooler"
