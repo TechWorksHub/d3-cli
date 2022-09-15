@@ -1,15 +1,17 @@
-# ManySecured d3-scripts
+# ManySecured d3-cli
 
-Utility scripts for ManySecured-D3 claims
+Utility cli for ManySecured-D3 claims
 
 ## Installation
 
-These utility scripts require Python to use.
+This api may be installed using pip like so:
+
+```
+pip install d3-cli
+```
 
 When developing these scripts, [Python Poetry](https://python-poetry.org/)
-is used to install and manage dependencies, however,
-in future, `poetry` will be used to publish these scripts in a format
-that any Python package manager can understand (e.g. `pip`-compatable).
+is used to install and manage dependencies as well as publish to [PyPI](https://pypi.org/).
 
 Poetry will create a python isolated virtual environment in the `./.venv` folder and install dependencies if you run:
 
@@ -17,27 +19,48 @@ Poetry will create a python isolated virtual environment in the `./.venv` folder
 poetry install
 ```
 
-You cannot run scripts directly from the `./src/d3-scripts` since we are using [Python relative imports](https://realpython.com/absolute-vs-relative-python-imports/#relative-imports).
+You cannot run the cli or scripts directly from the `./src/d3-scripts` since we are using [Python relative imports](https://realpython.com/absolute-vs-relative-python-imports/#relative-imports).
 
-Instead, you must run a script defined in the `[tool.poetry.scripts]` field of [`pyproject.toml`](./pyproject.toml):
+Instead, you must run the d3-cli script defined in the `[tool.poetry.scripts]` field of [`pyproject.toml`](./pyproject.toml):
 
 ## Usage
 
-D3 Linter
+D3-cli
+
+
 
 ```console
-alois@nqm-alois-entroware:~/Documents/ManySecured-D3DB/d3-scripts$ poetry run d3lint --help
-usage: d3lint [-h] D3_FILE [D3_FILE ...]
+usage: d3-cli [-h] [--version] [--guid] [--output [OUTPUT]]
+              [--mode [{build,lint,export}]] [--build-dir [BUILD_DIR]]
+              [--check_uri_resolves] [--verbose | --quiet]
+              [input ...]
 
-Lint D3 files for YAML syntax errors
+ManySecured D3 CLI for creating, linting and exporting D3 claims
 
 positional arguments:
-  D3_FILE     Files to lint
+  input                 Folders containing D3 YAML files. (default: [])
 
-options:
-  -h, --help  show this help message and exit
+optional arguments:
+  -h, --help            show this help message and exit
+  --version             Show the version and exit. (default: False)
+  --guid, --uuid        Generate and show guid and exit. (default:
+                        False)
+  --output [OUTPUT]     Directory in which to output built claims.
+                        (default:
+                        /home/ash/Documents/d3-cli/d3-cli/d3-build)
+  --mode [{build,lint,export}], -m [{build,lint,export}]
+                        Mode to run d3-cli in. (default: build)
+  --build-dir [BUILD_DIR]
+                        Build directory with json claims to export.
+                        Specifying this will skip build step in export
+                        mode. (default: None)
+  --check_uri_resolves  Check that URIs/refs resolve. This can be very
+                        slow, so you may want to leave this off
+                        normally. (default: False)
+  --verbose, -v
+  --quiet, -q
 
-Example: d3_lint.py *.d3
+Example: d3-cli ./manufacturers
 ```
 
 ## Tests

@@ -21,46 +21,45 @@ def cli(argv=None):
     parser.add_argument(
         "input",
         nargs="*",
-        help="Folders containing D3 YAML files.",
+        help="folders containing D3 YAML files.",
         default=[],
+        type=Path,
+    )
+    parser.add_argument(
+        "--version", action="store_true", help="show the version and exit.",
+    )
+    parser.add_argument(
+        "--guid",
+        "--uuid",
+        action="store_true",
+        help="generate and show guid and exit.",
+    )
+    parser.add_argument(
+        "--output",
+        nargs="?",
+        help="directory in which to output built claims.",
+        default=Path.cwd() / "d3-build",
         type=Path,
     )
     parser.add_argument(
         "--mode",
         "-m",
         nargs="?",
-        help="Mode to run d3-cli in.",
+        help="mode to run d3-cli in.",
         default="build",
         choices=["build", "lint", "export"],
     )
     parser.add_argument(
-        "--version", action="store_true", help="Show the version and exit.",
-    )
-    parser.add_argument(
-        "--guid",
-        "--uuid",
-        action="store_true",
-        help="Generate and show guid and exit.",
-    )
-    parser.add_argument(
-        "--output",
-        nargs="?",
-        help="Directory in which to output built claims.",
-        default=Path.cwd(),
-        type=Path,
-    )
-    parser.add_argument(
         "--build-dir",
         nargs="?",
-        help="""Build directory with json claims to export.
+        help="""build directory with json claims to export.
         Specifying this will skip build step in export mode.""",
-        default=Path.cwd(),
         type=Path,
     )
     parser.add_argument(
         "--check_uri_resolves",
         action="store_true",
-        help="""Check that URIs/refs resolve.
+        help="""check that URIs/refs resolve.
         This can be very slow, so you may want to leave this off normally.""",
     )
 
