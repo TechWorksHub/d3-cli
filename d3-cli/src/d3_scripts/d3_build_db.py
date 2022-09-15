@@ -21,7 +21,3 @@ def d3_build_db(json_dir: Path, csv_dir: Path):
     bar_format = "{bar}| {percentage:3.0f}% ({n_fmt}/{total_fmt}) [{elapsed}]"
     for file in tqdm(files_to_process, bar_format=bar_format, ncols=80):
         csv_exporter.d3_json_export_csv(file)
-
-
-if __name__ == "__main__":
-    d3_build_db()

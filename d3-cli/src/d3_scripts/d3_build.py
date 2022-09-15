@@ -1,6 +1,5 @@
 #! /usr/bin/python3
 
-import argparse
 from pathlib import Path
 import multiprocessing as mp
 import logging
@@ -146,52 +145,3 @@ def d3_build(
 def get_files_by_type(files, type_code):
     return [file for file in files if get_yaml_suffixes(file)[0] == "." + type_code]
 
-
-def cli(argv=None):
-    parser = argparse.ArgumentParser(
-        description="Build D3 YAML files into JSON files",
-        epilog="Example: d3build manufacturers/",
-        formatter_class=argparse.ArgumentDefaultsHelpFormatter,
-    )
-    parser.add_argument(
-        "D3_FOLDER",
-        nargs="*",
-        help="Folders containing D3 YAML files.",
-        default=[],
-        type=Path,
-    )
-    parser.add_argument(
-        "--check_uri_resolves",
-        action="store_true",
-        help="""Check that URIs/refs resolve.
-        This can be very slow, so you may want to leave this off normally.""",
-    )
-    parser.add_argument(
-        "--pass-on-failure",
-        help="Allow build to continue on failure to validate file claims.",
-        action="store_true",
-    )
-    debug_level_group = parser.add_mutually_exclusive_group()
-    debug_level_group.add_argument(
-        "--verbose", "-v", dest="log_level", action="append_const", const=-10,
-    )
-    debug_level_group.add_argument(
-        "--quiet", "-q", dest="log_level", action="append_const", const=10,
-    )
-
-    args = parser.parse_args(argv)
-
-    log_level_sum = min(sum(args.log_level or tuple(), logging.INFO), logging.ERROR)
-    logging.basicConfig(level=log_level_sum)
-
-    for d3_folder in args.D3_FOLDER:
-        d3_build(
-            d3_folder=d3_folder,
-            output_dir=Path("."),
-            check_uri_resolves=args.check_uri_resolves,
-            pass_on_failure=args.pass_on_failure,
-        )
-
-
-if __name__ == "__main__":
-    cli()
