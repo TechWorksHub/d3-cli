@@ -1,7 +1,9 @@
 #! /usr/bin/python3
 from .guid import guid
 from .d3_build import d3_build
+from .d3_build_db import d3_build_db
 
+from tempfile import TemporaryDirectory
 import argparse
 from pathlib import Path
 import logging
@@ -49,6 +51,14 @@ def cli(argv=None):
         type=Path,
     )
     parser.add_argument(
+        "--build-dir",
+        nargs="?",
+        help="""Build directory with json claims to export.
+        Specifying this will skip build step in export mode.""",
+        default=Path.cwd(),
+        type=Path,
+    )
+    parser.add_argument(
         "--check_uri_resolves",
         action="store_true",
         help="""Check that URIs/refs resolve.
@@ -84,6 +94,7 @@ def cli(argv=None):
 
     if args.mode == "lint":
         print("linting")
+
     elif args.mode == "build":
         print("building")
         d3_build(
@@ -91,9 +102,26 @@ def cli(argv=None):
             output_dir=args.output,
             check_uri_resolves=args.check_uri_resolves,
         )
-
     elif args.mode == "export":
         print("exporting")
+        if args.build_dir:
+            build_dir = Path(args.build_dir)
+            if not build_dir.exists():
+                raise Exception("Non existent build-dir provided. Exiting.")
+        else:
+            temp_dir = TemporaryDirectory()
+            build_dir = Path(temp_dir.name)
+            d3_build(
+                d3_folders=args.input,
+                output_dir=build_dir,
+                check_uri_resolves=args.check_uri_resolves,
+            )
+        d3_build_db(build_dir, args.output)
+        try:
+            temp_dir.cleanup()
+        except NameError:
+            pass
+
     else:
         raise Exception("unknown mode")
 

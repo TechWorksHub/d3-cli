@@ -56,11 +56,8 @@ def d3_build(
     """Build compressed D3 files from D3 YAML files
 
     Args:
-        d3_files: The D3 YAML files to build from.
-                  Default is all YAML files in the
-                  ../../../manufacturers directory
+        d3_folders: The folders containing D3 YAML files to build from.
         output_dir: The directory in which to put the built json directories.
-                  Default is ../../../manufacturers_json directory
         check_uri_resolves: Whether to check that URIs/refs resolve.
                             This can be very slow, so you may want to
                             leave this off normally.

@@ -59,23 +59,6 @@ def compare_properties(key, flat_json_data, flat_claim_data):
         return flat_json_data.get(key, None) == flat_claim_data.get(key, None)
 
 
-def get_json_file_name(yaml_file_name: str):
-    """Returns the filepath to the JSON file for a given YAML file.
-
-    Args:
-        yaml_file_name: The filepath to the YAML file
-
-    Returns:
-        The filepath to the JSON file
-    """
-    json_file_name = (
-        yaml_file_name.replace(".yaml", ".json")
-        .replace("/manufacturers", "/manufacturers_json")
-        .replace("\\manufacturers", "\\manufacturers_json")
-    )
-    return json_file_name
-
-
 def write_json(file_name: str, json_data: dict):
     """Writes a JSON file from a Python dict.
 
