@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "d3-cli"
-version = "0.1.0"
+version = "0.1.1"
 description = "Utility scripts for ManySecured-D3 claims"
 authors = [
     "NquiringMinds <contact@nquiringminds.com>",
@@ -26,6 +26,7 @@ matplotlib = "^3.5.2"
 iteration-utilities = "^0.11.0"
 ipython = "^8.4.0"
 pandas = "^1.4.2"
+bidict = "^0.22.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.1.2"

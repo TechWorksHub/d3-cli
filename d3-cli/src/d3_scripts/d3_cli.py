@@ -8,9 +8,7 @@ from tempfile import TemporaryDirectory
 import argparse
 from pathlib import Path
 import logging
-from importlib import metadata
-__version__ = metadata.version(__package__)
-del metadata  # optional, avoids polluting the results of dir(__package__)
+__version__ = "0.1.0"
 
 
 def cli(argv=None):
@@ -92,6 +90,8 @@ def cli(argv=None):
     if len(args.input) == 0:
         logging.warning("No directories provided, Exiting...")
         return
+
+    print(args.input)
 
     if args.mode == "lint":
         logging.info("linting")

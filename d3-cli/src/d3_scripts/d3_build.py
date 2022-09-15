@@ -1,6 +1,7 @@
 #! /usr/bin/python3
 
 from pathlib import Path
+from bidict import bidict
 import multiprocessing as mp
 import logging
 from tqdm import tqdm
@@ -17,12 +18,15 @@ import typing
 
 class PathFinder:
     def __init__(self, output_dir):
-        self.d3_src_dst_map = {}
+        self.d3_src_dst_map = bidict({})
         self.output_dir = output_dir
 
     def add_to_d3_map(self, claim_filepath, folder):
         claim_relative_filepath = claim_filepath.relative_to(folder)
         json_filepath = Path(self.output_dir, str(claim_relative_filepath).replace(".yaml", ".json"))
+        if json_filepath in self.d3_src_dst_map.inverse:
+            raise Exception(f"""Claim collision: {claim_filepath} and 
+            {self.d3_src_dst_map.inverse[json_filepath]} both map to {json_filepath}""")
         self.d3_src_dst_map[str(claim_filepath)] = json_filepath
         return claim_filepath
 
@@ -144,4 +148,3 @@ def d3_build(
 
 def get_files_by_type(files, type_code):
     return [file for file in files if get_yaml_suffixes(file)[0] == "." + type_code]
-
