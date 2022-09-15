@@ -2,6 +2,7 @@
 from .guid import guid
 from .d3_build import d3_build
 from .d3_build_db import d3_build_db
+from .d3_utils import validate_d3_claim_files
 
 from tempfile import TemporaryDirectory
 import argparse
@@ -77,7 +78,7 @@ def cli(argv=None):
 
     if args.version:
         # TODO: check this version number is correct when installed
-        print(f"d3-cli, version {__version__}")
+        logging.info(f"d3-cli, version {__version__}")
         return
 
     if args.guid:
@@ -89,21 +90,36 @@ def cli(argv=None):
     logging.basicConfig(level=log_level_sum)
 
     if len(args.input) == 0:
-        print("No directories provided, Exiting...")
+        logging.warning("No directories provided, Exiting...")
         return
 
     if args.mode == "lint":
-        print("linting")
+        logging.info("linting")
+        d3_files = list((
+            d3_file
+            for d3_folder in args.input
+            for d3_file in d3_folder.glob("**/*.yaml")
+        ))
+
+        try:
+            validate_d3_claim_files(d3_files, check_uri_resolves=args.check_uri_resolves)
+        except Exception as error:
+            logging.error(error)
+        logging.info("All files passed linting successfully.")
 
     elif args.mode == "build":
-        print("building")
-        d3_build(
-            d3_folders=args.input,
-            output_dir=args.output,
-            check_uri_resolves=args.check_uri_resolves,
-        )
+        logging.info("building")
+        try:
+            d3_build(
+                d3_folders=args.input,
+                output_dir=args.output,
+                check_uri_resolves=args.check_uri_resolves,
+            )
+        except Exception as error:
+            logging.error(error)
+
     elif args.mode == "export":
-        print("exporting")
+        logging.info("exporting")
         if args.build_dir:
             build_dir = Path(args.build_dir)
             if not build_dir.exists():
@@ -111,12 +127,18 @@ def cli(argv=None):
         else:
             temp_dir = TemporaryDirectory()
             build_dir = Path(temp_dir.name)
-            d3_build(
-                d3_folders=args.input,
-                output_dir=build_dir,
-                check_uri_resolves=args.check_uri_resolves,
-            )
-        d3_build_db(build_dir, args.output)
+            try:
+                d3_build(
+                    d3_folders=args.input,
+                    output_dir=build_dir,
+                    check_uri_resolves=args.check_uri_resolves,
+                )
+            except Exception as error:
+                logging.error(error)
+        try:
+            d3_build_db(build_dir, args.output)
+        except Exception as error:
+            logging.error(error)
         try:
             temp_dir.cleanup()
         except NameError:
