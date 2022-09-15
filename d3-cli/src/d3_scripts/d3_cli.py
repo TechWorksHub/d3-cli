@@ -8,8 +8,11 @@ from tempfile import TemporaryDirectory
 import argparse
 from pathlib import Path
 import logging
-
-__version__ = "0.1.0"
+try:
+    from importlib.metadata import version
+    __version__ = version("d3-cli")
+except Exception:
+    __version__ = "local dev version"
 
 
 def cli(argv=None):
@@ -74,8 +77,7 @@ def cli(argv=None):
     args = parser.parse_args(argv)
 
     if args.version:
-        # TODO: check this version number is correct when installed
-        logging.info(f"d3-cli, version {__version__}")
+        print(f"d3-cli, version {__version__}")
         return
 
     if args.guid:
