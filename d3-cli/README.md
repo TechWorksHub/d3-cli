@@ -47,3 +47,4 @@ Tests can be run via:
 ```bash
 poetry run pytest
 ```
+
