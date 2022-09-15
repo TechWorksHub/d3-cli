@@ -25,11 +25,11 @@ jobs:
         working-directory: d3-scripts
     steps:
       - uses: actions/checkout@v3
-      - name: Install poetry
-        run: pipx install poetry
       - uses: actions/setup-python@v3
         with:
           python-version: '3.8'
           cache: 'poetry'
+      - name: Install poetry
+        run: pipx install poetry
       - run: poetry install
       - run: poetry run pytest # tests whether our Python code works
