@@ -28,7 +28,7 @@ class PathFinder:
         )
         if json_filepath in self.d3_src_dst_map.inverse:
             raise Exception(
-                f"""Claim collision: {claim_filepath} and 
+                f"""Claim collision: {claim_filepath} and
             {self.d3_src_dst_map.inverse[json_filepath]} both map to {json_filepath}"""
             )
         self.d3_src_dst_map[str(claim_filepath)] = json_filepath
