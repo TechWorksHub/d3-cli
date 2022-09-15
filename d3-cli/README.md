@@ -65,3 +65,16 @@ Tests can be run via:
 ```bash
 poetry run pytest
 ```
+
+## Publish
+
+The d3-cli utility is published [here](https://pypi.org/project/d3-cli/).
+
+In order to publish you must run:
+
+```
+poetry build
+poetry publish
+```
+
+And then enter the credentials for the NquiringMinds pypi account.
