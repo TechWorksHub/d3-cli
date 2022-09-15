@@ -30,11 +30,11 @@ def get_ruleid(id: id_type, name: str) -> str:
     return str(rule_id)
 
 
-class CsvExporter():
+class CsvExporter:
     def __init__(self, csv_dir: Path):
         self.csv_dir = csv_dir
 
-    def create_csv_templates(self, ) -> None:
+    def create_csv_templates(self,) -> None:
         """Creates the csv files + header for the D3DB output CSVs"""
         self.csv_dir.mkdir(parents=True, exist_ok=True)
 
@@ -44,7 +44,9 @@ class CsvExporter():
                 csv_writer = DictWriter(csv_file, fieldnames=header, dialect="unix")
                 csv_writer.writeheader()
 
-    def write_csv_data(self, file_name: path_type, headers: List[str], data: dict) -> None:
+    def write_csv_data(
+        self, file_name: path_type, headers: List[str], data: dict
+    ) -> None:
         """Writes data to a csv file from a list of headers and a dict of data.
 
         Args:
@@ -95,7 +97,9 @@ class CsvExporter():
         behaviour_file = self.csv_dir / "behaviour.csv"
         data = load_json(file_path)["credentialSubject"]
         behaviour = {"id": data["id"]}
-        behaviour_name = data["ruleName"] if data.get("ruleName", "") else file_path.stem
+        behaviour_name = (
+            data["ruleName"] if data.get("ruleName", "") else file_path.stem
+        )
 
         for i, rule in enumerate(data["rules"]):
             rule_name = rule["name"] if rule["name"] else f"rule_{i}"

@@ -8,6 +8,7 @@ from tempfile import TemporaryDirectory
 import argparse
 from pathlib import Path
 import logging
+
 __version__ = "0.1.0"
 
 
@@ -33,12 +34,11 @@ def cli(argv=None):
         choices=["build", "lint", "export"],
     )
     parser.add_argument(
-        "--version",
-        action="store_true",
-        help="Show the version and exit.",
+        "--version", action="store_true", help="Show the version and exit.",
     )
     parser.add_argument(
-        "--guid", "--uuid",
+        "--guid",
+        "--uuid",
         action="store_true",
         help="Generate and show guid and exit.",
     )
@@ -83,8 +83,7 @@ def cli(argv=None):
         guid()
         return
 
-    log_level_sum = min(sum(args.log_level or tuple(),
-                        logging.INFO), logging.ERROR)
+    log_level_sum = min(sum(args.log_level or tuple(), logging.INFO), logging.ERROR)
     logging.basicConfig(level=log_level_sum)
 
     if len(args.input) == 0:
@@ -95,14 +94,18 @@ def cli(argv=None):
 
     if args.mode == "lint":
         logging.info("linting")
-        d3_files = list((
-            d3_file
-            for d3_folder in args.input
-            for d3_file in d3_folder.glob("**/*.yaml")
-        ))
+        d3_files = list(
+            (
+                d3_file
+                for d3_folder in args.input
+                for d3_file in d3_folder.glob("**/*.yaml")
+            )
+        )
 
         try:
-            validate_d3_claim_files(d3_files, check_uri_resolves=args.check_uri_resolves)
+            validate_d3_claim_files(
+                d3_files, check_uri_resolves=args.check_uri_resolves
+            )
         except Exception as error:
             logging.error(error)
         logging.info("All files passed linting successfully.")

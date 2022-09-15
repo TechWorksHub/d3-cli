@@ -23,10 +23,14 @@ class PathFinder:
 
     def add_to_d3_map(self, claim_filepath, folder):
         claim_relative_filepath = claim_filepath.relative_to(folder)
-        json_filepath = Path(self.output_dir, str(claim_relative_filepath).replace(".yaml", ".json"))
+        json_filepath = Path(
+            self.output_dir, str(claim_relative_filepath).replace(".yaml", ".json")
+        )
         if json_filepath in self.d3_src_dst_map.inverse:
-            raise Exception(f"""Claim collision: {claim_filepath} and 
-            {self.d3_src_dst_map.inverse[json_filepath]} both map to {json_filepath}""")
+            raise Exception(
+                f"""Claim collision: {claim_filepath} and 
+            {self.d3_src_dst_map.inverse[json_filepath]} both map to {json_filepath}"""
+            )
         self.d3_src_dst_map[str(claim_filepath)] = json_filepath
         return claim_filepath
 
@@ -102,9 +106,7 @@ def d3_build(
     outputFolder = Path(output_dir, "cve_vulnerabilities")
     Path(outputFolder).mkdir(parents=True, exist_ok=True)
     for vuln in cve_vulnerabilities:
-        json_file_name = Path(
-            outputFolder, f"{vuln['credentialSubject']['id']}.json"
-        )
+        json_file_name = Path(outputFolder, f"{vuln['credentialSubject']['id']}.json")
         # write JSON for CVE vulnerability
         write_json(json_file_name, vuln)
     pbar.update(5)
