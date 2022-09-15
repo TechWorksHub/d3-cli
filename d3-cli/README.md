@@ -25,10 +25,6 @@ Instead, you must run the d3-cli script defined in the `[tool.poetry.scripts]` f
 
 ## Usage
 
-D3-cli
-
-
-
 ```console
 usage: d3-cli [-h] [--version] [--guid] [--output [OUTPUT]]
               [--mode [{build,lint,export}]] [--build-dir [BUILD_DIR]]
@@ -46,8 +42,7 @@ optional arguments:
   --guid, --uuid        Generate and show guid and exit. (default:
                         False)
   --output [OUTPUT]     Directory in which to output built claims.
-                        (default:
-                        /home/ash/Documents/d3-cli/d3-cli/d3-build)
+                        (default: <cwd>/d3-build)
   --mode [{build,lint,export}], -m [{build,lint,export}]
                         Mode to run d3-cli in. (default: build)
   --build-dir [BUILD_DIR]
