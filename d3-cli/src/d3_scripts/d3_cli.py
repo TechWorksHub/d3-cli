@@ -103,11 +103,9 @@ def cli(argv=None):
                 for d3_file in d3_folder.glob("**/*.yaml")
             )
         )
-
         validate_d3_claim_files(
             d3_files, check_uri_resolves=args.check_uri_resolves
         )
-        
         logging.info("All files passed linting successfully.")
 
     elif args.mode == "build":
