@@ -55,7 +55,6 @@ def cli(argv=None):
         ),
     )
 
-    print(yaml_file_names)
     validate_d3_claim_files(yaml_file_names, check_uri_resolves=args.check_uri_resolves)
 
 

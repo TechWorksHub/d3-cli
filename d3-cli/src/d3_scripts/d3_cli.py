@@ -104,12 +104,10 @@ def cli(argv=None):
             )
         )
 
-        try:
-            validate_d3_claim_files(
-                d3_files, check_uri_resolves=args.check_uri_resolves
-            )
-        except Exception as error:
-            logging.error(error)
+        validate_d3_claim_files(
+            d3_files, check_uri_resolves=args.check_uri_resolves
+        )
+        
         logging.info("All files passed linting successfully.")
 
     elif args.mode == "build":
