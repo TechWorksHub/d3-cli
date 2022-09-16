@@ -29,8 +29,9 @@ jobs:
         with:
           python-version: 3.8
       - name: Install dependencies
-        run: working-directory: d3-cli |
+        run: |
           python -m pip install --upgrade pip
           pip install poetry
-      - run: poetry install
+          cd d3-cli
+          poetry install
       - run: poetry run pytest # tests whether our Python code works
