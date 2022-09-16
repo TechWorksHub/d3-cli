@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7d1ba67e-c3cf-564b-916a-485d47b68839
-  macAddresses:
-  - 00:50:C2:C4:80:00/36
-  manufacturer: Cytek Media Systems, INC.
-  manufacturerUri: https://device-type.com
-  name: CytekMed
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 62b2200a-8d7b-5f2b-be89-3737b5110bda
-  macAddresses:
-  - 00:0C:A6:00:00:00/24
-  manufacturer: Mintera Corporation
-  manufacturerUri: https://device-type.com
-  name: Mintera
-type: d3-device-type-assertion

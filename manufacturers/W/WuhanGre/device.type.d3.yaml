@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6de1a959-ef2c-5d76-ab17-a3eccf82a17d
-  macAddresses:
-  - 7C:C9:26:00:00:00/24
-  manufacturer: Wuhan GreeNet Information Service Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: WuhanGre
-type: d3-device-type-assertion

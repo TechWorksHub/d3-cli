@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 51854842-7c43-5f6b-b0f5-c7bd7bf20906
-  macAddresses:
-  - 00:1C:9F:00:00:00/24
-  manufacturer: Razorstream, LLC
-  manufacturerUri: https://device-type.com
-  name: Razorstr
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ccf153d0-b316-509a-b8c8-7c13697a66bd
-  macAddresses:
-  - 00:1F:43:00:00:00/24
-  manufacturer: Entes Elektronik
-  manufacturerUri: https://device-type.com
-  name: EntesEle
-type: d3-device-type-assertion

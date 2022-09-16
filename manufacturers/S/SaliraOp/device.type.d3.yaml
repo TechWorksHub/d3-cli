@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ea164553-42e3-5b0b-bb84-be56ccdb1a2c
-  macAddresses:
-  - 00:05:49:00:00:00/24
-  manufacturer: Salira Optical Network Systems
-  manufacturerUri: https://device-type.com
-  name: SaliraOp
-type: d3-device-type-assertion

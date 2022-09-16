@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4357349e-38b0-50a4-a3ba-9bd495c94796
-  macAddresses:
-  - 94:CC:04:70:00:00/28
-  manufacturer: Gowing Business And Contracting Wenzhou Co., LTD
-  manufacturerUri: https://device-type.com
-  name: GowingBu
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eca7052f-8821-513a-a8c7-7a0af0b6bef9
-  macAddresses:
-  - 00:50:C2:1D:F0:00/36
-  manufacturer: Lulea University of Technology
-  manufacturerUri: https://device-type.com
-  name: LuleaUni
-type: d3-device-type-assertion

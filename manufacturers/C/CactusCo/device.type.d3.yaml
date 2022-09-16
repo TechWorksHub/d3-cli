@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d59eb6cf-0b88-5278-b67c-1252c605f700
-  macAddresses:
-  - 00:80:05:00:00:00/24
-  manufacturer: Cactus Computer Inc.
-  manufacturerUri: https://device-type.com
-  name: CactusCo
-type: d3-device-type-assertion

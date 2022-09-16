@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 32d3d88e-409c-50c3-8ed1-725395413686
-  macAddresses:
-  - 10:DC:B6:80:00:00/28
-  manufacturer: Sanofi (Beijing) Pharmaceutical Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: SanofiBe
-type: d3-device-type-assertion

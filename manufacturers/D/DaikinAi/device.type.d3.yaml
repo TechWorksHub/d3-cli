@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b6c0d859-9f8c-515b-84ce-8abdabb8318f
-  macAddresses:
-  - 60:18:03:00:00:00/24
-  manufacturer: Daikin Air-conditioning (Shanghai) Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: DaikinAi
-type: d3-device-type-assertion

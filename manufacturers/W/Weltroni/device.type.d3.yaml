@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6801f35d-6d99-56a7-8dbb-3a6fd6fab374
-  macAddresses:
-  - 00:50:C2:1C:20:00/36
-  manufacturer: Weltronics Corp.
-  manufacturerUri: https://device-type.com
-  name: Weltroni
-type: d3-device-type-assertion

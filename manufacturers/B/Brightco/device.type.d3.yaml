@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f95b320c-f60d-5e85-bb10-da61c24a67a7
-  macAddresses:
-  - 00:07:14:00:00:00/24
-  manufacturer: Brightcom
-  manufacturerUri: https://device-type.com
-  name: Brightco
-type: d3-device-type-assertion

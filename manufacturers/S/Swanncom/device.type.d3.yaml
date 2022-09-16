@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f652a688-95f9-5538-9b67-48fddd0ccce6
-  macAddresses:
-  - BC:51:FE:00:00:00/24
-  manufacturer: Swann communications Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: Swanncom
-type: d3-device-type-assertion

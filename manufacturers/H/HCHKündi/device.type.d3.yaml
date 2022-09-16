@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0c94a8fc-979b-5f70-b86b-69988e9da9a5
-  macAddresses:
-  - 70:B3:D5:75:30:00/36
-  manufacturer: "HCH. K\xFCndig & CIE. AG"
-  manufacturerUri: https://device-type.com
-  name: "HCHK\xFCndi"
-type: d3-device-type-assertion

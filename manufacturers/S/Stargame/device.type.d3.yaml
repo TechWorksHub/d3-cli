@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ee980229-4bf0-51a4-baa3-f7c250791395
-  macAddresses:
-  - 00:0A:AD:00:00:00/24
-  manufacturer: Stargames Corporation
-  manufacturerUri: https://device-type.com
-  name: Stargame
-type: d3-device-type-assertion

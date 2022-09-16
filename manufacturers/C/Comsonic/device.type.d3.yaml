@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f7912d32-60c4-56c2-a7c9-bbfc02b896ad
-  macAddresses:
-  - 00:50:C2:79:40:00/36
-  manufacturer: Comsonics, Inc.
-  manufacturerUri: https://device-type.com
-  name: Comsonic
-type: d3-device-type-assertion

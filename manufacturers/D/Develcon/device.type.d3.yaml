@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6f924daa-0fde-5236-9f7c-2b9bc3a79e4e
-  macAddresses:
-  - 00:00:D0:00:00:00/24
-  manufacturer: Develcon Electronics Ltd.
-  manufacturerUri: https://device-type.com
-  name: Develcon
-type: d3-device-type-assertion

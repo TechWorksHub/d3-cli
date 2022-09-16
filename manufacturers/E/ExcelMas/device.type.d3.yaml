@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 17e3271c-da5b-5d2a-b2ac-b495df5a983d
-  macAddresses:
-  - 00:08:E8:00:00:00/24
-  manufacturer: Excel Master Ltd.
-  manufacturerUri: https://device-type.com
-  name: ExcelMas
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0257f27c-640e-542c-bcee-806ea44ef22d
-  macAddresses:
-  - 00:22:E1:00:00:00/24
-  manufacturer: ZORT Labs, LLC.
-  manufacturerUri: https://device-type.com
-  name: ZORTLabs
-type: d3-device-type-assertion

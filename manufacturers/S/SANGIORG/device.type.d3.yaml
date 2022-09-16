@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: feabe93d-0f1d-576a-a19c-080611c13e20
-  macAddresses:
-  - 00:50:C2:AA:90:00/36
-  manufacturer: SAN GIORGIO S.E.I.N. srl
-  manufacturerUri: https://device-type.com
-  name: SANGIORG
-type: d3-device-type-assertion

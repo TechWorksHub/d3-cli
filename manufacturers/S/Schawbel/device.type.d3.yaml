@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4b5a308c-a667-5320-a52b-2932f5b5315e
-  macAddresses:
-  - 1C:87:74:60:00:00/28
-  manufacturer: Schawbel Technologies LLC
-  manufacturerUri: https://device-type.com
-  name: Schawbel
-type: d3-device-type-assertion

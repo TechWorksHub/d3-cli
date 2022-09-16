@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eea33d7c-6904-550d-8f58-2c5811deffc9
-  macAddresses:
-  - 00:1F:A9:00:00:00/24
-  manufacturer: Atlanta DTH, Inc.
-  manufacturerUri: https://device-type.com
-  name: AtlantaD
-type: d3-device-type-assertion

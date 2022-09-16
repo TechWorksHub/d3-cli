@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ebb115ef-fe74-5933-9049-96bdc4a6855f
-  macAddresses:
-  - E8:FD:90:00:00:00/24
-  manufacturer: Turbostor
-  manufacturerUri: https://device-type.com
-  name: Turbosto
-type: d3-device-type-assertion

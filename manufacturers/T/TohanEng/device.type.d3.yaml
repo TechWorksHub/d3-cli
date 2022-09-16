@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 63a8b540-df31-5fe0-86ad-55fdd9938525
-  macAddresses:
-  - 7C:70:BC:B0:00:00/28
-  manufacturer: Tohan Engineering Corporation
-  manufacturerUri: https://device-type.com
-  name: TohanEng
-type: d3-device-type-assertion

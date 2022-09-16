@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b062c2ff-50f0-5e92-9b56-5e53cada4725
-  macAddresses:
-  - 00:50:C2:83:30:00/36
-  manufacturer: LaserLinc, Inc.
-  manufacturerUri: https://device-type.com
-  name: LaserLin
-type: d3-device-type-assertion

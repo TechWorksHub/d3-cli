@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7ab9e88e-1030-5483-b9fc-68351615a64f
-  macAddresses:
-  - EC:F7:2B:00:00:00/24
-  manufacturer: Hd Digital Tech Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: HdDigita
-type: d3-device-type-assertion

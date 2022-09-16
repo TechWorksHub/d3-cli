@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 92729262-37d6-5a77-b6b7-2aba27ebb73e
-  macAddresses:
-  - E0:B6:F5:80:00:00/28
-  manufacturer: "Yuneec International\uFF08China\uFF09Co.\uFF0CLtd"
-  manufacturerUri: https://device-type.com
-  name: YuneecIn
-type: d3-device-type-assertion

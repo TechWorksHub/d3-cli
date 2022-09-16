@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 58a83bc6-776f-5570-9e37-da5e06628f9a
-  macAddresses:
-  - D4:25:CC:50:00:00/28
-  manufacturer: bvk technology
-  manufacturerUri: https://device-type.com
-  name: bvktechn
-type: d3-device-type-assertion

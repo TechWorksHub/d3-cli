@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: af324b01-11e0-5932-942f-5d6a06d78323
-  macAddresses:
-  - 00:25:AF:00:00:00/24
-  manufacturer: COMFILE Technology
-  manufacturerUri: https://device-type.com
-  name: COMFILET
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8309b51b-d722-5414-9267-5f0dedde5a24
-  macAddresses:
-  - 00:08:FB:00:00:00/24
-  manufacturer: SonoSite, Inc.
-  manufacturerUri: https://device-type.com
-  name: SonoSite
-type: d3-device-type-assertion

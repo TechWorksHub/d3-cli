@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d312dbd4-4974-504f-b2a0-d8b03860ec3d
-  macAddresses:
-  - 24:4E:7B:40:00:00/28
-  manufacturer: Leshi Internet Information & Technology (Beijing) Corp.
-  manufacturerUri: https://device-type.com
-  name: LeshiInt
-type: d3-device-type-assertion

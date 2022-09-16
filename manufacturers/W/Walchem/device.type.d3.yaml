@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bd2f8acd-a393-552d-aae3-f805c4438de6
-  macAddresses:
-  - 00:0A:6C:00:00:00/24
-  manufacturer: Walchem Corporation
-  manufacturerUri: https://device-type.com
-  name: Walchem
-type: d3-device-type-assertion

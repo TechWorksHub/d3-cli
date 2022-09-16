@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4662ebc7-ee95-53a1-b61c-eb2a8dbaef5d
-  macAddresses:
-  - A4:50:55:00:00:00/24
-  manufacturer: Busware.De
-  manufacturerUri: https://device-type.com
-  name: BuswareD
-type: d3-device-type-assertion

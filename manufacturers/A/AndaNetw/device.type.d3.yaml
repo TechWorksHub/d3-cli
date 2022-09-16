@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: af4af287-bf79-5bed-b73f-0a5aab434e82
-  macAddresses:
-  - 00:50:ED:00:00:00/24
-  manufacturer: Anda Networks
-  manufacturerUri: https://device-type.com
-  name: AndaNetw
-type: d3-device-type-assertion

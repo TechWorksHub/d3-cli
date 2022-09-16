@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ddf8b95e-affa-5d30-9297-7d60a208005d
-  macAddresses:
-  - 70:B3:D5:D5:70:00/36
-  manufacturer: TRIUMPH BOARD a.s.
-  manufacturerUri: https://device-type.com
-  name: TRIUMPHB
-type: d3-device-type-assertion

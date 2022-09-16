@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 67fa4cc0-3c00-581a-87dc-f9b90bf76ff8
-  macAddresses:
-  - 58:B9:E1:00:00:00/24
-  manufacturer: Crystalfontz America, Inc.
-  manufacturerUri: https://device-type.com
-  name: Crystalf
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0a1f84ec-025d-578d-b52e-74f1f4473df1
-  macAddresses:
-  - 00:03:48:00:00:00/24
-  manufacturer: Norscan Instruments, Ltd.
-  manufacturerUri: https://device-type.com
-  name: NorscanI
-type: d3-device-type-assertion

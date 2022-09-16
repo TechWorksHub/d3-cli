@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 68faebcd-0b29-5bea-a8ab-289f96a2e2db
-  macAddresses:
-  - F4:3E:9D:00:00:00/24
-  manufacturer: Benu Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: BenuNetw
-type: d3-device-type-assertion

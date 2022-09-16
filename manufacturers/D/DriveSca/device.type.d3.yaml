@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 830a129b-57d5-5bf8-840a-edfb7fa59a60
-  macAddresses:
-  - 68:36:B5:00:00:00/24
-  manufacturer: DriveScale, Inc.
-  manufacturerUri: https://device-type.com
-  name: DriveSca
-type: d3-device-type-assertion

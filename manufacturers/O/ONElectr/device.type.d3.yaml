@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8ca8f700-aac5-5dc6-962a-22edbedcb08b
-  macAddresses:
-  - 00:A0:DC:00:00:00/24
-  manufacturer: O.N. Electronic Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: ONElectr
-type: d3-device-type-assertion

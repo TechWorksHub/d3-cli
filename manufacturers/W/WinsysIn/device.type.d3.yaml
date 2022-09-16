@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0508ec15-f23c-5104-9ee1-cdb7e99d4e65
-  macAddresses:
-  - 00:50:C2:62:60:00/36
-  manufacturer: Winsys Informatica ltda
-  manufacturerUri: https://device-type.com
-  name: WinsysIn
-type: d3-device-type-assertion

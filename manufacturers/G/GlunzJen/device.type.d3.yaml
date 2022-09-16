@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 05a831d1-fdd9-576b-98d0-2a5253d3677d
-  macAddresses:
-  - 00:11:DC:00:00:00/24
-  manufacturer: Glunz & Jensen
-  manufacturerUri: https://device-type.com
-  name: GlunzJen
-type: d3-device-type-assertion

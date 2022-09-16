@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5c946e98-bdad-5e09-a3ef-8b5654d8ce35
-  macAddresses:
-  - 00:0D:91:00:00:00/24
-  manufacturer: Eclipse (HQ Espana) S.L.
-  manufacturerUri: https://device-type.com
-  name: EclipseH
-type: d3-device-type-assertion

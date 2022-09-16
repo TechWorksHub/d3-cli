@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f4337c6d-253e-5682-b3bd-b08b8ada07b9
-  macAddresses:
-  - 08:00:15:00:00:00/24
-  manufacturer: Stc Business Systems
-  manufacturerUri: https://device-type.com
-  name: StcBusin
-type: d3-device-type-assertion

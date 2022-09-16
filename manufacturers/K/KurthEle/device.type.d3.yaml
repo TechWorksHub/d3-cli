@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 74b82640-513d-576f-90ab-ae137bfc4edb
-  macAddresses:
-  - 18:D6:CF:00:00:00/24
-  manufacturer: Kurth Electronic GmbH
-  manufacturerUri: https://device-type.com
-  name: KurthEle
-type: d3-device-type-assertion

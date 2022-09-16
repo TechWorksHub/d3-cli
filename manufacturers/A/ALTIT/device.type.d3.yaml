@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 06710fe2-405b-5382-a1bf-062e8f3dc347
-  macAddresses:
-  - 70:B3:D5:55:20:00/36
-  manufacturer: ALTIT.CO.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: ALTIT
-type: d3-device-type-assertion

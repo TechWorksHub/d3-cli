@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f67b2bbe-c0f4-566f-a191-64f75e984250
-  macAddresses:
-  - 70:B3:D5:61:30:00/36
-  manufacturer: Suprock Technologies
-  manufacturerUri: https://device-type.com
-  name: SuprockT
-type: d3-device-type-assertion

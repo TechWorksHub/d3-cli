@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 78b555c9-6af3-5489-9126-bdcd98615b31
-  macAddresses:
-  - 00:50:C2:77:20:00/36
-  manufacturer: IES Elektronikentwicklung
-  manufacturerUri: https://device-type.com
-  name: IESElekt
-type: d3-device-type-assertion

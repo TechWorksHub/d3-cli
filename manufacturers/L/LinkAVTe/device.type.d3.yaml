@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9f20556c-c082-5373-96fb-98de747e3936
-  macAddresses:
-  - 70:B3:D5:1F:60:00/36
-  manufacturer: LinkAV Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: LinkAVTe
-type: d3-device-type-assertion

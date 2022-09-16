@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1c901776-1e53-54fb-bfe1-bb07ed8bae82
-  macAddresses:
-  - 88:D9:62:00:00:00/24
-  manufacturer: Canopus Systems US LLC
-  manufacturerUri: https://device-type.com
-  name: CanopusU
-type: d3-device-type-assertion

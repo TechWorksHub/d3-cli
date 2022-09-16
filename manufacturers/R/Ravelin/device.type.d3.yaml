@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2a6d5013-190c-5d44-a625-72755ef05a34
-  macAddresses:
-  - 70:B3:D5:02:20:00/36
-  manufacturer: Ravelin Ltd
-  manufacturerUri: https://device-type.com
-  name: Ravelin
-type: d3-device-type-assertion

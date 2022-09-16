@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 06930c57-382a-588f-b58f-2e7a3a1b681e
-  macAddresses:
-  - 88:87:DD:00:00:00/24
-  manufacturer: DarbeeVision Inc.
-  manufacturerUri: https://device-type.com
-  name: DarbeeVi
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5e271ccd-e94d-5f0e-89a5-67e0290c7728
-  macAddresses:
-  - 00:24:84:00:00:00/24
-  manufacturer: Bang and Olufsen Medicom a/s
-  manufacturerUri: https://device-type.com
-  name: BangandO
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8d85befc-a0ee-539c-9ec7-39c02adafac7
-  macAddresses:
-  - 98:02:D8:C0:00:00/28
-  manufacturer: AGV spa
-  manufacturerUri: https://device-type.com
-  name: AGV
-type: d3-device-type-assertion

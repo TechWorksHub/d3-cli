@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 637a9d38-d88d-55e2-b55c-0456a0298a5d
-  macAddresses:
-  - 70:B3:D5:54:50:00/36
-  manufacturer: Airity Technologies Inc.
-  manufacturerUri: https://device-type.com
-  name: AirityTe
-type: d3-device-type-assertion

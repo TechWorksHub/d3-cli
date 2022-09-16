@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e03eac24-5d5e-5274-8dcc-4afcbb7977c3
-  macAddresses:
-  - 00:40:24:00:00:00/24
-  manufacturer: Compac Inc.
-  manufacturerUri: https://device-type.com
-  name: Compac
-type: d3-device-type-assertion

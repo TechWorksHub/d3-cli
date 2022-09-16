@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 279eee39-c4c5-5327-bad8-e165767d8a0f
-  macAddresses:
-  - D0:D9:4F:C0:00:00/28
-  manufacturer: Arrowave Technologies Limited
-  manufacturerUri: https://device-type.com
-  name: Arrowave
-type: d3-device-type-assertion

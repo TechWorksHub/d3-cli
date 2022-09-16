@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cfba7f97-40b1-5156-99e2-9e325564a7ed
-  macAddresses:
-  - 1C:87:74:B0:00:00/28
-  manufacturer: HABEY USA Inc.
-  manufacturerUri: https://device-type.com
-  name: HABEYUSA
-type: d3-device-type-assertion

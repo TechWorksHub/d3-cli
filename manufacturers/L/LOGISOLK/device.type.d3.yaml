@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 928344d4-98c4-5dae-a7f6-3126420f2ced
-  macAddresses:
-  - 00:50:C2:FE:D0:00/36
-  manufacturer: LOGISOL Kft.
-  manufacturerUri: https://device-type.com
-  name: LOGISOLK
-type: d3-device-type-assertion

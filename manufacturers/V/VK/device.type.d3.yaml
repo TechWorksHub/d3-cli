@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 10fb39c9-0765-5d4a-ad58-43e2bde5384e
-  macAddresses:
-  - 00:16:B0:00:00:00/24
-  manufacturer: VK Corporation
-  manufacturerUri: https://device-type.com
-  name: VK
-type: d3-device-type-assertion

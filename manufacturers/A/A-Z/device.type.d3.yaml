@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 59ebd683-59ee-5a56-a681-8182b882549d
-  macAddresses:
-  - 00:07:A7:00:00:00/24
-  manufacturer: A-Z Inc.
-  manufacturerUri: https://device-type.com
-  name: A-Z
-type: d3-device-type-assertion

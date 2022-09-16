@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 82c146c2-cb49-58bb-953a-f37aff50385c
-  macAddresses:
-  - C0:3B:8F:00:00:00/24
-  manufacturer: Minicom Digital Signage
-  manufacturerUri: https://device-type.com
-  name: MinicomD
-type: d3-device-type-assertion

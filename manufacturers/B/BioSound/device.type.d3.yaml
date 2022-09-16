@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bc440149-0108-56b4-95c4-5efb07de71a4
-  macAddresses:
-  - 10:C5:86:00:00:00/24
-  manufacturer: Bio Sound Lab Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: BioSound
-type: d3-device-type-assertion

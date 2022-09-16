@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2ba7abf2-669d-5cab-b6dc-6154bf2a828e
-  macAddresses:
-  - 00:10:5A:00:00:00/24
-  manufacturer: 3Com
-  manufacturerUri: https://device-type.com
-  name: 3comFast
-type: d3-device-type-assertion

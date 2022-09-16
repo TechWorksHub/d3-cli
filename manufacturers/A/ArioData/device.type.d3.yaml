@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 76020093-51d2-5cbb-b95b-fe21f1b7df91
-  macAddresses:
-  - 00:05:4A:00:00:00/24
-  manufacturer: Ario Data Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: ArioData
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 27ac39bd-2106-5f62-a57e-99fe9b6c672a
-  macAddresses:
-  - 70:B3:D5:5B:60:00/36
-  manufacturer: Ethical Lighting and Sensor Solutions Limited
-  manufacturerUri: https://device-type.com
-  name: EthicalL
-type: d3-device-type-assertion

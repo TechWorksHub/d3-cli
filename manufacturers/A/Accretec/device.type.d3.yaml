@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 237b6e2f-b499-5cd4-bec4-f8afce39b819
-  macAddresses:
-  - 00:23:BB:00:00:00/24
-  manufacturer: Accretech SBS, Inc.
-  manufacturerUri: https://device-type.com
-  name: Accretec
-type: d3-device-type-assertion

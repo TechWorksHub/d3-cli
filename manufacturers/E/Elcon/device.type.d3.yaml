@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bc076790-a6e6-5221-b7c6-5906ace8fb7d
-  macAddresses:
-  - 8C:19:2D:E0:00:00/28
-  manufacturer: Elcon AB
-  manufacturerUri: https://device-type.com
-  name: Elcon
-type: d3-device-type-assertion

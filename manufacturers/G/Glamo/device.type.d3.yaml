@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 34b310a1-7e6a-5f9b-bf23-6388107ee350
-  macAddresses:
-  - B8:D8:12:00:00:00/28
-  manufacturer: Glamo Inc.
-  manufacturerUri: https://device-type.com
-  name: Glamo
-type: d3-device-type-assertion

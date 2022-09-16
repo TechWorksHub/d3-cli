@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ffa4d0a4-d3df-5e5f-9d89-232beab2bcce
-  macAddresses:
-  - 74:7D:B6:00:00:00/24
-  manufacturer: Aliwei Communications, Inc
-  manufacturerUri: https://device-type.com
-  name: AliweiCo
-type: d3-device-type-assertion

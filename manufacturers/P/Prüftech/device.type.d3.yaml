@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fa5e4881-71c7-53d9-8abf-82b22d136b5a
-  macAddresses:
-  - 00:03:5F:00:00:00/24
-  manufacturer: "Pr\xFCftechnik Condition Monitoring GmbH & Co. KG"
-  manufacturerUri: https://device-type.com
-  name: "Pr\xFCftech"
-type: d3-device-type-assertion

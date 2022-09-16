@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 126f82f5-fbc8-565d-a37f-fcbf56893cba
-  macAddresses:
-  - 00:1C:27:00:00:00/24
-  manufacturer: Sunell Electronics Co.
-  manufacturerUri: https://device-type.com
-  name: SunellEl
-type: d3-device-type-assertion

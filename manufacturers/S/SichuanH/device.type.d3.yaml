@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b5fa83b9-be02-517f-ac73-1e9c4558e5ba
-  macAddresses:
-  - 64:FB:81:B0:00:00/28
-  manufacturer: Sichuan Haige Actec Communication Technology Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: SichuanH
-type: d3-device-type-assertion

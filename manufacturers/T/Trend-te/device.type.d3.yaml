@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: da18d81e-beb5-5e92-9f2b-fd4c262fee98
-  macAddresses:
-  - 74:19:F8:10:00:00/28
-  manufacturer: Trend-tech Technology Co., Limited
-  manufacturerUri: https://device-type.com
-  name: Trend-te
-type: d3-device-type-assertion

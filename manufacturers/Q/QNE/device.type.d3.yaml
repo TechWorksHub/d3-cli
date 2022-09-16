@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 648d5bb6-18f4-5dd4-84a0-6b89afd750b6
-  macAddresses:
-  - 00:50:C2:C4:60:00/36
-  manufacturer: QNE GmbH & Co. KG
-  manufacturerUri: https://device-type.com
-  name: QNE
-type: d3-device-type-assertion

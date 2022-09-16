@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0371f4b4-9d51-58cf-bbbd-192f24f5e999
-  macAddresses:
-  - 78:20:BD:00:00:00/24
-  manufacturer: Polysense (Beijing) Technologies Co. Ltd
-  manufacturerUri: https://device-type.com
-  name: Polysens
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dcbc1b2e-ca43-55ff-a283-a0600bd15051
-  macAddresses:
-  - 00:50:B1:00:00:00/24
-  manufacturer: Giddings & Lewis
-  manufacturerUri: https://device-type.com
-  name: Giddings
-type: d3-device-type-assertion

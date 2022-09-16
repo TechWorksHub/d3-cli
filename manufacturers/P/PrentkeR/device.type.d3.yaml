@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dda884da-bcdf-54cc-bd4d-9b9ea6c19d55
-  macAddresses:
-  - FC:08:77:00:00:00/24
-  manufacturer: Prentke Romich Company
-  manufacturerUri: https://device-type.com
-  name: PrentkeR
-type: d3-device-type-assertion

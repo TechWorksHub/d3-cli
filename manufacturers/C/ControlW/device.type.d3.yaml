@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 96233bed-05aa-592f-8c8e-db59bb303819
-  macAddresses:
-  - 70:B3:D5:89:B0:00/36
-  manufacturer: ControlWorks, Inc.
-  manufacturerUri: https://device-type.com
-  name: ControlW
-type: d3-device-type-assertion

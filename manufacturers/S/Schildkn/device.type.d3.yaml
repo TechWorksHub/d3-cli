@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 295f7659-8826-5a23-aac3-6203ef8836e4
-  macAddresses:
-  - 70:B3:D5:49:40:00/36
-  manufacturer: Schildknecht AG
-  manufacturerUri: https://device-type.com
-  name: Schildkn
-type: d3-device-type-assertion

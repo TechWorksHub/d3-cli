@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: da16d03e-bdcc-56f2-bb16-6ab34a80ebd7
-  macAddresses:
-  - 00:1F:10:00:00:00/24
-  manufacturer: Toledo Do Brasil Industria De Balancas Ltda
-  manufacturerUri: https://device-type.com
-  name: ToledoDo
-type: d3-device-type-assertion

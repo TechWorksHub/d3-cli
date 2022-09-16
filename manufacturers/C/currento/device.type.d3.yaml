@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9dc4dbd8-f067-540a-98fc-21e823fc4d89
-  macAddresses:
-  - 14:A7:2B:00:00:00/24
-  manufacturer: currentoptronics Pvt.Ltd
-  manufacturerUri: https://device-type.com
-  name: currento
-type: d3-device-type-assertion

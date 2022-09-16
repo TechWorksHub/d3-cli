@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6bd9f6dd-5dcc-5643-b93f-5ff1ef189b12
-  macAddresses:
-  - 00:11:7D:00:00:00/24
-  manufacturer: ZMD America, Inc.
-  manufacturerUri: https://device-type.com
-  name: ZMDAmeri
-type: d3-device-type-assertion

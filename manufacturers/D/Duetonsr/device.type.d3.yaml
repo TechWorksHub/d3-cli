@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d27429e4-e0c7-57e6-aece-6cdfe54229a6
-  macAddresses:
-  - F8:02:78:D0:00:00/28
-  manufacturer: Dueton Systems s.r.o.
-  manufacturerUri: https://device-type.com
-  name: Duetonsr
-type: d3-device-type-assertion

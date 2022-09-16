@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c3c0ca5c-274f-5a63-bed4-f9c1571b9373
-  macAddresses:
-  - B4:00:9C:00:00:00/24
-  manufacturer: CableWorld Ltd.
-  manufacturerUri: https://device-type.com
-  name: CableWor
-type: d3-device-type-assertion

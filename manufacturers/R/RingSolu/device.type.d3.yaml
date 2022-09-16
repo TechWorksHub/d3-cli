@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3c58df11-123e-5793-83ae-2dd039808002
-  macAddresses:
-  - B0:09:DA:00:00:00/24
-  manufacturer: Ring Solutions
-  manufacturerUri: https://device-type.com
-  name: RingSolu
-type: d3-device-type-assertion

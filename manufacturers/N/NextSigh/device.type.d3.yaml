@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dbcb15c2-7a99-5c89-abcf-a10f95221e94
-  macAddresses:
-  - 70:B3:D5:51:10:00/36
-  manufacturer: Next Sight srl
-  manufacturerUri: https://device-type.com
-  name: NextSigh
-type: d3-device-type-assertion

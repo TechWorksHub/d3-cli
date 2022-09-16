@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 30511c45-b03c-537d-9f62-4e7bfe4ce2e7
-  macAddresses:
-  - 1C:63:B7:00:00:00/24
-  manufacturer: OpenProducts 237 AB
-  manufacturerUri: https://device-type.com
-  name: OpenProd
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d371edec-6807-50fa-8921-e3da0dc5b503
-  macAddresses:
-  - E0:F3:79:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Vaddio
-type: d3-device-type-assertion

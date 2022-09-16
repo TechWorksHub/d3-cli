@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7f6012dd-0047-5d62-b0ec-a4933cca6ffa
-  macAddresses:
-  - C0:D3:91:C0:00:00/28
-  manufacturer: Zhinengguo technology company limited
-  manufacturerUri: https://device-type.com
-  name: Zhinengg
-type: d3-device-type-assertion

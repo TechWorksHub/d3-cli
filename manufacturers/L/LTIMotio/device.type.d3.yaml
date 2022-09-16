@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 98065618-2c3e-5bd8-9232-00ab19ced680
-  macAddresses:
-  - A4:26:55:00:00:00/24
-  manufacturer: LTI Motion (Shanghai) Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: LTIMotio
-type: d3-device-type-assertion

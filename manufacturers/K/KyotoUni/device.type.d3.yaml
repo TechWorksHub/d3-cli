@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7433d6c6-7fe9-5666-827d-706b8871831e
-  macAddresses:
-  - 58:F6:BF:00:00:00/24
-  manufacturer: Kyoto University
-  manufacturerUri: https://device-type.com
-  name: KyotoUni
-type: d3-device-type-assertion

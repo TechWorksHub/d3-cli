@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1856d191-68b7-54a6-9afa-f95a142ab04f
-  macAddresses:
-  - 6C:15:24:C0:00:00/28
-  manufacturer: Coral-Taiyi
-  manufacturerUri: https://device-type.com
-  name: Coral-Ta
-type: d3-device-type-assertion

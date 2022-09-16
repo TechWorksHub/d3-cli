@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6c530162-bde8-512c-9769-7cfc98b01dc9
-  macAddresses:
-  - 00:02:AA:00:00:00/24
-  manufacturer: PLcom Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: PLcom
-type: d3-device-type-assertion

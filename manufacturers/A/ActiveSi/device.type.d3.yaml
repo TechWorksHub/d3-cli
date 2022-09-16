@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 09f93a39-00f5-58ce-bd84-ad62c457ae94
-  macAddresses:
-  - 00:05:91:00:00:00/24
-  manufacturer: Active Silicon Ltd
-  manufacturerUri: https://device-type.com
-  name: ActiveSi
-type: d3-device-type-assertion

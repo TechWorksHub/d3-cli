@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 80618d3f-5cdd-5f65-856b-0e3903420e66
-  macAddresses:
-  - 00:07:F4:00:00:00/24
-  manufacturer: Eletex Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Eletex
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 073d3400-b1fb-570e-8398-e6a39797ab67
-  macAddresses:
-  - 00:50:C2:27:70:00/36
-  manufacturer: T/R Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: TR
-type: d3-device-type-assertion

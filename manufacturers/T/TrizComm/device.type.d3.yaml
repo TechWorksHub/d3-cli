@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9373249e-1bcb-5ec1-b710-6bfd11825117
-  macAddresses:
-  - 00:05:C6:00:00:00/24
-  manufacturer: Triz Communications
-  manufacturerUri: https://device-type.com
-  name: TrizComm
-type: d3-device-type-assertion

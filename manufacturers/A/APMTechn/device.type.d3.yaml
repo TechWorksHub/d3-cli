@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1d981d2c-97de-5550-bece-c6c765cc842d
-  macAddresses:
-  - 74:E1:4A:70:00:00/28
-  manufacturer: APM Technologies (DongGuan) Ltd
-  manufacturerUri: https://device-type.com
-  name: APMTechn
-type: d3-device-type-assertion

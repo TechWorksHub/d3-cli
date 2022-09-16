@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 37b23df7-b3d8-560d-9b06-9d29fd4e2098
-  macAddresses:
-  - 00:50:C2:A3:E0:00/36
-  manufacturer: Duevi Snc Di Mora E Santese
-  manufacturerUri: https://device-type.com
-  name: DueviSnc
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5c0da5c6-0fbb-5569-8340-6a904badeda0
-  macAddresses:
-  - 00:50:C2:EB:D0:00/36
-  manufacturer: Droplet Measurement Technologies
-  manufacturerUri: https://device-type.com
-  name: DropletM
-type: d3-device-type-assertion

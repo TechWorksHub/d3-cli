@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 14ac0998-4342-51de-99fa-9a5a74c20b08
-  macAddresses:
-  - 70:B3:D5:42:F0:00/36
-  manufacturer: Sintokogio, Ltd
-  manufacturerUri: https://device-type.com
-  name: Sintokog
-type: d3-device-type-assertion

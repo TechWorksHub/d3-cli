@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 099fc491-80a3-529d-9ef0-f04d0bb3ff31
-  macAddresses:
-  - 34:D0:B8:30:00:00/28
-  manufacturer: Tascent, Inc.
-  manufacturerUri: https://device-type.com
-  name: Tascent
-type: d3-device-type-assertion

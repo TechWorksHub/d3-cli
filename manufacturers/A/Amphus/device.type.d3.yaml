@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c2e198da-4af3-5765-9be7-ea19f444177e
-  macAddresses:
-  - 00:04:F6:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Amphus
-type: d3-device-type-assertion

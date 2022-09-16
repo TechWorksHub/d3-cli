@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d45b5234-92e2-5a00-b0eb-10ee2fcfa084
-  macAddresses:
-  - 90:09:17:00:00:00/24
-  manufacturer: Far-sighted mobile
-  manufacturerUri: https://device-type.com
-  name: Far-sigh
-type: d3-device-type-assertion

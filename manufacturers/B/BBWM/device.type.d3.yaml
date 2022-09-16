@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: be9d1d62-5d67-5d83-9820-cb36370ca20b
-  macAddresses:
-  - 00:12:4C:00:00:00/24
-  manufacturer: BBWM Corporation
-  manufacturerUri: https://device-type.com
-  name: BBWM
-type: d3-device-type-assertion

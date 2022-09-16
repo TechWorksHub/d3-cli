@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 95177f78-2a45-52e4-89e0-469f3f0ca570
-  macAddresses:
-  - 1C:27:DD:00:00:00/24
-  manufacturer: Datang Gohighsec(zhejiang)Information Technology Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: DatangGo
-type: d3-device-type-assertion

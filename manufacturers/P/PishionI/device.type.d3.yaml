@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 59db901d-4d96-5c0d-a64f-f24836679869
-  macAddresses:
-  - C8:EE:75:00:00:00/24
-  manufacturer: Pishion International Co. Ltd
-  manufacturerUri: https://device-type.com
-  name: PishionI
-type: d3-device-type-assertion

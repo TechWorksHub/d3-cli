@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ba7e0799-cb2d-5dc0-8fcd-29af9043fdbd
-  macAddresses:
-  - 00:0E:74:00:00:00/24
-  manufacturer: Solar Telecom. Tech
-  manufacturerUri: https://device-type.com
-  name: SolarTel
-type: d3-device-type-assertion

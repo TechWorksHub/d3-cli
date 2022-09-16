@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 053cd8f5-1113-5bb2-be9b-60cbd5e50325
-  macAddresses:
-  - 70:B3:D5:5E:E0:00/36
-  manufacturer: Mikrotron Mikrocomputer, Digital- und Analogtechnik GmbH
-  manufacturerUri: https://device-type.com
-  name: Mikrotro
-type: d3-device-type-assertion

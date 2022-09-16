@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2596b08b-92e2-5f77-9dab-ba111d4dfc35
-  macAddresses:
-  - 40:F3:85:A0:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Creanord
-type: d3-device-type-assertion

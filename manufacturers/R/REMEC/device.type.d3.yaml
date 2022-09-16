@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 31b02fb9-9e65-5cb4-8795-c810f7c59aa4
-  macAddresses:
-  - 00:0E:DE:00:00:00/24
-  manufacturer: REMEC, Inc.
-  manufacturerUri: https://device-type.com
-  name: REMEC
-type: d3-device-type-assertion

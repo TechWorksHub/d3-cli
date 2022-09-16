@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c3af6828-f20a-5ecc-b73b-044a883c38a3
-  macAddresses:
-  - 50:FF:99:50:00:00/28
-  manufacturer: Garrison Technology
-  manufacturerUri: https://device-type.com
-  name: Garrison
-type: d3-device-type-assertion

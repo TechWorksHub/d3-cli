@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cbcb400a-7c7e-55ed-90d2-12d9176febd0
-  macAddresses:
-  - CC:F5:5F:00:00:00/24
-  manufacturer: E Focus Instruments India Private Limited
-  manufacturerUri: https://device-type.com
-  name: EFocusIn
-type: d3-device-type-assertion

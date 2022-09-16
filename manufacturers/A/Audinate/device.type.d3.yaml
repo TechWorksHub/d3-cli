@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7389bba8-f098-51e8-94b8-df8a267b6e05
-  macAddresses:
-  - 00:1D:C1:00:00:00/24
-  manufacturer: Audinate Pty L
-  manufacturerUri: https://device-type.com
-  name: Audinate
-type: d3-device-type-assertion

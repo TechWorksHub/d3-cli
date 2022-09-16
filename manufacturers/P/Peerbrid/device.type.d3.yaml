@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1601af1b-8e63-58f1-900d-ba1b236a5b2f
-  macAddresses:
-  - 38:56:B5:00:00:00/24
-  manufacturer: Peerbridge Health Inc
-  manufacturerUri: https://device-type.com
-  name: Peerbrid
-type: d3-device-type-assertion

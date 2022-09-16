@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 20976acc-3474-5a99-bb7f-8f377caf99d9
-  macAddresses:
-  - FC:E2:3F:00:00:00/24
-  manufacturer: Clay Paky Spa
-  manufacturerUri: https://device-type.com
-  name: ClayPaky
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9d3a6e25-5245-5698-914e-9a2799ef2476
-  macAddresses:
-  - 00:0B:FA:00:00:00/24
-  manufacturer: Exemys Srl
-  manufacturerUri: https://device-type.com
-  name: Exemys
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9b766cd1-0c16-59cf-98fc-6eb78264ee6e
-  macAddresses:
-  - 98:A7:B0:00:00:00/24
-  manufacturer: Mcst Zao
-  manufacturerUri: https://device-type.com
-  name: Mcst
-type: d3-device-type-assertion

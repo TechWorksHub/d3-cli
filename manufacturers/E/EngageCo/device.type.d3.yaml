@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ab32fbec-6aa7-5e97-9ef4-2225a72162c7
-  macAddresses:
-  - 00:C0:F7:00:00:00/24
-  manufacturer: Engage Communication, Inc.
-  manufacturerUri: https://device-type.com
-  name: EngageCo
-type: d3-device-type-assertion

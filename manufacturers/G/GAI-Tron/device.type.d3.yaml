@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6dfdc8e4-3915-55fa-9914-d2b0249185a5
-  macAddresses:
-  - 00:17:AE:00:00:00/24
-  manufacturer: GAI-Tronics
-  manufacturerUri: https://device-type.com
-  name: GAI-Tron
-type: d3-device-type-assertion

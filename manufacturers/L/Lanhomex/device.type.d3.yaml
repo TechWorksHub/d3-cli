@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: af7afe02-69c6-54bf-ad46-ba0dd2b51293
-  macAddresses:
-  - 8C:C8:F4:10:00:00/28
-  manufacturer: Lanhomex Technology(Shen Zhen)Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: Lanhomex
-type: d3-device-type-assertion

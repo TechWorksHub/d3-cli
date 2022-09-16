@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c8f350f1-6b0d-5f57-bbb0-74dfa2b73695
-  macAddresses:
-  - 00:02:75:00:00:00/24
-  manufacturer: SMART Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: SMARTTec
-type: d3-device-type-assertion

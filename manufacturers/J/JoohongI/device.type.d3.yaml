@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e556ea5b-22b5-5d21-bf1a-bdf87b2cb61c
-  macAddresses:
-  - 00:50:D4:00:00:00/24
-  manufacturer: Joohong Information &
-  manufacturerUri: https://device-type.com
-  name: JoohongI
-type: d3-device-type-assertion

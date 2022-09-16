@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 592deac5-3114-5423-a21a-c2c21966148b
-  macAddresses:
-  - 00:1A:2D:00:00:00/24
-  manufacturer: The Navvo Group
-  manufacturerUri: https://device-type.com
-  name: NavvoGro
-type: d3-device-type-assertion

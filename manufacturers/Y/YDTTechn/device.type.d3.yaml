@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 50f1b408-0ddd-5c49-8c10-bc8b5845dbe8
-  macAddresses:
-  - 00:13:4C:00:00:00/24
-  manufacturer: YDT Technology International
-  manufacturerUri: https://device-type.com
-  name: YDTTechn
-type: d3-device-type-assertion

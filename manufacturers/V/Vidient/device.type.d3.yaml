@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eb72de6d-f1ea-546c-aeb7-e697f69cdd63
-  macAddresses:
-  - 00:1D:F0:00:00:00/24
-  manufacturer: Vidient Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Vidient
-type: d3-device-type-assertion

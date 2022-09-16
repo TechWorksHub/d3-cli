@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ffcb51bf-b999-5723-bcb2-69b0861a9c0f
-  macAddresses:
-  - 00:30:F6:00:00:00/24
-  manufacturer: Securelogix Corporation
-  manufacturerUri: https://device-type.com
-  name: Securelo
-type: d3-device-type-assertion

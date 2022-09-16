@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 93ab060e-a3b1-5fb7-a1ce-a777fd2a0180
-  macAddresses:
-  - C8:8E:D1:20:00:00/28
-  manufacturer: Rotronic Ag
-  manufacturerUri: https://device-type.com
-  name: Rotronic
-type: d3-device-type-assertion

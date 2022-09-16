@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ace41400-95b8-54e6-8c85-232f494bc064
-  macAddresses:
-  - 18:06:F5:00:00:00/24
-  manufacturer: RAD Data Communications, Ltd.
-  manufacturerUri: https://device-type.com
-  name: RADDataC
-type: d3-device-type-assertion

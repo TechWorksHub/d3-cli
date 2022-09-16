@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5aa87fc8-b6ab-5ff2-94cf-213fb6ca888d
-  macAddresses:
-  - 00:E0:AE:00:00:00/24
-  manufacturer: Xaqti Corporation
-  manufacturerUri: https://device-type.com
-  name: Xaqti
-type: d3-device-type-assertion

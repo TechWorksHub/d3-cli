@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b00cc4ef-069e-53cd-a382-cfda40640d9e
-  macAddresses:
-  - 3C:92:DC:00:00:00/24
-  manufacturer: Octopod Technology Co. Ltd.
-  manufacturerUri: https://device-type.com
-  name: OctopodT
-type: d3-device-type-assertion

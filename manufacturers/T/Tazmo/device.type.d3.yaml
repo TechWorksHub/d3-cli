@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c9b32c26-048d-5c05-9792-50d8de3cec70
-  macAddresses:
-  - 00:E0:D9:00:00:00/24
-  manufacturer: Tazmo Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Tazmo
-type: d3-device-type-assertion

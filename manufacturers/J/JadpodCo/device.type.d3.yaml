@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5462b29d-8eb2-5311-bbec-fe019fa507b5
-  macAddresses:
-  - 40:D8:55:12:A0:00/36
-  manufacturer: Jadpod Communication Company Limited
-  manufacturerUri: https://device-type.com
-  name: JadpodCo
-type: d3-device-type-assertion

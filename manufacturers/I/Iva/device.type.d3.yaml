@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ca143b5e-4d17-55b3-8f4b-bdd47fcdee9e
-  macAddresses:
-  - 00:30:3D:00:00:00/24
-  manufacturer: Iva Corporation
-  manufacturerUri: https://device-type.com
-  name: Iva
-type: d3-device-type-assertion

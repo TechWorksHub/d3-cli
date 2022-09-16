@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1206b234-34f0-5a21-a7fe-2a46596af99f
-  macAddresses:
-  - 00:1C:67:00:00:00/24
-  manufacturer: Pumpkin Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: PumpkinN
-type: d3-device-type-assertion

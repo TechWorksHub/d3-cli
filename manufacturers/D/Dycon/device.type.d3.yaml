@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 02b5bae0-1e40-53bd-9685-a142f5a7ddb6
-  macAddresses:
-  - F0:5D:89:00:00:00/24
-  manufacturer: Dycon Limited
-  manufacturerUri: https://device-type.com
-  name: Dycon
-type: d3-device-type-assertion

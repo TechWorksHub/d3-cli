@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d7202377-cb0a-518f-9591-6d0c229bc1ef
-  macAddresses:
-  - 44:D5:F2:10:00:00/28
-  manufacturer: Simplered Technology Ltd.
-  manufacturerUri: https://device-type.com
-  name: Simplere
-type: d3-device-type-assertion

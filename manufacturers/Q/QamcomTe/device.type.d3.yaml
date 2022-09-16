@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c79745cc-cb0f-569e-abf9-0d0bc6463147
-  macAddresses:
-  - 00:0F:74:00:00:00/24
-  manufacturer: Qamcom Technology AB
-  manufacturerUri: https://device-type.com
-  name: QamcomTe
-type: d3-device-type-assertion

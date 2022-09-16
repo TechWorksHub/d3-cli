@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2a780c98-4f91-5c7f-adc4-ab3e5d14d3eb
-  macAddresses:
-  - 28:FD:80:B0:00:00/28
-  manufacturer: Poket Hardware GmbH
-  manufacturerUri: https://device-type.com
-  name: PoketHar
-type: d3-device-type-assertion

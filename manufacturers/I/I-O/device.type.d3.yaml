@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: edd2a069-4494-5196-a119-9ea2eb7fc7cb
-  macAddresses:
-  - 00:10:F1:00:00:00/24
-  manufacturer: I-O Corporation
-  manufacturerUri: https://device-type.com
-  name: I-O
-type: d3-device-type-assertion

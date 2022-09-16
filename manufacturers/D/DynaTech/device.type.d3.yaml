@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 547dd881-ba27-5214-9d4f-00f5089a2b76
-  macAddresses:
-  - 00:1F:5E:00:00:00/24
-  manufacturer: Dyna Technology Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: DynaTech
-type: d3-device-type-assertion

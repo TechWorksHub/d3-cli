@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4cd137d2-be5e-5560-b844-99e27fb8526e
-  macAddresses:
-  - 00:14:55:00:00:00/24
-  manufacturer: Coder Electronics Corporation
-  manufacturerUri: https://device-type.com
-  name: CoderEle
-type: d3-device-type-assertion

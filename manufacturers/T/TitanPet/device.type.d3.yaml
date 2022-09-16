@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8e3b2bde-16df-5f39-b888-199fb936780a
-  macAddresses:
-  - E0:25:38:00:00:00/24
-  manufacturer: Titan Pet Products
-  manufacturerUri: https://device-type.com
-  name: TitanPet
-type: d3-device-type-assertion

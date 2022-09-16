@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3b6a6f99-932c-59e4-aa13-1bb2611b6fb1
-  macAddresses:
-  - 84:E6:29:00:00:00/24
-  manufacturer: Bluwan SA
-  manufacturerUri: https://device-type.com
-  name: Bluwan
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bf586f0f-51b5-5b68-ab66-024e666c765e
-  macAddresses:
-  - 00:40:D4:00:00:00/24
-  manufacturer: Gage Talker Corp.
-  manufacturerUri: https://device-type.com
-  name: GageTalk
-type: d3-device-type-assertion

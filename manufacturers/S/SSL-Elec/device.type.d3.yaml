@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6e41eb85-c617-552b-bd50-c2e96c828847
-  macAddresses:
-  - 70:B3:D5:03:B0:00/36
-  manufacturer: SSL - Electrical Aerospace Ground Equipment Section
-  manufacturerUri: https://device-type.com
-  name: SSL-Elec
-type: d3-device-type-assertion

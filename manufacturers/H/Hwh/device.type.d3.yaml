@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c2280b05-3237-5089-9bef-88aa1c24ded9
-  macAddresses:
-  - 24:F5:7E:00:00:00/24
-  manufacturer: Hwh Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Hwh
-type: d3-device-type-assertion

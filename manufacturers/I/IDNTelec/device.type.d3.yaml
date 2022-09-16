@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2f20dc39-b4bc-52a5-b397-dbcd19577b58
-  macAddresses:
-  - 2C:19:84:00:00:00/24
-  manufacturer: IDN Telecom, Inc.
-  manufacturerUri: https://device-type.com
-  name: IDNTelec
-type: d3-device-type-assertion

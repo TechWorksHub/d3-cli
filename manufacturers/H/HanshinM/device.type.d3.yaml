@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e6319867-3140-5655-a6ee-66d3ab8c7587
-  macAddresses:
-  - 98:02:D8:B0:00:00/28
-  manufacturer: Hanshin Medical Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: HanshinM
-type: d3-device-type-assertion

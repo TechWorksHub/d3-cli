@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9be88bf1-efa8-5160-ba4b-d216ee65b8b4
-  macAddresses:
-  - 00:80:ED:00:00:00/24
-  manufacturer: Iq Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: IqTechno
-type: d3-device-type-assertion

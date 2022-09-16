@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 41b9cdb8-3a75-5567-8450-00d73880a7f5
-  macAddresses:
-  - 00:21:90:00:00:00/24
-  manufacturer: Goliath Solutions
-  manufacturerUri: https://device-type.com
-  name: GoliathS
-type: d3-device-type-assertion

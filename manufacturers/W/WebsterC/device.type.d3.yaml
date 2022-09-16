@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 39bb5535-f590-5585-8688-6234c1e1bd02
-  macAddresses:
-  - 00:00:18:00:00:00/24
-  manufacturer: Webster Computer Corporation
-  manufacturerUri: https://device-type.com
-  name: WebsterC
-type: d3-device-type-assertion

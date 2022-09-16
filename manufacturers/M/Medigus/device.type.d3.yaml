@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 954b3cd6-e064-522a-b7ad-9041d145b058
-  macAddresses:
-  - 40:D8:55:0E:30:00/36
-  manufacturer: Medigus Ltd
-  manufacturerUri: https://device-type.com
-  name: Medigus
-type: d3-device-type-assertion

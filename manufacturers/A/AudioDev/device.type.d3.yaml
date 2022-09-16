@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f43cbd34-b615-5d71-91ab-5171f093dc7d
-  macAddresses:
-  - 00:12:53:00:00:00/24
-  manufacturer: AudioDev AB
-  manufacturerUri: https://device-type.com
-  name: AudioDev
-type: d3-device-type-assertion

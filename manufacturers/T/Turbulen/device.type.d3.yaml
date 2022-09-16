@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1699d0f8-ca90-525d-8fe7-9b5abbdc08da
-  macAddresses:
-  - C4:69:3E:00:00:00/24
-  manufacturer: Turbulence Design Inc.
-  manufacturerUri: https://device-type.com
-  name: Turbulen
-type: d3-device-type-assertion

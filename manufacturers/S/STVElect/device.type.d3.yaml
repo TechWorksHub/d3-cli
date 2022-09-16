@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fafb8d4e-cb90-5c49-8ec5-a807fe7a14b7
-  macAddresses:
-  - 40:D8:55:0E:10:00/36
-  manufacturer: STV Electronic GmbH
-  manufacturerUri: https://device-type.com
-  name: STVElect
-type: d3-device-type-assertion

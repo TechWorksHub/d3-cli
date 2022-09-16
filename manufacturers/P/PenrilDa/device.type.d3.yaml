@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 252bec4b-e998-5587-b7f4-18f586b23636
-  macAddresses:
-  - 00:80:C0:00:00:00/24
-  manufacturer: Penril Datability Networks
-  manufacturerUri: https://device-type.com
-  name: PenrilDa
-type: d3-device-type-assertion

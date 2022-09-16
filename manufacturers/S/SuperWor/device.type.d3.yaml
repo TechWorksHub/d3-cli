@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8169f48b-b17a-5115-b98a-86b8a320f978
-  macAddresses:
-  - 00:40:AC:00:00:00/24
-  manufacturer: Super Workstation, Inc.
-  manufacturerUri: https://device-type.com
-  name: SuperWor
-type: d3-device-type-assertion

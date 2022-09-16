@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1feeda4c-a7d2-5efe-9c23-0ae87527ad08
-  macAddresses:
-  - D0:AF:B6:00:00:00/24
-  manufacturer: Linktop Technology Co., LTD
-  manufacturerUri: https://device-type.com
-  name: LinktopT
-type: d3-device-type-assertion

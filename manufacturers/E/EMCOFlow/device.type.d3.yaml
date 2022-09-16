@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 55947ab4-a049-52da-b4c8-79a0a6b7a000
-  macAddresses:
-  - 00:1D:90:00:00:00/24
-  manufacturer: EMCO Flow Systems
-  manufacturerUri: https://device-type.com
-  name: EMCOFlow
-type: d3-device-type-assertion

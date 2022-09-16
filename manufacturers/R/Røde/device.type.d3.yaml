@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8bc48458-f252-5273-bc3e-c7f5cb691e6f
-  macAddresses:
-  - 74:60:4C:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: "R\xF8de"
-type: d3-device-type-assertion

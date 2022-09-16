@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5e9a40b1-d04d-5db1-88c9-ab461652a52f
-  macAddresses:
-  - 00:21:3D:00:00:00/24
-  manufacturer: Cermetek Microelectronics, Inc.
-  manufacturerUri: https://device-type.com
-  name: Cermetek
-type: d3-device-type-assertion

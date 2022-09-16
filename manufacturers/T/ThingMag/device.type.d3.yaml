@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e044b1e5-cfcb-5678-abfb-e6fb6f5ca2c7
-  macAddresses:
-  - 00:12:A4:00:00:00/24
-  manufacturer: ThingMagic, LLC
-  manufacturerUri: https://device-type.com
-  name: ThingMag
-type: d3-device-type-assertion

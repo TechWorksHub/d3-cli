@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 68970940-c45f-50d0-a16e-5194f01feebb
-  macAddresses:
-  - 00:03:05:00:00:00/24
-  manufacturer: MSC Vertriebs GmbH
-  manufacturerUri: https://device-type.com
-  name: MSCVertr
-type: d3-device-type-assertion

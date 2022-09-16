@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e565e23f-35b6-5163-b5e9-653a2e3240d7
-  macAddresses:
-  - A4:58:02:00:00:00/24
-  manufacturer: Shin-Il Tech
-  manufacturerUri: https://device-type.com
-  name: Shin-IlT
-type: d3-device-type-assertion

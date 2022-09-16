@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 85bd6407-6464-51f0-a4dd-0c25b379ce23
-  macAddresses:
-  - 00:50:C2:B2:00:00/36
-  manufacturer: Five9 Network Systems Llc
-  manufacturerUri: https://device-type.com
-  name: Five9Net
-type: d3-device-type-assertion

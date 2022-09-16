@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7b907397-52e3-5dd7-b1a8-2376823fb690
-  macAddresses:
-  - 70:B3:D5:80:B0:00/36
-  manufacturer: Fischer Block, Inc.
-  manufacturerUri: https://device-type.com
-  name: FischerB
-type: d3-device-type-assertion

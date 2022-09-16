@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0efdb762-c234-5a03-b15b-068100789342
-  macAddresses:
-  - 00:06:02:00:00:00/24
-  manufacturer: Cirkitech Electronics Co.
-  manufacturerUri: https://device-type.com
-  name: Cirkitec
-type: d3-device-type-assertion

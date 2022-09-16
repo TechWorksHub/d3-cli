@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4863aa3d-59fa-5d37-9865-baf641016d12
-  macAddresses:
-  - 00:08:D1:00:00:00/24
-  manufacturer: Karel Inc.
-  manufacturerUri: https://device-type.com
-  name: Karel
-type: d3-device-type-assertion

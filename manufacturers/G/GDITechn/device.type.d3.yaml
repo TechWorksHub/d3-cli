@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2f2e0fcf-70a1-5a6f-96f8-47026ba2e022
-  macAddresses:
-  - 70:B3:D5:8B:80:00/36
-  manufacturer: GDI Technology Inc
-  manufacturerUri: https://device-type.com
-  name: GDITechn
-type: d3-device-type-assertion

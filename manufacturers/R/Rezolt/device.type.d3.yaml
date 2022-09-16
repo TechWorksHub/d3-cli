@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4875bdd4-d11a-5cf0-8a2a-0a02832efa61
-  macAddresses:
-  - 74:6A:89:00:00:00/24
-  manufacturer: Rezolt Corporation
-  manufacturerUri: https://device-type.com
-  name: Rezolt
-type: d3-device-type-assertion

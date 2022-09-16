@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eb3d6fcd-698f-561e-a03a-e520fcea9051
-  macAddresses:
-  - 00:14:99:00:00:00/24
-  manufacturer: Helicomm Inc
-  manufacturerUri: https://device-type.com
-  name: Helicomm
-type: d3-device-type-assertion

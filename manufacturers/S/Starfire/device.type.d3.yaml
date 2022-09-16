@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9d4b5549-e771-5755-8bc7-a1795997ff15
-  macAddresses:
-  - 18:9B:A5:50:00:00/28
-  manufacturer: Starfire Industries LLC
-  manufacturerUri: https://device-type.com
-  name: Starfire
-type: d3-device-type-assertion

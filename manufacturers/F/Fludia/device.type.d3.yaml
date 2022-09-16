@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 93615a73-ad8b-599e-8a49-fe3339e8ad97
-  macAddresses:
-  - 70:B3:D5:4A:00:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Fludia
-type: d3-device-type-assertion

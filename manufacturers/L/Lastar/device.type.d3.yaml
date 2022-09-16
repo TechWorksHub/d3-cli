@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1e0f654f-a84e-5ff3-9855-28be5442748d
-  macAddresses:
-  - 00:22:9A:00:00:00/24
-  manufacturer: Lastar, Inc.
-  manufacturerUri: https://device-type.com
-  name: Lastar
-type: d3-device-type-assertion

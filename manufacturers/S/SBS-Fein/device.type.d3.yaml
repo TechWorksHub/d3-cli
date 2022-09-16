@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 518ced08-55e7-5f49-8034-a83f30de0443
-  macAddresses:
-  - 70:B3:D5:EC:D0:00/36
-  manufacturer: SBS-Feintechnik GmbH & Co. KG
-  manufacturerUri: https://device-type.com
-  name: SBS-Fein
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4a29f8e1-6e71-53f0-bdd9-6ffb522a6d16
-  macAddresses:
-  - 00:21:79:00:00:00/24
-  manufacturer: IOGEAR, Inc.
-  manufacturerUri: https://device-type.com
-  name: IOGEAR
-type: d3-device-type-assertion

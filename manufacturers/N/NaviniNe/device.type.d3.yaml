@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5cc2add1-2425-53a8-b187-349bbdc9c8a5
-  macAddresses:
-  - 00:04:6A:00:00:00/24
-  manufacturer: Navini Networks
-  manufacturerUri: https://device-type.com
-  name: NaviniNe
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ed76817c-d154-5ad6-9884-c80becff2152
-  macAddresses:
-  - 00:11:70:00:00:00/24
-  manufacturer: Gsc Srl
-  manufacturerUri: https://device-type.com
-  name: Gsc
-type: d3-device-type-assertion

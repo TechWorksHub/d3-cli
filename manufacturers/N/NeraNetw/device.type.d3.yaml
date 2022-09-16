@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 851966c6-11f3-5283-a0fc-f24469b9ec93
-  macAddresses:
-  - 00:60:C0:00:00:00/24
-  manufacturer: Nera Networks AS
-  manufacturerUri: https://device-type.com
-  name: NeraNetw
-type: d3-device-type-assertion

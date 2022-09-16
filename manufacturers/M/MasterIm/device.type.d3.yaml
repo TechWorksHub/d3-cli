@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 57abbe21-a857-5888-b432-0d0352679122
-  macAddresses:
-  - 74:8F:1B:00:00:00/24
-  manufacturer: MasterImage 3D
-  manufacturerUri: https://device-type.com
-  name: MasterIm
-type: d3-device-type-assertion

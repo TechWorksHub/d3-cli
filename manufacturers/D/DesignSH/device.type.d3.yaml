@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d4240aa0-4928-56f9-b74c-a7982b2a189e
-  macAddresses:
-  - 70:B3:D5:FD:B0:00/36
-  manufacturer: Design SHIFT
-  manufacturerUri: https://device-type.com
-  name: DesignSH
-type: d3-device-type-assertion

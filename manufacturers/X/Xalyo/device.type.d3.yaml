@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: da510219-1c86-58f8-9971-a762efca52ac
-  macAddresses:
-  - 00:0F:42:00:00:00/24
-  manufacturer: Xalyo Systems
-  manufacturerUri: https://device-type.com
-  name: Xalyo
-type: d3-device-type-assertion

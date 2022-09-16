@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5a7cbe10-daf4-5311-83c6-baa16d828445
-  macAddresses:
-  - 44:C9:A2:00:00:00/24
-  manufacturer: Greenwald Industries
-  manufacturerUri: https://device-type.com
-  name: Greenwal
-type: d3-device-type-assertion

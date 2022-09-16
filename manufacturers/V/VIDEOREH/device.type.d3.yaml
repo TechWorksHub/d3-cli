@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2f894b13-0479-50e7-b076-4bd2e119a1f4
-  macAddresses:
-  - 60:27:1C:00:00:00/24
-  manufacturer: VIDEOR E. Hartig GmbH
-  manufacturerUri: https://device-type.com
-  name: VIDEOREH
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 297c970b-c99a-593e-a572-c0c6c7575832
-  macAddresses:
-  - 38:FD:FE:C0:00:00/28
-  manufacturer: New Garden Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: NewGarde
-type: d3-device-type-assertion

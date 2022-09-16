@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fdbf6361-d0e5-5eb9-9afb-ef8ff1144bc3
-  macAddresses:
-  - 00:80:3D:00:00:00/24
-  manufacturer: Surigiken Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Surigike
-type: d3-device-type-assertion

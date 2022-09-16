@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0635a911-7e77-5298-bfc5-55baadb3323f
-  macAddresses:
-  - 7C:47:7C:90:00:00/28
-  manufacturer: DaLian Cheering Tech Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: DaLianCh
-type: d3-device-type-assertion

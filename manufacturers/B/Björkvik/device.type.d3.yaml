@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ed36205e-e61e-5058-9c78-8e315ea3490b
-  macAddresses:
-  - 78:D8:00:50:00:00/28
-  manufacturer: "Bj\xF6rkviks Consulting AB"
-  manufacturerUri: https://device-type.com
-  name: "Bj\xF6rkvik"
-type: d3-device-type-assertion

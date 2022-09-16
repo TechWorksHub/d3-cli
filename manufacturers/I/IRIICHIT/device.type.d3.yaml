@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9f75b65e-a1f4-5547-be4b-99febc659619
-  macAddresses:
-  - 00:10:F7:00:00:00/24
-  manufacturer: IRIICHI TECHNOLOGIES Inc.
-  manufacturerUri: https://device-type.com
-  name: IRIICHIT
-type: d3-device-type-assertion

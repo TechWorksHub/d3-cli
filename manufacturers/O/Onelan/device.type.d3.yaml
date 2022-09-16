@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c6533f2c-c7a2-5466-af2c-6f9c764be280
-  macAddresses:
-  - 00:80:6F:00:00:00/24
-  manufacturer: Onelan Ltd.
-  manufacturerUri: https://device-type.com
-  name: Onelan
-type: d3-device-type-assertion

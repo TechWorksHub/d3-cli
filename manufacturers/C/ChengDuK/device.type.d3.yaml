@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b1f074c3-1786-54b2-a2af-49293f36280c
-  macAddresses:
-  - 64:FB:81:E0:00:00/28
-  manufacturer: ChengDu KeChuang LongXin Sci-tech Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: ChengDuK
-type: d3-device-type-assertion

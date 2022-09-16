@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ae9bf2b3-3992-5f2d-9b20-02d7e50544ed
-  macAddresses:
-  - 40:C3:C6:00:00:00/24
-  manufacturer: SnapRoute
-  manufacturerUri: https://device-type.com
-  name: SnapRout
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6122f2ee-8c4c-57eb-9d49-2f146d4eb885
-  macAddresses:
-  - 00:80:3A:00:00:00/24
-  manufacturer: Varityper, Inc.
-  manufacturerUri: https://device-type.com
-  name: Varitype
-type: d3-device-type-assertion

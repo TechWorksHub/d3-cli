@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5de0293e-d33f-59a1-9346-cf5559219d2d
-  macAddresses:
-  - B4:4B:D6:70:00:00/28
-  manufacturer: Taizhou convergence Information technology Co.,LTD
-  manufacturerUri: https://device-type.com
-  name: Taizhouc
-type: d3-device-type-assertion

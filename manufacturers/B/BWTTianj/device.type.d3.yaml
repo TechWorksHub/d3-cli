@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 07d54fcf-e179-574a-bf0e-f3379a33355f
-  macAddresses:
-  - 40:11:75:A0:00:00/28
-  manufacturer: BWT Tianjin Ltd.
-  manufacturerUri: https://device-type.com
-  name: BWTTianj
-type: d3-device-type-assertion

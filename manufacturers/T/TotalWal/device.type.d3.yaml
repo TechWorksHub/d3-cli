@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f3c74145-b04f-5680-97af-45abc6e4badf
-  macAddresses:
-  - A4:DE:50:00:00:00/24
-  manufacturer: Total Walther GmbH
-  manufacturerUri: https://device-type.com
-  name: TotalWal
-type: d3-device-type-assertion

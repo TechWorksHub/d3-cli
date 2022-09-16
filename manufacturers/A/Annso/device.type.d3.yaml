@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 709094aa-7cbf-5010-a785-49bec1cf352a
-  macAddresses:
-  - 00:0A:02:00:00:00/24
-  manufacturer: Annso Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Annso
-type: d3-device-type-assertion

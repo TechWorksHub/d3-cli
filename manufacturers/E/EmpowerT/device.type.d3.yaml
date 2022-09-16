@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2b5b59fa-e005-5fe6-8b35-9ab300985cb9
-  macAddresses:
-  - 00:14:33:00:00:00/24
-  manufacturer: Empower Technologies(Canada) Inc.
-  manufacturerUri: https://device-type.com
-  name: EmpowerT
-type: d3-device-type-assertion

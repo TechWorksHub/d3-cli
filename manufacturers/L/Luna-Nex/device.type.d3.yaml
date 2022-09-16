@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a83b9bfd-1a4c-591c-85a6-134445face7d
-  macAddresses:
-  - 40:D8:55:16:20:00/36
-  manufacturer: Luna-Nexus
-  manufacturerUri: https://device-type.com
-  name: Luna-Nex
-type: d3-device-type-assertion

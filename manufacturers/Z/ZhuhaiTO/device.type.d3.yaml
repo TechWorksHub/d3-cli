@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1e1e50a0-0778-55a0-86f0-24c00406ae64
-  macAddresses:
-  - 80:7B:85:30:00:00/28
-  manufacturer: Zhuhai TOP Intelligence Electric Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: ZhuhaiTO
-type: d3-device-type-assertion

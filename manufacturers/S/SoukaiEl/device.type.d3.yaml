@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4cddabb2-6ba2-5d0d-b762-90a5019de57b
-  macAddresses:
-  - 40:D8:55:19:10:00/36
-  manufacturer: Soukai Electric
-  manufacturerUri: https://device-type.com
-  name: SoukaiEl
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 227f95d6-57e7-51ab-8168-be111c0ca0ce
-  macAddresses:
-  - 70:B3:D5:74:60:00/36
-  manufacturer: Smart Systems LLC
-  manufacturerUri: https://device-type.com
-  name: Smart
-type: d3-device-type-assertion

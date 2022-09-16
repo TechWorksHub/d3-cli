@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cc7ffe9c-c696-52bc-b32e-c54be9736685
-  macAddresses:
-  - 78:E9:80:00:00:00/24
-  manufacturer: RainUs Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: RainUs
-type: d3-device-type-assertion

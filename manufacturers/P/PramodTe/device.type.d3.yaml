@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a262a647-349a-5572-925a-56429d6bd69a
-  macAddresses:
-  - 34:6C:0F:00:00:00/24
-  manufacturer: Pramod Telecom Pvt. Ltd
-  manufacturerUri: https://device-type.com
-  name: PramodTe
-type: d3-device-type-assertion

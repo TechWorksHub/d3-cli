@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 89fca541-48ad-51e8-95db-ec7d5b97bc5c
-  macAddresses:
-  - 50:2A:7E:00:00:00/24
-  manufacturer: Smart electronic GmbH
-  manufacturerUri: https://device-type.com
-  name: Smartele
-type: d3-device-type-assertion

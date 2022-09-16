@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 15891f25-de95-5fee-83a2-6eac35966278
-  macAddresses:
-  - 00:50:C2:BA:90:00/36
-  manufacturer: SISS Technology Inc.
-  manufacturerUri: https://device-type.com
-  name: SISSTech
-type: d3-device-type-assertion

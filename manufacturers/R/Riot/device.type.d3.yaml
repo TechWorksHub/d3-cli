@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5fc1510e-aacf-5bc7-97f4-19d56d730c1a
-  macAddresses:
-  - 70:B3:D5:71:50:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Riot
-type: d3-device-type-assertion

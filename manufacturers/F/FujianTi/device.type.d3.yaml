@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f317a998-015e-501d-bcf7-d3c972703bad
-  macAddresses:
-  - B4:35:64:00:00:00/24
-  manufacturer: Fujian Tian Cheng Electron Science & Technical Development Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: FujianTi
-type: d3-device-type-assertion

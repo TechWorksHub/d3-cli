@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 024dedcb-08af-5c64-92bb-796b13310878
-  macAddresses:
-  - C0:A0:DE:00:00:00/24
-  manufacturer: Multi Touch Oy
-  manufacturerUri: https://device-type.com
-  name: MultiTou
-type: d3-device-type-assertion

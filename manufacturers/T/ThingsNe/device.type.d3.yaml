@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f77137a0-d5bc-58bb-a577-c501951a7b72
-  macAddresses:
-  - 70:B3:D5:7E:D0:00/36
-  manufacturer: The Things Network Foundation
-  manufacturerUri: https://device-type.com
-  name: ThingsNe
-type: d3-device-type-assertion

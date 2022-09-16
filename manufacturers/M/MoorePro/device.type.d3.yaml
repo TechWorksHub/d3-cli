@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 91af9291-fc05-53ff-8383-692ebedc7784
-  macAddresses:
-  - 00:C0:82:00:00:00/24
-  manufacturer: Moore Products Co.
-  manufacturerUri: https://device-type.com
-  name: MoorePro
-type: d3-device-type-assertion

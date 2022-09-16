@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dac82b13-d0d2-537f-b552-c5e7fc59f0b8
-  macAddresses:
-  - 0C:82:6A:00:00:00/24
-  manufacturer: Wuhan Huagong Genuine Optics Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: WuhanHua
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 01b8c63f-8aea-53c7-9b59-ee4b72a72fa8
-  macAddresses:
-  - 00:19:DD:00:00:00/24
-  manufacturer: FEI-Zyfer, Inc.
-  manufacturerUri: https://device-type.com
-  name: FEI-Zyfe
-type: d3-device-type-assertion

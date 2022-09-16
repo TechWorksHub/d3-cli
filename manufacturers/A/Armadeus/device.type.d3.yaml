@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0d007576-579d-5540-9e76-bf95cefb8777
-  macAddresses:
-  - 00:1E:AC:00:00:00/24
-  manufacturer: Armadeus Systems
-  manufacturerUri: https://device-type.com
-  name: Armadeus
-type: d3-device-type-assertion

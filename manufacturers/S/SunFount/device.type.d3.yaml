@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8dbdc08f-3d55-5020-b4ca-d26398faeb77
-  macAddresses:
-  - CC:CC:4E:00:00:00/24
-  manufacturer: Sun Fountainhead USA. Corp
-  manufacturerUri: https://device-type.com
-  name: SunFount
-type: d3-device-type-assertion

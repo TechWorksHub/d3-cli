@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 60d47974-8630-5e9f-93dd-62e0f743328b
-  macAddresses:
-  - 00:50:C2:29:A0:00/36
-  manufacturer: Packet Techniques Inc.
-  manufacturerUri: https://device-type.com
-  name: PacketTe
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 93d83d4d-0bbb-576a-9988-2f1d7b13ce3b
-  macAddresses:
-  - C8:2C:2B:10:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Galgus
-type: d3-device-type-assertion

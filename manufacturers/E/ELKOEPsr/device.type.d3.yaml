@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 32c5d4c0-b4bd-5250-850d-0cb65d81aa31
-  macAddresses:
-  - 2C:6A:6F:10:00:00/28
-  manufacturer: ELKO EP, s.r.o.
-  manufacturerUri: https://device-type.com
-  name: ELKOEPsr
-type: d3-device-type-assertion

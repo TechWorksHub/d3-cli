@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d2486d0c-9668-5974-8cd1-292fd19fb6c4
-  macAddresses:
-  - 70:B3:D5:58:10:00/36
-  manufacturer: Thermokon Sensortechnik GmbH
-  manufacturerUri: https://device-type.com
-  name: Thermoko
-type: d3-device-type-assertion

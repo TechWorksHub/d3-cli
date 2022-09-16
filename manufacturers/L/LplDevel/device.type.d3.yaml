@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b3742922-68ff-545c-9569-382d531e3152
-  macAddresses:
-  - 00:16:0C:00:00:00/24
-  manufacturer: Lpl Development S.A. De C.V
-  manufacturerUri: https://device-type.com
-  name: LplDevel
-type: d3-device-type-assertion

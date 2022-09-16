@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bd4f48e4-3fed-52b7-8bc7-39b740b9d2df
-  macAddresses:
-  - 38:A9:5F:00:00:00/24
-  manufacturer: Actifio Inc
-  manufacturerUri: https://device-type.com
-  name: Actifio
-type: d3-device-type-assertion

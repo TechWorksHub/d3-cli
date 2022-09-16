@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ebb02119-4e1f-5598-81bb-5339ca48c8e3
-  macAddresses:
-  - 28:4D:92:00:00:00/24
-  manufacturer: Luminator
-  manufacturerUri: https://device-type.com
-  name: Luminato
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4880e400-12d4-5ae0-8f02-19b35fa2dfdb
-  macAddresses:
-  - 64:34:09:00:00:00/24
-  manufacturer: BITwave Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: BITwaveP
-type: d3-device-type-assertion

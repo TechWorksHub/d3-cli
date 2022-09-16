@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bbdfbfd8-18e0-584e-8678-85ec5087d23d
-  macAddresses:
-  - 00:07:EA:00:00:00/24
-  manufacturer: Massana, Inc.
-  manufacturerUri: https://device-type.com
-  name: Massana
-type: d3-device-type-assertion

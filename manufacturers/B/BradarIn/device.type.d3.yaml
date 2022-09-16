@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 556d59dd-b959-5579-b143-60c30c6b42ec
-  macAddresses:
-  - F4:0E:11:B0:00:00/28
-  manufacturer: Bradar Industria Sa
-  manufacturerUri: https://device-type.com
-  name: BradarIn
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6f999e9d-12d1-55c5-aa60-755e3e655de6
-  macAddresses:
-  - C8:FA:84:00:00:00/24
-  manufacturer: Trusonus corp.
-  manufacturerUri: https://device-type.com
-  name: Trusonus
-type: d3-device-type-assertion

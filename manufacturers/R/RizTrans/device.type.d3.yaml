@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 479ea26b-bfb7-51a4-a1d1-f39dcb071d6f
-  macAddresses:
-  - CC:FC:6D:00:00:00/24
-  manufacturer: Riz Transmitters
-  manufacturerUri: https://device-type.com
-  name: RizTrans
-type: d3-device-type-assertion

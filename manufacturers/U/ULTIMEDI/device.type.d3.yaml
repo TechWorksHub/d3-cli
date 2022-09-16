@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fd1c35aa-6bfa-52bf-a2c5-7fe59699b81e
-  macAddresses:
-  - A4:7B:85:00:00:00/24
-  manufacturer: ULTIMEDIA Co Ltd,
-  manufacturerUri: https://device-type.com
-  name: ULTIMEDI
-type: d3-device-type-assertion

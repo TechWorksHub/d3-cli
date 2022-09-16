@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 05619882-2a91-56d7-af9b-e124d2a2cc4f
-  macAddresses:
-  - 98:06:37:B0:00:00/28
-  manufacturer: Petersime
-  manufacturerUri: https://device-type.com
-  name: Petersim
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1de50387-bb7e-5f83-ada5-66fa6fea8bd6
-  macAddresses:
-  - D4:24:93:00:00:00/24
-  manufacturer: GW Technologies Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: GWTechno
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d0db6cbc-941a-5479-96c4-5915173e3f67
-  macAddresses:
-  - 00:50:C2:AE:00:00/36
-  manufacturer: AT4 wireless.S.A
-  manufacturerUri: https://device-type.com
-  name: AT4wirel
-type: d3-device-type-assertion

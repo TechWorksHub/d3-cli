@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 666d78e4-920e-522e-acb1-846114b01b5f
-  macAddresses:
-  - 00:05:2E:00:00:00/24
-  manufacturer: Cinta Networks
-  manufacturerUri: https://device-type.com
-  name: CintaNet
-type: d3-device-type-assertion

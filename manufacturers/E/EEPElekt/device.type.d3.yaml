@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 12d59b95-44f2-539e-9125-0a0ced40f73c
-  macAddresses:
-  - 0C:81:7D:00:00:00/24
-  manufacturer: EEP Elektro-Elektronik Pranjic GmbH
-  manufacturerUri: https://device-type.com
-  name: EEPElekt
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 29cbf6a1-0558-5c4c-8cfd-5f63a3f12e5e
-  macAddresses:
-  - 00:1D:CC:00:00:00/24
-  manufacturer: Ayon Cyber Security, Inc
-  manufacturerUri: https://device-type.com
-  name: AyonCybe
-type: d3-device-type-assertion

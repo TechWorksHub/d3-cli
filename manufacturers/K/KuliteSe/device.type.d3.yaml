@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fca52376-a8af-5f84-9447-36e8fa586934
-  macAddresses:
-  - 9C:31:B6:00:00:00/24
-  manufacturer: Kulite Semiconductor Products Inc
-  manufacturerUri: https://device-type.com
-  name: KuliteSe
-type: d3-device-type-assertion

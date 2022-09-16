@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7d2e90d0-5b2b-5c52-a406-edbce379a7fb
-  macAddresses:
-  - 00:50:C2:87:00:00/36
-  manufacturer: Logel S.R.L.
-  manufacturerUri: https://device-type.com
-  name: Logel
-type: d3-device-type-assertion

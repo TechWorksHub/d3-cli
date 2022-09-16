@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 26252556-9038-5edc-94c3-007ce6a9081c
-  macAddresses:
-  - 00:1E:59:00:00:00/24
-  manufacturer: Silicon Turnkey Express, LLC
-  manufacturerUri: https://device-type.com
-  name: SiliconT
-type: d3-device-type-assertion

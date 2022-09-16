@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: edd7c6f6-9619-51ae-9fc5-039cc74b0c84
-  macAddresses:
-  - FC:D2:B6:E0:00:00/28
-  manufacturer: Univer S.p.A.
-  manufacturerUri: https://device-type.com
-  name: Univer
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: adc52ab9-09f7-5f0c-bbf3-73a129357fb5
-  macAddresses:
-  - 48:17:4C:00:00:00/24
-  manufacturer: MicroPower technologies
-  manufacturerUri: https://device-type.com
-  name: MicroPow
-type: d3-device-type-assertion

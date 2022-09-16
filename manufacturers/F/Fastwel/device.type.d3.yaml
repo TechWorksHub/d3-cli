@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 78dfda59-8b62-5cf8-86c2-70254a95e0e6
-  macAddresses:
-  - 00:08:B3:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Fastwel
-type: d3-device-type-assertion

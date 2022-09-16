@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a09aa6b6-8ea5-5ae0-a3a4-e01a95eb21ab
-  macAddresses:
-  - 00:1A:FD:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Evolis
-type: d3-device-type-assertion

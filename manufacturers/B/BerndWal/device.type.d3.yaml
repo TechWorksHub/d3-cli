@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c7ee837f-cc7c-5f98-b68e-c0c5b67e8331
-  macAddresses:
-  - E8:78:29:D0:00:00/28
-  manufacturer: Bernd Walter Computer Technology
-  manufacturerUri: https://device-type.com
-  name: BerndWal
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 07a634eb-b450-55b7-a5d7-75731d88d479
-  macAddresses:
-  - 00:13:27:00:00:00/24
-  manufacturer: Data Acquisitions limited
-  manufacturerUri: https://device-type.com
-  name: DataAcqu
-type: d3-device-type-assertion

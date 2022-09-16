@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1270bf82-ecf9-5ba4-a362-61f1b458db87
-  macAddresses:
-  - 00:06:B9:00:00:00/24
-  manufacturer: A5TEK Corp.
-  manufacturerUri: https://device-type.com
-  name: A5TEK
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8b501658-70fc-53b7-87c4-505e361ea732
-  macAddresses:
-  - 00:02:A6:00:00:00/24
-  manufacturer: Effinet Systems Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Effinet
-type: d3-device-type-assertion

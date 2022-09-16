@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9217197a-8a49-5994-ba44-fc205de973a2
-  macAddresses:
-  - 00:06:22:00:00:00/24
-  manufacturer: Chung Fu Chen Yeh Enterprise Corp.
-  manufacturerUri: https://device-type.com
-  name: ChungFuC
-type: d3-device-type-assertion

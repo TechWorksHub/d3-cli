@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 293eb454-8b6d-57a7-be99-e81a6919e049
-  macAddresses:
-  - 00:60:E7:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Randata
-type: d3-device-type-assertion

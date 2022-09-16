@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8fad9c2e-daef-5162-827c-5fd6cb2e0755
-  macAddresses:
-  - 00:0A:1F:00:00:00/24
-  manufacturer: ART WARE Telecommunication Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: ARTWARET
-type: d3-device-type-assertion

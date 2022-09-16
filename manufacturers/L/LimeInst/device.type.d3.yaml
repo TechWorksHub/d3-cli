@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: abfae88c-3f5f-553e-8e2b-e9c5e04c563f
-  macAddresses:
-  - A4:BB:AF:00:00:00/24
-  manufacturer: Lime Instruments
-  manufacturerUri: https://device-type.com
-  name: LimeInst
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a45b567b-f7f6-5a4a-86a5-aa8370d71582
-  macAddresses:
-  - 00:20:BE:00:00:00/24
-  manufacturer: Lan Access Corp.
-  manufacturerUri: https://device-type.com
-  name: LanAcces
-type: d3-device-type-assertion

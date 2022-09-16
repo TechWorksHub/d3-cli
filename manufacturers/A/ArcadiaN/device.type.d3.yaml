@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 40c48edc-0905-51cd-b51d-ad125b06017b
-  macAddresses:
-  - D8:08:F5:00:00:00/24
-  manufacturer: Arcadia Networks Co. Ltd.
-  manufacturerUri: https://device-type.com
-  name: ArcadiaN
-type: d3-device-type-assertion

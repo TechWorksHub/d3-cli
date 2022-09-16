@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a459ebce-2131-59a0-b523-58d5fbe0d488
-  macAddresses:
-  - 94:81:A4:00:00:00/24
-  manufacturer: Azuray Technologies
-  manufacturerUri: https://device-type.com
-  name: AzurayTe
-type: d3-device-type-assertion

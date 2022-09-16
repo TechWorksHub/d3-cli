@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 49cee31e-64cb-5936-b5b4-c4c30299687e
-  macAddresses:
-  - 00:18:43:00:00:00/24
-  manufacturer: Dawevision Ltd
-  manufacturerUri: https://device-type.com
-  name: Dawevisi
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 365a3667-843f-5f07-9330-434c707a499e
-  macAddresses:
-  - 00:50:C2:30:B0:00/36
-  manufacturer: VX Technologies Inc.
-  manufacturerUri: https://device-type.com
-  name: VXTechno
-type: d3-device-type-assertion

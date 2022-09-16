@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6cff59c2-11d7-5f81-8d36-b0dd3f4132da
-  macAddresses:
-  - 00:11:A1:00:00:00/24
-  manufacturer: Vision Netware Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: VisionNe
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 76621a33-5c2d-5aad-9cb0-047f73072d93
-  macAddresses:
-  - 08:00:73:00:00:00/24
-  manufacturer: Tecmar Inc.
-  manufacturerUri: https://device-type.com
-  name: Tecmar
-type: d3-device-type-assertion

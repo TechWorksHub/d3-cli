@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 777145ba-008c-5734-94d6-6d7bb8e29dd8
-  macAddresses:
-  - 00:24:6E:00:00:00/24
-  manufacturer: Phihong USA Corp.
-  manufacturerUri: https://device-type.com
-  name: PhihongU
-type: d3-device-type-assertion

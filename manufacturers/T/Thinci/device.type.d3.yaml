@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d43ab1c8-99cd-5372-82d7-a2a7f7f001b9
-  macAddresses:
-  - C8:63:14:80:00:00/28
-  manufacturer: Thinci, Inc.
-  manufacturerUri: https://device-type.com
-  name: Thinci
-type: d3-device-type-assertion

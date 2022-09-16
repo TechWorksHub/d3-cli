@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7bdb78ba-7cc9-5248-9399-33e9caa61952
-  macAddresses:
-  - B4:B2:65:00:00:00/24
-  manufacturer: Daeho I&T
-  manufacturerUri: https://device-type.com
-  name: DaehoI&T
-type: d3-device-type-assertion

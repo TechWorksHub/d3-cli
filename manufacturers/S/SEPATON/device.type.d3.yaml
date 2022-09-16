@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ee28c6ae-82bc-5288-a1da-55bf7a8b2f8f
-  macAddresses:
-  - 00:06:8D:00:00:00/24
-  manufacturer: SEPATON, Inc.
-  manufacturerUri: https://device-type.com
-  name: SEPATON
-type: d3-device-type-assertion

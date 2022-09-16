@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3c7b78d5-d4b0-50ff-bb23-019453b88251
-  macAddresses:
-  - 70:B3:D5:D5:20:00/36
-  manufacturer: Sensoronic Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: Sensoron
-type: d3-device-type-assertion

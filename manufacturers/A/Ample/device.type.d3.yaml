@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 645cdcf0-64e4-5cfb-8594-48784c19a3a3
-  macAddresses:
-  - E8:5B:B7:00:00:00/24
-  manufacturer: Ample Systems Inc.
-  manufacturerUri: https://device-type.com
-  name: Ample
-type: d3-device-type-assertion

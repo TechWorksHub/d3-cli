@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fd8b553f-e6ab-5b81-9da2-23a30119921f
-  macAddresses:
-  - 00:50:C2:E1:20:00/36
-  manufacturer: Kago Electronics BV
-  manufacturerUri: https://device-type.com
-  name: KagoElec
-type: d3-device-type-assertion

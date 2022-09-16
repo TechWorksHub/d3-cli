@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 93ca0991-ecfd-5bd9-8ffe-e821c594fd88
-  macAddresses:
-  - 00:26:A5:00:00:00/24
-  manufacturer: Microrobot.Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: Microrob
-type: d3-device-type-assertion

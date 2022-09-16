@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9870507c-7106-5789-a9dc-4a3214afd9f1
-  macAddresses:
-  - 1C:A0:EF:C0:00:00/28
-  manufacturer: LLC "Gagar.In"
-  manufacturerUri: https://device-type.com
-  name: GagarIn
-type: d3-device-type-assertion

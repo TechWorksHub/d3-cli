@@ -1,0 +1,12 @@
+type: d3-device-type-assertion
+credentialSubject:
+  # unique identifiers
+  id: 7c382e16-532f-43a4-800a-1d33df235024
+
+  # general manufacturer information
+  manufacturer: amazon
+  manufacturerUri: https://www.amazon.co.uk
+
+  # specific information
+  tags: "#tv"
+  name: "Amazon Fire TV"

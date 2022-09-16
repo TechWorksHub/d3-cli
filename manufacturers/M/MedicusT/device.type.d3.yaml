@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cd205a42-6597-5015-ba1a-a729ee9a02f1
-  macAddresses:
-  - 84:E0:F4:10:00:00/28
-  manufacturer: MedicusTek Inc.
-  manufacturerUri: https://device-type.com
-  name: MedicusT
-type: d3-device-type-assertion

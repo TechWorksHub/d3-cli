@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f6e73610-4762-5018-98b6-9699adc70219
-  macAddresses:
-  - 04:63:E0:00:00:00/24
-  manufacturer: Nome Oy
-  manufacturerUri: https://device-type.com
-  name: Nome
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 33e569c8-43ed-5eb4-a1cd-f549cdbce7fc
-  macAddresses:
-  - 70:B3:D5:B4:60:00/36
-  manufacturer: FAS Electronics (Fujian) Co.,LTD.
-  manufacturerUri: https://device-type.com
-  name: FASElect
-type: d3-device-type-assertion

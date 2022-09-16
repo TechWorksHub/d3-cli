@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e184966f-50d6-53de-8e3d-1a29f812a81f
-  macAddresses:
-  - 00:0E:93:00:00:00/24
-  manufacturer: "Mil\xE9nio 3 Sistemas Electr\xF3nicos, Lda."
-  manufacturerUri: https://device-type.com
-  name: "Mil\xE9nio3"
-type: d3-device-type-assertion

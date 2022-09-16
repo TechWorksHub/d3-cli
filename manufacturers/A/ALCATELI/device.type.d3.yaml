@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e293daa4-40a9-5c60-8263-6fa634e4f7a9
-  macAddresses:
-  - 00:20:60:00:00:00/24
-  manufacturer: ALCATEL ITALIA S.p.A.
-  manufacturerUri: https://device-type.com
-  name: ALCATELI
-type: d3-device-type-assertion

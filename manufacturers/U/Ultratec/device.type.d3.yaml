@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9ba4a971-8a96-59ec-8446-45dd9d7f3d5d
-  macAddresses:
-  - 00:1B:C4:00:00:00/24
-  manufacturer: Ultratec, Inc.
-  manufacturerUri: https://device-type.com
-  name: Ultratec
-type: d3-device-type-assertion

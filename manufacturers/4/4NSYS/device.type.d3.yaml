@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f9b2fef8-f7ee-51bd-a276-142a1062db32
-  macAddresses:
-  - 00:18:7B:00:00:00/24
-  manufacturer: 4NSYS Co. Ltd.
-  manufacturerUri: https://device-type.com
-  name: 4NSYS
-type: d3-device-type-assertion

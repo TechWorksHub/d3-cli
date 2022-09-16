@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 77d2fa7b-fbb9-5f11-ad4e-404d1570eebc
-  macAddresses:
-  - 34:00:8A:40:00:00/28
-  manufacturer: Fotonic i Norden AB
-  manufacturerUri: https://device-type.com
-  name: Fotonici
-type: d3-device-type-assertion

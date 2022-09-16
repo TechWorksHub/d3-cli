@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: de52c8d5-8b0a-5627-a509-bba7d49737f7
-  macAddresses:
-  - 50:D2:13:00:00:00/24
-  manufacturer: CviLux Corporation
-  manufacturerUri: https://device-type.com
-  name: CviLux
-type: d3-device-type-assertion

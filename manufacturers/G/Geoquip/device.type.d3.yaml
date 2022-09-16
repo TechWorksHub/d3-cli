@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b203abcc-b7e8-556b-96ff-5095c1f40133
-  macAddresses:
-  - 00:50:C2:24:00:00/36
-  manufacturer: Geoquip Ltd
-  manufacturerUri: https://device-type.com
-  name: Geoquip
-type: d3-device-type-assertion

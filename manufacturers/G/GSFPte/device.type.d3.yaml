@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4d74b949-6da9-5bfc-a883-78721efeeec5
-  macAddresses:
-  - 70:B3:D5:B9:80:00/36
-  manufacturer: GSF Corporation Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: GSFPte
-type: d3-device-type-assertion

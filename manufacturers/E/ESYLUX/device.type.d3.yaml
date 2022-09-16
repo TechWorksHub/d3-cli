@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6f5e540e-68de-5a39-ab6d-4300c7d73ad3
-  macAddresses:
-  - 50:D0:65:00:00:00/24
-  manufacturer: ESYLUX GmbH
-  manufacturerUri: https://device-type.com
-  name: ESYLUX
-type: d3-device-type-assertion

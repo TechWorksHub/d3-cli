@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3c5919c2-ad73-58e5-be7c-6ecfd3947f56
-  macAddresses:
-  - E8:E0:8F:00:00:00/24
-  manufacturer: Gravotech Marking Sas
-  manufacturerUri: https://device-type.com
-  name: Gravotec
-type: d3-device-type-assertion

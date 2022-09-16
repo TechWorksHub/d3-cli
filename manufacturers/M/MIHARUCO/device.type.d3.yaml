@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 959b31cd-867d-55fa-8631-24b9db8bcdbf
-  macAddresses:
-  - 00:90:DD:00:00:00/24
-  manufacturer: MIHARU COMMUNICATIONS Inc
-  manufacturerUri: https://device-type.com
-  name: MIHARUCO
-type: d3-device-type-assertion

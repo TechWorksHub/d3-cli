@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 97f196f7-e5f2-5b2f-a899-ddf3f08484df
-  macAddresses:
-  - 00:50:C2:3B:20:00/36
-  manufacturer: Tennessee Valley Authority
-  manufacturerUri: https://device-type.com
-  name: Tennesse
-type: d3-device-type-assertion

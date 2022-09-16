@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: caafdfab-7423-52e0-99aa-a926a9a2ee2f
-  macAddresses:
-  - FA:66:73:00:00:00/24
-  manufacturer: Nells Electronic Systems (Nes)
-  manufacturerUri: https://device-type.com
-  name: NellsEle
-type: d3-device-type-assertion

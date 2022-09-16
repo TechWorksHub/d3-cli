@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5e845c50-81c3-5ea5-9bdb-c1f5e4ad23c4
-  macAddresses:
-  - 00:24:86:00:00:00/24
-  manufacturer: DesignArt Networks
-  manufacturerUri: https://device-type.com
-  name: DesignAr
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8848f049-6a8f-535f-a853-16a6d1c7fd3f
-  macAddresses:
-  - 70:B3:D5:9A:A0:00/36
-  manufacturer: Tecsys do Brasil Industrial Ltda
-  manufacturerUri: https://device-type.com
-  name: Tecsysdo
-type: d3-device-type-assertion

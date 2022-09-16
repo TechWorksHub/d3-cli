@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 33566bc2-34ca-5a68-ab9f-10733af17e2e
-  macAddresses:
-  - 58:3C:C6:00:00:00/24
-  manufacturer: Omneality Ltd.
-  manufacturerUri: https://device-type.com
-  name: Omnealit
-type: d3-device-type-assertion

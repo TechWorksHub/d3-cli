@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c40fcee4-d0e5-5709-a9a2-11024e32c371
-  macAddresses:
-  - 00:22:12:00:00:00/24
-  manufacturer: CAI Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: CAINetwo
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 68cf6452-fc78-59fa-81c7-711db50aa7ef
-  macAddresses:
-  - 94:1D:1C:00:00:00/24
-  manufacturer: TLab West Systems AB
-  manufacturerUri: https://device-type.com
-  name: TLabWest
-type: d3-device-type-assertion

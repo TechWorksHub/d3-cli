@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a94efd05-9667-5f25-b97e-1803437fafb1
-  macAddresses:
-  - 00:08:D0:00:00:00/24
-  manufacturer: Musashi Engineering Co., LTD.
-  manufacturerUri: https://device-type.com
-  name: MusashiE
-type: d3-device-type-assertion

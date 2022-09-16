@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b51f6813-f9c9-5a4e-a5fd-e413da1b7e58
-  macAddresses:
-  - 00:14:42:00:00:00/24
-  manufacturer: Atto Corporation
-  manufacturerUri: https://device-type.com
-  name: Atto
-type: d3-device-type-assertion

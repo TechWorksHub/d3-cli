@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 423f489d-c0c9-55ac-9ce2-83bdbc8643d6
-  macAddresses:
-  - 94:67:7E:00:00:00/24
-  manufacturer: Belden India Private Limited
-  manufacturerUri: https://device-type.com
-  name: BeldenIn
-type: d3-device-type-assertion

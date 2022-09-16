@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1b68ad79-c3a6-531b-821d-c9f37bf3300a
-  macAddresses:
-  - 00:23:91:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Maxian
-type: d3-device-type-assertion

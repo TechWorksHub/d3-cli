@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f23636c9-1aef-5b69-945e-1b70eec3899e
-  macAddresses:
-  - AC:CB:09:00:00:00/24
-  manufacturer: Hefcom Metering (Pty) Ltd
-  manufacturerUri: https://device-type.com
-  name: HefcomMe
-type: d3-device-type-assertion

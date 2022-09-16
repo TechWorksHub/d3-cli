@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e1910dca-c2b9-546b-8eac-1d0791610cc5
-  macAddresses:
-  - 24:B8:8C:00:00:00/24
-  manufacturer: Crenus Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: Crenus
-type: d3-device-type-assertion

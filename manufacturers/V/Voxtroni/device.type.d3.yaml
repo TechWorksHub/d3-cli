@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 40958a37-639c-5a40-acca-1aaac806e528
-  macAddresses:
-  - 24:93:CA:00:00:00/24
-  manufacturer: Voxtronic Austria
-  manufacturerUri: https://device-type.com
-  name: Voxtroni
-type: d3-device-type-assertion

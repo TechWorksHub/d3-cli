@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c97a3377-8f38-519a-987d-343c59d1fcbc
-  macAddresses:
-  - 3C:CE:15:00:00:00/24
-  manufacturer: Mercedes-Benz USA, LLC
-  manufacturerUri: https://device-type.com
-  name: Mercedes
-type: d3-device-type-assertion

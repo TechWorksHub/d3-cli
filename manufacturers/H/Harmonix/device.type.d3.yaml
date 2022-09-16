@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7e059adc-c9ff-55c5-aeed-71edc6658829
-  macAddresses:
-  - 00:30:30:00:00:00/24
-  manufacturer: Harmonix Corporation
-  manufacturerUri: https://device-type.com
-  name: Harmonix
-type: d3-device-type-assertion

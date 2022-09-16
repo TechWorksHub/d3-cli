@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d3565c53-3224-561d-89a4-603233906ebd
-  macAddresses:
-  - E8:2E:0C:00:00:00/24
-  manufacturer: NETINT Technologies Inc.
-  manufacturerUri: https://device-type.com
-  name: NETINTTe
-type: d3-device-type-assertion

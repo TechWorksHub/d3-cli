@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d85032d0-2d2c-573f-a14f-9463657f9b39
-  macAddresses:
-  - 2A:FD:6A:00:00:00/24
-  manufacturer: Charter Communications
-  manufacturerUri: https://device-type.com
-  name: CharterC
-type: d3-device-type-assertion

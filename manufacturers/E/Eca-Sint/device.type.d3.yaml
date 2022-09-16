@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4ceb396e-3949-573e-bb42-f4dafc029427
-  macAddresses:
-  - 00:15:A1:00:00:00/24
-  manufacturer: Eca-Sinters
-  manufacturerUri: https://device-type.com
-  name: Eca-Sint
-type: d3-device-type-assertion

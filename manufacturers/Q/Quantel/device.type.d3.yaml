@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4f12e842-6cc0-59d4-bb97-274b87ac94aa
-  macAddresses:
-  - 00:80:F5:00:00:00/24
-  manufacturer: Quantel Ltd
-  manufacturerUri: https://device-type.com
-  name: Quantel
-type: d3-device-type-assertion

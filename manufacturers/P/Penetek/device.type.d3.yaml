@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 04043309-d5d6-50a6-8d76-42fe297a4494
-  macAddresses:
-  - B8:CD:93:00:00:00/24
-  manufacturer: Penetek, Inc
-  manufacturerUri: https://device-type.com
-  name: Penetek
-type: d3-device-type-assertion

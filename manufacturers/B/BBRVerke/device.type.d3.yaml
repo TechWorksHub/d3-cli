@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 80e255b3-be8f-5c48-804e-37033fbb8d93
-  macAddresses:
-  - 70:B3:D5:AE:A0:00/36
-  manufacturer: BBR Verkehrstechnik GmbH
-  manufacturerUri: https://device-type.com
-  name: BBRVerke
-type: d3-device-type-assertion

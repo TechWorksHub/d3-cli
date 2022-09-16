@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 74938522-5a86-523e-98d7-4c96b56572aa
-  macAddresses:
-  - BC:C3:1B:00:00:00/24
-  manufacturer: Kygo Life A
-  manufacturerUri: https://device-type.com
-  name: KygoLife
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cf37e25b-71f0-5ce6-b219-1ab50f604ce4
-  macAddresses:
-  - D8:44:5C:00:00:00/24
-  manufacturer: DEV Tecnologia Ind Com Man Eq LTDA
-  manufacturerUri: https://device-type.com
-  name: DEVTecno
-type: d3-device-type-assertion

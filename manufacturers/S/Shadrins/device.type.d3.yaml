@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 09949f25-14c7-5706-8276-bae65fcfba84
-  macAddresses:
-  - 00:50:C2:8B:60:00/36
-  manufacturer: Shadrinskiy Telefonny Zavod
-  manufacturerUri: https://device-type.com
-  name: Shadrins
-type: d3-device-type-assertion

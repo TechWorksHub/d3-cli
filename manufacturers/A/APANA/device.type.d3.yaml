@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e037ebc0-f5d2-57fe-bfb3-962c305edacf
-  macAddresses:
-  - 18:9B:A5:90:00:00/28
-  manufacturer: APANA Inc.
-  manufacturerUri: https://device-type.com
-  name: APANA
-type: d3-device-type-assertion

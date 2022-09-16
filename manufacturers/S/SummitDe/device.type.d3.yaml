@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 20973fba-02b8-5d4b-8791-b7f020dd90ec
-  macAddresses:
-  - 00:50:C2:51:00:00/36
-  manufacturer: Summit Developmen
-  manufacturerUri: https://device-type.com
-  name: SummitDe
-type: d3-device-type-assertion

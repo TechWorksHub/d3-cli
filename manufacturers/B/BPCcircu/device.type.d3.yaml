@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 29074327-707c-5e30-b92b-6598d35f318f
-  macAddresses:
-  - 00:50:C2:A8:10:00/36
-  manufacturer: BPC circuits Ltd
-  manufacturerUri: https://device-type.com
-  name: BPCcircu
-type: d3-device-type-assertion

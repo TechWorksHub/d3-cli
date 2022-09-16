@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: be2394e9-d288-53ce-b2e9-56791d5e3cb9
-  macAddresses:
-  - 70:B3:D5:C2:90:00/36
-  manufacturer: Softland India Ltd
-  manufacturerUri: https://device-type.com
-  name: Softland
-type: d3-device-type-assertion

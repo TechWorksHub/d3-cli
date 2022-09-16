@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 921107e4-ba20-582a-bfe6-98adb3980d30
-  macAddresses:
-  - 00:1B:26:00:00:00/24
-  manufacturer: RON-Telecom ZAO
-  manufacturerUri: https://device-type.com
-  name: RON-Tele
-type: d3-device-type-assertion

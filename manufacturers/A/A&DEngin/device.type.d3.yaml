@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8016e530-034a-540d-9578-aca7b4e2be2a
-  macAddresses:
-  - 8C:53:F7:00:00:00/24
-  manufacturer: A&D Engineering Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: A&DEngin
-type: d3-device-type-assertion

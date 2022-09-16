@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ec43e813-3c42-5431-ad1c-4343fdb7426e
-  macAddresses:
-  - 00:05:72:00:00:00/24
-  manufacturer: Deonet Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Deonet
-type: d3-device-type-assertion

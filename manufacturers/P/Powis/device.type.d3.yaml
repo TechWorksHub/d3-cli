@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 45e59363-84fa-5514-b300-1f53bdf55947
-  macAddresses:
-  - 00:50:C2:63:B0:00/36
-  manufacturer: Powis Corporation
-  manufacturerUri: https://device-type.com
-  name: Powis
-type: d3-device-type-assertion

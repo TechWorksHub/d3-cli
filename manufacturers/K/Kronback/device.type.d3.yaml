@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4a12194e-8393-50e9-b023-4fca814663f1
-  macAddresses:
-  - 00:1F:59:00:00:00/24
-  manufacturer: Kronback Tracers
-  manufacturerUri: https://device-type.com
-  name: Kronback
-type: d3-device-type-assertion

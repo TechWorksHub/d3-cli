@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 035cde58-e3f6-525b-a747-cb387cefe7b0
-  macAddresses:
-  - 00:60:A9:00:00:00/24
-  manufacturer: Gesytec Mbh
-  manufacturerUri: https://device-type.com
-  name: GesytecM
-type: d3-device-type-assertion

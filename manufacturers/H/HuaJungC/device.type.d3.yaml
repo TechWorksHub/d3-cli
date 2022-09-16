@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 006c5ed6-f506-5a44-9807-cf75eb0d6596
-  macAddresses:
-  - 00:11:E2:00:00:00/24
-  manufacturer: Hua Jung Components Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: HuaJungC
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f83c1894-3ecf-55f3-87e8-2474687ba0a5
-  macAddresses:
-  - 80:16:B7:00:00:00/24
-  manufacturer: Brunel University
-  manufacturerUri: https://device-type.com
-  name: BrunelUn
-type: d3-device-type-assertion

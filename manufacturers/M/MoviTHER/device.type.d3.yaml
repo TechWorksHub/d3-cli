@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2dc2147b-5bfe-5f71-9474-132b5952b0c1
-  macAddresses:
-  - 70:B3:D5:69:40:00/36
-  manufacturer: MoviTHERM
-  manufacturerUri: https://device-type.com
-  name: MoviTHER
-type: d3-device-type-assertion

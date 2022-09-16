@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0456d26a-0f8d-5605-8a83-3d8cea11a843
-  macAddresses:
-  - 00:50:C2:2A:40:00/36
-  manufacturer: Xipher Embedded Networking
-  manufacturerUri: https://device-type.com
-  name: XipherEm
-type: d3-device-type-assertion

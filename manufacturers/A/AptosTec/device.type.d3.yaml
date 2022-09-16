@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 150405a8-7c91-5472-8e45-f71cb54b94fe
-  macAddresses:
-  - 94:B9:B4:00:00:00/24
-  manufacturer: Aptos Technology
-  manufacturerUri: https://device-type.com
-  name: AptosTec
-type: d3-device-type-assertion

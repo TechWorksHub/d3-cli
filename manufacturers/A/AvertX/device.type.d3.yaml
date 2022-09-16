@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d53b9e53-694b-5d9a-a4a6-197a2a17b96c
-  macAddresses:
-  - 4C:91:7A:B0:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: AvertX
-type: d3-device-type-assertion

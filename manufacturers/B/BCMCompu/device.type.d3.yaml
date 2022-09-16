@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9f905699-8c90-507d-a2b0-508bea95a1b4
-  macAddresses:
-  - 00:02:6B:00:00:00/24
-  manufacturer: BCM Computers Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: BCMCompu
-type: d3-device-type-assertion

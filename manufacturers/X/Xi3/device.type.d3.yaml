@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3be8941c-ec65-57f1-a0e6-eb051033e965
-  macAddresses:
-  - F0:AE:51:00:00:00/24
-  manufacturer: Xi3 Corp
-  manufacturerUri: https://device-type.com
-  name: Xi3
-type: d3-device-type-assertion

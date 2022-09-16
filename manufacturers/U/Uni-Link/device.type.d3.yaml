@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 54ae0cb2-0549-568e-963c-2355e0f84157
-  macAddresses:
-  - 00:93:63:00:00:00/24
-  manufacturer: Uni-Link Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Uni-Link
-type: d3-device-type-assertion

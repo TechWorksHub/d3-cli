@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 86258d63-a127-51fc-bce7-4f13de17e0e6
-  macAddresses:
-  - 50:B6:95:00:00:00/24
-  manufacturer: Micropoint Biotechnologies,Inc.
-  manufacturerUri: https://device-type.com
-  name: Micropoi
-type: d3-device-type-assertion

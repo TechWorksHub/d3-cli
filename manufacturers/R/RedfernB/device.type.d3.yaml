@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a3b261fc-5fa2-59d9-9e75-5f229208012f
-  macAddresses:
-  - 00:03:F0:00:00:00/24
-  manufacturer: Redfern Broadband Networks
-  manufacturerUri: https://device-type.com
-  name: RedfernB
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a944c49d-8bf3-5250-8efd-d1934fff2da3
-  macAddresses:
-  - 00:08:5E:00:00:00/24
-  manufacturer: Pco Ag
-  manufacturerUri: https://device-type.com
-  name: Pco
-type: d3-device-type-assertion

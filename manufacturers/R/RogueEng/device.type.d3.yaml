@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d8393911-b3a2-53bf-8033-f1c248f89c87
-  macAddresses:
-  - 00:50:C2:92:00:00/36
-  manufacturer: Rogue Engineering Inc.
-  manufacturerUri: https://device-type.com
-  name: RogueEng
-type: d3-device-type-assertion

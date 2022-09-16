@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3f88de63-415e-5292-8ebf-acb2edba36b0
-  macAddresses:
-  - 00:05:8B:00:00:00/24
-  manufacturer: IPmental, Inc.
-  manufacturerUri: https://device-type.com
-  name: IPmental
-type: d3-device-type-assertion

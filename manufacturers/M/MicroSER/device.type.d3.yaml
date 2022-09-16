@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a80d4073-58ca-5974-a5b9-5ac44aad1c95
-  macAddresses:
-  - 40:D5:59:00:00:00/24
-  manufacturer: Micro S.E.R.I.
-  manufacturerUri: https://device-type.com
-  name: MicroSER
-type: d3-device-type-assertion

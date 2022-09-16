@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9da75e59-6ed6-588d-af52-19cbee8f61f0
-  macAddresses:
-  - 00:26:40:00:00:00/24
-  manufacturer: Baustem Broadband Technologies, Ltd.
-  manufacturerUri: https://device-type.com
-  name: BaustemB
-type: d3-device-type-assertion

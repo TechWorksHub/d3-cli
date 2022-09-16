@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 85aa935f-55ce-5b71-b65b-176cd6e5fe6d
-  macAddresses:
-  - 00:D0:CD:00:00:00/24
-  manufacturer: Atan Technology Inc.
-  manufacturerUri: https://device-type.com
-  name: AtanTech
-type: d3-device-type-assertion

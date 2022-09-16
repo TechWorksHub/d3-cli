@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6947574d-d844-5f7b-8ce0-292c2ca230e6
-  macAddresses:
-  - 00:50:C2:7E:70:00/36
-  manufacturer: V2Green, Inc.
-  manufacturerUri: https://device-type.com
-  name: V2Green
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1ee599fa-1241-5414-94e7-5dc3d1f68284
-  macAddresses:
-  - 00:40:74:00:00:00/24
-  manufacturer: Cable And Wireless
-  manufacturerUri: https://device-type.com
-  name: CableAnd
-type: d3-device-type-assertion

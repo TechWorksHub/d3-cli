@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3911d804-d584-5953-ae82-5e0ef46d8936
-  macAddresses:
-  - 74:32:C2:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Kyolis
-type: d3-device-type-assertion

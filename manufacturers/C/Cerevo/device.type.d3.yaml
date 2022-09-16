@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 89be6c80-cc0d-5bad-9c4c-03d8a4339be9
-  macAddresses:
-  - 74:E1:4A:10:00:00/28
-  manufacturer: Cerevo Inc.
-  manufacturerUri: https://device-type.com
-  name: Cerevo
-type: d3-device-type-assertion

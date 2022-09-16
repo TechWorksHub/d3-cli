@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d5359b4a-8bd6-5b0b-a7b0-c6422ebfcb4f
-  macAddresses:
-  - AC:41:22:00:00:00/24
-  manufacturer: Eclipse Electronic Systems Inc.
-  manufacturerUri: https://device-type.com
-  name: EclipseE
-type: d3-device-type-assertion

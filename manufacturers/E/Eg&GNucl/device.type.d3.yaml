@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bd5c31a6-9379-5266-9f79-1a198d979004
-  macAddresses:
-  - 00:A0:3C:00:00:00/24
-  manufacturer: Eg&G Nuclear Instruments
-  manufacturerUri: https://device-type.com
-  name: Eg&GNucl
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 22cc78ae-e68c-572c-9116-f984e833cea0
-  macAddresses:
-  - 00:50:C2:4A:B0:00/36
-  manufacturer: JVF Communications Ltd
-  manufacturerUri: https://device-type.com
-  name: JVFCommu
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8fce3320-ef8c-5bb5-a884-918efd7a2c31
-  macAddresses:
-  - 00:50:C2:09:F0:00/36
-  manufacturer: MetaWave Vedeo Systems
-  manufacturerUri: https://device-type.com
-  name: MetaWave
-type: d3-device-type-assertion

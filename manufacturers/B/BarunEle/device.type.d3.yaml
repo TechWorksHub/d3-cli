@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bfa4eea2-02cc-5b62-b0c9-19c92e7218c0
-  macAddresses:
-  - C8:29:2A:00:00:00/24
-  manufacturer: Barun Electronics
-  manufacturerUri: https://device-type.com
-  name: BarunEle
-type: d3-device-type-assertion

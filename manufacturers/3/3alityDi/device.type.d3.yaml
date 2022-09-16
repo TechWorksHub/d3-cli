@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7c3818a8-82e8-5927-9c50-d4028c53da6e
-  macAddresses:
-  - B0:6C:BF:00:00:00/24
-  manufacturer: 3ality Digital Systems GmbH
-  manufacturerUri: https://device-type.com
-  name: 3alityDi
-type: d3-device-type-assertion

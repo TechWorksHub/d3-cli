@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9b849358-c435-5409-b643-e6f02b945401
-  macAddresses:
-  - 00:16:13:00:00:00/24
-  manufacturer: LibreStream Technologies Inc.
-  manufacturerUri: https://device-type.com
-  name: LibreStr
-type: d3-device-type-assertion

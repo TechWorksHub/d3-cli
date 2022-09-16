@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6848a355-72a0-5499-ad16-f4bac72323ee
-  macAddresses:
-  - 50:DE:19:70:00:00/28
-  manufacturer: Tianjin Natianal Health Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: TianjinN
-type: d3-device-type-assertion

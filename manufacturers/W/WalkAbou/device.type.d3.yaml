@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 069b375b-e0e2-5037-a3ad-bb66f8efe56c
-  macAddresses:
-  - 00:90:67:00:00:00/24
-  manufacturer: WalkAbout Computers, Inc.
-  manufacturerUri: https://device-type.com
-  name: WalkAbou
-type: d3-device-type-assertion

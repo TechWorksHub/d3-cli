@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e024ae67-7211-56e1-b107-9034caf28cdc
-  macAddresses:
-  - 00:1B:70:00:00:00/24
-  manufacturer: IRI Ubiteq, INC.
-  manufacturerUri: https://device-type.com
-  name: IRIUbite
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 04b8471a-e423-5de4-baa6-d4e4f410ae11
-  macAddresses:
-  - 00:03:07:00:00:00/24
-  manufacturer: Secure Works, Inc.
-  manufacturerUri: https://device-type.com
-  name: SecureWo
-type: d3-device-type-assertion

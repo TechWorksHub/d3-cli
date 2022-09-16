@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ab5daf88-2653-531c-adf7-4148a81c1498
-  macAddresses:
-  - 00:03:6A:00:00:00/24
-  manufacturer: Mainnet, Ltd.
-  manufacturerUri: https://device-type.com
-  name: Mainnet
-type: d3-device-type-assertion

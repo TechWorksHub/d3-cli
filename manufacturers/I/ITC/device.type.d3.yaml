@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7ff29314-2120-5f4f-847f-7e1cce82573c
-  macAddresses:
-  - 8C:CF:8F:00:00:00/24
-  manufacturer: ITC Systems
-  manufacturerUri: https://device-type.com
-  name: ITC
-type: d3-device-type-assertion

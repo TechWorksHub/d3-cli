@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 16eeecdc-7bf2-5397-940b-e81b65d43d47
-  macAddresses:
-  - 00:50:C2:49:B0:00/36
-  manufacturer: vg controls, inc
-  manufacturerUri: https://device-type.com
-  name: vgcontro
-type: d3-device-type-assertion

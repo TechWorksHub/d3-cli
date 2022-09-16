@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2de1a54d-ef7c-5d95-ad8c-76f48aa5e174
-  macAddresses:
-  - 00:50:C2:D7:50:00/36
-  manufacturer: Collectric AB
-  manufacturerUri: https://device-type.com
-  name: Collectr
-type: d3-device-type-assertion

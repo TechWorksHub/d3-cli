@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 905876a6-c32e-571e-9c0f-272860ce4db0
-  macAddresses:
-  - 00:17:9E:00:00:00/24
-  manufacturer: Sirit Inc
-  manufacturerUri: https://device-type.com
-  name: Sirit
-type: d3-device-type-assertion

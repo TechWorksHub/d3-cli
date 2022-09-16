@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b8093d82-3f62-5a9d-acd8-5dc2019bda6e
-  macAddresses:
-  - 00:0E:5F:00:00:00/24
-  manufacturer: activ-net GmbH & Co. KG
-  manufacturerUri: https://device-type.com
-  name: activ-ne
-type: d3-device-type-assertion

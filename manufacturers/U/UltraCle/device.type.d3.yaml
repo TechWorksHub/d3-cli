@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 88734e2e-14df-56a9-8858-3be18517773d
-  macAddresses:
-  - 78:30:E1:00:00:00/24
-  manufacturer: UltraClenz, LLC
-  manufacturerUri: https://device-type.com
-  name: UltraCle
-type: d3-device-type-assertion

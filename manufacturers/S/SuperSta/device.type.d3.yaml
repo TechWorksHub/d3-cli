@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 47698187-7f0b-5f15-bd25-66a331545b5f
-  macAddresses:
-  - 00:0B:B1:00:00:00/24
-  manufacturer: Super Star Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: SuperSta
-type: d3-device-type-assertion

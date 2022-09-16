@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b75d04cc-84c6-540e-a803-02c16423e0ca
-  macAddresses:
-  - 00:22:0F:00:00:00/24
-  manufacturer: MoCA (Multimedia over Coax Alliance)
-  manufacturerUri: https://device-type.com
-  name: MoCAMult
-type: d3-device-type-assertion

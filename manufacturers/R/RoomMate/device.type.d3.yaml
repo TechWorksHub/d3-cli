@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 935d9590-97a8-59a9-a35e-f0113db1341a
-  macAddresses:
-  - 70:B3:D5:E1:C0:00/36
-  manufacturer: RoomMate AS
-  manufacturerUri: https://device-type.com
-  name: RoomMate
-type: d3-device-type-assertion

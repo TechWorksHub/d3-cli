@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8842c09e-100c-5654-9ec7-8c43bdf26618
-  macAddresses:
-  - 3C:B1:7F:00:00:00/24
-  manufacturer: Wattwatchers Pty Ld
-  manufacturerUri: https://device-type.com
-  name: Wattwatc
-type: d3-device-type-assertion

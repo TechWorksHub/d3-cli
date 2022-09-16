@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2582d2b3-bdc0-5969-990c-2d8bf9a438df
-  macAddresses:
-  - 70:B3:D5:C2:50:00/36
-  manufacturer: speedsignal GmbH
-  manufacturerUri: https://device-type.com
-  name: speedsig
-type: d3-device-type-assertion

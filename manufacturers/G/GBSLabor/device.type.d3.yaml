@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d278086f-4cd2-5861-a875-a89c28028211
-  macAddresses:
-  - 00:22:8D:00:00:00/24
-  manufacturer: GBS Laboratories LLC
-  manufacturerUri: https://device-type.com
-  name: GBSLabor
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6ceca3b2-936c-5069-95e4-8d21f41d531c
-  macAddresses:
-  - 00:17:FC:00:00:00/24
-  manufacturer: Suprema Inc.
-  manufacturerUri: https://device-type.com
-  name: Suprema
-type: d3-device-type-assertion

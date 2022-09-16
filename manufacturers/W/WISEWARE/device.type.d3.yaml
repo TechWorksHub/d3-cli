@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4f3c6ad2-7663-5319-bbe0-7aabe84a4b32
-  macAddresses:
-  - 54:FB:58:00:00:00/24
-  manufacturer: WISEWARE, Lda
-  manufacturerUri: https://device-type.com
-  name: WISEWARE
-type: d3-device-type-assertion

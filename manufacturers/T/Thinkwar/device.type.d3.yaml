@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 12c54aa1-18a5-51c8-b9ad-81f667895cb8
-  macAddresses:
-  - 00:1F:4F:00:00:00/24
-  manufacturer: Thinkware Co. Ltd.
-  manufacturerUri: https://device-type.com
-  name: Thinkwar
-type: d3-device-type-assertion

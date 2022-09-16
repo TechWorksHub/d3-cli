@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3cb3e301-3910-5949-bcf9-f77888647c2f
-  macAddresses:
-  - 00:90:65:00:00:00/24
-  manufacturer: Finisar Corporation
-  manufacturerUri: https://device-type.com
-  name: Finisar
-type: d3-device-type-assertion

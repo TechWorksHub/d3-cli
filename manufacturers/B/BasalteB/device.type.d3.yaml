@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 969d5956-3d48-5289-b315-6eb2551d5d26
-  macAddresses:
-  - 38:B1:9E:40:00:00/28
-  manufacturer: Basalte BVBA
-  manufacturerUri: https://device-type.com
-  name: BasalteB
-type: d3-device-type-assertion

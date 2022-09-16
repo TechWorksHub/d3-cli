@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ca37d59d-a2d3-5422-89a0-b1e7d58f8895
-  macAddresses:
-  - 00:00:B9:00:00:00/24
-  manufacturer: Mcdonnell Douglas Computer Sys
-  manufacturerUri: https://device-type.com
-  name: Mcdonnel
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5b8aa767-a2f8-5b79-89f2-32907de08ae9
-  macAddresses:
-  - 94:CC:04:A0:00:00/28
-  manufacturer: hyBee Inc.
-  manufacturerUri: https://device-type.com
-  name: hyBee
-type: d3-device-type-assertion

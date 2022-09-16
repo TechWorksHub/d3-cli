@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 88fa542e-9b09-5e2b-9100-3552dc025afd
-  macAddresses:
-  - 00:18:26:00:00:00/24
-  manufacturer: Cale Access AB
-  manufacturerUri: https://device-type.com
-  name: CaleAcce
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: da6add33-417b-52d3-b184-561409602903
-  macAddresses:
-  - 00:12:8C:00:00:00/24
-  manufacturer: Woodward Governor
-  manufacturerUri: https://device-type.com
-  name: Woodward
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d300a3d8-b44a-5bdc-aa33-072e3220d961
-  macAddresses:
-  - 8C:1C:DA:C0:00:00/28
-  manufacturer: Alcidae Inc
-  manufacturerUri: https://device-type.com
-  name: Alcidae
-type: d3-device-type-assertion

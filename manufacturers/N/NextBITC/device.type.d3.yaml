@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dba76835-303a-510a-9903-318896feb098
-  macAddresses:
-  - BC:28:46:00:00:00/24
-  manufacturer: NextBIT Computing Pvt. Ltd.
-  manufacturerUri: https://device-type.com
-  name: NextBITC
-type: d3-device-type-assertion

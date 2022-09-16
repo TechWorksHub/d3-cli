@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 44a422d8-de77-5be3-857c-b6d89c32a007
-  macAddresses:
-  - 00:01:26:00:00:00/24
-  manufacturer: PAC Labs
-  manufacturerUri: https://device-type.com
-  name: PACLabs
-type: d3-device-type-assertion

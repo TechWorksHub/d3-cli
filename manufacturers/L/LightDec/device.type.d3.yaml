@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ef8d83e1-58f3-59ab-b5b7-1d4fb120be7e
-  macAddresses:
-  - 70:B3:D5:CF:10:00/36
-  manufacturer: LightDec GmbH & Co. KG
-  manufacturerUri: https://device-type.com
-  name: LightDec
-type: d3-device-type-assertion

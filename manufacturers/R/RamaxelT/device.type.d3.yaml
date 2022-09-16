@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 02439f9f-6830-508c-a98f-dd34acc6abd3
-  macAddresses:
-  - 04:4A:50:00:00:00/24
-  manufacturer: Ramaxel Technology (Shenzhen) limited company
-  manufacturerUri: https://device-type.com
-  name: RamaxelT
-type: d3-device-type-assertion

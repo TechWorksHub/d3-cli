@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d9463874-4e45-5199-a8c2-8944bb4751ec
-  macAddresses:
-  - 00:1A:62:00:00:00/24
-  manufacturer: Data Robotics, Incorporated
-  manufacturerUri: https://device-type.com
-  name: DataRobo
-type: d3-device-type-assertion

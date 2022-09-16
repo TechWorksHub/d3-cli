@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9e01e432-ebc2-5761-8efc-5de15256e2b7
-  macAddresses:
-  - 00:26:83:00:00:00/24
-  manufacturer: Ajoho Enterprise Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: AjohoEnt
-type: d3-device-type-assertion

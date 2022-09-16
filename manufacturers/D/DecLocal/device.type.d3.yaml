@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ab7b819d-9926-58bb-8304-f824f8aacd01
-  macAddresses:
-  - AA:00:04:00:00:00/24
-  manufacturer: DEC
-  manufacturerUri: https://device-type.com
-  name: DecLocal
-type: d3-device-type-assertion

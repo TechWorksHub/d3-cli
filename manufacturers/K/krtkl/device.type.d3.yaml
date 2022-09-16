@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3463908f-09cb-522c-bd03-4ee2a921bb52
-  macAddresses:
-  - 6C:5C:3D:A0:00:00/28
-  manufacturer: krtkl inc.
-  manufacturerUri: https://device-type.com
-  name: krtkl
-type: d3-device-type-assertion

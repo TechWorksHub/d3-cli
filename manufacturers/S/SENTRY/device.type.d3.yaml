@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 90457b5c-2a58-580d-af2f-f2971d3ad23e
-  macAddresses:
-  - 00:7B:18:00:00:00/24
-  manufacturer: SENTRY Co., LTD.
-  manufacturerUri: https://device-type.com
-  name: SENTRY
-type: d3-device-type-assertion

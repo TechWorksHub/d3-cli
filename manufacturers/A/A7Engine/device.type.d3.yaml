@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d226e975-b605-5a2f-848a-86919697229a
-  macAddresses:
-  - 00:24:AB:00:00:00/24
-  manufacturer: A7 Engineering, Inc.
-  manufacturerUri: https://device-type.com
-  name: A7Engine
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d5668ae6-9272-5d3e-a5cf-4fad84fbf547
-  macAddresses:
-  - 08:42:96:00:00:00/24
-  manufacturer: Mobile Technology Solutions LLC
-  manufacturerUri: https://device-type.com
-  name: MobileTe
-type: d3-device-type-assertion

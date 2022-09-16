@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2ea47152-59c3-5519-8b9c-e942170e85c4
-  macAddresses:
-  - 00:18:0D:00:00:00/24
-  manufacturer: Terabytes Server Storage Tech Corp
-  manufacturerUri: https://device-type.com
-  name: Terabyte
-type: d3-device-type-assertion

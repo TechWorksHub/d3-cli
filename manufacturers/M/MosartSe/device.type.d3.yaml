@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 192df847-4d36-5a73-9be1-244bbe67d98b
-  macAddresses:
-  - 00:1A:72:00:00:00/24
-  manufacturer: Mosart Semiconductor Corp.
-  manufacturerUri: https://device-type.com
-  name: MosartSe
-type: d3-device-type-assertion

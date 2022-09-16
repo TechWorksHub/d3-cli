@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 47b59f10-30e0-5368-a71a-56eff09df9a7
-  macAddresses:
-  - 88:5F:E8:40:00:00/28
-  manufacturer: Beijing laiwei Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: Beijingl
-type: d3-device-type-assertion

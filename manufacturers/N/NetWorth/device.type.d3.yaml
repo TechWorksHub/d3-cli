@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 610df914-a39c-5c60-8f7b-fd2a0ead0795
-  macAddresses:
-  - 00:B0:F5:00:00:00/24
-  manufacturer: NetWorth Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: NetWorth
-type: d3-device-type-assertion

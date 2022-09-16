@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fe0a84fb-264f-508d-9245-e15343b3b4f3
-  macAddresses:
-  - 00:26:D2:00:00:00/24
-  manufacturer: Pcube Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Pcube
-type: d3-device-type-assertion

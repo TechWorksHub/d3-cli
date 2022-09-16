@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8685113f-95a0-5862-a1d2-bf062e716f7a
-  macAddresses:
-  - 00:40:F3:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Netcor
-type: d3-device-type-assertion

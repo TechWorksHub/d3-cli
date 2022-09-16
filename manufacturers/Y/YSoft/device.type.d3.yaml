@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: af86a3ad-9301-52ef-adfb-fedb00675438
-  macAddresses:
-  - 68:7C:D5:00:00:00/24
-  manufacturer: Y Soft Corporation, a.s.
-  manufacturerUri: https://device-type.com
-  name: YSoft
-type: d3-device-type-assertion

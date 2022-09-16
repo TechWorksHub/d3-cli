@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 26f17b22-f7d7-5cb5-ada0-613d733143b5
-  macAddresses:
-  - 40:15:97:00:00:00/24
-  manufacturer: Protect America, Inc.
-  manufacturerUri: https://device-type.com
-  name: ProtectA
-type: d3-device-type-assertion

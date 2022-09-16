@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5838e29b-8ea5-5c4b-87b6-e3fe882f35d8
-  macAddresses:
-  - 64:FB:92:00:00:00/24
-  manufacturer: PPC Broadband Inc.
-  manufacturerUri: https://device-type.com
-  name: PPCBroad
-type: d3-device-type-assertion

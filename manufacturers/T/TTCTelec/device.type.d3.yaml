@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5367d5de-acab-5c6e-9166-6dea0a98156f
-  macAddresses:
-  - 00:50:C2:38:F0:00/36
-  manufacturer: TTC Telecom
-  manufacturerUri: https://device-type.com
-  name: TTCTelec
-type: d3-device-type-assertion

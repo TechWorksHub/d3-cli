@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e43fb42f-ca54-51bf-b139-71720392f598
-  macAddresses:
-  - 24:C1:BD:00:00:00/24
-  manufacturer: Crrc Dalian R&D Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: CrrcDali
-type: d3-device-type-assertion

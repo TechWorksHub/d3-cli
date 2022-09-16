@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 85337795-052b-5562-a88b-0cfad97287f0
-  macAddresses:
-  - 00:23:B7:00:00:00/24
-  manufacturer: Q-Light Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Q-Light
-type: d3-device-type-assertion

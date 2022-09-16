@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ab934bba-fd24-52e0-b40a-c0b1386168bc
-  macAddresses:
-  - 00:14:AA:00:00:00/24
-  manufacturer: Ashly Audio, Inc.
-  manufacturerUri: https://device-type.com
-  name: AshlyAud
-type: d3-device-type-assertion

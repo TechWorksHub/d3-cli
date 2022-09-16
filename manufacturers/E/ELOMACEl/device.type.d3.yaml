@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3d9a6726-aeae-5fe0-af4f-137bd1d56e68
-  macAddresses:
-  - 70:B3:D5:3D:E0:00/36
-  manufacturer: ELOMAC Elektronik GmbH
-  manufacturerUri: https://device-type.com
-  name: ELOMACEl
-type: d3-device-type-assertion

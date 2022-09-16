@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f929e1fd-ac65-5618-baed-7df8d720efa3
-  macAddresses:
-  - B8:94:D2:00:00:00/24
-  manufacturer: Retail Innovation HTT AB
-  manufacturerUri: https://device-type.com
-  name: RetailIn
-type: d3-device-type-assertion

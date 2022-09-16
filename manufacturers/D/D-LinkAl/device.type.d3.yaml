@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1d394e37-7087-53aa-99ff-e3f0044d14ff
-  macAddresses:
-  - 00:80:C8:00:00:00/24
-  manufacturer: D-Link
-  manufacturerUri: https://device-type.com
-  name: D-LinkAl
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fc91395b-4f4d-55fe-bcd0-469c3cd6b9b3
-  macAddresses:
-  - 50:8C:77:00:00:00/24
-  manufacturer: DIRMEIER Schanktechnik GmbH &Co KG
-  manufacturerUri: https://device-type.com
-  name: DIRMEIER
-type: d3-device-type-assertion

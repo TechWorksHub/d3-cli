@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8ef81cce-7e2b-5549-ac5e-e2a120ca3723
-  macAddresses:
-  - 00:08:8D:00:00:00/24
-  manufacturer: Sigma-Links Inc.
-  manufacturerUri: https://device-type.com
-  name: Sigma-Li
-type: d3-device-type-assertion

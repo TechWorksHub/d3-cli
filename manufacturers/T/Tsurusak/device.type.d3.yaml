@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d2af6822-6cff-5cb7-a96f-f022000e5638
-  macAddresses:
-  - 00:11:0E:00:00:00/24
-  manufacturer: Tsurusaki Sealand Transportation Co. Ltd.
-  manufacturerUri: https://device-type.com
-  name: Tsurusak
-type: d3-device-type-assertion

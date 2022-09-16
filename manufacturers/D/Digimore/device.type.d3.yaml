@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 435e777b-f07b-5124-86fb-8c2633ea3183
-  macAddresses:
-  - 90:0D:66:00:00:00/24
-  manufacturer: Digimore Electronics Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Digimore
-type: d3-device-type-assertion

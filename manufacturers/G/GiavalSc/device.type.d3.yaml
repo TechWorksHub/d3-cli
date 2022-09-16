@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 979fecc2-dbf3-5dc4-9215-0eb8b5ff2d54
-  macAddresses:
-  - 00:24:60:00:00:00/24
-  manufacturer: Giaval Science Development Co. Ltd.
-  manufacturerUri: https://device-type.com
-  name: GiavalSc
-type: d3-device-type-assertion

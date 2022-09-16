@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9d0a5960-ec09-502f-86f4-5ef3dd2abb58
-  macAddresses:
-  - 00:15:50:00:00:00/24
-  manufacturer: Nits Technology Inc
-  manufacturerUri: https://device-type.com
-  name: NitsTech
-type: d3-device-type-assertion

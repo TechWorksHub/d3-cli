@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5d7ee14f-cb82-5689-82f6-a4e71d4a1576
-  macAddresses:
-  - 38:A8:CD:50:00:00/28
-  manufacturer: Revo Infratech USA Ltd
-  manufacturerUri: https://device-type.com
-  name: RevoInfr
-type: d3-device-type-assertion

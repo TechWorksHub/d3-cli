@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2f8e352f-4be9-5dc5-854c-5ede13c817a9
-  macAddresses:
-  - 88:5D:90:20:00:00/28
-  manufacturer: DAIDONG Industrial System Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: DAIDONGI
-type: d3-device-type-assertion

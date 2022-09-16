@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d77f0f2a-8abe-5f22-9710-87d834a53308
-  macAddresses:
-  - 00:50:C2:0A:30:00/36
-  manufacturer: BaSyTec GmbH
-  manufacturerUri: https://device-type.com
-  name: BaSyTec
-type: d3-device-type-assertion

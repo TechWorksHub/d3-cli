@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 03193a20-be5f-597c-8f9e-d970c6abeeb1
-  macAddresses:
-  - 44:4A:65:00:00:00/24
-  manufacturer: Silverflare Ltd.
-  manufacturerUri: https://device-type.com
-  name: Silverfl
-type: d3-device-type-assertion

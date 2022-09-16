@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e3524b4e-095f-504a-a743-d0f2dac91761
-  macAddresses:
-  - EC:75:ED:00:00:00/24
-  manufacturer: Citrix Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Citrix
-type: d3-device-type-assertion

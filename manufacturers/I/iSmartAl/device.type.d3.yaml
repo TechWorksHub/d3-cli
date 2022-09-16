@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1aa67be5-9849-5742-b250-598bcb9bf572
-  macAddresses:
-  - 94:51:3D:00:00:00/24
-  manufacturer: iSmart Alarm, Inc.
-  manufacturerUri: https://device-type.com
-  name: iSmartAl
-type: d3-device-type-assertion

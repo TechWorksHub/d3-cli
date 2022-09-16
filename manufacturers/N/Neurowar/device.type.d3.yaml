@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5b6e663d-32b7-536d-8fcf-4137b435a6ef
-  macAddresses:
-  - 00:50:C2:46:F0:00/36
-  manufacturer: Neuroware
-  manufacturerUri: https://device-type.com
-  name: Neurowar
-type: d3-device-type-assertion

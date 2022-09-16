@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9a0d4823-bd4a-53e3-b62c-621cea337fa4
-  macAddresses:
-  - 00:04:22:00:00:00/24
-  manufacturer: Studio Technologies, Inc
-  manufacturerUri: https://device-type.com
-  name: StudioTe
-type: d3-device-type-assertion

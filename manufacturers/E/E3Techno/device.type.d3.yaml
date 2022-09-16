@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: edf773b0-9fef-5d0c-b43f-ae597f9e70d9
-  macAddresses:
-  - 44:2A:FF:00:00:00/24
-  manufacturer: E3 Technology, Inc.
-  manufacturerUri: https://device-type.com
-  name: E3Techno
-type: d3-device-type-assertion

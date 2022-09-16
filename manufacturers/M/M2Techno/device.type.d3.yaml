@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2cce691b-bcb6-5b79-8382-db7c00f8fb37
-  macAddresses:
-  - 00:50:C2:1E:F0:00/36
-  manufacturer: M2 Technology Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: M2Techno
-type: d3-device-type-assertion

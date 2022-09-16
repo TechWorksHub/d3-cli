@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b0ca197b-9b00-5e5b-b897-3b08026b67e2
-  macAddresses:
-  - 94:40:A2:00:00:00/24
-  manufacturer: Anywave Communication Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: AnywaveC
-type: d3-device-type-assertion

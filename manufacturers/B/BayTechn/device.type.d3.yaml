@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 92d69492-3e5c-528c-b7a0-b5a6d33d1b2a
-  macAddresses:
-  - 00:C0:48:00:00:00/24
-  manufacturer: Bay Technical Associates
-  manufacturerUri: https://device-type.com
-  name: BayTechn
-type: d3-device-type-assertion

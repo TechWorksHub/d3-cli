@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: be800787-6bb0-5224-87e9-6395479695fc
-  macAddresses:
-  - 00:E0:E8:00:00:00/24
-  manufacturer: GRETACODER Data Systems AG
-  manufacturerUri: https://device-type.com
-  name: GRETACOD
-type: d3-device-type-assertion

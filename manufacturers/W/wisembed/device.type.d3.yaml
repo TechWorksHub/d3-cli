@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 00badb38-d08a-5b6c-8f06-8985a3a047d2
-  macAddresses:
-  - 00:17:86:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: wisembed
-type: d3-device-type-assertion

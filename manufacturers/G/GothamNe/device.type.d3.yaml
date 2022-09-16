@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2ee0a95c-b042-5f7a-9f3d-1ec26aedd6e1
-  macAddresses:
-  - 00:01:10:00:00:00/24
-  manufacturer: Gotham Networks
-  manufacturerUri: https://device-type.com
-  name: GothamNe
-type: d3-device-type-assertion

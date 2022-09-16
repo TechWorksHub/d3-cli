@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 41d7c3f0-7164-51c3-8b25-6c336583d67c
-  macAddresses:
-  - 00:1E:02:00:00:00/24
-  manufacturer: Sougou Keikaku Kougyou Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: SougouKe
-type: d3-device-type-assertion

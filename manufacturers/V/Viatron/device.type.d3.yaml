@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d51e1993-031e-5359-9a95-c3d5e0720e83
-  macAddresses:
-  - D0:22:12:40:00:00/28
-  manufacturer: Viatron GmbH
-  manufacturerUri: https://device-type.com
-  name: Viatron
-type: d3-device-type-assertion

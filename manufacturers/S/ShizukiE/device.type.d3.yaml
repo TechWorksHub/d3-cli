@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b580575e-e34e-5bf6-b67c-c4a1ac20c6cc
-  macAddresses:
-  - 70:B3:D5:FE:60:00/36
-  manufacturer: Shizuki Electric Co.,Inc
-  manufacturerUri: https://device-type.com
-  name: ShizukiE
-type: d3-device-type-assertion

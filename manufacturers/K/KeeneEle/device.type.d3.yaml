@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3034061d-a0bd-5934-9f7c-8bf13b9b1616
-  macAddresses:
-  - 00:50:C2:96:D0:00/36
-  manufacturer: Keene Electronics Ltd.
-  manufacturerUri: https://device-type.com
-  name: KeeneEle
-type: d3-device-type-assertion

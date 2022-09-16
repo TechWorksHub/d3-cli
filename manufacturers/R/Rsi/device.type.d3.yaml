@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8cfd9231-c2e5-5eaf-9db9-c469acde0a14
-  macAddresses:
-  - 00:50:8C:00:00:00/24
-  manufacturer: Rsi Systems
-  manufacturerUri: https://device-type.com
-  name: Rsi
-type: d3-device-type-assertion

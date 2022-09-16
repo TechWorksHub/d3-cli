@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a2d17830-6456-5829-be03-aad93fece701
-  macAddresses:
-  - 04:2D:B4:00:00:00/24
-  manufacturer: First Property (Beijing) Co., Ltd Modern MOMA Branch
-  manufacturerUri: https://device-type.com
-  name: FirstPro
-type: d3-device-type-assertion

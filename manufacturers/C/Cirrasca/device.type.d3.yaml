@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b849d3a3-f929-5d7c-bdfb-5c8026c7e924
-  macAddresses:
-  - 00:1C:8A:00:00:00/24
-  manufacturer: Cirrascale Corporation
-  manufacturerUri: https://device-type.com
-  name: Cirrasca
-type: d3-device-type-assertion

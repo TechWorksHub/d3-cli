@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f83426a1-f176-56af-852e-8dcb04ed6506
-  macAddresses:
-  - B4:37:D1:E0:00:00/28
-  manufacturer: Union Tecnologica Noxium S.L.
-  manufacturerUri: https://device-type.com
-  name: UnionTec
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2577a672-37c6-50e7-b11c-948a4297f62d
-  macAddresses:
-  - 00:E0:3D:00:00:00/24
-  manufacturer: Focon Electronic Systems A/S
-  manufacturerUri: https://device-type.com
-  name: FoconEle
-type: d3-device-type-assertion

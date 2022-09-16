@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 58afb696-5011-5d4a-9f03-de15f6fc8a5b
-  macAddresses:
-  - 00:50:C2:F2:00:00/36
-  manufacturer: Unfors Instruments AB
-  manufacturerUri: https://device-type.com
-  name: UnforsIn
-type: d3-device-type-assertion

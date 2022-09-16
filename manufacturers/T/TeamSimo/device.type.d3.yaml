@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ec3f15df-cda8-5802-9a6f-edb291ffe747
-  macAddresses:
-  - 00:0E:06:00:00:00/24
-  manufacturer: Team Simoco Ltd
-  manufacturerUri: https://device-type.com
-  name: TeamSimo
-type: d3-device-type-assertion

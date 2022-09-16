@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 44e5ac86-0949-58e0-b547-d7d1007b1be2
-  macAddresses:
-  - 00:50:C2:C8:E0:00/36
-  manufacturer: Sdd Itg
-  manufacturerUri: https://device-type.com
-  name: SddItg
-type: d3-device-type-assertion

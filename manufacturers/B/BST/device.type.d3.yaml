@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 39f37543-7130-5f67-ae9b-0ec7b97274f7
-  macAddresses:
-  - 00:08:AC:00:00:00/24
-  manufacturer: BST GmbH
-  manufacturerUri: https://device-type.com
-  name: BST
-type: d3-device-type-assertion

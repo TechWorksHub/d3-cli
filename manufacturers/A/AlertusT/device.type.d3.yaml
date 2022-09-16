@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b639a853-62bc-5ec9-942f-5dd033d54c44
-  macAddresses:
-  - 00:1D:97:00:00:00/24
-  manufacturer: Alertus Technologies LLC
-  manufacturerUri: https://device-type.com
-  name: AlertusT
-type: d3-device-type-assertion

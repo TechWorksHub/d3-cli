@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5f36421a-e6cc-5478-acc8-507cf6a6d9d5
-  macAddresses:
-  - 6C:E4:CE:00:00:00/24
-  manufacturer: Villiger Security Solutions AG
-  manufacturerUri: https://device-type.com
-  name: Villiger
-type: d3-device-type-assertion

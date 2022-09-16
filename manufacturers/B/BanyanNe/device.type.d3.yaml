@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1298031c-de85-513a-a643-01e0253a555a
-  macAddresses:
-  - 00:04:E6:00:00:00/24
-  manufacturer: Banyan Network Private Limited
-  manufacturerUri: https://device-type.com
-  name: BanyanNe
-type: d3-device-type-assertion

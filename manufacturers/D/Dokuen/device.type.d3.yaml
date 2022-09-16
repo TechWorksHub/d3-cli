@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9eb4ce9e-4ccf-5c29-895e-4aee688dedae
-  macAddresses:
-  - 70:B3:D5:33:40:00/36
-  manufacturer: Dokuen Co. Ltd.
-  manufacturerUri: https://device-type.com
-  name: Dokuen
-type: d3-device-type-assertion

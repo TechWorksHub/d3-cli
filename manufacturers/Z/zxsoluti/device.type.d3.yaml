@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b7735923-17d2-5d6b-b28a-b05c845d810b
-  macAddresses:
-  - C0:FB:F9:90:00:00/28
-  manufacturer: zxsolution
-  manufacturerUri: https://device-type.com
-  name: zxsoluti
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 45db9b8e-84c6-5149-be7b-2973a140c875
-  macAddresses:
-  - F4:2B:48:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Ubiqam
-type: d3-device-type-assertion

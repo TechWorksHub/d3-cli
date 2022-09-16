@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6c9e0b15-7147-57f7-9be9-5b99796a094b
-  macAddresses:
-  - D8:14:D6:00:00:00/24
-  manufacturer: SURE SYSTEM Co Ltd
-  manufacturerUri: https://device-type.com
-  name: SURESYST
-type: d3-device-type-assertion

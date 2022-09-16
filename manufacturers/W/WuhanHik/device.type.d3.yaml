@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1ae291e6-145a-54da-af6d-c18b519237cb
-  macAddresses:
-  - 4A:C0:3F:00:00:00/24
-  manufacturer: Wuhan Hikstorage Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: WuhanHik
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 74e800e2-2e28-5236-a6e8-74140f7a3b9f
-  macAddresses:
-  - DC:CD:74:00:00:00/24
-  manufacturer: Japan E.M.Solutions Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: JapanEMS
-type: d3-device-type-assertion

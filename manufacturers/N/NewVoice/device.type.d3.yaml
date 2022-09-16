@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 419b9697-3436-5515-b290-c91df5717b87
-  macAddresses:
-  - 00:18:B8:00:00:00/24
-  manufacturer: New Voice International AG
-  manufacturerUri: https://device-type.com
-  name: NewVoice
-type: d3-device-type-assertion

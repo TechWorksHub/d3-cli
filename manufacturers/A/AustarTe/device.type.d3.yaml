@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: db6bcc4c-c072-5241-b0b0-2525f300f1cb
-  macAddresses:
-  - 00:19:A4:00:00:00/24
-  manufacturer: Austar Technology (hang zhou) Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: AustarTe
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1a8d41ca-723e-5d21-a18e-fded40da82ec
-  macAddresses:
-  - FC:17:94:00:00:00/24
-  manufacturer: InterCreative Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: InterCre
-type: d3-device-type-assertion

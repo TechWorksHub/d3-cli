@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ff26e3dd-f3e5-514a-8ee1-fefb6be3b839
-  macAddresses:
-  - 00:50:C2:1C:80:00/36
-  manufacturer: Euphony technology CO., LTD.
-  manufacturerUri: https://device-type.com
-  name: Euphonyt
-type: d3-device-type-assertion

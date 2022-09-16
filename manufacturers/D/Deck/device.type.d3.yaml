@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b1bffb2b-9b77-534d-8455-f66712428632
-  macAddresses:
-  - 00:17:43:00:00:00/24
-  manufacturer: Deck Srl
-  manufacturerUri: https://device-type.com
-  name: Deck
-type: d3-device-type-assertion

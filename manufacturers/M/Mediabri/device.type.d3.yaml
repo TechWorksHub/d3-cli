@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 36725583-6d03-5017-9a8c-60d32d89da3f
-  macAddresses:
-  - 14:35:8B:00:00:00/24
-  manufacturer: Mediabridge Products, LLC.
-  manufacturerUri: https://device-type.com
-  name: Mediabri
-type: d3-device-type-assertion

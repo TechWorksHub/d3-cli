@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c5495908-379e-5471-ba85-c63f6e43c66d
-  macAddresses:
-  - 70:B3:D5:E3:00:00/36
-  manufacturer: Quiss Ag
-  manufacturerUri: https://device-type.com
-  name: Quiss
-type: d3-device-type-assertion

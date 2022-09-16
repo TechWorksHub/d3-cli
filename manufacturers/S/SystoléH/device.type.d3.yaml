@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f5a4ec27-8dd6-5e2b-a06d-17da51bf1a25
-  macAddresses:
-  - 70:B3:D5:B3:00:00/36
-  manufacturer: "Systol\xE9 Hardware B.V."
-  manufacturerUri: https://device-type.com
-  name: "Systol\xE9H"
-type: d3-device-type-assertion

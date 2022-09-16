@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ce16dfba-9b47-5298-afd8-a5ac59131f2e
-  macAddresses:
-  - 70:B3:D5:28:80:00/36
-  manufacturer: Bresslergroup
-  manufacturerUri: https://device-type.com
-  name: Bressler
-type: d3-device-type-assertion

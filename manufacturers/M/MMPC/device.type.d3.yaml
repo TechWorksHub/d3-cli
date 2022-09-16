@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 57e6c71a-c5c3-5fbf-951f-ca58198e56a5
-  macAddresses:
-  - F4:28:33:00:00:00/24
-  manufacturer: MMPC Inc.
-  manufacturerUri: https://device-type.com
-  name: MMPC
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cf5fbb50-fb36-567e-a338-c22dbedacd48
-  macAddresses:
-  - 00:50:C2:60:C0:00/36
-  manufacturer: Identic Ab
-  manufacturerUri: https://device-type.com
-  name: Identic
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 54a2d4d2-e3d5-57bd-8669-d71e6a2d7c2e
-  macAddresses:
-  - 00:1D:FB:00:00:00/24
-  manufacturer: NETCLEUS Systems Corporation
-  manufacturerUri: https://device-type.com
-  name: NETCLEUS
-type: d3-device-type-assertion

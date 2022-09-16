@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b403a2c6-d05f-57f3-a2ce-770ee2058238
-  macAddresses:
-  - A8:5B:36:C0:00:00/28
-  manufacturer: ATER Technologies Co Ltd
-  manufacturerUri: https://device-type.com
-  name: ATERTech
-type: d3-device-type-assertion

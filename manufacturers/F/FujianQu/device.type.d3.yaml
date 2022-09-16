@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5ac53931-8da0-5aed-9662-e0c286b829d9
-  macAddresses:
-  - 10:07:23:B0:00:00/28
-  manufacturer: Fujian Quanzhou Dong Ang Electronics Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: FujianQu
-type: d3-device-type-assertion

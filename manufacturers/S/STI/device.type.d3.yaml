@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 35005df5-1a04-57c2-ac32-038343a4d793
-  macAddresses:
-  - EC:E9:15:00:00:00/24
-  manufacturer: STI Ltd
-  manufacturerUri: https://device-type.com
-  name: STI
-type: d3-device-type-assertion

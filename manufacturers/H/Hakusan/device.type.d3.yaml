@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 89aa1c20-9817-53b2-8a12-7e9d507d8e5e
-  macAddresses:
-  - 00:50:E6:00:00:00/24
-  manufacturer: Hakusan Corporation
-  manufacturerUri: https://device-type.com
-  name: Hakusan
-type: d3-device-type-assertion

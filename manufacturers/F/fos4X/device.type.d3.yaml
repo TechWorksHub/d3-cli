@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b5683bd3-561a-5e4f-aa48-2a7f2a2e137d
-  macAddresses:
-  - 70:23:93:00:00:00/24
-  manufacturer: fos4X GmbH
-  manufacturerUri: https://device-type.com
-  name: fos4X
-type: d3-device-type-assertion

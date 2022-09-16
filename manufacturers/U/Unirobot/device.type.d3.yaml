@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5f982ed6-c1ce-546b-a865-5e8e28562d6e
-  macAddresses:
-  - 14:4F:D7:A0:00:00/28
-  manufacturer: Unirobot Corporation
-  manufacturerUri: https://device-type.com
-  name: Unirobot
-type: d3-device-type-assertion

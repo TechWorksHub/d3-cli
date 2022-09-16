@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a4012d1a-dc8e-5b14-8e7b-4077857a55b1
-  macAddresses:
-  - 00:50:DF:00:00:00/24
-  manufacturer: AirFiber, Inc.
-  manufacturerUri: https://device-type.com
-  name: AirFiber
-type: d3-device-type-assertion

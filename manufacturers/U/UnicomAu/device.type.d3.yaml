@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 61ce941e-568b-54fd-a206-db9f15d06b20
-  macAddresses:
-  - 00:07:0A:00:00:00/24
-  manufacturer: Unicom Automation Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: UnicomAu
-type: d3-device-type-assertion

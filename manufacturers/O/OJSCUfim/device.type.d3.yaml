@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3e773b3c-6f0e-5119-a126-667dd92804a9
-  macAddresses:
-  - 1C:BB:A8:00:00:00/24
-  manufacturer: OJSC "Ufimskiy Zavod "Promsvyaz"
-  manufacturerUri: https://device-type.com
-  name: OJSCUfim
-type: d3-device-type-assertion

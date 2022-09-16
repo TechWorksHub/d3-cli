@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 416fd417-2ebe-5845-817c-3553082497e5
-  macAddresses:
-  - 00:20:57:00:00:00/24
-  manufacturer: TITZE DATENTECHNIK GmbH
-  manufacturerUri: https://device-type.com
-  name: TITZEDAT
-type: d3-device-type-assertion

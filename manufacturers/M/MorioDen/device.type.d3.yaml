@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aa89209d-60b1-55c5-9bfc-1388ae4babd6
-  macAddresses:
-  - 64:E8:92:00:00:00/24
-  manufacturer: Morio Denki Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: MorioDen
-type: d3-device-type-assertion

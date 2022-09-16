@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1bfeb23a-3543-51ee-90b9-8980c937923f
-  macAddresses:
-  - 00:24:CC:00:00:00/24
-  manufacturer: Fascinations Toys and Gifts, Inc.
-  manufacturerUri: https://device-type.com
-  name: Fascinat
-type: d3-device-type-assertion

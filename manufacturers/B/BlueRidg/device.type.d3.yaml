@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e1b9de8e-36fe-5c60-9271-9af070d4a7fd
-  macAddresses:
-  - 00:05:EB:00:00:00/24
-  manufacturer: Blue Ridge Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: BlueRidg
-type: d3-device-type-assertion

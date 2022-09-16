@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8b2c071f-5355-599c-bab3-3974f51dcb19
-  macAddresses:
-  - 00:50:C2:2A:50:00/36
-  manufacturer: Septier Communication Ltd
-  manufacturerUri: https://device-type.com
-  name: SeptierC
-type: d3-device-type-assertion

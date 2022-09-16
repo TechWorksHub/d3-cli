@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 57f7c572-7a4e-557d-af9b-73b860b435fd
-  macAddresses:
-  - 00:26:EA:00:00:00/24
-  manufacturer: Cheerchip Electronic Technology (ShangHai) Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Cheerchi
-type: d3-device-type-assertion

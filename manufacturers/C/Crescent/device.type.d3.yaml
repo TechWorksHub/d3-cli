@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: de7c05de-07b6-5371-8884-4beda8599e7c
-  macAddresses:
-  - 00:D0:B6:00:00:00/24
-  manufacturer: Crescent Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: Crescent
-type: d3-device-type-assertion

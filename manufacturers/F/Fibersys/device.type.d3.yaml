@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3111a0c9-b72c-5441-b3a1-cc5de109771e
-  macAddresses:
-  - B4:37:D1:20:00:00/28
-  manufacturer: Fibersystem AB
-  manufacturerUri: https://device-type.com
-  name: Fibersys
-type: d3-device-type-assertion

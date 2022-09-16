@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 68d25554-7179-53b9-b288-31bfa7433fd2
-  macAddresses:
-  - 00:17:D6:00:00:00/24
-  manufacturer: Bluechips Microhouse Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: Bluechip
-type: d3-device-type-assertion

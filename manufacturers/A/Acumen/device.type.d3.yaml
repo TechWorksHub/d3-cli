@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b1d42447-be97-5b91-a118-2d2dddd854c2
-  macAddresses:
-  - 74:EC:F1:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Acumen
-type: d3-device-type-assertion

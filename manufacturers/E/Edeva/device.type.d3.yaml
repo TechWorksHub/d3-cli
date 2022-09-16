@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1a339938-a0c9-5d30-a1c7-8c340bd81bb1
-  macAddresses:
-  - 00:50:6A:00:00:00/24
-  manufacturer: Edeva, Inc.
-  manufacturerUri: https://device-type.com
-  name: Edeva
-type: d3-device-type-assertion

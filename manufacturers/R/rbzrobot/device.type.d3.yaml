@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f22b5f67-9ff7-51c2-b899-b451d2381480
-  macAddresses:
-  - 00:50:C2:DD:A0:00/36
-  manufacturer: rbz robot design s.l.
-  manufacturerUri: https://device-type.com
-  name: rbzrobot
-type: d3-device-type-assertion

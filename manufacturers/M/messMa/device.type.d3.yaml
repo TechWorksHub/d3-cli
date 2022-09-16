@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 16883be2-24bd-56f3-b35f-80e8e2397533
-  macAddresses:
-  - E4:6C:21:00:00:00/24
-  manufacturer: messMa GmbH
-  manufacturerUri: https://device-type.com
-  name: messMa
-type: d3-device-type-assertion

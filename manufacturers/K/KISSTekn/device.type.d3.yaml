@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2aebf2a2-3052-5920-900c-bbb66e4d233a
-  macAddresses:
-  - 00:23:22:00:00:00/24
-  manufacturer: KISS Teknical Solutions, Inc.
-  manufacturerUri: https://device-type.com
-  name: KISSTekn
-type: d3-device-type-assertion

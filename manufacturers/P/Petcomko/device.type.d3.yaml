@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 54e4ec31-cb2c-562c-accc-c7d55870a8d8
-  macAddresses:
-  - 00:0D:CB:00:00:00/24
-  manufacturer: Petcomkorea Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Petcomko
-type: d3-device-type-assertion

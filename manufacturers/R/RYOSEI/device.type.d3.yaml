@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 310abcf8-0086-56e9-bfde-4e9f98d95527
-  macAddresses:
-  - 00:00:BD:00:00:00/24
-  manufacturer: RYOSEI, Ltd.
-  manufacturerUri: https://device-type.com
-  name: RYOSEI
-type: d3-device-type-assertion

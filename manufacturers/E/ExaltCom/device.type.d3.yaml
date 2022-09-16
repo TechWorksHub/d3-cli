@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 831d0198-0b63-51cb-bd89-8558c2ca2d67
-  macAddresses:
-  - 00:17:09:00:00:00/24
-  manufacturer: Exalt Communications
-  manufacturerUri: https://device-type.com
-  name: ExaltCom
-type: d3-device-type-assertion

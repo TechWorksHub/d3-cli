@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0008ca2f-8ed9-5907-bc27-7db835f09161
-  macAddresses:
-  - 00:0F:B1:00:00:00/24
-  manufacturer: Cognio Inc.
-  manufacturerUri: https://device-type.com
-  name: Cognio
-type: d3-device-type-assertion

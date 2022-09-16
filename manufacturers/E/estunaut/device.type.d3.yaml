@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6f78fa54-7d95-555b-9063-98642d29508d
-  macAddresses:
-  - 18:A5:9C:90:00:00/28
-  manufacturer: estun automation co.,ltd
-  manufacturerUri: https://device-type.com
-  name: estunaut
-type: d3-device-type-assertion

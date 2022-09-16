@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 787e7a12-6020-558a-9da0-a606c5f8f047
-  macAddresses:
-  - 8C:C7:AA:00:00:00/24
-  manufacturer: Radinet Communications Inc.
-  manufacturerUri: https://device-type.com
-  name: RadinetC
-type: d3-device-type-assertion

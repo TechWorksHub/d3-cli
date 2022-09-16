@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5df9c0d8-ed9f-5428-b45f-f94629e2e64b
-  macAddresses:
-  - CC:4F:5C:70:00:00/28
-  manufacturer: Smiths US Innovation LLC
-  manufacturerUri: https://device-type.com
-  name: SmithsUS
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2f0e14cd-453b-5c0e-a8aa-93fd86f5b1b6
-  macAddresses:
-  - 0C:AC:05:00:00:00/24
-  manufacturer: Unitend Technologies Inc.
-  manufacturerUri: https://device-type.com
-  name: UnitendT
-type: d3-device-type-assertion

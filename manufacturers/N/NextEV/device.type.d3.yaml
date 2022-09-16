@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 920127fb-4c8f-56c8-b40e-0be62b4d4813
-  macAddresses:
-  - 70:B3:D5:20:00:00/36
-  manufacturer: NextEV Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: NextEV
-type: d3-device-type-assertion

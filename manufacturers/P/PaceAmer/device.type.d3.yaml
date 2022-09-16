@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5146ea59-e056-58d6-8ddd-515708381868
-  macAddresses:
-  - AC:5D:10:00:00:00/24
-  manufacturer: Pace Americas
-  manufacturerUri: https://device-type.com
-  name: PaceAmer
-type: d3-device-type-assertion

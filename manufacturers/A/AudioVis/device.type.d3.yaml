@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 996562ed-94c8-5ed5-8982-429bb07c0159
-  macAddresses:
-  - 70:B3:D5:A7:F0:00/36
-  manufacturer: Audio Visual Digital Systems
-  manufacturerUri: https://device-type.com
-  name: AudioVis
-type: d3-device-type-assertion

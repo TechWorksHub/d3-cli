@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4a556ed8-b6d8-58f1-960a-d11e78b0e961
-  macAddresses:
-  - 00:1B:C5:06:C0:00/36
-  manufacturer: Luxcon System Limited
-  manufacturerUri: https://device-type.com
-  name: LuxconSy
-type: d3-device-type-assertion

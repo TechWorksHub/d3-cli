@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 410a6cdf-5852-5be3-9204-d5eeba805e22
-  macAddresses:
-  - 80:BA:AC:00:00:00/24
-  manufacturer: TeleAdapt Ltd
-  manufacturerUri: https://device-type.com
-  name: TeleAdap
-type: d3-device-type-assertion

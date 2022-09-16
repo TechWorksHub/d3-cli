@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0c13842b-7ab0-538e-99c4-d2040c748921
-  macAddresses:
-  - 70:B3:D5:2F:50:00/36
-  manufacturer: eze System, Inc.
-  manufacturerUri: https://device-type.com
-  name: ezeSyste
-type: d3-device-type-assertion

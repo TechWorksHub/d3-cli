@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7e25cfad-3993-57d7-b2b4-f8367f0ef5c0
-  macAddresses:
-  - 00:06:64:00:00:00/24
-  manufacturer: Fostex Corporation
-  manufacturerUri: https://device-type.com
-  name: Fostex
-type: d3-device-type-assertion

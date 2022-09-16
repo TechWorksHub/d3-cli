@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 93d79f18-b982-5b5e-85d4-a3b553f194f4
-  macAddresses:
-  - 04:11:19:40:00:00/28
-  manufacturer: Bolicom Innovation Technology (BeiJing) Co.,LTD.
-  manufacturerUri: https://device-type.com
-  name: BolicomI
-type: d3-device-type-assertion

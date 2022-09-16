@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1717339c-5402-5997-ba51-e404ac2d6f0f
-  macAddresses:
-  - 54:9A:16:00:00:00/24
-  manufacturer: Uzushio Electric Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: UzushioE
-type: d3-device-type-assertion

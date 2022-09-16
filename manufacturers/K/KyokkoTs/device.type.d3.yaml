@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a4fdf464-6a1c-5c73-b325-9effc548cffb
-  macAddresses:
-  - B8:38:CA:00:00:00/24
-  manufacturer: Kyokko Tsushin System CO.,LTD
-  manufacturerUri: https://device-type.com
-  name: KyokkoTs
-type: d3-device-type-assertion

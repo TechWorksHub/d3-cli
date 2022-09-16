@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1271dde9-ec40-52af-91c3-592284e7dcf6
-  macAddresses:
-  - 40:48:FD:E0:00:00/28
-  manufacturer: Smart Sensor Devices Ab
-  manufacturerUri: https://device-type.com
-  name: SmartSen
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e9ec6aa7-b228-5170-91f7-672ca66d37a7
-  macAddresses:
-  - 00:C0:D3:00:00:00/24
-  manufacturer: Olympus Image Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: OlympusI
-type: d3-device-type-assertion

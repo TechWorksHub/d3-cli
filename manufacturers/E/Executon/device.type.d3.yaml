@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5fb42181-1e19-5347-bb21-debb1ed468b1
-  macAddresses:
-  - 00:E0:50:00:00:00/24
-  manufacturer: Executone Information Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Executon
-type: d3-device-type-assertion

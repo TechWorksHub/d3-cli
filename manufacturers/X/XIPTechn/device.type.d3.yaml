@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b4b602b4-ef98-5b68-922d-bd8d202c6c04
-  macAddresses:
-  - 00:18:A2:00:00:00/24
-  manufacturer: XIP Technology AB
-  manufacturerUri: https://device-type.com
-  name: XIPTechn
-type: d3-device-type-assertion

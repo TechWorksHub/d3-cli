@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6230e1f0-8141-5423-a57c-da449e0729db
-  macAddresses:
-  - 70:B3:D5:15:F0:00/36
-  manufacturer: "Savroni\u0307k Elektroni\u0307k"
-  manufacturerUri: https://device-type.com
-  name: "Savroni\u0307"
-type: d3-device-type-assertion

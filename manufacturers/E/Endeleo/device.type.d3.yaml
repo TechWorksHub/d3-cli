@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d2f8c62c-04bc-5222-aed1-946edc801c34
-  macAddresses:
-  - 00:0F:3C:00:00:00/24
-  manufacturer: Endeleo Limited
-  manufacturerUri: https://device-type.com
-  name: Endeleo
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4316bf3f-836a-57c0-880e-cb4f273e256e
-  macAddresses:
-  - 70:50:E7:70:00:00/28
-  manufacturer: Yoctopuce
-  manufacturerUri: https://device-type.com
-  name: Yoctopuc
-type: d3-device-type-assertion

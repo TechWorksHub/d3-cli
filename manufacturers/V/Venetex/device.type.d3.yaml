@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ba08535b-9ed2-57bc-9de0-8c9c5e52f49c
-  macAddresses:
-  - 6C:AC:60:00:00:00/24
-  manufacturer: Venetex Corp
-  manufacturerUri: https://device-type.com
-  name: Venetex
-type: d3-device-type-assertion

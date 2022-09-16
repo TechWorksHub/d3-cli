@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8d995357-2ffb-508a-ae42-186a25738567
-  macAddresses:
-  - 00:0B:39:00:00:00/24
-  manufacturer: Keisoku Giken Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: KeisokuG
-type: d3-device-type-assertion

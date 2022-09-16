@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 08503e75-abef-5f7e-a1bb-d2fe2078803d
-  macAddresses:
-  - 00:50:C2:11:70:00/36
-  manufacturer: Wintegra Ltd.
-  manufacturerUri: https://device-type.com
-  name: Wintegra
-type: d3-device-type-assertion

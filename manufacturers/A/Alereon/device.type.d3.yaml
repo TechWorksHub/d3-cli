@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ff4ef70e-edf5-5dd2-b677-8e01e1566ffa
-  macAddresses:
-  - 00:1D:8E:00:00:00/24
-  manufacturer: Alereon, Inc.
-  manufacturerUri: https://device-type.com
-  name: Alereon
-type: d3-device-type-assertion

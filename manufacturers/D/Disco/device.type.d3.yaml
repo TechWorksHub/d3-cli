@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e989b572-a3b2-53fa-a0ab-07dcb2a2c493
-  macAddresses:
-  - 00:05:48:00:00:00/24
-  manufacturer: Disco Corporation
-  manufacturerUri: https://device-type.com
-  name: Disco
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 73412aac-e008-5fc2-8d6a-8e141a9062c6
-  macAddresses:
-  - 34:29:EA:00:00:00/24
-  manufacturer: Mcd Electronics Sp. Z O.O.
-  manufacturerUri: https://device-type.com
-  name: McdElect
-type: d3-device-type-assertion

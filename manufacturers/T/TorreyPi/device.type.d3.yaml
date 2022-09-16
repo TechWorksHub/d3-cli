@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d629b95c-656b-547c-a347-e36d420031fa
-  macAddresses:
-  - 18:B2:09:00:00:00/24
-  manufacturer: Torrey Pines Logic, Inc
-  manufacturerUri: https://device-type.com
-  name: TorreyPi
-type: d3-device-type-assertion

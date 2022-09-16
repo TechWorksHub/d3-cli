@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 556a7fae-7838-5ae1-9e65-4f6803234bcb
-  macAddresses:
-  - 00:10:CB:00:00:00/24
-  manufacturer: Facit K.K.
-  manufacturerUri: https://device-type.com
-  name: Facit
-type: d3-device-type-assertion

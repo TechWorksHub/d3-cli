@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1c3c3117-9b70-55ec-8e9f-42bb00ce95c5
-  macAddresses:
-  - 00:03:E9:00:00:00/24
-  manufacturer: Akara Canada, Inc.
-  manufacturerUri: https://device-type.com
-  name: AkaraCan
-type: d3-device-type-assertion

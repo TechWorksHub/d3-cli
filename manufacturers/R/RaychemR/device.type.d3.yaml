@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e3cde728-865d-52ba-8f0b-1078294803db
-  macAddresses:
-  - 8C:1C:DA:90:00:00/28
-  manufacturer: Raychem RPG PVT. LTD.
-  manufacturerUri: https://device-type.com
-  name: RaychemR
-type: d3-device-type-assertion

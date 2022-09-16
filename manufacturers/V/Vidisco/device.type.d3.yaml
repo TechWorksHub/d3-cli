@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b374085e-7f20-52bb-82b1-9d1fababdea6
-  macAddresses:
-  - 00:0B:88:00:00:00/24
-  manufacturer: Vidisco ltd.
-  manufacturerUri: https://device-type.com
-  name: Vidisco
-type: d3-device-type-assertion

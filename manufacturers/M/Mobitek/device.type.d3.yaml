@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9e254970-3175-52bf-9aa7-0602d22a3336
-  macAddresses:
-  - 00:19:DE:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Mobitek
-type: d3-device-type-assertion

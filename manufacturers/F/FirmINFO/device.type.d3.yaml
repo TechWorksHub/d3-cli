@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0a14fae8-0e22-5682-bacf-f6b9f5e74f50
-  macAddresses:
-  - A0:28:33:40:00:00/28
-  manufacturer: Firm INFORMTEST Ltd.
-  manufacturerUri: https://device-type.com
-  name: FirmINFO
-type: d3-device-type-assertion

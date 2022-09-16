@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0ea8a81a-c8e6-5909-a8a4-e6727b951a5c
-  macAddresses:
-  - 00:1E:ED:00:00:00/24
-  manufacturer: Adventiq Ltd.
-  manufacturerUri: https://device-type.com
-  name: Adventiq
-type: d3-device-type-assertion

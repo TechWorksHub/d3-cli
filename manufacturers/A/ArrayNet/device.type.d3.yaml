@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6c6383f9-5d93-5eb1-8e83-91407e88be25
-  macAddresses:
-  - FC:E1:FB:00:00:00/24
-  manufacturer: Array Networks
-  manufacturerUri: https://device-type.com
-  name: ArrayNet
-type: d3-device-type-assertion

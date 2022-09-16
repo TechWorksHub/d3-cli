@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 20ef11d3-d406-5442-bf75-62bcbcf64248
-  macAddresses:
-  - 74:59:33:00:00:00/24
-  manufacturer: Danal Entertainment
-  manufacturerUri: https://device-type.com
-  name: DanalEnt
-type: d3-device-type-assertion

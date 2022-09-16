@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: acd394e9-1e87-58ea-9a07-19ce5f0cfd59
-  macAddresses:
-  - 24:CB:E7:00:00:00/24
-  manufacturer: MYK, Inc.
-  manufacturerUri: https://device-type.com
-  name: MYK
-type: d3-device-type-assertion

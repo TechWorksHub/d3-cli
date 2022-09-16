@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 66fff7f5-ce8a-5472-8a53-58b7627f0740
-  macAddresses:
-  - 00:0C:26:00:00:00/24
-  manufacturer: Weintek Labs. Inc.
-  manufacturerUri: https://device-type.com
-  name: WeintekL
-type: d3-device-type-assertion

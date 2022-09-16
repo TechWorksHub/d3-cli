@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: decd40b0-8c2f-5f33-a141-aa39e96c7aa3
-  macAddresses:
-  - 50:0B:91:00:00:00/28
-  manufacturer: Igor, Inc.
-  manufacturerUri: https://device-type.com
-  name: Igor
-type: d3-device-type-assertion

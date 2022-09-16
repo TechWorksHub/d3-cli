@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 593c7721-3faf-52a1-bf77-18c0f0d1d3d0
-  macAddresses:
-  - DC:E5:33:80:00:00/28
-  manufacturer: JB-Lighting Lichtanlagen GmbH
-  manufacturerUri: https://device-type.com
-  name: JB-Light
-type: d3-device-type-assertion

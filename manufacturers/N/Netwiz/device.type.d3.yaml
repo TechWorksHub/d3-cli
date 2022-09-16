@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1c0bb0a7-3ecc-5913-80da-39c6949c5f39
-  macAddresses:
-  - 00:C0:2E:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Netwiz
-type: d3-device-type-assertion

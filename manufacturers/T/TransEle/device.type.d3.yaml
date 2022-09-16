@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bbb35222-2fa1-5576-be9f-dc574179defe
-  macAddresses:
-  - FC:27:A2:00:00:00/24
-  manufacturer: Trans Electric Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: TransEle
-type: d3-device-type-assertion

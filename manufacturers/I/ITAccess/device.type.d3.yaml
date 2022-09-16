@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 978073f7-2dd9-521e-9cf2-96aa7f545f53
-  macAddresses:
-  - 00:04:2B:00:00:00/24
-  manufacturer: IT Access Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: ITAccess
-type: d3-device-type-assertion

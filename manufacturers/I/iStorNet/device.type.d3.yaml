@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 077c0f63-9d04-5e6c-9bb2-81afc928e1fb
-  macAddresses:
-  - 00:12:15:00:00:00/24
-  manufacturer: iStor Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: iStorNet
-type: d3-device-type-assertion

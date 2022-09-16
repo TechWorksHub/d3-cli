@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5a93aead-92fe-5442-9d02-c8e6596b9e78
-  macAddresses:
-  - 00:11:99:00:00:00/24
-  manufacturer: 2wcom Systems GmbH
-  manufacturerUri: https://device-type.com
-  name: 2wcom
-type: d3-device-type-assertion

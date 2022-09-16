@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 041cc0fe-30db-5928-959d-c8b7064866fd
-  macAddresses:
-  - 00:50:C2:E5:E0:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Orep
-type: d3-device-type-assertion

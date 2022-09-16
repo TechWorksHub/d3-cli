@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7fe92bd8-cce3-5a71-9e86-d0e7955aa931
-  macAddresses:
-  - 00:50:C2:08:40:00/36
-  manufacturer: DIALOG4 System Engineering GmbH
-  manufacturerUri: https://device-type.com
-  name: DIALOG4S
-type: d3-device-type-assertion

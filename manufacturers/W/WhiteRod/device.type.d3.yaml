@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 179d97c9-c525-547f-8330-f3445c99a436
-  macAddresses:
-  - 34:6F:92:00:00:00/24
-  manufacturer: White Rodgers Division
-  manufacturerUri: https://device-type.com
-  name: WhiteRod
-type: d3-device-type-assertion

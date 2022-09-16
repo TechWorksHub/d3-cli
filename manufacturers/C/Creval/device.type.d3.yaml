@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 215c264e-94ec-5ef0-94ff-6b23b38a945f
-  macAddresses:
-  - 00:0A:89:00:00:00/24
-  manufacturer: Creval Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Creval
-type: d3-device-type-assertion

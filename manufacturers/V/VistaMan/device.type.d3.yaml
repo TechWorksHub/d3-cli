@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0069c25d-0b77-57f9-935d-0c833959073f
-  macAddresses:
-  - B0:FD:0B:20:00:00/28
-  manufacturer: Vista Manufacturing
-  manufacturerUri: https://device-type.com
-  name: VistaMan
-type: d3-device-type-assertion

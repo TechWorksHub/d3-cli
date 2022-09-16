@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0083167c-3aa3-5019-a9e2-a259e86852ec
-  macAddresses:
-  - 94:86:CD:00:00:00/24
-  manufacturer: Seoul Electronics&Telecom
-  manufacturerUri: https://device-type.com
-  name: SeoulEle
-type: d3-device-type-assertion

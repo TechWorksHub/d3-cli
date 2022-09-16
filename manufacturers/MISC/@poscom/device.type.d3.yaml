@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0bc7d477-eafa-5132-bc2f-abd673688b09
-  macAddresses:
-  - 00:08:1C:00:00:00/24
-  manufacturer: '@pos.com'
-  manufacturerUri: https://device-type.com
-  name: '@poscom'
-type: d3-device-type-assertion

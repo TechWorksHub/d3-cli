@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0aa76006-50e4-5bd0-bf5a-9dfa09c4bd9c
-  macAddresses:
-  - 00:4D:32:00:00:00/24
-  manufacturer: Andon Health Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: AndonHea
-type: d3-device-type-assertion

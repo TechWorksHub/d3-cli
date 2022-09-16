@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1d3952e2-b4da-5ed8-ac7e-5b05e62343c9
-  macAddresses:
-  - 00:50:C2:EF:20:00/36
-  manufacturer: Specialty Microwave Corp
-  manufacturerUri: https://device-type.com
-  name: Specialt
-type: d3-device-type-assertion

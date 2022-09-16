@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3234cfb2-473d-5fd3-ba02-daf096aff860
-  macAddresses:
-  - 18:9B:A5:20:00:00/28
-  manufacturer: Airprotec
-  manufacturerUri: https://device-type.com
-  name: Airprote
-type: d3-device-type-assertion

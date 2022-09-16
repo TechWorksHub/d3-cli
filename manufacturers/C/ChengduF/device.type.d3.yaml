@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b8415c86-3160-5a52-8ac7-bcf2f2229759
-  macAddresses:
-  - A0:86:1D:00:00:00/24
-  manufacturer: Chengdu Fuhuaxin Technology co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: ChengduF
-type: d3-device-type-assertion

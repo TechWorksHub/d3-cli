@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6dcc79d9-9072-5efa-a430-00117dd8e161
-  macAddresses:
-  - F4:19:E2:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Volterra
-type: d3-device-type-assertion

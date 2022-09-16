@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e026eb41-0ce0-5798-a621-760bb94e60e8
-  macAddresses:
-  - 00:0C:00:00:00:00/24
-  manufacturer: BEB Industrie-Elektronik AG
-  manufacturerUri: https://device-type.com
-  name: BEBIndus
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2d74d8a9-92bd-539d-b498-443c11daaaf4
-  macAddresses:
-  - 70:B3:D5:3F:C0:00/36
-  manufacturer: TangRen C&S CO., Ltd
-  manufacturerUri: https://device-type.com
-  name: TangRenC
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ede0c223-71d7-5d0a-9144-95782c9dfc68
-  macAddresses:
-  - 04:88:8C:00:00:00/24
-  manufacturer: Eifelwerk Butler Systeme GmbH
-  manufacturerUri: https://device-type.com
-  name: Eifelwer
-type: d3-device-type-assertion

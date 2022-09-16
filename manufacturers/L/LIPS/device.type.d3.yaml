@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2f268733-0086-56e2-9a86-5153b5719c3b
-  macAddresses:
-  - 3C:FA:D3:70:00:00/28
-  manufacturer: LIPS Corporation
-  manufacturerUri: https://device-type.com
-  name: LIPS
-type: d3-device-type-assertion

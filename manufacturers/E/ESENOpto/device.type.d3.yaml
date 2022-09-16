@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f0ed8574-a381-51ee-9980-336f2ab2ebea
-  macAddresses:
-  - 7C:E5:6B:00:00:00/24
-  manufacturer: ESEN Optoelectronics Technology Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: ESENOpto
-type: d3-device-type-assertion

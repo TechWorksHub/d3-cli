@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 36d1ac23-b7b1-5c90-8f1c-5fa591511035
-  macAddresses:
-  - A4:68:BC:00:00:00/24
-  manufacturer: Oakley Inc.
-  manufacturerUri: https://device-type.com
-  name: Oakley
-type: d3-device-type-assertion

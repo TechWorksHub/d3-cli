@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 28061c2b-b837-52d9-a5ea-d214a7add57c
-  macAddresses:
-  - C8:F9:81:00:00:00/24
-  manufacturer: Seneca s.r.l.
-  manufacturerUri: https://device-type.com
-  name: Seneca
-type: d3-device-type-assertion

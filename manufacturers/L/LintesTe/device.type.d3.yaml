@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 47b22b01-c0ae-5da2-aa1d-703469df507f
-  macAddresses:
-  - E0:EF:25:00:00:00/24
-  manufacturer: Lintes Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: LintesTe
-type: d3-device-type-assertion

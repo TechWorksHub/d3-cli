@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f42257ad-898a-55f4-b730-d49226631273
-  macAddresses:
-  - 68:AB:8A:00:00:00/24
-  manufacturer: RF IDeas
-  manufacturerUri: https://device-type.com
-  name: RFIDeas
-type: d3-device-type-assertion

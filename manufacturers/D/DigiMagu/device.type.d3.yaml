@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c17ccb46-b8d2-5ac5-82c8-6dc0d7e721ee
-  macAddresses:
-  - E8:18:63:00:00:00/28
-  manufacturer: DigiMagus Technology (Shenzhen) Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: DigiMagu
-type: d3-device-type-assertion

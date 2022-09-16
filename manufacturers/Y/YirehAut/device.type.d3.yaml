@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0e4d2b98-31ad-5e08-b97c-29cab9eddd9e
-  macAddresses:
-  - B4:37:D1:60:00:00/28
-  manufacturer: Yireh Auto Tech Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: YirehAut
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d52d0a16-71fd-59d0-bc1c-b8a53d5c6578
-  macAddresses:
-  - 70:B3:D5:51:20:00/36
-  manufacturer: Techno Broad,Inc
-  manufacturerUri: https://device-type.com
-  name: TechnoBr
-type: d3-device-type-assertion

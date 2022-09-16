@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 866bee92-f321-545f-b8bb-07fcb83f0aab
-  macAddresses:
-  - 00:17:78:00:00:00/24
-  manufacturer: Central Music Co.
-  manufacturerUri: https://device-type.com
-  name: CentralM
-type: d3-device-type-assertion

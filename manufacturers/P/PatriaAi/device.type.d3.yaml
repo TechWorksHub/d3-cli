@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3a4a7e4d-df0e-5d10-bf27-848d84918358
-  macAddresses:
-  - 00:04:CE:00:00:00/24
-  manufacturer: Patria Ailon
-  manufacturerUri: https://device-type.com
-  name: PatriaAi
-type: d3-device-type-assertion

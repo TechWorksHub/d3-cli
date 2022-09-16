@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 93a4ff76-9ec9-53dd-86d8-23e9f55c7bb8
-  macAddresses:
-  - 00:A0:73:00:00:00/24
-  manufacturer: Com21, Inc.
-  manufacturerUri: https://device-type.com
-  name: Com21
-type: d3-device-type-assertion

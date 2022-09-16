@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e303579c-c115-576f-97c4-adb8d88959d4
-  macAddresses:
-  - 74:72:F2:00:00:00/24
-  manufacturer: Chipsip Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: ChipsipT
-type: d3-device-type-assertion

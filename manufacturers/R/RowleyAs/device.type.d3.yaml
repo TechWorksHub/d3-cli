@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: acbd3682-3966-5956-b7a0-0c83a6b63b05
-  macAddresses:
-  - BC:28:D6:00:00:00/24
-  manufacturer: Rowley Associates Limited
-  manufacturerUri: https://device-type.com
-  name: RowleyAs
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4da2afba-64fb-5d91-bf1e-ff9bf6a57562
-  macAddresses:
-  - 00:50:C2:97:B0:00/36
-  manufacturer: Smartquantum Sa
-  manufacturerUri: https://device-type.com
-  name: Smartqua
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ed6388b6-e895-5ad9-8df3-fad2ffbef39a
-  macAddresses:
-  - 00:0F:C1:00:00:00/24
-  manufacturer: WAVE Corporation
-  manufacturerUri: https://device-type.com
-  name: WAVE
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c44e0ee9-78c1-593b-a985-72280354b476
-  macAddresses:
-  - 00:1B:62:00:00:00/24
-  manufacturer: JHT Optoelectronics Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: JHTOptoe
-type: d3-device-type-assertion

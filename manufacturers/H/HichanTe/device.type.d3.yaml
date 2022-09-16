@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f2488afb-38d3-573d-b4f4-229d78d4af6d
-  macAddresses:
-  - D8:C6:91:00:00:00/24
-  manufacturer: Hichan Technology Corp.
-  manufacturerUri: https://device-type.com
-  name: HichanTe
-type: d3-device-type-assertion

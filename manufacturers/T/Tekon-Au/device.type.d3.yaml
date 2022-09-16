@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 81554343-6b7b-5d77-94c4-d68d8192df3a
-  macAddresses:
-  - 00:1E:D5:00:00:00/24
-  manufacturer: Tekon-Automatics
-  manufacturerUri: https://device-type.com
-  name: Tekon-Au
-type: d3-device-type-assertion

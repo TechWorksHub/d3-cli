@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f45b7a64-81e5-53fc-9ffd-6e2f333cbac0
-  macAddresses:
-  - 78:D9:9F:00:00:00/24
-  manufacturer: NuCom HK Ltd.
-  manufacturerUri: https://device-type.com
-  name: NuComHK
-type: d3-device-type-assertion

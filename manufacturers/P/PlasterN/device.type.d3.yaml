@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3e959cd1-06ee-5beb-9125-2c075ff7bc34
-  macAddresses:
-  - 00:24:E7:00:00:00/24
-  manufacturer: Plaster Networks
-  manufacturerUri: https://device-type.com
-  name: PlasterN
-type: d3-device-type-assertion

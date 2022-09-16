@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 230d3b92-7616-5171-a65d-2b6a0f554f50
-  macAddresses:
-  - 00:16:85:00:00:00/24
-  manufacturer: Elisa Oyj
-  manufacturerUri: https://device-type.com
-  name: Elisa
-type: d3-device-type-assertion

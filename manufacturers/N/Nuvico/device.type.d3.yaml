@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 887c2562-88aa-5e75-94d1-31dd6f4f519f
-  macAddresses:
-  - 5C:69:84:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Nuvico
-type: d3-device-type-assertion

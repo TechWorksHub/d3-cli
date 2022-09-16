@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e2246068-6cae-558c-81f9-0a66100360d6
-  macAddresses:
-  - 00:1C:76:00:00:00/24
-  manufacturer: The Wandsworth Group Ltd
-  manufacturerUri: https://device-type.com
-  name: Wandswor
-type: d3-device-type-assertion

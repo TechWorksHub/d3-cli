@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f928d79a-06d8-54df-8553-8397c3d2097b
-  macAddresses:
-  - 00:C0:88:00:00:00/24
-  manufacturer: Ekf Elektronik Gmbh
-  manufacturerUri: https://device-type.com
-  name: EkfElekt
-type: d3-device-type-assertion

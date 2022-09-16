@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 87afda5e-d3b6-5428-9e9d-2e4127d69434
-  macAddresses:
-  - 00:0D:A4:00:00:00/24
-  manufacturer: Dosch & Amand Systems Ag
-  manufacturerUri: https://device-type.com
-  name: DoschAma
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 82b7a311-235b-52ab-aa41-3b993e0cc7a4
-  macAddresses:
-  - 70:07:77:00:00:00/24
-  manufacturer: OnTarget Technologies, Inc
-  manufacturerUri: https://device-type.com
-  name: OnTarget
-type: d3-device-type-assertion

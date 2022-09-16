@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6e6b41ed-0cb3-5c1a-b323-878c07db101c
-  macAddresses:
-  - 00:06:8B:00:00:00/24
-  manufacturer: AirRunner Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: AirRunne
-type: d3-device-type-assertion

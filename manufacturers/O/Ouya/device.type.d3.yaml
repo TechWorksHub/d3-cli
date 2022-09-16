@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9846faa8-3205-5ab1-b192-5137f3a64f33
-  macAddresses:
-  - B8:5A:F7:00:00:00/24
-  manufacturer: Ouya, Inc
-  manufacturerUri: https://device-type.com
-  name: Ouya
-type: d3-device-type-assertion

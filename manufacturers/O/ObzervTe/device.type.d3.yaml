@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 77bc627e-2da6-5f47-9728-11b9677d0e5d
-  macAddresses:
-  - 00:0F:63:00:00:00/24
-  manufacturer: Obzerv Technologies
-  manufacturerUri: https://device-type.com
-  name: ObzervTe
-type: d3-device-type-assertion

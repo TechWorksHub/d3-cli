@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b2eae232-4276-525b-96c1-ed53c00be93b
-  macAddresses:
-  - 00:1B:C5:02:50:00/36
-  manufacturer: andersen lighting GmbH
-  manufacturerUri: https://device-type.com
-  name: andersen
-type: d3-device-type-assertion

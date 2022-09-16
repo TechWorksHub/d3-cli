@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2a836825-d2bd-5f90-a1b6-65034a5daa5b
-  macAddresses:
-  - 70:B3:D5:8B:10:00/36
-  manufacturer: M-Tech Innovations Limited
-  manufacturerUri: https://device-type.com
-  name: M-TechIn
-type: d3-device-type-assertion

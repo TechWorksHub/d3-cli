@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6f6e7381-a5a0-5f5a-beea-a90d64efb3da
-  macAddresses:
-  - D0:0E:A4:00:00:00/24
-  manufacturer: Porsche Cars North America
-  manufacturerUri: https://device-type.com
-  name: PorscheC
-type: d3-device-type-assertion

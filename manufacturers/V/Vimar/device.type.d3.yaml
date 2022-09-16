@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f0a63b03-273a-52f7-bfbe-4065c3aa5f63
-  macAddresses:
-  - FC:BC:9C:00:00:00/24
-  manufacturer: Vimar Spa
-  manufacturerUri: https://device-type.com
-  name: Vimar
-type: d3-device-type-assertion

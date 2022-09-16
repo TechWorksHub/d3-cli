@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 630294cb-7355-5c24-878a-011f67aa237a
-  macAddresses:
-  - 08:BE:09:00:00:00/24
-  manufacturer: Astrol Electronic AG
-  manufacturerUri: https://device-type.com
-  name: AstrolEl
-type: d3-device-type-assertion

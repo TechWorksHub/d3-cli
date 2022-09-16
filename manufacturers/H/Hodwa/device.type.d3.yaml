@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 08bdc241-978e-5e02-b26a-afed43b6d66f
-  macAddresses:
-  - 70:B3:D5:2C:40:00/36
-  manufacturer: Hodwa Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Hodwa
-type: d3-device-type-assertion

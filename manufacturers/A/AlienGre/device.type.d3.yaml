@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 546f6c42-cf7c-5f4d-940a-82226d01993a
-  macAddresses:
-  - 2C:1C:F6:00:00:00/24
-  manufacturer: Alien Green LLC
-  manufacturerUri: https://device-type.com
-  name: AlienGre
-type: d3-device-type-assertion

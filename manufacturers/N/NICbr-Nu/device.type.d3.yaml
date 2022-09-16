@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 550b34f0-5709-517b-9043-40c4443f1df2
-  macAddresses:
-  - 5C:E0:F6:00:00:00/24
-  manufacturer: NIC.br- Nucleo de Informacao e Coordenacao do Ponto BR
-  manufacturerUri: https://device-type.com
-  name: NICbr-Nu
-type: d3-device-type-assertion

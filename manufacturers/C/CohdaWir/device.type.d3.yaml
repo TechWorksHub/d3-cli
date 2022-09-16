@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3f9dc1fe-159e-531a-9ecc-1b9c660b43bf
-  macAddresses:
-  - 04:E5:48:00:00:00/24
-  manufacturer: Cohda Wireless Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: CohdaWir
-type: d3-device-type-assertion

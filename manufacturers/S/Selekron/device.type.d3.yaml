@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0f0fede0-2ca1-552a-8415-dfaee7875d88
-  macAddresses:
-  - 00:50:C2:80:F0:00/36
-  manufacturer: Selekron Microcontrol s.l.
-  manufacturerUri: https://device-type.com
-  name: Selekron
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c9dc0cbb-df71-59af-8550-eb7bda1f2c9a
-  macAddresses:
-  - 10:65:A3:00:00:00/24
-  manufacturer: Panamax LLC
-  manufacturerUri: https://device-type.com
-  name: Panamax
-type: d3-device-type-assertion

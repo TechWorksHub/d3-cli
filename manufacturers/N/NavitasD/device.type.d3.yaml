@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 23822e3a-8b60-5e52-938c-f81ce718d996
-  macAddresses:
-  - C0:FB:F9:E0:00:00/28
-  manufacturer: Navitas Digital Safety Ltd
-  manufacturerUri: https://device-type.com
-  name: NavitasD
-type: d3-device-type-assertion

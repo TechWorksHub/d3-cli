@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 75a616d2-923e-51ed-ac66-8acb4a0194d1
-  macAddresses:
-  - 00:50:C2:16:40:00/36
-  manufacturer: Acunia N.V.
-  manufacturerUri: https://device-type.com
-  name: Acunia
-type: d3-device-type-assertion

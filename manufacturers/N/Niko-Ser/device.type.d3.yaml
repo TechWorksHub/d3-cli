@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 730d0459-cce4-5912-be87-688f30ab82c2
-  macAddresses:
-  - 10:B9:F7:00:00:00/24
-  manufacturer: Niko-Servodan
-  manufacturerUri: https://device-type.com
-  name: Niko-Ser
-type: d3-device-type-assertion

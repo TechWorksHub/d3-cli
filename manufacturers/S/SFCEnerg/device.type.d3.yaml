@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aa818349-8188-5900-aab1-53ea4ddf9cc1
-  macAddresses:
-  - E4:1E:0A:60:00:00/28
-  manufacturer: SFC Energy AG
-  manufacturerUri: https://device-type.com
-  name: SFCEnerg
-type: d3-device-type-assertion

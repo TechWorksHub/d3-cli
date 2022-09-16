@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 05966f44-f149-5221-9307-f4ec6be44456
-  macAddresses:
-  - 00:19:44:00:00:00/24
-  manufacturer: Fossil Partners, L.P.
-  manufacturerUri: https://device-type.com
-  name: FossilPa
-type: d3-device-type-assertion

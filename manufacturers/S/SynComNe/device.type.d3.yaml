@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9cec3980-0721-57f9-b258-5ba69df0c091
-  macAddresses:
-  - 00:07:83:00:00:00/24
-  manufacturer: SynCom Network, Inc.
-  manufacturerUri: https://device-type.com
-  name: SynComNe
-type: d3-device-type-assertion

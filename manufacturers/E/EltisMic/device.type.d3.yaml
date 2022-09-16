@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3ed03f28-8366-5b01-ad7a-0d802b64081a
-  macAddresses:
-  - 00:0E:67:00:00:00/24
-  manufacturer: Eltis Microelectronics Ltd.
-  manufacturerUri: https://device-type.com
-  name: EltisMic
-type: d3-device-type-assertion

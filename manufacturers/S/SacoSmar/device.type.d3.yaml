@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a361b5a4-9148-5901-8350-cbdbd5d32717
-  macAddresses:
-  - 00:50:C2:07:70:00/36
-  manufacturer: Saco Smartvision Inc.
-  manufacturerUri: https://device-type.com
-  name: SacoSmar
-type: d3-device-type-assertion

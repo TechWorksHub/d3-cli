@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cc7478cb-345e-57dd-a6d0-8ba141c440d0
-  macAddresses:
-  - 00:1E:5F:00:00:00/24
-  manufacturer: KwikByte, LLC
-  manufacturerUri: https://device-type.com
-  name: KwikByte
-type: d3-device-type-assertion

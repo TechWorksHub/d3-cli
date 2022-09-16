@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 05eee725-c99a-5759-be6e-a38773d1d1ca
-  macAddresses:
-  - 00:1B:36:00:00:00/24
-  manufacturer: Tsubata Engineering Co.,Ltd. (Head Office)
-  manufacturerUri: https://device-type.com
-  name: TsubataE
-type: d3-device-type-assertion

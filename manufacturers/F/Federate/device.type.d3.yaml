@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: da926482-c0e2-5bef-b0e2-5af614669343
-  macAddresses:
-  - 70:B3:D5:E2:20:00/36
-  manufacturer: Federated Wireless, Inc.
-  manufacturerUri: https://device-type.com
-  name: Federate
-type: d3-device-type-assertion

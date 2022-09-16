@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cc2e0ccb-a50e-5cd9-98d2-9fb66131adf1
-  macAddresses:
-  - 54:54:CF:00:00:00/24
-  manufacturer: Probedigital Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: Probedig
-type: d3-device-type-assertion

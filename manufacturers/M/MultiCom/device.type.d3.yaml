@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 88bb140d-36cf-5ba4-8cdd-b758a2e26381
-  macAddresses:
-  - 00:14:76:00:00:00/24
-  manufacturer: MultiCom Industries Limited
-  manufacturerUri: https://device-type.com
-  name: MultiCom
-type: d3-device-type-assertion

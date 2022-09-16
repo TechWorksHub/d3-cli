@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c5477293-cb15-51c1-87cb-0df836539f5b
-  macAddresses:
-  - 00:80:5D:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Canstar
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0c61dbdb-2631-5da6-8743-32607f9df124
-  macAddresses:
-  - 00:C1:4F:00:00:00/24
-  manufacturer: DDL Co,.ltd.
-  manufacturerUri: https://device-type.com
-  name: DDL
-type: d3-device-type-assertion

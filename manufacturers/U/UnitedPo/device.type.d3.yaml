@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 693a4247-d444-5a77-aee9-71ae9c1cc8bb
-  macAddresses:
-  - 98:02:D8:20:00:00/28
-  manufacturer: United Power Research Technology Corp.
-  manufacturerUri: https://device-type.com
-  name: UnitedPo
-type: d3-device-type-assertion

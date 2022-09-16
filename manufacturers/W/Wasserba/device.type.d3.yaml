@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 098cc8d7-dcb2-5565-9527-e3563552d3f7
-  macAddresses:
-  - 40:D8:55:09:20:00/36
-  manufacturer: Wasserbauer GmbH
-  manufacturerUri: https://device-type.com
-  name: Wasserba
-type: d3-device-type-assertion

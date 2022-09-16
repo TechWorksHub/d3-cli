@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d64f496f-6330-5bcb-8a94-8428d7d8d1cd
-  macAddresses:
-  - 54:A4:93:C0:00:00/28
-  manufacturer: Bj Cotytech Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: BjCotyte
-type: d3-device-type-assertion

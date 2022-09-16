@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 15a408fe-c4bf-5ae6-981a-cefe9dfa1bc4
-  macAddresses:
-  - D4:31:9D:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Sinwatec
-type: d3-device-type-assertion

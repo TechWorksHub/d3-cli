@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6c2feeb2-95e1-5604-b612-866b0e0d276d
-  macAddresses:
-  - 54:A9:D4:00:00:00/24
-  manufacturer: Minibar Systems
-  manufacturerUri: https://device-type.com
-  name: Minibar
-type: d3-device-type-assertion

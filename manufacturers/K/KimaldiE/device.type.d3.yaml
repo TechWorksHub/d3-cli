@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aa3f8759-f3eb-5b8b-a20e-eaa132f7e247
-  macAddresses:
-  - 00:18:24:00:00:00/24
-  manufacturer: Kimaldi Electronics, S.L.
-  manufacturerUri: https://device-type.com
-  name: KimaldiE
-type: d3-device-type-assertion

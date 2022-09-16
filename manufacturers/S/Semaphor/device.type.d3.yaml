@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fa9b717b-24f5-5cdd-95c8-f6c157188ec6
-  macAddresses:
-  - 00:C0:5A:00:00:00/24
-  manufacturer: Semaphore Communications Corp.
-  manufacturerUri: https://device-type.com
-  name: Semaphor
-type: d3-device-type-assertion

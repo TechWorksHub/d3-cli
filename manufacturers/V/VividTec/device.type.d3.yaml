@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b392ef65-e39c-59ad-97dd-ba1b1e42d889
-  macAddresses:
-  - 00:D0:C3:00:00:00/24
-  manufacturer: Vivid Technology Pte, Ltd.
-  manufacturerUri: https://device-type.com
-  name: VividTec
-type: d3-device-type-assertion

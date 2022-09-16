@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1bdf3ee4-35e6-5c7d-8dc4-ff1ed6c11276
-  macAddresses:
-  - 00:26:AF:00:00:00/24
-  manufacturer: Duelco A/S
-  manufacturerUri: https://device-type.com
-  name: Duelco
-type: d3-device-type-assertion

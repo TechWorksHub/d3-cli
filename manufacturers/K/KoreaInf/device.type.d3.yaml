@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1458befc-115c-547c-8b5a-28943e313b32
-  macAddresses:
-  - 20:D5:AB:00:00:00/24
-  manufacturer: Korea Infocom Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: KoreaInf
-type: d3-device-type-assertion

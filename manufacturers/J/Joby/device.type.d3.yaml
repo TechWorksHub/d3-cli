@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eb8e4b19-2814-59ee-88af-0012b501422c
-  macAddresses:
-  - 00:1A:FB:00:00:00/24
-  manufacturer: Joby Inc.
-  manufacturerUri: https://device-type.com
-  name: Joby
-type: d3-device-type-assertion

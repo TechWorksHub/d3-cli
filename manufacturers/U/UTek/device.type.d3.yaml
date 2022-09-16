@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 873abe75-187a-547b-9a9a-07a3a248e655
-  macAddresses:
-  - 68:CD:0F:00:00:00/24
-  manufacturer: U Tek Company Limited
-  manufacturerUri: https://device-type.com
-  name: UTek
-type: d3-device-type-assertion

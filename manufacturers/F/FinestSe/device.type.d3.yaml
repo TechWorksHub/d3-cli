@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c7b56989-cecb-53b2-9fe3-6e7ef3b062ea
-  macAddresses:
-  - 2C:62:5A:00:00:00/24
-  manufacturer: Finest Security Systems Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: FinestSe
-type: d3-device-type-assertion

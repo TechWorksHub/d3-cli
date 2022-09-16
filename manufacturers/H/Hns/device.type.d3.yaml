@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b6cce371-6f12-5811-a40e-7ec132c1415f
-  macAddresses:
-  - 60:DB:2A:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Hns
-type: d3-device-type-assertion

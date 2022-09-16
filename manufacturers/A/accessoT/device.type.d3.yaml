@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 63485187-51f1-5c78-86e2-6f12cf08fadf
-  macAddresses:
-  - A4:11:63:90:00:00/28
-  manufacturer: accesso Technology Group
-  manufacturerUri: https://device-type.com
-  name: accessoT
-type: d3-device-type-assertion

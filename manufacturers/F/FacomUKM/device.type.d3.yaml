@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7efb1336-6ee6-546d-a2e9-9970c696f55f
-  macAddresses:
-  - 00:15:92:00:00:00/24
-  manufacturer: Facom UK Ltd (Melksham)
-  manufacturerUri: https://device-type.com
-  name: FacomUKM
-type: d3-device-type-assertion

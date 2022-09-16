@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2ad828e4-e3f9-5e16-9836-a081a7cbb212
-  macAddresses:
-  - 00:1D:99:00:00:00/24
-  manufacturer: Cyan Optic, Inc.
-  manufacturerUri: https://device-type.com
-  name: CyanOpti
-type: d3-device-type-assertion

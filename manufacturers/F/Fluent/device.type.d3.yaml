@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ede2dbbf-eb7e-50b1-8676-c4c755a383f6
-  macAddresses:
-  - 00:40:4E:00:00:00/24
-  manufacturer: Fluent, Inc.
-  manufacturerUri: https://device-type.com
-  name: Fluent
-type: d3-device-type-assertion

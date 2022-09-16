@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 76af7faf-2227-5249-bfb4-1cc90e8f69fe
-  macAddresses:
-  - 00:18:97:00:00:00/24
-  manufacturer: JESS-LINK PRODUCTS Co., LTD
-  manufacturerUri: https://device-type.com
-  name: JESS-LIN
-type: d3-device-type-assertion

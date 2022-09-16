@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e37bbafe-6841-5b7e-b104-6ddc601f1c47
-  macAddresses:
-  - 00:11:FF:00:00:00/24
-  manufacturer: Digitro Tecnologia Ltda
-  manufacturerUri: https://device-type.com
-  name: DigitroT
-type: d3-device-type-assertion

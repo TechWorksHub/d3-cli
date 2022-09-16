@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a55302ea-839a-56e2-8438-6772b8bc53d4
-  macAddresses:
-  - D0:9F:D9:10:00:00/28
-  manufacturer: elecgator bvba
-  manufacturerUri: https://device-type.com
-  name: elecgato
-type: d3-device-type-assertion

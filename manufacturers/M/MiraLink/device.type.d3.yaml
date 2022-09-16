@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e62962c1-bd43-5bc1-8d28-77948f14a0ac
-  macAddresses:
-  - 00:1B:74:00:00:00/24
-  manufacturer: MiraLink Corporation
-  manufacturerUri: https://device-type.com
-  name: MiraLink
-type: d3-device-type-assertion

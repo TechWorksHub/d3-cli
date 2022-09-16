@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f6615191-17dd-5d31-99ac-8799ee7ab4f6
-  macAddresses:
-  - 00:50:C2:4B:40:00/36
-  manufacturer: Matrix Audio Designs
-  manufacturerUri: https://device-type.com
-  name: MatrixAu
-type: d3-device-type-assertion

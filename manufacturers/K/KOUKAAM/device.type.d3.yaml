@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ec819de1-9a29-51af-a23d-c5141a01e601
-  macAddresses:
-  - 24:A4:2C:00:00:00/24
-  manufacturer: KOUKAAM a.s.
-  manufacturerUri: https://device-type.com
-  name: KOUKAAM
-type: d3-device-type-assertion

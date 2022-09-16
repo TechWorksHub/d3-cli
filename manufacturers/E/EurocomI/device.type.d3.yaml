@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d9f6aa72-6b92-565b-8efc-36d693ad5f78
-  macAddresses:
-  - 00:0F:C6:00:00:00/24
-  manufacturer: Eurocom Industries A/S
-  manufacturerUri: https://device-type.com
-  name: EurocomI
-type: d3-device-type-assertion

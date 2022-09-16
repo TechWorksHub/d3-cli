@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6715cd5d-bb3a-5f32-9ba7-62fe83422e21
-  macAddresses:
-  - 00:40:11:00:00:00/24
-  manufacturer: Andover Controls Corporation
-  manufacturerUri: https://device-type.com
-  name: AndoverC
-type: d3-device-type-assertion

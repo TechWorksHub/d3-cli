@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e3616d8b-147a-59ec-a72d-4e0286566e5a
-  macAddresses:
-  - 00:E0:38:00:00:00/24
-  manufacturer: Proxima Corporation
-  manufacturerUri: https://device-type.com
-  name: Proxima
-type: d3-device-type-assertion

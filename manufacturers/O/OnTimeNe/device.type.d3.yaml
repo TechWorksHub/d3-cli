@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 06f466d0-641c-5acd-b84a-4364976aab40
-  macAddresses:
-  - CC:54:59:00:00:00/24
-  manufacturer: OnTime Networks AS
-  manufacturerUri: https://device-type.com
-  name: OnTimeNe
-type: d3-device-type-assertion

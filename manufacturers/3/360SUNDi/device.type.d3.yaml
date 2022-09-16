@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bc61c0ce-7be4-5dfc-924f-57dc36fb4e15
-  macAddresses:
-  - 00:0E:60:00:00:00/24
-  manufacturer: 360SUN Digital Broadband Corporation
-  manufacturerUri: https://device-type.com
-  name: 360SUNDi
-type: d3-device-type-assertion

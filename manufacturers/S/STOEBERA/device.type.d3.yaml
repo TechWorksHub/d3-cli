@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 93d5df64-ed03-5371-942d-db9a0cd6f5e3
-  macAddresses:
-  - 00:11:39:00:00:00/24
-  manufacturer: STOEBER ANTRIEBSTECHNIK GmbH + Co. KG.
-  manufacturerUri: https://device-type.com
-  name: STOEBERA
-type: d3-device-type-assertion

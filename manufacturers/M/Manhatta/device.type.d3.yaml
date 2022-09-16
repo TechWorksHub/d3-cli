@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fd81ff4c-146b-5a6e-a49a-ed71213cdffc
-  macAddresses:
-  - 00:1F:49:00:00:00/24
-  manufacturer: Manhattan TV Ltd
-  manufacturerUri: https://device-type.com
-  name: Manhatta
-type: d3-device-type-assertion

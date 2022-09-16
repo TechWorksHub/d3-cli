@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c4103c54-ba2b-5397-8c02-f844a24a90ef
-  macAddresses:
-  - 00:50:C2:9E:30:00/36
-  manufacturer: SAI Informationstechnik
-  manufacturerUri: https://device-type.com
-  name: SAIInfor
-type: d3-device-type-assertion

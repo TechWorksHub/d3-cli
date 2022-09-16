@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: feb27d52-bb5a-5a4c-885e-ee26a8a31d5b
-  macAddresses:
-  - AC:6F:4F:00:00:00/24
-  manufacturer: Enspert Inc
-  manufacturerUri: https://device-type.com
-  name: Enspert
-type: d3-device-type-assertion

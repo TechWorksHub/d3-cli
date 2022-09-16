@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6c928a77-9327-5f50-8f4b-72cd7cac7962
-  macAddresses:
-  - 00:0C:D6:00:00:00/24
-  manufacturer: Partner Tech
-  manufacturerUri: https://device-type.com
-  name: PartnerT
-type: d3-device-type-assertion

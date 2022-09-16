@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b4c0dbbf-0199-5b2a-b21c-39e32aa474fb
-  macAddresses:
-  - 00:21:FA:00:00:00/24
-  manufacturer: A4SP Technologies Ltd.
-  manufacturerUri: https://device-type.com
-  name: A4SPTech
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bad49769-5c17-5828-8db1-3e8bf77ba195
-  macAddresses:
-  - 70:B3:D5:0E:40:00/36
-  manufacturer: "Walter M\xFCller AG"
-  manufacturerUri: https://device-type.com
-  name: "WalterM\xFC"
-type: d3-device-type-assertion

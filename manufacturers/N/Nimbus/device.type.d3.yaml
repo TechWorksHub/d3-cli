@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ac045393-f9cd-5f0b-a5b2-9f789e24d791
-  macAddresses:
-  - 80:64:59:00:00:00/24
-  manufacturer: Nimbus Inc.
-  manufacturerUri: https://device-type.com
-  name: Nimbus
-type: d3-device-type-assertion

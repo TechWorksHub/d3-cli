@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d425aad1-b76b-5f9e-b3a7-e1a1d1be80a2
-  macAddresses:
-  - 00:26:DD:00:00:00/24
-  manufacturer: Fival Science & Technology Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: FivalSci
-type: d3-device-type-assertion

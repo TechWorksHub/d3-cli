@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c0d20f75-043b-500c-ab77-b1a10b6b192b
-  macAddresses:
-  - 00:08:14:00:00:00/24
-  manufacturer: TIL Technologies
-  manufacturerUri: https://device-type.com
-  name: TILTechn
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 250268dd-69ca-5c55-8a6c-348bd9f78a7d
-  macAddresses:
-  - 78:C2:C0:40:00:00/28
-  manufacturer: Ory Laboratory Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: OryLabor
-type: d3-device-type-assertion

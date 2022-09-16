@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 61019664-3be6-5767-8e4a-917cf6cec843
-  macAddresses:
-  - 00:50:C2:25:90:00/36
-  manufacturer: Omicron Ceti AB
-  manufacturerUri: https://device-type.com
-  name: OmicronC
-type: d3-device-type-assertion

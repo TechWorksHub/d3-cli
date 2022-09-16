@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 86534688-4ae7-5434-82de-e9834a5345e2
-  macAddresses:
-  - 70:B3:D5:77:A0:00/36
-  manufacturer: Tecsag Innovation AG
-  manufacturerUri: https://device-type.com
-  name: TecsagIn
-type: d3-device-type-assertion

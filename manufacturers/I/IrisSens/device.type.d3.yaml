@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ffebe489-7875-5908-818d-347478799ef4
-  macAddresses:
-  - 00:0F:39:00:00:00/24
-  manufacturer: Iris Sensors
-  manufacturerUri: https://device-type.com
-  name: IrisSens
-type: d3-device-type-assertion

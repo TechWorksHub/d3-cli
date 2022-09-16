@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5e5362fc-f34e-5772-8449-ecea63706a4c
-  macAddresses:
-  - 00:50:C2:20:80:00/36
-  manufacturer: nNovia, Inc.
-  manufacturerUri: https://device-type.com
-  name: nNovia
-type: d3-device-type-assertion

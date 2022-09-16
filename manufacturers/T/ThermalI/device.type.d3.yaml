@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8dc588a9-3a8f-5b72-b22a-813d38396cdb
-  macAddresses:
-  - 40:D8:55:0A:A0:00/36
-  manufacturer: Thermal Imaging Radar, LLC
-  manufacturerUri: https://device-type.com
-  name: ThermalI
-type: d3-device-type-assertion

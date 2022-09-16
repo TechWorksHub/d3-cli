@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a2fcf472-ca23-59b4-8b2d-bd21a99b98d5
-  macAddresses:
-  - 00:1B:9F:00:00:00/24
-  manufacturer: Calyptech Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: Calyptec
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3542bfaa-97fd-5cab-a69f-b23f2ec12b42
-  macAddresses:
-  - 00:0B:EE:00:00:00/24
-  manufacturer: inc.jet, Incorporated
-  manufacturerUri: https://device-type.com
-  name: jet
-type: d3-device-type-assertion

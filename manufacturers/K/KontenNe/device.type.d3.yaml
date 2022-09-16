@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9fda8660-576e-5858-8daf-12dec040bb7b
-  macAddresses:
-  - 68:02:35:00:00:00/24
-  manufacturer: Konten Networks Inc.
-  manufacturerUri: https://device-type.com
-  name: KontenNe
-type: d3-device-type-assertion

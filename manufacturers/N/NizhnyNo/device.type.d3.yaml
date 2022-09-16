@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 70644684-666d-5c3b-b726-c737bff8ff33
-  macAddresses:
-  - 00:1B:50:00:00:00/24
-  manufacturer: Nizhny Novgorod Factory named after M.Frunze, FSUE (NZiF)
-  manufacturerUri: https://device-type.com
-  name: NizhnyNo
-type: d3-device-type-assertion

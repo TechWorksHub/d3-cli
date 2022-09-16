@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7cc22d8b-41c1-59e5-ac18-00400f007059
-  macAddresses:
-  - 3C:E6:24:00:00:00/24
-  manufacturer: LG Display
-  manufacturerUri: https://device-type.com
-  name: LGDispla
-type: d3-device-type-assertion

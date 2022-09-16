@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: be15fab6-f8b5-51e0-98ac-1593653023cf
-  macAddresses:
-  - D0:9F:D9:30:00:00/28
-  manufacturer: GS Yuasa Infrastructure Systems Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: GSYuasaI
-type: d3-device-type-assertion

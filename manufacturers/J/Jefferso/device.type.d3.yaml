@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e8efc417-937e-5c93-959c-f183fcb16c10
-  macAddresses:
-  - 5C:40:58:00:00:00/24
-  manufacturer: Jefferson Audio Video Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Jefferso
-type: d3-device-type-assertion

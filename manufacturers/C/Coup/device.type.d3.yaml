@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bc90ad71-b74f-5cd8-a9e5-692cb28836ee
-  macAddresses:
-  - 00:07:E5:00:00:00/24
-  manufacturer: Coup Corporation
-  manufacturerUri: https://device-type.com
-  name: Coup
-type: d3-device-type-assertion

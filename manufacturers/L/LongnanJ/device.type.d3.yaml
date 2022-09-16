@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9e6613b2-71eb-5981-9882-ad7c1056faf5
-  macAddresses:
-  - 90:03:72:00:00:00/24
-  manufacturer: Longnan Junya Digital Technology Co. Ltd.
-  manufacturerUri: https://device-type.com
-  name: LongnanJ
-type: d3-device-type-assertion

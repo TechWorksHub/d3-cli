@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d3299665-91da-536d-a7f3-086e04483b10
-  macAddresses:
-  - 40:D8:55:0A:D0:00/36
-  manufacturer: Space Micro
-  manufacturerUri: https://device-type.com
-  name: SpaceMic
-type: d3-device-type-assertion

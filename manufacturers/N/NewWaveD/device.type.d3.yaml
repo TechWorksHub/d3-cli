@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f251aabe-9258-5069-a040-493b40e0c949
-  macAddresses:
-  - 00:1A:86:00:00:00/24
-  manufacturer: New Wave Design & Verification
-  manufacturerUri: https://device-type.com
-  name: NewWaveD
-type: d3-device-type-assertion

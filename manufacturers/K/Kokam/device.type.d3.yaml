@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5b65283c-b312-53f3-acd7-9b6da1371174
-  macAddresses:
-  - 70:B3:D5:A2:E0:00/36
-  manufacturer: Kokam Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Kokam
-type: d3-device-type-assertion

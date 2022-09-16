@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: de75c329-5265-5839-bb8b-8683d583990b
-  macAddresses:
-  - 00:D0:CE:00:00:00/24
-  manufacturer: iSystem Labs
-  manufacturerUri: https://device-type.com
-  name: iSystemL
-type: d3-device-type-assertion

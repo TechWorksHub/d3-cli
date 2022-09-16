@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e331ccc8-9881-5593-8eed-045617990155
-  macAddresses:
-  - 0C:C4:7E:00:00:00/24
-  manufacturer: EUCAST Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: EUCAST
-type: d3-device-type-assertion

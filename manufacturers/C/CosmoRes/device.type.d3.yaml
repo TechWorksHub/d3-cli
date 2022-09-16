@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3c5b5f2b-96bc-591d-bbba-426a38a66ce9
-  macAddresses:
-  - 00:02:37:00:00:00/24
-  manufacturer: Cosmo Research Corp.
-  manufacturerUri: https://device-type.com
-  name: CosmoRes
-type: d3-device-type-assertion

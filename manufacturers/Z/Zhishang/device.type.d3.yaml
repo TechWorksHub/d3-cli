@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ab4b7243-6c57-5475-927a-1c772a336805
-  macAddresses:
-  - 68:65:B7:00:00:00/24
-  manufacturer: Zhishang Chuanglian Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Zhishang
-type: d3-device-type-assertion

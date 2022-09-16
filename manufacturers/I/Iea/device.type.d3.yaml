@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dedd8c05-67a3-53fb-846d-b088f108ce6c
-  macAddresses:
-  - D4:F6:3F:00:00:00/24
-  manufacturer: Iea S.R.L.
-  manufacturerUri: https://device-type.com
-  name: Iea
-type: d3-device-type-assertion

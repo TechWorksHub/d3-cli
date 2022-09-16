@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d5de8e70-d77d-5c5e-804a-9d8f701ea6b1
-  macAddresses:
-  - 00:C0:3C:00:00:00/24
-  manufacturer: Tower Tech S.R.L.
-  manufacturerUri: https://device-type.com
-  name: TowerTec
-type: d3-device-type-assertion

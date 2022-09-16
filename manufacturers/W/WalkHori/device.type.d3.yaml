@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9953053f-0a3f-5bb5-803a-31a8e9579f6f
-  macAddresses:
-  - 70:B3:D5:15:40:00/36
-  manufacturer: Walk Horizon Technology (Beijing) Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: WalkHori
-type: d3-device-type-assertion

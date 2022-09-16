@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 12753c07-fae7-5ef1-8010-221fbc80cbdf
-  macAddresses:
-  - B4:62:AD:00:00:00/24
-  manufacturer: Elysia Germany GmbH
-  manufacturerUri: https://device-type.com
-  name: ElysiaGe
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 933e043e-74dc-5135-b827-7ece5c1a9468
-  macAddresses:
-  - 00:0D:9A:00:00:00/24
-  manufacturer: Infotec Ltd
-  manufacturerUri: https://device-type.com
-  name: Infotec
-type: d3-device-type-assertion

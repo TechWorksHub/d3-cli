@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7e4f494f-ebf2-5fe9-91d9-9b28914a5696
-  macAddresses:
-  - E8:6C:C7:D0:00:00/28
-  manufacturer: z-max mediasolution
-  manufacturerUri: https://device-type.com
-  name: z-maxmed
-type: d3-device-type-assertion

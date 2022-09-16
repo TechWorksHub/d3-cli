@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0351512b-7cb7-5389-8264-029ba716d91f
-  macAddresses:
-  - 00:26:29:00:00:00/24
-  manufacturer: Juphoon System Software Inc.
-  manufacturerUri: https://device-type.com
-  name: JuphoonS
-type: d3-device-type-assertion

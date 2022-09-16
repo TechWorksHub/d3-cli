@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 46436209-59b3-5fcc-9074-b8e51f08fbab
-  macAddresses:
-  - 00:55:DA:70:00:00/28
-  manufacturer: "Lucistechnologies\uFF08Shanghai\uFF09Co.,Ltd"
-  manufacturerUri: https://device-type.com
-  name: Lucistec
-type: d3-device-type-assertion

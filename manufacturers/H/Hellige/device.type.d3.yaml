@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 80a0c748-9793-5474-b71d-7dca3b5b4202
-  macAddresses:
-  - 00:00:59:00:00:00/24
-  manufacturer: Hellige GMBH
-  manufacturerUri: https://device-type.com
-  name: Hellige
-type: d3-device-type-assertion

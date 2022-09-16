@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cc830bb9-60eb-5d7a-9843-ea2710c52038
-  macAddresses:
-  - F8:91:73:00:00:00/24
-  manufacturer: Aedle Sas
-  manufacturerUri: https://device-type.com
-  name: AedleSas
-type: d3-device-type-assertion

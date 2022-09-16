@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a6a365ed-f4e1-52ee-8d46-cdd5d7322fee
-  macAddresses:
-  - 00:50:C2:F2:10:00/36
-  manufacturer: SEITEC Co. Ltd
-  manufacturerUri: https://device-type.com
-  name: SEITEC
-type: d3-device-type-assertion

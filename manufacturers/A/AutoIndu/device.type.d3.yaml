@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 73714099-62b0-5051-b870-9bc6b937e55b
-  macAddresses:
-  - 08:76:95:00:00:00/24
-  manufacturer: Auto Industrial Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: AutoIndu
-type: d3-device-type-assertion

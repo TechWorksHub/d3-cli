@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9a9ffbc1-54c9-59fc-ba6e-7f0d11fbb9f4
-  macAddresses:
-  - F0:74:E4:00:00:00/24
-  manufacturer: Thundercomm Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Thunderc
-type: d3-device-type-assertion

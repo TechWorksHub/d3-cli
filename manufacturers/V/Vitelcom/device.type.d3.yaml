@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 66ebe496-cc7f-54f3-afc0-570e0084036a
-  macAddresses:
-  - 00:14:C4:00:00:00/24
-  manufacturer: Vitelcom Mobile Technology
-  manufacturerUri: https://device-type.com
-  name: Vitelcom
-type: d3-device-type-assertion

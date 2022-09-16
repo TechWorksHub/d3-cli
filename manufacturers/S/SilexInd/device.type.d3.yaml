@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 701313cd-b5ca-58ed-a0d9-71e066e1e8b6
-  macAddresses:
-  - 00:50:C2:60:80:00/36
-  manufacturer: Silex Industrial Automation Ltd.
-  manufacturerUri: https://device-type.com
-  name: SilexInd
-type: d3-device-type-assertion

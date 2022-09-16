@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 735f9135-3390-597f-a2dd-a286c259d5d3
-  macAddresses:
-  - 00:14:CC:00:00:00/24
-  manufacturer: Zetec, Inc.
-  manufacturerUri: https://device-type.com
-  name: Zetec
-type: d3-device-type-assertion

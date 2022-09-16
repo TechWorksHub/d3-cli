@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 13633adf-db76-5a76-935a-084b76d5629a
-  macAddresses:
-  - 00:50:C2:85:10:00/36
-  manufacturer: SPJ Embedded Technologies Pvt. Ltd.
-  manufacturerUri: https://device-type.com
-  name: SPJEmbed
-type: d3-device-type-assertion

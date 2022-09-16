@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 06e76380-7c0b-5280-8557-3c139ed9a8bf
-  macAddresses:
-  - 00:1C:A3:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Terra
-type: d3-device-type-assertion

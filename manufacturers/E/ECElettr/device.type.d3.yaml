@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 77f770ce-31e7-5d52-b2bc-c232ec4ec15b
-  macAddresses:
-  - 00:50:C2:06:90:00/36
-  manufacturer: EC Elettronica S.R.L.
-  manufacturerUri: https://device-type.com
-  name: ECElettr
-type: d3-device-type-assertion

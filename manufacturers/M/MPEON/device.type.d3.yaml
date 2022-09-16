@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8062663d-7eed-55e4-ab74-4c2813ea666f
-  macAddresses:
-  - 04:EE:E8:80:00:00/28
-  manufacturer: MPEON Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: MPEON
-type: d3-device-type-assertion

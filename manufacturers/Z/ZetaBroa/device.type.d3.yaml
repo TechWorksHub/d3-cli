@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 72798f33-e714-5333-a204-515afdaf52b8
-  macAddresses:
-  - 00:08:CB:00:00:00/24
-  manufacturer: Zeta Broadband Inc.
-  manufacturerUri: https://device-type.com
-  name: ZetaBroa
-type: d3-device-type-assertion

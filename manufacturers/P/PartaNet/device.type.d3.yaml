@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c74291ff-dd65-5aa4-83ff-1100c0f44dd9
-  macAddresses:
-  - AC:42:28:00:00:00/24
-  manufacturer: Parta Networks
-  manufacturerUri: https://device-type.com
-  name: PartaNet
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d517c4d1-122f-54af-9829-66e6f8c35569
-  macAddresses:
-  - 00:10:9E:00:00:00/24
-  manufacturer: Aware, Inc.
-  manufacturerUri: https://device-type.com
-  name: Aware
-type: d3-device-type-assertion

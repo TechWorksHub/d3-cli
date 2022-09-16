@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 31872084-f8f0-5e94-aef9-766bd0296615
-  macAddresses:
-  - 00:20:55:00:00:00/24
-  manufacturer: Altech Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Altech
-type: d3-device-type-assertion

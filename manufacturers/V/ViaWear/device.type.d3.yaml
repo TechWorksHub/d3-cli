@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 04d86399-02ae-5dc8-a369-e23d392413ea
-  macAddresses:
-  - 8C:19:2D:90:00:00/28
-  manufacturer: ViaWear, Inc.
-  manufacturerUri: https://device-type.com
-  name: ViaWear
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1015c304-4cad-5b35-a53b-fec060c9e724
-  macAddresses:
-  - 00:1C:20:00:00:00/24
-  manufacturer: CLB Benelux
-  manufacturerUri: https://device-type.com
-  name: CLBBenel
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 56028630-1888-5a38-89a4-d907b1441fb4
-  macAddresses:
-  - 00:40:68:00:00:00/24
-  manufacturer: Extended Systems
-  manufacturerUri: https://device-type.com
-  name: Extended
-type: d3-device-type-assertion

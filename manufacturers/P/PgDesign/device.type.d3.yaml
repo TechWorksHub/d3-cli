@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 41b40dfe-d2cc-52b1-9fbe-2db024eff479
-  macAddresses:
-  - 00:50:23:00:00:00/24
-  manufacturer: Pg Design Electronics, Inc.
-  manufacturerUri: https://device-type.com
-  name: PgDesign
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f268e937-e7b4-579b-80f7-53cb65d231a6
-  macAddresses:
-  - 00:09:C1:00:00:00/24
-  manufacturer: Proces-Data A/S
-  manufacturerUri: https://device-type.com
-  name: Proces-D
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bb9f579a-aa1a-5d1f-a871-68e4ee968e2b
-  macAddresses:
-  - 70:B3:D5:60:80:00/36
-  manufacturer: Eiit Sa
-  manufacturerUri: https://device-type.com
-  name: Eiit
-type: d3-device-type-assertion

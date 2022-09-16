@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9713c8ea-1aed-5755-9c26-2523dfb980c5
-  macAddresses:
-  - 00:07:57:00:00:00/24
-  manufacturer: Topcall International AG
-  manufacturerUri: https://device-type.com
-  name: TopcallI
-type: d3-device-type-assertion

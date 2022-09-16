@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 07cacbba-0d79-569e-8045-6c6e883b33aa
-  macAddresses:
-  - EC:DB:86:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Api-K
-type: d3-device-type-assertion

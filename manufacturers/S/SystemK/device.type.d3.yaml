@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f9241460-68e1-5836-9321-94f5da99de7a
-  macAddresses:
-  - 00:09:13:00:00:00/24
-  manufacturer: SystemK Corporation
-  manufacturerUri: https://device-type.com
-  name: SystemK
-type: d3-device-type-assertion

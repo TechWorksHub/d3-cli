@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cab2b094-f8c7-5468-aa2e-675d650e713f
-  macAddresses:
-  - 00:50:C2:3C:80:00/36
-  manufacturer: Wheels of Zeus Inc.
-  manufacturerUri: https://device-type.com
-  name: WheelsZe
-type: d3-device-type-assertion

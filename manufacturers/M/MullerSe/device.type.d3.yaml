@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e03182e5-0370-5963-9b02-102138407526
-  macAddresses:
-  - B0:02:7E:00:00:00/24
-  manufacturer: Muller Services
-  manufacturerUri: https://device-type.com
-  name: MullerSe
-type: d3-device-type-assertion

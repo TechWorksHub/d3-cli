@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3d5c551d-320c-5cc2-ac32-485b0547979f
-  macAddresses:
-  - 70:B3:D5:80:D0:00/36
-  manufacturer: Data Physics Corporation
-  manufacturerUri: https://device-type.com
-  name: DataPhys
-type: d3-device-type-assertion

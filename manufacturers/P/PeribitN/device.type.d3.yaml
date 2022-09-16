@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 46f1df66-439c-5527-a642-7539d492875e
-  macAddresses:
-  - 00:0F:5A:00:00:00/24
-  manufacturer: Peribit Networks
-  manufacturerUri: https://device-type.com
-  name: PeribitN
-type: d3-device-type-assertion

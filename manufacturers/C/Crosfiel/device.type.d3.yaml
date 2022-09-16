@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 51611a56-b47f-5941-859a-46ed63efa99f
-  macAddresses:
-  - 08:00:81:00:00:00/24
-  manufacturer: Crosfield Electronics
-  manufacturerUri: https://device-type.com
-  name: Crosfiel
-type: d3-device-type-assertion

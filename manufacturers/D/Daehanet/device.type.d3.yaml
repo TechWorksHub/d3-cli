@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a7c28ed7-6c84-5fe2-a1a5-0276e50138ce
-  macAddresses:
-  - 00:07:6C:00:00:00/24
-  manufacturer: Daehanet, Inc.
-  manufacturerUri: https://device-type.com
-  name: Daehanet
-type: d3-device-type-assertion

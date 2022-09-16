@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 424eb591-789a-51d4-ae24-fd33f92a9486
-  macAddresses:
-  - 00:02:EB:00:00:00/24
-  manufacturer: Pico Communications
-  manufacturerUri: https://device-type.com
-  name: PicoComm
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4419c1c7-6dd6-5230-964f-a26e888d799f
-  macAddresses:
-  - 00:50:C2:0E:B0:00/36
-  manufacturer: iREZ Technologies LLC
-  manufacturerUri: https://device-type.com
-  name: iREZTech
-type: d3-device-type-assertion

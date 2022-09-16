@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 19c0e15f-7e39-519f-be63-b4a05e5cd729
-  macAddresses:
-  - 90:3C:AE:00:00:00/24
-  manufacturer: Yunnan KSEC Digital Technology Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: YunnanKS
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 54bd5a4f-3fa1-5b5c-8b8c-83e985c5f97d
-  macAddresses:
-  - 3C:FA:D3:80:00:00/28
-  manufacturer: Energous Corporation
-  manufacturerUri: https://device-type.com
-  name: Energous
-type: d3-device-type-assertion

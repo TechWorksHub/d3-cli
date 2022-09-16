@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6ddbef7a-a143-50be-b227-f08e1d1e8227
-  macAddresses:
-  - 00:1A:32:00:00:00/24
-  manufacturer: Activa Multimedia
-  manufacturerUri: https://device-type.com
-  name: ActivaMu
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cad9d3d3-fb0a-5005-b37c-65ec0c6ded77
-  macAddresses:
-  - 30:FA:B7:00:00:00/24
-  manufacturer: Tunai Creative
-  manufacturerUri: https://device-type.com
-  name: TunaiCre
-type: d3-device-type-assertion

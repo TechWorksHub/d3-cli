@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 31f03fb1-38b5-57be-8140-d0fd3c985071
-  macAddresses:
-  - 00:D0:34:00:00:00/24
-  manufacturer: Ormec Systems Corp.
-  manufacturerUri: https://device-type.com
-  name: Ormec
-type: d3-device-type-assertion

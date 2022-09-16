@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: df43799f-bfce-555d-8819-43517d2564bc
-  macAddresses:
-  - 3C:6A:2C:00:00:00/28
-  manufacturer: Rio Lago Technologies LLC
-  manufacturerUri: https://device-type.com
-  name: RioLagoT
-type: d3-device-type-assertion

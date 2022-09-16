@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6f2f41f5-dab5-5775-813a-f43db3f08faa
-  macAddresses:
-  - 00:0D:CA:00:00:00/24
-  manufacturer: Tait Electronics
-  manufacturerUri: https://device-type.com
-  name: TaitElec
-type: d3-device-type-assertion

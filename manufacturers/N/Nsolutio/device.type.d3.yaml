@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cf08c571-1f67-5f18-92bd-cd19a33ae52d
-  macAddresses:
-  - 98:10:82:00:00:00/24
-  manufacturer: Nsolution Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Nsolutio
-type: d3-device-type-assertion

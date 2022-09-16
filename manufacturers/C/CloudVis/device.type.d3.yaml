@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5ce6736b-d3d0-5b01-a7f2-f94cef5e0557
-  macAddresses:
-  - FC:19:D0:00:00:00/24
-  manufacturer: Cloud Vision Networks Technology Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: CloudVis
-type: d3-device-type-assertion

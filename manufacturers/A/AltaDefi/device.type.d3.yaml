@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5c021278-17ce-5349-9699-b5e518c85100
-  macAddresses:
-  - 00:25:A2:00:00:00/24
-  manufacturer: Alta Definicion LINCEO S.L.
-  manufacturerUri: https://device-type.com
-  name: AltaDefi
-type: d3-device-type-assertion

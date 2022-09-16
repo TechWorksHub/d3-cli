@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 43ec6385-17bd-5168-b7db-894603a81d9b
-  macAddresses:
-  - 00:0D:CC:00:00:00/24
-  manufacturer: NEOSMART Corp.
-  manufacturerUri: https://device-type.com
-  name: NEOSMART
-type: d3-device-type-assertion

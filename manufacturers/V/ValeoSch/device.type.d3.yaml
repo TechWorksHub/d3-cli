@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 31b58e53-a5ed-56a2-88fa-cd3a8f89fd82
-  macAddresses:
-  - 88:96:F2:00:00:00/24
-  manufacturer: Valeo Schalter und Sensoren GmbH
-  manufacturerUri: https://device-type.com
-  name: ValeoSch
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 98f0e1f0-9f40-5a2e-aad6-679d7e84eb87
-  macAddresses:
-  - A0:EF:84:00:00:00/24
-  manufacturer: Seine Image Int'l Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: SeineIma
-type: d3-device-type-assertion

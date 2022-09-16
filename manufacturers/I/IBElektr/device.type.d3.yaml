@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a87c3c35-3e3b-5424-8a90-7adaec7e8d12
-  macAddresses:
-  - 00:50:C2:E6:50:00/36
-  manufacturer: IB Elektronik GmbH
-  manufacturerUri: https://device-type.com
-  name: IBElektr
-type: d3-device-type-assertion

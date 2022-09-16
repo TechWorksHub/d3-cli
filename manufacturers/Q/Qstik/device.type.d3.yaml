@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 29780439-3abf-5f4d-b99e-cc93f0f20ffd
-  macAddresses:
-  - 00:17:15:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Qstik
-type: d3-device-type-assertion

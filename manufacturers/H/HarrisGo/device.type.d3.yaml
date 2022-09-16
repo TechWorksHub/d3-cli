@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3829cbd0-59f6-52d7-aafe-934a4c6dc726
-  macAddresses:
-  - 00:02:68:00:00:00/24
-  manufacturer: Harris Government Communications
-  manufacturerUri: https://device-type.com
-  name: HarrisGo
-type: d3-device-type-assertion

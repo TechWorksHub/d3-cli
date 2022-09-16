@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c6bb7a4b-d0b7-5bff-83a1-5314d4e0721c
-  macAddresses:
-  - 00:24:78:00:00:00/24
-  manufacturer: Mag Tech Electronics Co Limited
-  manufacturerUri: https://device-type.com
-  name: MagTechE
-type: d3-device-type-assertion

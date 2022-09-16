@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9ddf688c-2993-5806-b85a-24e4243e7832
-  macAddresses:
-  - B0:C5:CA:30:00:00/28
-  manufacturer: abode systems, inc.
-  manufacturerUri: https://device-type.com
-  name: abode
-type: d3-device-type-assertion

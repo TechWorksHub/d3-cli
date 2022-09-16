@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9be2f05f-19cb-531f-912d-0fc363e9fda2
-  macAddresses:
-  - 70:B3:D5:AE:10:00/36
-  manufacturer: DimoCore Corporation
-  manufacturerUri: https://device-type.com
-  name: DimoCore
-type: d3-device-type-assertion

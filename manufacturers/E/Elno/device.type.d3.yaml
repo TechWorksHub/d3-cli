@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 563ebd5a-1a35-51b7-98eb-7899eb9d0010
-  macAddresses:
-  - 78:CA:5E:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Elno
-type: d3-device-type-assertion

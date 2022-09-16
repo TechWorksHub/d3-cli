@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 406256a5-4a56-519c-832f-69878c4dd7e7
-  macAddresses:
-  - 00:C0:38:00:00:00/24
-  manufacturer: Raster Image Processing System
-  manufacturerUri: https://device-type.com
-  name: RasterIm
-type: d3-device-type-assertion

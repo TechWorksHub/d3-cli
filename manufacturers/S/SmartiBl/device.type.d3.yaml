@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3258a5c6-8bc7-5661-b7ef-98125a575d8d
-  macAddresses:
-  - 2C:40:2B:00:00:00/24
-  manufacturer: Smart iBlue Technology Limited
-  manufacturerUri: https://device-type.com
-  name: SmartiBl
-type: d3-device-type-assertion

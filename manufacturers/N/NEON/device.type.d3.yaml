@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7096bb0d-6886-5b11-bec1-2e55c026e2ea
-  macAddresses:
-  - 7C:E0:44:00:00:00/24
-  manufacturer: NEON Inc
-  manufacturerUri: https://device-type.com
-  name: NEON
-type: d3-device-type-assertion

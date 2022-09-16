@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 78fe8cb4-e069-5085-9b50-58252379100f
-  macAddresses:
-  - 00:11:2A:00:00:00/24
-  manufacturer: Niko NV
-  manufacturerUri: https://device-type.com
-  name: Niko
-type: d3-device-type-assertion

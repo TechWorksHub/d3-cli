@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4d2f1ffe-bf3a-5e27-9933-d64423ab2a24
-  macAddresses:
-  - 6C:93:08:30:00:00/28
-  manufacturer: LightnTec GmbH
-  manufacturerUri: https://device-type.com
-  name: LightnTe
-type: d3-device-type-assertion

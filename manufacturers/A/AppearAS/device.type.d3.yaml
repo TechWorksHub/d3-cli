@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c8873048-4a29-5acf-88e6-c0ffaf056504
-  macAddresses:
-  - 00:13:B4:00:00:00/24
-  manufacturer: Appear AS
-  manufacturerUri: https://device-type.com
-  name: AppearAS
-type: d3-device-type-assertion

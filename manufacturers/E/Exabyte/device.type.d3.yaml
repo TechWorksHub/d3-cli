@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: da8ad327-a9f3-5cce-984d-0c0d14e81e25
-  macAddresses:
-  - 00:D0:80:00:00:00/24
-  manufacturer: Exabyte Corporation
-  manufacturerUri: https://device-type.com
-  name: Exabyte
-type: d3-device-type-assertion

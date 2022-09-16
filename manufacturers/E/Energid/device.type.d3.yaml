@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7c393e25-696b-5af3-9747-296fcae2d6d4
-  macAddresses:
-  - 00:50:C2:AF:60:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Energid
-type: d3-device-type-assertion

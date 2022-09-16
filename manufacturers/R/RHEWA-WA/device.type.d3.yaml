@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: acb41d8c-c4e5-5045-a3a6-8bfcc67533ed
-  macAddresses:
-  - F8:A2:B4:00:00:00/24
-  manufacturer: RHEWA-WAAGENFABRIK August Freudewald GmbH &Co. KG
-  manufacturerUri: https://device-type.com
-  name: RHEWA-WA
-type: d3-device-type-assertion

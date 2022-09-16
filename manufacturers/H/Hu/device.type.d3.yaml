@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f0b6cef7-5fba-5ec3-88a0-8733ddc0283e
-  macAddresses:
-  - 14:CA:A0:00:00:00/24
-  manufacturer: Hu&Co
-  manufacturerUri: https://device-type.com
-  name: Hu
-type: d3-device-type-assertion

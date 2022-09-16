@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 78ea4c1d-8599-5064-aebb-d792e9a19a34
-  macAddresses:
-  - 70:B3:D5:52:90:00/36
-  manufacturer: Inventeq B.V.
-  manufacturerUri: https://device-type.com
-  name: Inventeq
-type: d3-device-type-assertion

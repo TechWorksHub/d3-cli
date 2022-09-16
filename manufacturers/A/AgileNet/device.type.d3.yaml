@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7cbe5aa9-910f-564a-9194-9b9bd7369497
-  macAddresses:
-  - 00:20:B6:00:00:00/24
-  manufacturer: Agile Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: AgileNet
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 41a02bce-5f53-55ea-a4f6-86b7bad5d597
-  macAddresses:
-  - 80:B6:24:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Ivs
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9fa5dd38-c76d-59f5-b3c0-e37c100fddd9
-  macAddresses:
-  - 54:A5:4B:00:00:00/24
-  manufacturer: NSC Communications Siberia Ltd
-  manufacturerUri: https://device-type.com
-  name: NSCCommu
-type: d3-device-type-assertion

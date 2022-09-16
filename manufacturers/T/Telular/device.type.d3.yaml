@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d63139ed-fbb7-5b47-9dc1-0e574d03c1f5
-  macAddresses:
-  - 00:1B:71:00:00:00/24
-  manufacturer: Telular Corp.
-  manufacturerUri: https://device-type.com
-  name: Telular
-type: d3-device-type-assertion

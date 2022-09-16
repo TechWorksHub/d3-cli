@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 84023fbb-d881-55dc-9e79-748107fb4475
-  macAddresses:
-  - 00:A0:5D:00:00:00/24
-  manufacturer: CS COMPUTER SYSTEME GmbH
-  manufacturerUri: https://device-type.com
-  name: CSCOMPUT
-type: d3-device-type-assertion

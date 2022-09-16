@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fc1600d4-ae22-522f-9e2b-bea33ac0edd1
-  macAddresses:
-  - 2C:37:96:00:00:00/24
-  manufacturer: Cybo Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: Cybo
-type: d3-device-type-assertion

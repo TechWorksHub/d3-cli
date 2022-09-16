@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 43c05605-194b-59e1-8cbf-3f07923696a9
-  macAddresses:
-  - 00:13:A7:00:00:00/24
-  manufacturer: Battelle Memorial Institute
-  manufacturerUri: https://device-type.com
-  name: Battelle
-type: d3-device-type-assertion

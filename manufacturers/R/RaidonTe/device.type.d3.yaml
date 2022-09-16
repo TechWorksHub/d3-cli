@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0cb56e86-4526-567d-86a3-73804dbd6d83
-  macAddresses:
-  - 00:24:5B:00:00:00/24
-  manufacturer: Raidon Technology, Inc.
-  manufacturerUri: https://device-type.com
-  name: RaidonTe
-type: d3-device-type-assertion

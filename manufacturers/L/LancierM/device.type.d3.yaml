@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e32dd658-357b-5158-829f-e3a62d98f0d6
-  macAddresses:
-  - 00:50:C2:C4:C0:00/36
-  manufacturer: Lancier Monitoring GmbH
-  manufacturerUri: https://device-type.com
-  name: LancierM
-type: d3-device-type-assertion

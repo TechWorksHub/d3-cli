@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c81ce312-f620-58b2-b6cb-a08d83fdb8bf
-  macAddresses:
-  - 00:1B:C5:05:80:00/36
-  manufacturer: optiMEAS GmbH
-  manufacturerUri: https://device-type.com
-  name: optiMEAS
-type: d3-device-type-assertion

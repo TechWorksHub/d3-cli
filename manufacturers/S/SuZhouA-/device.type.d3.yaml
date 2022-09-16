@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d46c600e-031a-58cc-8e67-f7ddac733905
-  macAddresses:
-  - 24:15:10:70:00:00/28
-  manufacturer: SuZhou A-rack Information Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: SuZhouA-
-type: d3-device-type-assertion

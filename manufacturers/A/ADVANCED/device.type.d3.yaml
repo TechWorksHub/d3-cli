@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 23d0e365-4fdf-5eb0-a29e-27bc8bbbcdf9
-  macAddresses:
-  - 00:60:F4:00:00:00/24
-  manufacturer: ADVANCED COMPUTER SOLUTIONS, Inc.
-  manufacturerUri: https://device-type.com
-  name: ADVANCED
-type: d3-device-type-assertion

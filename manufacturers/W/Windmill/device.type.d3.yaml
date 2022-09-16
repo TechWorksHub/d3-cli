@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 427fc63f-8550-5cca-be0d-739f9e722e29
-  macAddresses:
-  - 00:50:C2:20:60:00/36
-  manufacturer: Windmill Innovations
-  manufacturerUri: https://device-type.com
-  name: Windmill
-type: d3-device-type-assertion

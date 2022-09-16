@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 52aef43d-71c1-5066-b2fa-de071ed73216
-  macAddresses:
-  - 00:50:C2:7C:A0:00/36
-  manufacturer: CEDAR Audio Limited
-  manufacturerUri: https://device-type.com
-  name: CEDARAud
-type: d3-device-type-assertion

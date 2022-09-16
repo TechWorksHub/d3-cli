@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 71a28f4d-dfc7-5e11-8534-73e8755c5886
-  macAddresses:
-  - 00:09:FD:00:00:00/24
-  manufacturer: Ubinetics Limited
-  manufacturerUri: https://device-type.com
-  name: Ubinetic
-type: d3-device-type-assertion

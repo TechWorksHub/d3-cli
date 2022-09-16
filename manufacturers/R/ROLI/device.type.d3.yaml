@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d7f3d750-c914-5582-be68-6e3405901be5
-  macAddresses:
-  - 48:B6:20:00:00:00/24
-  manufacturer: ROLI Ltd.
-  manufacturerUri: https://device-type.com
-  name: ROLI
-type: d3-device-type-assertion

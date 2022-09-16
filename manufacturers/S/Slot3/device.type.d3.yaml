@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 243c0e1a-83c0-570b-bee0-1670b1939fcd
-  macAddresses:
-  - 70:B3:D5:44:30:00/36
-  manufacturer: Slot3 GmbH
-  manufacturerUri: https://device-type.com
-  name: Slot3
-type: d3-device-type-assertion

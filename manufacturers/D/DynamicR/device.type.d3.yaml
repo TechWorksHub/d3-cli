@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dc6059f5-98c0-53f6-a162-f3d9ac8babbc
-  macAddresses:
-  - 00:0E:28:00:00:00/24
-  manufacturer: Dynamic Ratings P/L
-  manufacturerUri: https://device-type.com
-  name: DynamicR
-type: d3-device-type-assertion

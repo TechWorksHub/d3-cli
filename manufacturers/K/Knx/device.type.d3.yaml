@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dd754228-f801-57ed-8b21-47298e0f1681
-  macAddresses:
-  - 00:C0:72:00:00:00/24
-  manufacturer: Knx Ltd.
-  manufacturerUri: https://device-type.com
-  name: Knx
-type: d3-device-type-assertion

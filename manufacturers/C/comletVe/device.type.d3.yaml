@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7430bd73-a2ae-57f2-b751-f970a8b67497
-  macAddresses:
-  - 00:50:C2:F8:B0:00/36
-  manufacturer: comlet Verteilte Systeme GmbH
-  manufacturerUri: https://device-type.com
-  name: comletVe
-type: d3-device-type-assertion

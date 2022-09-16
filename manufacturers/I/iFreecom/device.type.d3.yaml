@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 54852d00-5e7f-58ba-9557-92297533043a
-  macAddresses:
-  - 70:B3:D5:03:20:00/36
-  manufacturer: iFreecomm Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: iFreecom
-type: d3-device-type-assertion

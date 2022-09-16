@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9f73a527-d338-5ef4-b60f-3034ca4addb5
-  macAddresses:
-  - 00:05:DE:00:00:00/24
-  manufacturer: Gi Fone Korea, Inc.
-  manufacturerUri: https://device-type.com
-  name: GiFoneKo
-type: d3-device-type-assertion

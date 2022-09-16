@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2922235b-c075-5b05-bdd1-e1dbdc137a56
-  macAddresses:
-  - 00:50:C2:B3:D0:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Ams
-type: d3-device-type-assertion

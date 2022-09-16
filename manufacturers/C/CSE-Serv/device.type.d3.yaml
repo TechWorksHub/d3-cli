@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7f865859-9bc9-50e9-aec8-901b0aa30e8d
-  macAddresses:
-  - 18:9A:67:00:00:00/24
-  manufacturer: CSE-Servelec Limited
-  manufacturerUri: https://device-type.com
-  name: CSE-Serv
-type: d3-device-type-assertion

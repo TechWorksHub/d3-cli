@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 18f4dfb3-87f2-53e5-a476-4d8b8de53522
-  macAddresses:
-  - CC:2A:80:00:00:00/24
-  manufacturer: Micro-Biz intelligence solutions Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: Micro-Bi
-type: d3-device-type-assertion

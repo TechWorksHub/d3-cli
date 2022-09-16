@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b8c7215f-2e86-534d-8cab-096fb94d3473
-  macAddresses:
-  - 00:0B:29:00:00:00/24
-  manufacturer: LS(LG) Industrial Systems co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: LSLGIndu
-type: d3-device-type-assertion

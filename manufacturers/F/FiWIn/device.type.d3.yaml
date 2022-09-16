@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0cd6d9a6-d47e-5e25-8a6e-6e4c7dfebc03
-  macAddresses:
-  - 00:0C:20:00:00:00/24
-  manufacturer: Fi WIn, Inc.
-  manufacturerUri: https://device-type.com
-  name: FiWIn
-type: d3-device-type-assertion

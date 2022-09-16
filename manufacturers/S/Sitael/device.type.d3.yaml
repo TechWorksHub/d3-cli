@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ea064705-4ab9-5eeb-842a-7109336c057a
-  macAddresses:
-  - A0:43:DB:00:00:00/24
-  manufacturer: Sitael S.p.A.
-  manufacturerUri: https://device-type.com
-  name: Sitael
-type: d3-device-type-assertion

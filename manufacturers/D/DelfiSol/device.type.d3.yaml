@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 887ef7b3-2017-508f-a8c1-666bfe11b319
-  macAddresses:
-  - 40:D8:55:07:90:00/36
-  manufacturer: DelfiSolutions A/S
-  manufacturerUri: https://device-type.com
-  name: DelfiSol
-type: d3-device-type-assertion

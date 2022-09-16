@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e877c075-9df6-55d1-a545-75de97ae389f
-  macAddresses:
-  - 00:50:C2:97:30:00/36
-  manufacturer: "Syst\xE8mes Pran"
-  manufacturerUri: https://device-type.com
-  name: "Syst\xE8mes"
-type: d3-device-type-assertion

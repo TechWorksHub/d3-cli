@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d0cc3d8f-2b4c-50d9-9cc0-dc51490c6df8
-  macAddresses:
-  - B4:BA:02:00:00:00/24
-  manufacturer: Agatel Ltd
-  manufacturerUri: https://device-type.com
-  name: Agatel
-type: d3-device-type-assertion

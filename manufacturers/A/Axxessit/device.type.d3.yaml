@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 688ec50f-8962-5b1f-852c-a58ecb689a8f
-  macAddresses:
-  - 00:04:7A:00:00:00/24
-  manufacturer: Axxessit Asa
-  manufacturerUri: https://device-type.com
-  name: Axxessit
-type: d3-device-type-assertion

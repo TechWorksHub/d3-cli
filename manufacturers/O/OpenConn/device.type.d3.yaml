@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 771e192f-5908-5975-ac17-6bebb7ea8d39
-  macAddresses:
-  - 6A:40:65:00:00:00/24
-  manufacturer: Open Connectivity Foundation
-  manufacturerUri: https://device-type.com
-  name: OpenConn
-type: d3-device-type-assertion

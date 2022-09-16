@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ad625db5-72b1-55c6-b069-4e8ab153c6ef
-  macAddresses:
-  - 70:B3:D5:B7:20:00/36
-  manufacturer: UB330.net d.o.o.
-  manufacturerUri: https://device-type.com
-  name: UB330net
-type: d3-device-type-assertion

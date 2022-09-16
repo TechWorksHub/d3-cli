@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4c132289-3785-5b04-b35b-46caad8087bf
-  macAddresses:
-  - 00:0E:E7:00:00:00/24
-  manufacturer: Aac Electronics Corp.
-  manufacturerUri: https://device-type.com
-  name: AacElect
-type: d3-device-type-assertion

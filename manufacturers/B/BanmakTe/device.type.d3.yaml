@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fe8589a4-2019-5437-a3b6-28fd77317d8e
-  macAddresses:
-  - 1C:FD:08:A0:00:00/28
-  manufacturer: Banmak Technogies Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: BanmakTe
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a12e8f4a-3a16-58b6-ba2f-31a5931aa2fb
-  macAddresses:
-  - 30:05:3F:00:00:00/24
-  manufacturer: JTI Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: JTI
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 871b5379-8e3f-5edc-868b-20b12902eba3
-  macAddresses:
-  - 00:13:91:00:00:00/24
-  manufacturer: Ouen Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: Ouen
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ec6c7f30-e6db-5d0e-83e8-8595c58daaba
-  macAddresses:
-  - 70:B3:D5:BA:C0:00/36
-  manufacturer: AdInte, inc.
-  manufacturerUri: https://device-type.com
-  name: AdInte
-type: d3-device-type-assertion

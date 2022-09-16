@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6d56c850-fa46-5756-9e7d-3112ad488e82
-  macAddresses:
-  - 3C:D7:DA:00:00:00/24
-  manufacturer: SK Mtek microelectronics(shenzhen)limited
-  manufacturerUri: https://device-type.com
-  name: SKMtekmi
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 16b3a98f-3ccc-50fe-ad9c-4f6519d5cb7b
-  macAddresses:
-  - 00:09:68:00:00:00/24
-  manufacturer: Technoventure, Inc.
-  manufacturerUri: https://device-type.com
-  name: Technove
-type: d3-device-type-assertion

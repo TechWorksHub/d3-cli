@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 98304da9-1d4c-58d6-abff-5b68f4eb0cdd
-  macAddresses:
-  - 70:B3:D5:02:A0:00/36
-  manufacturer: BAE Systems Surface Ships Limited
-  manufacturerUri: https://device-type.com
-  name: BAESurfa
-type: d3-device-type-assertion

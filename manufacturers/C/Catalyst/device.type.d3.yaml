@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b2ae560b-6c89-5c1c-ae97-a2947c551b58
-  macAddresses:
-  - 00:0E:85:00:00:00/24
-  manufacturer: Catalyst Enterprises, Inc.
-  manufacturerUri: https://device-type.com
-  name: Catalyst
-type: d3-device-type-assertion

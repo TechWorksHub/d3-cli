@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ecce3891-8d30-5074-96f9-665dfe78b05a
-  macAddresses:
-  - 00:C0:D6:00:00:00/24
-  manufacturer: J1 Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: J1
-type: d3-device-type-assertion

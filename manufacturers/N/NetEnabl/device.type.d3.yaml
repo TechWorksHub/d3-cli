@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7bb3a1cd-2743-5adf-b5c0-eac62f6a76bc
-  macAddresses:
-  - 00:04:A4:00:00:00/24
-  manufacturer: NetEnabled, Inc.
-  manufacturerUri: https://device-type.com
-  name: NetEnabl
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c6f4da10-69d8-529e-80c4-627c4bd864bb
-  macAddresses:
-  - 00:06:B0:00:00:00/24
-  manufacturer: Comtech EF Data Corp.
-  manufacturerUri: https://device-type.com
-  name: ComtechE
-type: d3-device-type-assertion

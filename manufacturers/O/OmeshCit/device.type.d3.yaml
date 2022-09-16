@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b65f2e01-19c9-5553-99d8-e662500dd7e0
-  macAddresses:
-  - 70:B3:D5:A8:E0:00/36
-  manufacturer: Omesh City Group
-  manufacturerUri: https://device-type.com
-  name: OmeshCit
-type: d3-device-type-assertion

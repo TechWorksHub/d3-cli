@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 90f860bd-8bdb-5625-9427-2fa064358dd5
-  macAddresses:
-  - 70:B3:D5:BE:C0:00/36
-  manufacturer: Tokyo Communication Equipment MFG Co.,ltd.
-  manufacturerUri: https://device-type.com
-  name: TokyoCom
-type: d3-device-type-assertion

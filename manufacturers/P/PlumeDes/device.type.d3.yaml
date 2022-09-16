@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eaf052d8-8794-52bf-81b9-a5ed7bfc2561
-  macAddresses:
-  - 60:B4:F7:00:00:00/24
-  manufacturer: Plume Design Inc
-  manufacturerUri: https://device-type.com
-  name: PlumeDes
-type: d3-device-type-assertion

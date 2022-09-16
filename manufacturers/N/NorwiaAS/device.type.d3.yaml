@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 46da3c78-7fd4-5703-ba79-cf63e846d5c3
-  macAddresses:
-  - 00:50:C2:E2:10:00/36
-  manufacturer: Norwia AS
-  manufacturerUri: https://device-type.com
-  name: NorwiaAS
-type: d3-device-type-assertion

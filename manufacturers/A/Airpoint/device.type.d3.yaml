@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4b20e5c3-c691-5e07-b01a-668d8a85137e
-  macAddresses:
-  - 00:50:C2:D0:A0:00/36
-  manufacturer: Airpoint Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Airpoint
-type: d3-device-type-assertion

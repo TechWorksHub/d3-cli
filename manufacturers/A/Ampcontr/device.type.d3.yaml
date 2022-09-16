@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 93da6c80-fe66-5c5e-a7c0-197a74e78e1f
-  macAddresses:
-  - 00:50:C2:B4:40:00/36
-  manufacturer: Ampcontrol Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: Ampcontr
-type: d3-device-type-assertion

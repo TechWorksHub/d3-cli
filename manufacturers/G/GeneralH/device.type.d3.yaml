@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6084ed7c-4889-583f-838c-af52bce0acab
-  macAddresses:
-  - 00:0B:D9:00:00:00/24
-  manufacturer: General Hydrogen
-  manufacturerUri: https://device-type.com
-  name: GeneralH
-type: d3-device-type-assertion

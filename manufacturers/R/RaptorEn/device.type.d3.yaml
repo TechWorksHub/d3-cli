@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c0335c80-6062-553f-acee-f4635314bc7e
-  macAddresses:
-  - 2C:09:4D:00:00:00/24
-  manufacturer: Raptor Engineering, LLC
-  manufacturerUri: https://device-type.com
-  name: RaptorEn
-type: d3-device-type-assertion

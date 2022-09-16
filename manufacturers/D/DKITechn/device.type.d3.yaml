@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e5d2debc-e2c1-57a4-9c8c-1e9b985acc30
-  macAddresses:
-  - 70:B3:D5:D0:00:00/36
-  manufacturer: DKI Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: DKITechn
-type: d3-device-type-assertion

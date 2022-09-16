@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3a235c56-4aa5-5221-9d93-cadc746234d1
-  macAddresses:
-  - 1C:CA:E3:90:00:00/28
-  manufacturer: Shin-Yosha Corporation
-  manufacturerUri: https://device-type.com
-  name: Shin-Yos
-type: d3-device-type-assertion

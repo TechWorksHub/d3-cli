@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f1646129-da8d-5811-bc14-fbb2fb624c67
-  macAddresses:
-  - 54:2F:89:00:00:00/24
-  manufacturer: Euclid Laboratories, Inc.
-  manufacturerUri: https://device-type.com
-  name: EuclidLa
-type: d3-device-type-assertion

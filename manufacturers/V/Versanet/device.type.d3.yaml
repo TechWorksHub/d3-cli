@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a3a5d405-be2b-5cf5-b4e6-177c0d34ee05
-  macAddresses:
-  - 00:E0:D2:00:00:00/24
-  manufacturer: Versanet Communications, Inc.
-  manufacturerUri: https://device-type.com
-  name: Versanet
-type: d3-device-type-assertion

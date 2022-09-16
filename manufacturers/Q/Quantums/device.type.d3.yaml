@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1b86c048-ef5d-5bcf-921c-ceab6214477a
-  macAddresses:
-  - 78:11:00:00:00:00/24
-  manufacturer: Quantumsolution
-  manufacturerUri: https://device-type.com
-  name: Quantums
-type: d3-device-type-assertion

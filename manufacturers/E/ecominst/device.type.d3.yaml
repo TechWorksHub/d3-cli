@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 330ce1d3-3c6f-5662-a100-6a9c10daef09
-  macAddresses:
-  - 8C:59:3C:A0:00:00/28
-  manufacturer: ecom instruments GmbH
-  manufacturerUri: https://device-type.com
-  name: ecominst
-type: d3-device-type-assertion

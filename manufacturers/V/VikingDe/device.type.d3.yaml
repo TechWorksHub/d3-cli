@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: edcb029b-253a-5a05-b711-8f523b5e28ff
-  macAddresses:
-  - 00:14:98:00:00:00/24
-  manufacturer: Viking Design Technology
-  manufacturerUri: https://device-type.com
-  name: VikingDe
-type: d3-device-type-assertion

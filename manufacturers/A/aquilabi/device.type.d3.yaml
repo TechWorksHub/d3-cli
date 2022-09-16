@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bf2cde18-4eeb-5889-b74a-6ddc8046128d
-  macAddresses:
-  - 70:B3:D5:7D:B0:00/36
-  manufacturer: aquila biolabs GmbH
-  manufacturerUri: https://device-type.com
-  name: aquilabi
-type: d3-device-type-assertion

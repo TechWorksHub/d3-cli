@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aa72e27e-d121-518e-91d0-38572159c528
-  macAddresses:
-  - 5C:D6:1F:00:00:00/24
-  manufacturer: Qardio, Inc
-  manufacturerUri: https://device-type.com
-  name: Qardio
-type: d3-device-type-assertion

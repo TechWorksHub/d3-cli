@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b0d52454-49de-537e-835b-fd3fe9604fdb
-  macAddresses:
-  - 00:0A:38:00:00:00/24
-  manufacturer: Apani Networks
-  manufacturerUri: https://device-type.com
-  name: ApaniNet
-type: d3-device-type-assertion

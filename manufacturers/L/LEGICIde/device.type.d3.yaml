@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ee2b19b5-5762-549e-ac21-bb6ab4b3cd9f
-  macAddresses:
-  - 40:B6:88:00:00:00/24
-  manufacturer: LEGIC Identsystems AG
-  manufacturerUri: https://device-type.com
-  name: LEGICIde
-type: d3-device-type-assertion

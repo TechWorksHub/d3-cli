@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ca696f34-c5f5-5410-ba3c-636120396a26
-  macAddresses:
-  - 7C:57:4E:00:00:00/24
-  manufacturer: COBI GmbH
-  manufacturerUri: https://device-type.com
-  name: COBI
-type: d3-device-type-assertion

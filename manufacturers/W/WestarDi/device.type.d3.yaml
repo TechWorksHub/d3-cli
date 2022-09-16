@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 720038b0-5591-5a1b-87d9-c446b92aac41
-  macAddresses:
-  - D0:9F:D9:20:00:00/28
-  manufacturer: Westar Display Technologies
-  manufacturerUri: https://device-type.com
-  name: WestarDi
-type: d3-device-type-assertion

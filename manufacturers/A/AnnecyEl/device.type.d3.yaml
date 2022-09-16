@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3e96329a-e8df-55c6-8c09-bb1fc35a1f8a
-  macAddresses:
-  - 00:1B:C5:02:40:00/36
-  manufacturer: Annecy Electronique Sas
-  manufacturerUri: https://device-type.com
-  name: AnnecyEl
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7f83ef6a-bad6-5683-9c32-1cfc8f85feaa
-  macAddresses:
-  - 00:1C:98:00:00:00/24
-  manufacturer: Lucky Technology (Hk) Company Limited
-  manufacturerUri: https://device-type.com
-  name: LuckyTec
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cf60814c-f813-5f7d-8011-a937cce581d1
-  macAddresses:
-  - AC:04:25:00:00:00/24
-  manufacturer: ball-b GmbH Co KG
-  manufacturerUri: https://device-type.com
-  name: ball-b
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 636c277a-6cea-5a1c-ad17-c6b23c12a9c2
-  macAddresses:
-  - 88:89:14:00:00:00/24
-  manufacturer: All Components Incorporated
-  manufacturerUri: https://device-type.com
-  name: AllCompo
-type: d3-device-type-assertion

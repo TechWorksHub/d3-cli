@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3817288c-058c-5787-a408-07d52e1ecff1
-  macAddresses:
-  - 00:E0:45:00:00:00/24
-  manufacturer: Touchwave, Inc.
-  manufacturerUri: https://device-type.com
-  name: Touchwav
-type: d3-device-type-assertion

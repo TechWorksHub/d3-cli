@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 63424f62-d5bc-5446-b480-f1d0e8b00306
-  macAddresses:
-  - B0:86:9E:00:00:00/24
-  manufacturer: Chloride S.r.L
-  manufacturerUri: https://device-type.com
-  name: Chloride
-type: d3-device-type-assertion

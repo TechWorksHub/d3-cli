@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7f2d127d-c5cc-575f-81a3-b23fdc4908a8
-  macAddresses:
-  - C8:2C:2B:B0:00:00/28
-  manufacturer: Kunshan SVL Electric Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: KunshanS
-type: d3-device-type-assertion

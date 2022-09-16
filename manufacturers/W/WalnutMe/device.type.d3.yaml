@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8899fde4-ee68-5783-aab5-69ed4fd5f82a
-  macAddresses:
-  - 00:25:A5:00:00:00/24
-  manufacturer: Walnut Media Network
-  manufacturerUri: https://device-type.com
-  name: WalnutMe
-type: d3-device-type-assertion

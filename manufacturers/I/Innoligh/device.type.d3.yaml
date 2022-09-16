@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 74701f79-8444-5927-8c81-f8badd53c3f7
-  macAddresses:
-  - 44:7C:7F:00:00:00/24
-  manufacturer: Innolight Technology Corporation
-  manufacturerUri: https://device-type.com
-  name: Innoligh
-type: d3-device-type-assertion

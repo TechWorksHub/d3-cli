@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f45c2f32-5e10-5f54-9740-bc327991fdca
-  macAddresses:
-  - 98:F9:C7:E0:00:00/28
-  manufacturer: NC-LINK Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: NC-LINKT
-type: d3-device-type-assertion

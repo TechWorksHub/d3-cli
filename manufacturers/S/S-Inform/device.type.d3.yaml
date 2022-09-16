@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f5be1ec0-3227-5ad6-a010-9655a0e2e3fb
-  macAddresses:
-  - 00:19:E9:00:00:00/24
-  manufacturer: S-Information Technolgy, Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: S-Inform
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 69db9fb5-4ec3-5e58-b507-9f7cead22120
-  macAddresses:
-  - 78:5E:E8:B0:00:00/28
-  manufacturer: Lantern Engineering (Pty) Ltd
-  manufacturerUri: https://device-type.com
-  name: LanternE
-type: d3-device-type-assertion

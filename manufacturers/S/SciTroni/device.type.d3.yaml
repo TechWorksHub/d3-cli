@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c9bfc416-f2bb-5aad-9929-43e45b20ac6e
-  macAddresses:
-  - 70:B3:D5:3B:C0:00/36
-  manufacturer: SciTronix
-  manufacturerUri: https://device-type.com
-  name: SciTroni
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 063d0493-7ada-57e4-8f16-e61bb987a087
-  macAddresses:
-  - 08:00:38:00:00:00/24
-  manufacturer: Bull S.A.S.
-  manufacturerUri: https://device-type.com
-  name: BullS
-type: d3-device-type-assertion

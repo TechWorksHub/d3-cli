@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 14be52fd-0a57-5110-910f-f3f1366e8348
-  macAddresses:
-  - 00:30:14:00:00:00/24
-  manufacturer: Divio, Inc.
-  manufacturerUri: https://device-type.com
-  name: Divio
-type: d3-device-type-assertion

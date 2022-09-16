@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a2cf159f-d81f-575e-80ba-e0321c06ff40
-  macAddresses:
-  - 00:0A:A1:00:00:00/24
-  manufacturer: V V S Limited
-  manufacturerUri: https://device-type.com
-  name: VVS
-type: d3-device-type-assertion

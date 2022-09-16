@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2bdb89fb-541a-57d1-9a6a-92297e463c22
-  macAddresses:
-  - 00:1B:C5:00:90:00/36
-  manufacturer: Solomon Systech Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: SolomonS
-type: d3-device-type-assertion

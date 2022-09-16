@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2fad1582-1cb6-54e6-936a-3e7f054a7299
-  macAddresses:
-  - 00:1A:91:00:00:00/24
-  manufacturer: FusionDynamic Ltd.
-  manufacturerUri: https://device-type.com
-  name: FusionDy
-type: d3-device-type-assertion

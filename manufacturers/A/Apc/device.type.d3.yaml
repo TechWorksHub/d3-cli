@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 860f3181-b1cb-5561-987b-80189e3b8963
-  macAddresses:
-  - 78:CA:83:20:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Apc
-type: d3-device-type-assertion

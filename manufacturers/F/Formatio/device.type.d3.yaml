@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6319b4d5-5902-59d4-9e54-e8bc812b3d2f
-  macAddresses:
-  - 88:A0:84:00:00:00/24
-  manufacturer: Formation Data Systems
-  manufacturerUri: https://device-type.com
-  name: Formatio
-type: d3-device-type-assertion

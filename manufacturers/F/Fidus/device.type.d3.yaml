@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b7244413-fd9e-54ff-8c76-7409074b5044
-  macAddresses:
-  - FC:9F:AE:00:00:00/24
-  manufacturer: Fidus Systems Inc
-  manufacturerUri: https://device-type.com
-  name: Fidus
-type: d3-device-type-assertion

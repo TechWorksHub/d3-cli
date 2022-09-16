@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 32d050da-00f1-5254-8a29-b30c13945704
-  macAddresses:
-  - 8C:47:6E:10:00:00/28
-  manufacturer: TelWare Corporation
-  manufacturerUri: https://device-type.com
-  name: TelWare
-type: d3-device-type-assertion

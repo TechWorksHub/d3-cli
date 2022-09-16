@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3484b256-dc85-50c4-a2ea-39c484d47961
-  macAddresses:
-  - F4:2C:56:00:00:00/24
-  manufacturer: Senor Tech Co Ltd
-  manufacturerUri: https://device-type.com
-  name: SenorTec
-type: d3-device-type-assertion

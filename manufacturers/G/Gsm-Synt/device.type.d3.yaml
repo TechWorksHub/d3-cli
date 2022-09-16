@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8aac45a2-fd0e-5288-9759-17295f0ec062
-  macAddresses:
-  - 00:A0:7F:00:00:00/24
-  manufacturer: Gsm-Syntel, Ltd.
-  manufacturerUri: https://device-type.com
-  name: Gsm-Synt
-type: d3-device-type-assertion

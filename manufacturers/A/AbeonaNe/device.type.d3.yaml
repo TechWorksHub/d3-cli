@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cac63051-8f50-5c87-a972-201d4437546f
-  macAddresses:
-  - 00:06:10:00:00:00/24
-  manufacturer: Abeona Networks Inc
-  manufacturerUri: https://device-type.com
-  name: AbeonaNe
-type: d3-device-type-assertion

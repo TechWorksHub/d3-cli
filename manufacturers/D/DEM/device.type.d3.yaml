@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9792ad7d-79aa-51e6-9a6c-3fcac10c4690
-  macAddresses:
-  - 70:B3:D5:C1:C0:00/36
-  manufacturer: D.E.M. Spa
-  manufacturerUri: https://device-type.com
-  name: DEM
-type: d3-device-type-assertion

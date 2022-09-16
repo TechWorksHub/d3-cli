@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9f45bdbf-39ea-5608-a519-215683673d65
-  macAddresses:
-  - 00:07:44:00:00:00/24
-  manufacturer: Unico, Inc.
-  manufacturerUri: https://device-type.com
-  name: Unico
-type: d3-device-type-assertion

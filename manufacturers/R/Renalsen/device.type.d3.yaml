@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ed4f9166-41c6-5f7d-8f47-3dc87d13b04c
-  macAddresses:
-  - 98:F9:C7:80:00:00/28
-  manufacturer: Renalsense
-  manufacturerUri: https://device-type.com
-  name: Renalsen
-type: d3-device-type-assertion

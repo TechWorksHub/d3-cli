@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6a303b63-ba68-5aee-bc59-567503fd457e
-  macAddresses:
-  - 00:50:B7:00:00:00/24
-  manufacturer: Boser Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: BoserTec
-type: d3-device-type-assertion

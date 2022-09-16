@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f1eb002e-4bbd-5e7b-8545-318420f357f4
-  macAddresses:
-  - 00:15:8B:00:00:00/24
-  manufacturer: Park Air Systems Ltd
-  manufacturerUri: https://device-type.com
-  name: ParkAir
-type: d3-device-type-assertion

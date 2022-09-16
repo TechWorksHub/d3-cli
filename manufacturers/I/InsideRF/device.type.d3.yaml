@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 41a04a4b-dd4a-54b6-998d-67de651e3c78
-  macAddresses:
-  - 70:B3:D5:0F:A0:00/36
-  manufacturer: InsideRF Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: InsideRF
-type: d3-device-type-assertion

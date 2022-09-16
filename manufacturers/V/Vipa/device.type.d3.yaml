@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 21eedd55-29d4-5a95-819c-e2d336a2d14f
-  macAddresses:
-  - 00:20:D5:00:00:00/24
-  manufacturer: Vipa Gmbh
-  manufacturerUri: https://device-type.com
-  name: Vipa
-type: d3-device-type-assertion

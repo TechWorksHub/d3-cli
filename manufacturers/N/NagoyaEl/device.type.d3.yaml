@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 351aaa48-7643-5a5c-bdc6-4a0e30c23081
-  macAddresses:
-  - 00:10:24:00:00:00/24
-  manufacturer: Nagoya Electric Works Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: NagoyaEl
-type: d3-device-type-assertion

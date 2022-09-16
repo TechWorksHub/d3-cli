@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0cfb5842-544a-53a5-9600-f0bc2f09d909
-  macAddresses:
-  - B0:91:37:00:00:00/24
-  manufacturer: ISis ImageStream Internet Solutions, Inc
-  manufacturerUri: https://device-type.com
-  name: ISisImag
-type: d3-device-type-assertion

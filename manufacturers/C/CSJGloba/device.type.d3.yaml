@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8ecdc476-fd60-56a1-8d8d-a2e5e3b4778f
-  macAddresses:
-  - 00:21:C6:00:00:00/24
-  manufacturer: CSJ Global, Inc.
-  manufacturerUri: https://device-type.com
-  name: CSJGloba
-type: d3-device-type-assertion

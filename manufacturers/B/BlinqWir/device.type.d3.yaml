@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 92b5ca02-db9f-5975-8e52-86c4d43972e2
-  macAddresses:
-  - 0C:A1:38:00:00:00/24
-  manufacturer: Blinq Wireless Inc.
-  manufacturerUri: https://device-type.com
-  name: BlinqWir
-type: d3-device-type-assertion

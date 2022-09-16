@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fb92cdc0-3d14-5047-b201-02507dad6f4c
-  macAddresses:
-  - 00:1D:04:00:00:00/24
-  manufacturer: Zipit Wireless, Inc.
-  manufacturerUri: https://device-type.com
-  name: ZipitWir
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0690eacd-7806-56bb-b9fb-b25d9bfc61f3
-  macAddresses:
-  - 2C:FC:E4:00:00:00/24
-  manufacturer: CTEK Sweden AB
-  manufacturerUri: https://device-type.com
-  name: CTEKSwed
-type: d3-device-type-assertion

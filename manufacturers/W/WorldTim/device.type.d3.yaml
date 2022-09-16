@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: da698d95-914a-5845-9d7b-89f8f6cbdd4c
-  macAddresses:
-  - 00:50:C2:CC:00:00/36
-  manufacturer: World Time Solutions Limited
-  manufacturerUri: https://device-type.com
-  name: WorldTim
-type: d3-device-type-assertion

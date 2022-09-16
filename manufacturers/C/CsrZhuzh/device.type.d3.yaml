@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ddd18500-2084-5428-8a2f-e8c20a47524f
-  macAddresses:
-  - AC:2A:0C:00:00:00/24
-  manufacturer: Csr Zhuzhou Institute Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: CsrZhuzh
-type: d3-device-type-assertion

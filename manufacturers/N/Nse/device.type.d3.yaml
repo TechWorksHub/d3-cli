@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4993046b-549e-5cbf-ac39-96c4fcd6e23e
-  macAddresses:
-  - 3C:EA:FB:00:00:00/24
-  manufacturer: Nse Ag
-  manufacturerUri: https://device-type.com
-  name: Nse
-type: d3-device-type-assertion

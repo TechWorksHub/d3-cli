@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a8f39e3d-7064-514c-954f-6c75d8352bee
-  macAddresses:
-  - 40:B3:CD:00:00:00/24
-  manufacturer: Chiyoda Electronics Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: ChiyodaE
-type: d3-device-type-assertion

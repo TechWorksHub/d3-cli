@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 10d61623-5149-550c-928c-a399843109e3
-  macAddresses:
-  - 00:19:D6:00:00:00/24
-  manufacturer: LS Cable and System Ltd.
-  manufacturerUri: https://device-type.com
-  name: LSCablea
-type: d3-device-type-assertion

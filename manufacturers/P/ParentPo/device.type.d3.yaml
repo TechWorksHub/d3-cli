@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0ead0194-84b1-5b9a-b101-6823edeaf35f
-  macAddresses:
-  - 70:B3:D5:36:10:00/36
-  manufacturer: Parent Power
-  manufacturerUri: https://device-type.com
-  name: ParentPo
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a66f9333-87d5-5d27-ba4a-a025b10c8512
-  macAddresses:
-  - 00:18:6D:00:00:00/24
-  manufacturer: Zhenjiang Sapphire Electronic Industry CO.
-  manufacturerUri: https://device-type.com
-  name: Zhenjian
-type: d3-device-type-assertion

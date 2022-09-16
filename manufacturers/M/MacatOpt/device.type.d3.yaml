@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7848507c-8b5f-50b9-bbb1-cd69495376f3
-  macAddresses:
-  - 00:09:1A:00:00:00/24
-  manufacturer: Macat Optics & Electronics Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: MacatOpt
-type: d3-device-type-assertion

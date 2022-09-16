@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e9418553-b007-5e26-a462-3fbb76644328
-  macAddresses:
-  - 00:18:CE:00:00:00/24
-  manufacturer: Dreamtech Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Dreamtec
-type: d3-device-type-assertion

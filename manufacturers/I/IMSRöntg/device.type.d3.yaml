@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 86a7c40b-30d1-5729-9f92-0192e3d7dd35
-  macAddresses:
-  - 00:50:C2:83:90:00/36
-  manufacturer: "IMS R\xF6ntgensysteme GmbH"
-  manufacturerUri: https://device-type.com
-  name: "IMSR\xF6ntg"
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2fb14c20-1cf8-5dfa-9486-358bd13f9baa
-  macAddresses:
-  - F4:90:CB:90:00:00/28
-  manufacturer: Fractyl Labs
-  manufacturerUri: https://device-type.com
-  name: FractylL
-type: d3-device-type-assertion

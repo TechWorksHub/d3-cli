@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 83fc51c7-6d9a-57a0-bd72-c4f8f03f1061
-  macAddresses:
-  - 70:B3:D5:46:10:00/36
-  manufacturer: TESEC Corporation
-  manufacturerUri: https://device-type.com
-  name: TESEC
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 66525566-a912-5a2a-a3da-535e8d7656ff
-  macAddresses:
-  - 70:B3:D5:02:50:00/36
-  manufacturer: Elsuhd Net Ltd Co.
-  manufacturerUri: https://device-type.com
-  name: ElsuhdNe
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 74e1fb59-fae4-5104-bec3-5b02022242a5
-  macAddresses:
-  - 00:1F:B7:00:00:00/24
-  manufacturer: WiMate Technologies Corp.
-  manufacturerUri: https://device-type.com
-  name: WiMateTe
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 36df8089-c7fb-5e6d-9bd1-194303c23708
-  macAddresses:
-  - 00:08:EF:00:00:00/24
-  manufacturer: Dibal,S.A.
-  manufacturerUri: https://device-type.com
-  name: Dibal
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 625a6a8b-f05d-5393-9072-bd17fb0e6059
-  macAddresses:
-  - B4:31:B8:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Aviwest
-type: d3-device-type-assertion

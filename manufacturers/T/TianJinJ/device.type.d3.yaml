@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 63fd2396-8c5e-5f53-aa50-cf34017bf3c7
-  macAddresses:
-  - 8C:51:09:00:00:00/28
-  manufacturer: TianJin JointOptic Technology Co., LTD.
-  manufacturerUri: https://device-type.com
-  name: TianJinJ
-type: d3-device-type-assertion

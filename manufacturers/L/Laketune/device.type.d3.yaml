@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4dcfb23a-c6a8-5910-b2c6-a79824eb7a66
-  macAddresses:
-  - 00:17:73:00:00:00/24
-  manufacturer: Laketune Technologies Co. Ltd
-  manufacturerUri: https://device-type.com
-  name: Laketune
-type: d3-device-type-assertion

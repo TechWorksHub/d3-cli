@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b33edcef-de0d-51af-83de-312a51831eaf
-  macAddresses:
-  - 0C:5C:B5:C0:00:00/28
-  manufacturer: Hunan Newman Car NetworKing Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: HunanNew
-type: d3-device-type-assertion

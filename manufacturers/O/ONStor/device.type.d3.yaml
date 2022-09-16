@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a31cb27f-6c3b-5651-a99f-63fd9e2d154a
-  macAddresses:
-  - 00:07:34:00:00:00/24
-  manufacturer: ONStor, Inc.
-  manufacturerUri: https://device-type.com
-  name: ONStor
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2601419f-d22e-56fa-a4a6-24df49765fb6
-  macAddresses:
-  - 00:50:C2:CF:70:00/36
-  manufacturer: Armour Home Electronics LTD
-  manufacturerUri: https://device-type.com
-  name: ArmourHo
-type: d3-device-type-assertion

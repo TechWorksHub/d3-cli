@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5dbd51d8-0fc8-5022-ae19-ee1dbd897ee7
-  macAddresses:
-  - D4:7C:44:40:00:00/28
-  manufacturer: Sammi Onformation Systems
-  manufacturerUri: https://device-type.com
-  name: SammiOnf
-type: d3-device-type-assertion

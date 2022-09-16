@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 63ba1b44-2ed0-5152-99fd-7282f9f37fe7
-  macAddresses:
-  - B4:82:7B:00:00:00/24
-  manufacturer: AKG Acoustics GmbH
-  manufacturerUri: https://device-type.com
-  name: AKGAcous
-type: d3-device-type-assertion

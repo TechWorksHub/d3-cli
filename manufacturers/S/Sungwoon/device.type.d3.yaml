@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: efc23be9-2088-5be8-8bfb-995c16624218
-  macAddresses:
-  - 00:20:74:00:00:00/24
-  manufacturer: Sungwoon Systems
-  manufacturerUri: https://device-type.com
-  name: Sungwoon
-type: d3-device-type-assertion

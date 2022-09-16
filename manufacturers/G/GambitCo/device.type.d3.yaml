@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 58c9aa09-31a9-5431-b95a-68b7c10cbc64
-  macAddresses:
-  - 00:C0:AC:00:00:00/24
-  manufacturer: Gambit Computer Communications
-  manufacturerUri: https://device-type.com
-  name: GambitCo
-type: d3-device-type-assertion

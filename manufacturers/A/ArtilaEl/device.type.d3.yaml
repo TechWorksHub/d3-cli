@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d25a8c15-45ba-54fa-bd10-38a23d8ff03c
-  macAddresses:
-  - 00:13:48:00:00:00/24
-  manufacturer: Artila Electronics Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: ArtilaEl
-type: d3-device-type-assertion

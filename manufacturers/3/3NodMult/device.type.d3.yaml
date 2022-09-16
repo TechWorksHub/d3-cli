@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a06e07af-a1d0-5d9d-8893-0ef33538bc35
-  macAddresses:
-  - 38:63:F6:00:00:00/24
-  manufacturer: 3Nod Multimedia(Shenzhen)Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: 3NodMult
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bf1c70e3-63f0-5bfa-88d5-9c8c3c6edd3b
-  macAddresses:
-  - C0:D3:91:30:00:00/28
-  manufacturer: Ixon B.V.
-  manufacturerUri: https://device-type.com
-  name: Ixon
-type: d3-device-type-assertion

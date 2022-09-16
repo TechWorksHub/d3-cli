@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1148963b-b834-5824-bd10-65fb9e9c543a
-  macAddresses:
-  - B8:87:C6:00:00:00/24
-  manufacturer: Prudential Technology co.,LTD
-  manufacturerUri: https://device-type.com
-  name: Prudenti
-type: d3-device-type-assertion

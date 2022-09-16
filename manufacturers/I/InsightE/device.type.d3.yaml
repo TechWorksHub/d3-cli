@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3a01ed20-2663-5ede-87d0-1846e2b4c483
-  macAddresses:
-  - 04:21:4C:00:00:00/24
-  manufacturer: Insight Energy Ventures LLC
-  manufacturerUri: https://device-type.com
-  name: InsightE
-type: d3-device-type-assertion

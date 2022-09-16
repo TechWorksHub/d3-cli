@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 456ce7d4-ef61-5b2e-a03f-3bb7e0998e23
-  macAddresses:
-  - 00:50:C2:92:10:00/36
-  manufacturer: iQue RFID Technologies BV
-  manufacturerUri: https://device-type.com
-  name: iQueRFID
-type: d3-device-type-assertion

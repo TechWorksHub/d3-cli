@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f4a17691-3d15-5e34-ae71-ac188e667a14
-  macAddresses:
-  - 00:0F:84:00:00:00/24
-  manufacturer: Astute Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: AstuteNe
-type: d3-device-type-assertion

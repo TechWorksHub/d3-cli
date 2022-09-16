@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ec540302-647d-53be-911c-a2366054d84f
-  macAddresses:
-  - 00:0D:53:00:00:00/24
-  manufacturer: Beijing 5w Communication Corp.
-  manufacturerUri: https://device-type.com
-  name: Beijing5
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4974bbc0-5060-5704-bc95-28447aaa0412
-  macAddresses:
-  - 70:B3:D5:BD:70:00/36
-  manufacturer: TT Group SRL
-  manufacturerUri: https://device-type.com
-  name: TTGroup
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6a443e02-c266-5c01-b4a1-40f754a9b3bf
-  macAddresses:
-  - 70:B3:D5:41:50:00/36
-  manufacturer: Idea Spa
-  manufacturerUri: https://device-type.com
-  name: Idea
-type: d3-device-type-assertion

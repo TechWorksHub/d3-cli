@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 51f6c4af-478d-5480-bebb-e9118bc84fdc
-  macAddresses:
-  - 78:CB:2C:00:00:00/24
-  manufacturer: Join Digital, Inc.
-  manufacturerUri: https://device-type.com
-  name: JoinDigi
-type: d3-device-type-assertion

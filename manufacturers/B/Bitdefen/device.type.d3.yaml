@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cfc36f67-b7be-5d88-a6f2-6b7ff7d0ac78
-  macAddresses:
-  - E8:44:7E:00:00:00/24
-  manufacturer: Bitdefender SRL
-  manufacturerUri: https://device-type.com
-  name: Bitdefen
-type: d3-device-type-assertion

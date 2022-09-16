@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b422dffe-565e-52f0-867c-5f43bde63ba3
-  macAddresses:
-  - 3C:C0:C6:00:00:00/24
-  manufacturer: d&b audiotechnik GmbH
-  manufacturerUri: https://device-type.com
-  name: d&baudio
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: efe9196b-8135-5658-9f3c-c3596727527d
-  macAddresses:
-  - 00:25:FD:00:00:00/24
-  manufacturer: OBR Centrum Techniki Morskiej S.A.
-  manufacturerUri: https://device-type.com
-  name: OBRCentr
-type: d3-device-type-assertion

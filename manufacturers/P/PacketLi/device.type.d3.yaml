@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e41de231-9183-5968-8fb3-cdd37408e8f8
-  macAddresses:
-  - 00:05:FD:00:00:00/24
-  manufacturer: PacketLight Networks Ltd.
-  manufacturerUri: https://device-type.com
-  name: PacketLi
-type: d3-device-type-assertion

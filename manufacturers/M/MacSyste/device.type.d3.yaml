@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4760309f-4771-5915-b9cc-6ef55ca0eafc
-  macAddresses:
-  - 00:D0:E8:00:00:00/24
-  manufacturer: Mac System Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: MacSyste
-type: d3-device-type-assertion

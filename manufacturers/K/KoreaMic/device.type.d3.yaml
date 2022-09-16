@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 87dfbe4f-55b9-577a-b50c-aef46300379d
-  macAddresses:
-  - 78:D8:00:D0:00:00/28
-  manufacturer: Korea Micro Wireless Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: KoreaMic
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c5381c24-2116-55fe-a1a4-e2849eae3580
-  macAddresses:
-  - B4:1C:AB:00:00:00/24
-  manufacturer: ICR, inc.
-  manufacturerUri: https://device-type.com
-  name: ICR
-type: d3-device-type-assertion

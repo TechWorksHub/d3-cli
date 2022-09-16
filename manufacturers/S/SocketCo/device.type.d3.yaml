@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4e12bdeb-9f93-5a25-8ab8-c5f1fffe1da8
-  macAddresses:
-  - 00:C0:1B:00:00:00/24
-  manufacturer: Socket Communications
-  manufacturerUri: https://device-type.com
-  name: SocketCo
-type: d3-device-type-assertion

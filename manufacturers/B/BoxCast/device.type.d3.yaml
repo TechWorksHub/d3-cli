@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c7b2a496-d0e8-5e7f-90af-f161116cc4a9
-  macAddresses:
-  - 9C:4E:BF:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: BoxCast
-type: d3-device-type-assertion

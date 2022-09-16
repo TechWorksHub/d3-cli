@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a0b84b8c-78fa-5592-bc0b-7066bd4d97b3
-  macAddresses:
-  - 0C:84:11:00:00:00/24
-  manufacturer: A.O. Smith Water Products
-  manufacturerUri: https://device-type.com
-  name: AOSmithW
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 614d3359-6a7e-5b1d-b3a4-347dec9057e4
-  macAddresses:
-  - 00:29:26:00:00:00/24
-  manufacturer: Applied Optoelectronics, Inc Taiwan Branch
-  manufacturerUri: https://device-type.com
-  name: AppliedO
-type: d3-device-type-assertion

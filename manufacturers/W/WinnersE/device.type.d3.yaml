@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ccc8d997-c434-5e77-bfb6-202eb31b380a
-  macAddresses:
-  - 00:0D:8A:00:00:00/24
-  manufacturer: Winners Electronics Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: WinnersE
-type: d3-device-type-assertion

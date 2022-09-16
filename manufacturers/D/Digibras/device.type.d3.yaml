@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 143b6f17-fb46-582e-96ec-12d15028be2e
-  macAddresses:
-  - 64:1C:67:00:00:00/24
-  manufacturer: Digibras Industria Do Brasils/A
-  manufacturerUri: https://device-type.com
-  name: Digibras
-type: d3-device-type-assertion

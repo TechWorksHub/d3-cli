@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8dbc3b7e-a7d0-5034-9900-31787152c61e
-  macAddresses:
-  - 18:D7:93:40:00:00/28
-  manufacturer: Remote Engineer B.V.
-  manufacturerUri: https://device-type.com
-  name: RemoteEn
-type: d3-device-type-assertion

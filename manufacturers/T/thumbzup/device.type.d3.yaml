@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 81c788e0-72d1-5a50-8f57-169f5749dd65
-  macAddresses:
-  - 50:0B:91:B0:00:00/28
-  manufacturer: thumbzup UK Limited
-  manufacturerUri: https://device-type.com
-  name: thumbzup
-type: d3-device-type-assertion

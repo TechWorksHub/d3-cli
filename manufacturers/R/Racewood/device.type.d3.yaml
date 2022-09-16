@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1960dcd0-fa96-5092-a26e-6fc7dacea927
-  macAddresses:
-  - 00:09:5A:00:00:00/24
-  manufacturer: Racewood Technology
-  manufacturerUri: https://device-type.com
-  name: Racewood
-type: d3-device-type-assertion

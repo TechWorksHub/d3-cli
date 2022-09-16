@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9f8ee1c4-f833-54f7-8522-1604ce87595d
-  macAddresses:
-  - 00:50:C2:6B:50:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Triumf
-type: d3-device-type-assertion

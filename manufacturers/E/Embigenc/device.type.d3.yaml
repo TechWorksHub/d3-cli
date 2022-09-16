@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 76ec5c37-0f0b-53d8-a416-994157195ef7
-  macAddresses:
-  - 00:50:C2:4E:40:00/36
-  manufacturer: Embigence GmbH
-  manufacturerUri: https://device-type.com
-  name: Embigenc
-type: d3-device-type-assertion

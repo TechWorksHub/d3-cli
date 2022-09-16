@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bdcbfa11-2317-525a-9847-55195a52d81b
-  macAddresses:
-  - 00:50:C2:78:10:00/36
-  manufacturer: Starling Advanced Communications
-  manufacturerUri: https://device-type.com
-  name: Starling
-type: d3-device-type-assertion

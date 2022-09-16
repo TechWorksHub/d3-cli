@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c6bc217a-4769-505b-aa2f-56e15cb7cec3
-  macAddresses:
-  - 84:96:81:00:00:00/24
-  manufacturer: Cathay Communication Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: CathayCo
-type: d3-device-type-assertion

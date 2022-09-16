@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 123c03e5-45a7-55ec-92c1-7e3efb36b8e9
-  macAddresses:
-  - 00:50:C2:04:50:00/36
-  manufacturer: Chase Manhattan Bank
-  manufacturerUri: https://device-type.com
-  name: ChaseMan
-type: d3-device-type-assertion

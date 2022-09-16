@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3c99d004-8150-5d9a-9323-e1fa1b98876d
-  macAddresses:
-  - 00:16:30:00:00:00/24
-  manufacturer: Vativ Technologies
-  manufacturerUri: https://device-type.com
-  name: VativTec
-type: d3-device-type-assertion

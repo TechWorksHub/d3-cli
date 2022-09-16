@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a862e515-8f63-5fcd-9d2c-0718bd39b3a5
-  macAddresses:
-  - E4:71:85:00:00:00/24
-  manufacturer: Securifi Ltd
-  manufacturerUri: https://device-type.com
-  name: Securifi
-type: d3-device-type-assertion

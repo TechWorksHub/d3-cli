@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ea47aaea-4890-538f-8390-d66383debdce
-  macAddresses:
-  - 38:B1:9E:60:00:00/28
-  manufacturer: Thrust Networks
-  manufacturerUri: https://device-type.com
-  name: ThrustNe
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c1d1c298-79fe-5177-adba-9a51df7bbeb7
-  macAddresses:
-  - 00:26:C0:00:00:00/24
-  manufacturer: EnergyHub
-  manufacturerUri: https://device-type.com
-  name: EnergyHu
-type: d3-device-type-assertion

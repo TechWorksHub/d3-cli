@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 70f0fa58-c9cf-57f0-907e-0bb6c2478fc3
-  macAddresses:
-  - CC:6D:EF:00:00:00/24
-  manufacturer: TJK Tietolaite Oy
-  manufacturerUri: https://device-type.com
-  name: TJKTieto
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 97dd2725-21c6-5e30-8622-eae17a13fb3f
-  macAddresses:
-  - 64:5F:FF:00:00:00/24
-  manufacturer: Nicolet Neuro
-  manufacturerUri: https://device-type.com
-  name: NicoletN
-type: d3-device-type-assertion

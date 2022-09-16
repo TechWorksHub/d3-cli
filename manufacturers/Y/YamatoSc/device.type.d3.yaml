@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 66815367-aa6f-57dd-af92-a607553b3b85
-  macAddresses:
-  - C8:F3:6B:00:00:00/24
-  manufacturer: Yamato Scale Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: YamatoSc
-type: d3-device-type-assertion

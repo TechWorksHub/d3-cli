@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b04ed2ab-5635-5bb1-a84f-16e8bcb4d06a
-  macAddresses:
-  - 00:59:07:00:00:00/24
-  manufacturer: LenovoEMC Products USA, LLC
-  manufacturerUri: https://device-type.com
-  name: LenovoEM
-type: d3-device-type-assertion

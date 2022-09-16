@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3c14dbbd-e774-51d3-b769-233ddcd86832
-  macAddresses:
-  - 58:48:49:10:00:00/28
-  manufacturer: SKAARHOJ ApS
-  manufacturerUri: https://device-type.com
-  name: SKAARHOJ
-type: d3-device-type-assertion

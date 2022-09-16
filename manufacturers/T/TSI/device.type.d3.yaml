@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9ac1d1a3-e1cb-56a3-82be-90eee5e20ea8
-  macAddresses:
-  - 00:30:20:00:00:00/24
-  manufacturer: TSI, Inc..
-  manufacturerUri: https://device-type.com
-  name: TSI
-type: d3-device-type-assertion

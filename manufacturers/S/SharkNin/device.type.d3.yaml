@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 80c60f21-c485-5447-9860-bd736cc26829
-  macAddresses:
-  - 0C:E5:A3:00:00:00/24
-  manufacturer: SharkNinja
-  manufacturerUri: https://device-type.com
-  name: SharkNin
-type: d3-device-type-assertion

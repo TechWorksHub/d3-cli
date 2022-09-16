@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: de8d7a02-7b47-5643-a470-9307fc940350
-  macAddresses:
-  - 00:14:66:00:00:00/24
-  manufacturer: Kleinhenz Elektronik GmbH
-  manufacturerUri: https://device-type.com
-  name: Kleinhen
-type: d3-device-type-assertion

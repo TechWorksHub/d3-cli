@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 12d8796a-8517-5280-8b5e-ac18a9fe2047
-  macAddresses:
-  - 00:25:06:00:00:00/24
-  manufacturer: A.I. Antitaccheggio Italia Srl
-  manufacturerUri: https://device-type.com
-  name: AIAntita
-type: d3-device-type-assertion

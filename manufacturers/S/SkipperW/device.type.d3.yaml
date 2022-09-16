@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ea5bc3d2-1ec0-519d-b810-958821e41da0
-  macAddresses:
-  - 00:1A:9D:00:00:00/24
-  manufacturer: Skipper Wireless, Inc.
-  manufacturerUri: https://device-type.com
-  name: SkipperW
-type: d3-device-type-assertion

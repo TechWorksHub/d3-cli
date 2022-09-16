@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a69226e5-762e-5bdf-9efe-69b6b0801ea3
-  macAddresses:
-  - 74:19:F8:70:00:00/28
-  manufacturer: Heptagon Systems PTY. LTD.
-  manufacturerUri: https://device-type.com
-  name: Heptagon
-type: d3-device-type-assertion

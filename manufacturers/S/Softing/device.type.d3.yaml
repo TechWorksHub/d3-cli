@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b4d88e63-977a-5fac-b71d-0304de8c616d
-  macAddresses:
-  - 00:06:71:00:00:00/24
-  manufacturer: Softing AG
-  manufacturerUri: https://device-type.com
-  name: Softing
-type: d3-device-type-assertion

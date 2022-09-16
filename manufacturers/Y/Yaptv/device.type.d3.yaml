@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 122e5910-eda9-53dd-94cd-ff5dd28bb097
-  macAddresses:
-  - EC:43:8B:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Yaptv
-type: d3-device-type-assertion

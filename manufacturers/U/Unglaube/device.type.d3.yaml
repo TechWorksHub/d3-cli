@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b12037f6-b4fb-5510-a87a-86d9ab6faaef
-  macAddresses:
-  - 68:E4:1F:00:00:00/24
-  manufacturer: Unglaube Identech GmbH
-  manufacturerUri: https://device-type.com
-  name: Unglaube
-type: d3-device-type-assertion

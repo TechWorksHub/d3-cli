@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 807ad35d-0fcf-59d2-9f29-b96489bdd22f
-  macAddresses:
-  - 00:21:F5:00:00:00/24
-  manufacturer: Western Engravers Supply, Inc.
-  manufacturerUri: https://device-type.com
-  name: WesternE
-type: d3-device-type-assertion

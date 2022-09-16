@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5d419fcf-2240-5ba5-b540-29dd8f827a33
-  macAddresses:
-  - 00:07:64:00:00:00/24
-  manufacturer: YoungWoo Telecom Co. Ltd.
-  manufacturerUri: https://device-type.com
-  name: YoungWoo
-type: d3-device-type-assertion

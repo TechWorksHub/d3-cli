@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 739ab326-6bd8-56e0-9cbd-645fbcd50318
-  macAddresses:
-  - 00:50:C2:62:10:00/36
-  manufacturer: Version-T
-  manufacturerUri: https://device-type.com
-  name: Version-
-type: d3-device-type-assertion

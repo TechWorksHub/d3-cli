@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 44df3675-424b-529c-bd38-8cbcb911e67a
-  macAddresses:
-  - FA:0B:BC:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Asd-Stan
-type: d3-device-type-assertion

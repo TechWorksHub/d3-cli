@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3494997b-cf73-5095-bfe6-753eb03f070c
-  macAddresses:
-  - 4C:EC:EF:00:00:00/24
-  manufacturer: Soraa, Inc.
-  manufacturerUri: https://device-type.com
-  name: Soraa
-type: d3-device-type-assertion

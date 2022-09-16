@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: debac392-abfb-5e6d-b6a8-7403bbe82fa7
-  macAddresses:
-  - 08:51:14:00:00:00/24
-  manufacturer: Qingdao Topscomm Communication Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: QingdaoT
-type: d3-device-type-assertion

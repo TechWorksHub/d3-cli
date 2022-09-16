@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d7a32355-e46f-518c-aeea-9ac60eb2a129
-  macAddresses:
-  - 00:40:EC:00:00:00/24
-  manufacturer: Mikasa System Engineering
-  manufacturerUri: https://device-type.com
-  name: MikasaSy
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0b9668dd-731d-59a8-941b-906f192fc0e7
-  macAddresses:
-  - 70:B3:D5:25:C0:00/36
-  manufacturer: Arclan'System
-  manufacturerUri: https://device-type.com
-  name: ArclanSy
-type: d3-device-type-assertion

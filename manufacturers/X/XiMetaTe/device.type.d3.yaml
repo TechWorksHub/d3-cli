@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bb1b3cc6-f815-5fad-bca4-07c61d2536d4
-  macAddresses:
-  - 00:0B:D0:00:00:00/24
-  manufacturer: XiMeta Technology Americas Inc.
-  manufacturerUri: https://device-type.com
-  name: XiMetaTe
-type: d3-device-type-assertion

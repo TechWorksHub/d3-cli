@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 613888bc-2f21-5e60-9c99-68be1dd01ec3
-  macAddresses:
-  - 00:D0:9A:00:00:00/24
-  manufacturer: Filanet Corporation
-  manufacturerUri: https://device-type.com
-  name: Filanet
-type: d3-device-type-assertion

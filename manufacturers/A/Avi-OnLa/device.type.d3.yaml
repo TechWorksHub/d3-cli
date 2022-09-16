@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2bb70342-db50-55da-8262-fbb15624d1be
-  macAddresses:
-  - EC:60:E0:00:00:00/24
-  manufacturer: Avi-On Labs
-  manufacturerUri: https://device-type.com
-  name: Avi-OnLa
-type: d3-device-type-assertion

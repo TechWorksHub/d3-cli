@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bc243382-407a-5078-9e2f-6ac6462b3e3b
-  macAddresses:
-  - 00:01:1F:00:00:00/24
-  manufacturer: RC Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: RCNetwor
-type: d3-device-type-assertion

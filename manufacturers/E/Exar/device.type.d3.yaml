@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ce31ba4d-301a-5ae2-ab75-29434a8078ab
-  macAddresses:
-  - 00:BD:27:00:00:00/24
-  manufacturer: Exar Corp.
-  manufacturerUri: https://device-type.com
-  name: Exar
-type: d3-device-type-assertion

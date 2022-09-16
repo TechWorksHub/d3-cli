@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 80f5faa8-f280-5dfa-9347-7da7b65e0204
-  macAddresses:
-  - 00:E0:57:00:00:00/24
-  manufacturer: Han Microtelecom. Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: HanMicro
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 572fd6de-07e0-5ab3-bd39-91617435fa47
-  macAddresses:
-  - 00:50:C2:B4:60:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Mobileye
-type: d3-device-type-assertion

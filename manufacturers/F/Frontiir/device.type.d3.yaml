@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ba3d3d6a-c4d7-5d7b-86f7-90fc573dd690
-  macAddresses:
-  - 28:30:AC:00:00:00/24
-  manufacturer: Frontiir Co. Ltd.
-  manufacturerUri: https://device-type.com
-  name: Frontiir
-type: d3-device-type-assertion

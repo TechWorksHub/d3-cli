@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f972f75f-b2c8-5d65-b559-1a3fe5ee308c
-  macAddresses:
-  - 70:B3:D5:3A:30:00/36
-  manufacturer: CDS Institute of Management Strategy, Inc.
-  manufacturerUri: https://device-type.com
-  name: CDSInsti
-type: d3-device-type-assertion

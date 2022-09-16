@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c02af282-3084-5676-a80c-4c827a5d5fc9
-  macAddresses:
-  - 00:40:69:00:00:00/24
-  manufacturer: Lemcom Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Lemcom
-type: d3-device-type-assertion

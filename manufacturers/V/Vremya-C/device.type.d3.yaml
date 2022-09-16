@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 711998a2-3df5-51cb-a249-7cd3918c2b0e
-  macAddresses:
-  - 00:50:C2:FA:F0:00/36
-  manufacturer: Vremya-CH JSC
-  manufacturerUri: https://device-type.com
-  name: Vremya-C
-type: d3-device-type-assertion

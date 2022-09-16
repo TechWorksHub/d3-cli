@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2ad2de4b-8d31-5a41-ba14-d033d5b47ff7
-  macAddresses:
-  - 00:1E:36:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Ipte
-type: d3-device-type-assertion

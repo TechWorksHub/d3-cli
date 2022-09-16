@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6a3f8c20-1ba7-594d-b3fa-9fcb01fb48bb
-  macAddresses:
-  - 1C:F0:3E:00:00:00/24
-  manufacturer: Wearhaus Inc.
-  manufacturerUri: https://device-type.com
-  name: Wearhaus
-type: d3-device-type-assertion

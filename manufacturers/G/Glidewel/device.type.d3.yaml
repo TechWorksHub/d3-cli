@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bd52d904-9b3e-51d5-8952-f3faeb663872
-  macAddresses:
-  - 70:B3:D5:50:20:00/36
-  manufacturer: Glidewell Laboratories
-  manufacturerUri: https://device-type.com
-  name: Glidewel
-type: d3-device-type-assertion

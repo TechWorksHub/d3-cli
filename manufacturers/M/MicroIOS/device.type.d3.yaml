@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e9404370-ce27-5ec0-89a4-4fd2ba5cee5a
-  macAddresses:
-  - 00:50:C2:C6:50:00/36
-  manufacturer: Micro I/O Servicos de Electronica, Lda
-  manufacturerUri: https://device-type.com
-  name: MicroIOS
-type: d3-device-type-assertion

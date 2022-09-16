@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bcb4332d-8997-546c-968a-74a18bd8e639
-  macAddresses:
-  - 00:08:12:00:00:00/24
-  manufacturer: GM-2 Corporation
-  manufacturerUri: https://device-type.com
-  name: GM-2
-type: d3-device-type-assertion

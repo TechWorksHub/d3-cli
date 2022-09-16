@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c6d36b9f-dd6f-5ecc-89c9-123de801c5b4
-  macAddresses:
-  - 70:B3:D5:27:A0:00/36
-  manufacturer: Td Ecophisika
-  manufacturerUri: https://device-type.com
-  name: TdEcophi
-type: d3-device-type-assertion

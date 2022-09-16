@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a864651e-3516-57d1-b09d-39f015efeca7
-  macAddresses:
-  - 00:60:7B:00:00:00/24
-  manufacturer: Fore Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Fore
-type: d3-device-type-assertion

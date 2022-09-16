@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c60433d2-e3c9-56f7-bfb9-2b17c15a9da5
-  macAddresses:
-  - B4:AC:8C:00:00:00/24
-  manufacturer: Bern University of Applied Sciences
-  manufacturerUri: https://device-type.com
-  name: BernUniv
-type: d3-device-type-assertion

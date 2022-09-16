@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b21a40e9-42e0-55c4-b0d4-b8f315f50f4b
-  macAddresses:
-  - D8:E0:B8:00:00:00/24
-  manufacturer: Bulat Llc
-  manufacturerUri: https://device-type.com
-  name: Bulat
-type: d3-device-type-assertion

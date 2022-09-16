@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 18ae33b9-4560-555d-856d-bc74d45bf63a
-  macAddresses:
-  - 00:1E:48:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Wi-Links
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ec3bc07b-d4fe-5c19-9334-506c98ea610a
-  macAddresses:
-  - 00:1A:C7:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Unipoint
-type: d3-device-type-assertion

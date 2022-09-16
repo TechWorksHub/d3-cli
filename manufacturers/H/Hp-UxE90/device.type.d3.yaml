@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ee1255d8-24ee-5602-894e-3d804e12e6a7
-  macAddresses:
-  - 00:10:83:00:00:00/24
-  manufacturer: HP-UX E 9000/889
-  manufacturerUri: https://device-type.com
-  name: Hp-UxE90
-type: d3-device-type-assertion

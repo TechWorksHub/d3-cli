@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f28e10e0-3c77-5330-8faa-e567c28c542b
-  macAddresses:
-  - 70:B3:D5:2D:00:00/36
-  manufacturer: ijin co.,ltd.
-  manufacturerUri: https://device-type.com
-  name: ijin
-type: d3-device-type-assertion

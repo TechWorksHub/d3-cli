@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 41cc653c-251f-57d4-ace5-435da96df707
-  macAddresses:
-  - 70:B3:D5:13:C0:00/36
-  manufacturer: Detec Systems Ltd
-  manufacturerUri: https://device-type.com
-  name: Detec
-type: d3-device-type-assertion

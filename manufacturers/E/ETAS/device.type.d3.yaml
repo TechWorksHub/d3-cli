@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0263e91d-7fa9-5886-be11-c73e9611b533
-  macAddresses:
-  - 00:02:E0:00:00:00/24
-  manufacturer: ETAS GmbH
-  manufacturerUri: https://device-type.com
-  name: ETAS
-type: d3-device-type-assertion

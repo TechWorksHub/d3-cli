@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c716c802-6801-56dd-a83d-c7187e21d54c
-  macAddresses:
-  - 00:0D:8F:00:00:00/24
-  manufacturer: King Tsushin Kogyo Co., LTD.
-  manufacturerUri: https://device-type.com
-  name: KingTsus
-type: d3-device-type-assertion

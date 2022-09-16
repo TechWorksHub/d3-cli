@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0dc2e469-dfa6-5604-abdc-ee5e1da69fc9
-  macAddresses:
-  - 00:18:78:00:00:00/24
-  manufacturer: Mackware GmbH
-  manufacturerUri: https://device-type.com
-  name: Mackware
-type: d3-device-type-assertion

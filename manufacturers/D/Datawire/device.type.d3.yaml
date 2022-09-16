@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f364b724-075e-52b7-8340-1bd053325d60
-  macAddresses:
-  - 00:0F:55:00:00:00/24
-  manufacturer: Datawire Communication Networks Inc.
-  manufacturerUri: https://device-type.com
-  name: Datawire
-type: d3-device-type-assertion

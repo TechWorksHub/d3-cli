@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 64ce9d9c-06ad-556e-bc6c-4dd1d1a7f27d
-  macAddresses:
-  - 00:1C:66:00:00:00/24
-  manufacturer: Ucamp Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: Ucamp
-type: d3-device-type-assertion

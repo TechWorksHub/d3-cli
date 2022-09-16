@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5eb4e526-a5d2-5727-bef5-ff3276128a6a
-  macAddresses:
-  - 10:54:D2:40:00:00/28
-  manufacturer: Raylogic Control Systems Private Limited
-  manufacturerUri: https://device-type.com
-  name: Raylogic
-type: d3-device-type-assertion

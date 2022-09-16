@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d855df19-823f-5172-8717-cee238afed24
-  macAddresses:
-  - 00:0B:3C:00:00:00/24
-  manufacturer: Cygnal Integrated Products, Inc.
-  manufacturerUri: https://device-type.com
-  name: CygnalIn
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2251f03f-9b8c-59b0-9226-cae6b9628c35
-  macAddresses:
-  - E8:A4:C1:00:00:00/24
-  manufacturer: Deep Sea Electronics Ltd
-  manufacturerUri: https://device-type.com
-  name: DeepSeaE
-type: d3-device-type-assertion

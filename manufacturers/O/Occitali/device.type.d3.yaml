@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bdf54717-049f-5587-ac69-a8814b40df5d
-  macAddresses:
-  - FA:4C:77:00:00:00/24
-  manufacturer: Occitaline
-  manufacturerUri: https://device-type.com
-  name: Occitali
-type: d3-device-type-assertion

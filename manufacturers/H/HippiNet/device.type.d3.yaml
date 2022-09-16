@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 20d1064a-b7d8-5e0b-9997-9addbe550f6e
-  macAddresses:
-  - 00:10:3B:00:00:00/24
-  manufacturer: Hippi Networking Forum
-  manufacturerUri: https://device-type.com
-  name: HippiNet
-type: d3-device-type-assertion

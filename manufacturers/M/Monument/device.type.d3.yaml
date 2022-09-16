@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1118ebd4-7fae-593a-a128-fbc3c7e85915
-  macAddresses:
-  - 1C:C0:E1:60:00:00/28
-  manufacturer: Monument Labs, Inc.
-  manufacturerUri: https://device-type.com
-  name: Monument
-type: d3-device-type-assertion

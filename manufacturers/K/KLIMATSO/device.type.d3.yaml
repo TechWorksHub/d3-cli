@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fcb7042c-1584-50db-8fa1-3feceeee1825
-  macAddresses:
-  - 74:E1:4A:20:00:00/28
-  manufacturer: KLIMAT SOLEC Sp. z o.o.
-  manufacturerUri: https://device-type.com
-  name: KLIMATSO
-type: d3-device-type-assertion

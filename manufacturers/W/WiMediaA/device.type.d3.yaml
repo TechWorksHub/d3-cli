@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 808e0fd3-452e-5716-b3bf-c3b09769d37b
-  macAddresses:
-  - 00:13:88:00:00:00/24
-  manufacturer: WiMedia Alliance
-  manufacturerUri: https://device-type.com
-  name: WiMediaA
-type: d3-device-type-assertion

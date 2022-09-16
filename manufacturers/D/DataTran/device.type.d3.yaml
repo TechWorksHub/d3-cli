@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9af33e02-672b-5a79-8552-2d5fa834b2d4
-  macAddresses:
-  - 00:10:C7:00:00:00/24
-  manufacturer: Data Transmission Network
-  manufacturerUri: https://device-type.com
-  name: DataTran
-type: d3-device-type-assertion

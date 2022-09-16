@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f2a784ed-936b-5c7a-b1f6-8c5ff7c35d45
-  macAddresses:
-  - 70:B3:D5:B4:D0:00/36
-  manufacturer: Avidbots Corporation
-  manufacturerUri: https://device-type.com
-  name: Avidbots
-type: d3-device-type-assertion

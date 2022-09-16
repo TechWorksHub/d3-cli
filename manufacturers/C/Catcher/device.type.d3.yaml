@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d826ce57-9d16-572b-b38f-c4f955a6e01e
-  macAddresses:
-  - 00:18:4A:00:00:00/24
-  manufacturer: Catcher, Inc.
-  manufacturerUri: https://device-type.com
-  name: Catcher
-type: d3-device-type-assertion

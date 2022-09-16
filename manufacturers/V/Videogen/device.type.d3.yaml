@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 043bfc10-b9dd-5814-9544-b2af00b40de5
-  macAddresses:
-  - 70:B3:D5:73:00:00/36
-  manufacturer: Videogenix
-  manufacturerUri: https://device-type.com
-  name: Videogen
-type: d3-device-type-assertion

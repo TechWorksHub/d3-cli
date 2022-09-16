@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8ea39f76-8da6-5f36-bca2-c354f0a3d564
-  macAddresses:
-  - 00:50:C2:7B:C0:00/36
-  manufacturer: Eidos Spa
-  manufacturerUri: https://device-type.com
-  name: Eidos
-type: d3-device-type-assertion

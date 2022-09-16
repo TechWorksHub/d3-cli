@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7cd44e55-29a5-5225-9f00-ac11667f61c2
-  macAddresses:
-  - 70:B3:D5:50:50:00/36
-  manufacturer: MC2-Technologies
-  manufacturerUri: https://device-type.com
-  name: MC2-Tech
-type: d3-device-type-assertion

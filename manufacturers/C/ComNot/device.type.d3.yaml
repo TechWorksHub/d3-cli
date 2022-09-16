@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 896a0ab4-07bb-5a63-9f55-9c889d7b592e
-  macAddresses:
-  - 74:5B:C5:C0:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: ComNot
-type: d3-device-type-assertion

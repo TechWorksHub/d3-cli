@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b37b0b0d-26d2-5b33-8a94-5d04e51469f6
-  macAddresses:
-  - 34:12:90:00:00:00/24
-  manufacturer: Treeview Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: Treeview
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 40ee80ad-83dc-5ee4-b704-e964822d3b80
-  macAddresses:
-  - 70:B3:D5:C9:60:00/36
-  manufacturer: Uni Dimenxi Sdn Bhd
-  manufacturerUri: https://device-type.com
-  name: UniDimen
-type: d3-device-type-assertion

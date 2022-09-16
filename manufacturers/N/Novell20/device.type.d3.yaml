@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4f5118bb-c344-5383-a750-db6db8a9e7fb
-  macAddresses:
-  - 52:54:4C:00:00:00/24
-  manufacturer: Novell 2000
-  manufacturerUri: https://device-type.com
-  name: Novell20
-type: d3-device-type-assertion

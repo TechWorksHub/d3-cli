@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a8453d26-e3f5-5cd2-88c4-63ece18a93f0
-  macAddresses:
-  - 70:B3:D5:83:F0:00/36
-  manufacturer: Lumine Lighting Solutions Oy
-  manufacturerUri: https://device-type.com
-  name: LumineLi
-type: d3-device-type-assertion

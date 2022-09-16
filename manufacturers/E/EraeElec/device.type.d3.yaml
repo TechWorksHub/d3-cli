@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5ef67417-217b-5d69-8ef1-c32c65d3c71b
-  macAddresses:
-  - 00:18:CD:00:00:00/24
-  manufacturer: Erae Electronics Industry Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: EraeElec
-type: d3-device-type-assertion

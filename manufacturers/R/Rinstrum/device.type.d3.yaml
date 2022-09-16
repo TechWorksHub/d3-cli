@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 76f87e17-72d9-5ab7-8874-80e6cd3ef9d6
-  macAddresses:
-  - 70:4A:E4:00:00:00/24
-  manufacturer: Rinstrum Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: Rinstrum
-type: d3-device-type-assertion

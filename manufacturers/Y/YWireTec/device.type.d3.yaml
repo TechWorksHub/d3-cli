@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fd447679-407f-5a16-9c20-0b071127e34f
-  macAddresses:
-  - B8:EE:79:00:00:00/24
-  manufacturer: YWire Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: YWireTec
-type: d3-device-type-assertion

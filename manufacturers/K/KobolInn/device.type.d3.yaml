@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 87f41755-fb14-557c-bca1-8434cd03fcfb
-  macAddresses:
-  - 64:62:66:D0:00:00/28
-  manufacturer: Kobol Innovations Pte. Ltd.
-  manufacturerUri: https://device-type.com
-  name: KobolInn
-type: d3-device-type-assertion

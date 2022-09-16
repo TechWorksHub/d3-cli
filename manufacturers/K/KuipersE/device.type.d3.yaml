@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 15efebae-4c01-5dd4-8607-6e4763437b55
-  macAddresses:
-  - 20:37:BC:00:00:00/24
-  manufacturer: Kuipers Electronic Engineering BV
-  manufacturerUri: https://device-type.com
-  name: KuipersE
-type: d3-device-type-assertion

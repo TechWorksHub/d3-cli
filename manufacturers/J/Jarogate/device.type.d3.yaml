@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 03ab103c-02e3-5f23-8c23-8180b4835908
-  macAddresses:
-  - 08:00:61:00:00:00/24
-  manufacturer: Jarogate Ltd.
-  manufacturerUri: https://device-type.com
-  name: Jarogate
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 84c401cc-7bdd-52e9-aa76-eeb10b859bc1
-  macAddresses:
-  - 20:12:57:00:00:00/24
-  manufacturer: Most Lucky Trading Ltd
-  manufacturerUri: https://device-type.com
-  name: MostLuck
-type: d3-device-type-assertion

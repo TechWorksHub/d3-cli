@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 05cdf16e-1b47-53db-b3fb-87dc002f878a
-  macAddresses:
-  - 00:09:15:00:00:00/24
-  manufacturer: CAS Corp.
-  manufacturerUri: https://device-type.com
-  name: CAS
-type: d3-device-type-assertion

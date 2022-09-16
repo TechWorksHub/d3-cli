@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4d2a1871-dd5a-5666-b04b-f4216e805712
-  macAddresses:
-  - 58:E8:76:60:00:00/28
-  manufacturer: DivioTec Inc.
-  manufacturerUri: https://device-type.com
-  name: DivioTec
-type: d3-device-type-assertion

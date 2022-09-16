@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ea7cb051-613c-5b96-9c16-a59801d671fa
-  macAddresses:
-  - 00:13:99:00:00:00/24
-  manufacturer: STAC Corporation.
-  manufacturerUri: https://device-type.com
-  name: STAC
-type: d3-device-type-assertion

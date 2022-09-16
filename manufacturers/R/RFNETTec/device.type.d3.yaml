@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ee4a430e-e2ad-5570-b74a-4723cf1de061
-  macAddresses:
-  - 00:06:C7:00:00:00/24
-  manufacturer: RFNET Technologies Pte Ltd (S)
-  manufacturerUri: https://device-type.com
-  name: RFNETTec
-type: d3-device-type-assertion

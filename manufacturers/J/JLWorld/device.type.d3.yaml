@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 91d2a68e-7b1e-573d-ac37-d46746f78634
-  macAddresses:
-  - 70:B3:D5:D5:40:00/36
-  manufacturer: JL World Corporation Limited
-  manufacturerUri: https://device-type.com
-  name: JLWorld
-type: d3-device-type-assertion

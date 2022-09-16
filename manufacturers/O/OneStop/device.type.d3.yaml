@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ee97ab78-af1f-5e85-ac54-9367d7773118
-  macAddresses:
-  - 00:02:25:00:00:00/24
-  manufacturer: One Stop Systems
-  manufacturerUri: https://device-type.com
-  name: OneStop
-type: d3-device-type-assertion

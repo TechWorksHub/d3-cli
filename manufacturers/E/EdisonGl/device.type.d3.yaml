@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1adb745a-caf8-5bb8-8d3a-29485635348e
-  macAddresses:
-  - B0:17:43:00:00:00/24
-  manufacturer: Edison Global Circuits Llc
-  manufacturerUri: https://device-type.com
-  name: EdisonGl
-type: d3-device-type-assertion

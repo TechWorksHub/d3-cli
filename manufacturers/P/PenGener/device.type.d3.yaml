@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5b726ee1-2794-505a-921b-bc3d47532191
-  macAddresses:
-  - B4:39:34:00:00:00/24
-  manufacturer: Pen Generations, Inc.
-  manufacturerUri: https://device-type.com
-  name: PenGener
-type: d3-device-type-assertion

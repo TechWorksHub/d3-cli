@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a478f2bc-ce59-5e76-a9ea-1fadbfb3f070
-  macAddresses:
-  - 8C:C8:F4:40:00:00/28
-  manufacturer: ITECH Electronic Co.,ltd.
-  manufacturerUri: https://device-type.com
-  name: ITECHEle
-type: d3-device-type-assertion

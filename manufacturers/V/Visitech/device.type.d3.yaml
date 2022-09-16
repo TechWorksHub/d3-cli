@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fec6efa6-2888-5e11-9bde-291956a212ff
-  macAddresses:
-  - 00:50:C2:F3:60:00/36
-  manufacturer: Visitech AS
-  manufacturerUri: https://device-type.com
-  name: Visitech
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e1d477b5-11d9-553c-b87d-86d941b81aa7
-  macAddresses:
-  - 70:B3:D5:06:B0:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: U-Tech
-type: d3-device-type-assertion

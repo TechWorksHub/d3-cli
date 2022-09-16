@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 71beb319-0b4b-5c02-8b63-ee1f3ebeb04c
-  macAddresses:
-  - 8C:41:F2:00:00:00/24
-  manufacturer: RDA Technologies Ltd.
-  manufacturerUri: https://device-type.com
-  name: RDATechn
-type: d3-device-type-assertion

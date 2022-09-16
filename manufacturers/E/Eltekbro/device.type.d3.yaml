@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9c52c241-5c2f-5453-9802-a83abe50b393
-  macAddresses:
-  - FC:CD:2F:E0:00:00/28
-  manufacturer: Eltek brojila d.o.o.
-  manufacturerUri: https://device-type.com
-  name: Eltekbro
-type: d3-device-type-assertion

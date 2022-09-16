@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 953c0fcb-99a0-5ef1-99a4-bf698938e5d3
-  macAddresses:
-  - 00:19:05:00:00:00/24
-  manufacturer: SCHRACK Seconet AG
-  manufacturerUri: https://device-type.com
-  name: SCHRACKS
-type: d3-device-type-assertion

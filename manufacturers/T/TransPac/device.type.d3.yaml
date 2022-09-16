@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 14d522fa-2ff4-5cfe-83ed-e2188711e650
-  macAddresses:
-  - 6C:A9:6F:00:00:00/24
-  manufacturer: TransPacket AS
-  manufacturerUri: https://device-type.com
-  name: TransPac
-type: d3-device-type-assertion

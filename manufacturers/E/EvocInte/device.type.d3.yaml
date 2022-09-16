@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 45d9d08f-3569-5285-be0c-49f79fbb83cf
-  macAddresses:
-  - 00:22:46:00:00:00/24
-  manufacturer: Evoc Intelligent Technology Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: EvocInte
-type: d3-device-type-assertion

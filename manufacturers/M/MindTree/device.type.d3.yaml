@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b9f2d418-8b74-5c13-b03f-401de62690ce
-  macAddresses:
-  - 7C:4A:A8:00:00:00/24
-  manufacturer: MindTree Wireless PVT Ltd
-  manufacturerUri: https://device-type.com
-  name: MindTree
-type: d3-device-type-assertion

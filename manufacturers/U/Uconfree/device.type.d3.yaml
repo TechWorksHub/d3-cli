@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f9fe51fa-2d08-5e96-867e-8ac58eb32a46
-  macAddresses:
-  - 6C:93:08:60:00:00/28
-  manufacturer: Uconfree technology(shenzhen)limited
-  manufacturerUri: https://device-type.com
-  name: Uconfree
-type: d3-device-type-assertion

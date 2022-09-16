@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 16f3f504-3c59-50b4-a010-09bbb5047188
-  macAddresses:
-  - 00:60:83:00:00:00/24
-  manufacturer: Cisco Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Cisco362
-type: d3-device-type-assertion

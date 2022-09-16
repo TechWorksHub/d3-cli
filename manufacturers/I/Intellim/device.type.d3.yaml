@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bf9135e7-67ea-5190-bba3-f8063813824c
-  macAddresses:
-  - 14:1B:F0:00:00:00/24
-  manufacturer: Intellimedia Systems Ltd
-  manufacturerUri: https://device-type.com
-  name: Intellim
-type: d3-device-type-assertion

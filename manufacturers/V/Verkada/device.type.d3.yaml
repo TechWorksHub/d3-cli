@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8ef2322b-5033-51fa-b70a-2b37b52f550b
-  macAddresses:
-  - E0:A7:00:00:00:00/24
-  manufacturer: Verkada Inc
-  manufacturerUri: https://device-type.com
-  name: Verkada
-type: d3-device-type-assertion

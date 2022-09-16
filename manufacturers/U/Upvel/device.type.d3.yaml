@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 21695f3d-2018-5946-8fd8-489e81e6b97e
-  macAddresses:
-  - D4:BF:7F:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Upvel
-type: d3-device-type-assertion

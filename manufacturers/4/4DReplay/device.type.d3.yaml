@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: db7de10b-12c9-59e2-9679-a1e3b9117c27
-  macAddresses:
-  - 14:24:75:00:00:00/24
-  manufacturer: 4DReplay, Inc
-  manufacturerUri: https://device-type.com
-  name: 4DReplay
-type: d3-device-type-assertion

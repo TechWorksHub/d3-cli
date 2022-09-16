@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c49c9fe8-7606-5774-8a74-9c8a1dafd786
-  macAddresses:
-  - 00:16:A2:00:00:00/24
-  manufacturer: CentraLite Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: CentraLi
-type: d3-device-type-assertion

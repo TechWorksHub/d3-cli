@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ff53b87f-cb14-5a89-81c1-dc68f06d2040
-  macAddresses:
-  - 00:10:34:00:00:00/24
-  manufacturer: GNP Computers
-  manufacturerUri: https://device-type.com
-  name: GNPCompu
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4ea7430f-3d3a-5371-a9a5-13f735c5551e
-  macAddresses:
-  - 70:B3:D5:1A:00:00/36
-  manufacturer: Ufatech Ltd
-  manufacturerUri: https://device-type.com
-  name: Ufatech
-type: d3-device-type-assertion

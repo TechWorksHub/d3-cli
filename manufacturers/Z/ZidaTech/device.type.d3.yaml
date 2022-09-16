@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2fe63c16-7344-5ebb-9f4d-9d9d48bb9268
-  macAddresses:
-  - 00:10:FB:00:00:00/24
-  manufacturer: Zida Technologies Limited
-  manufacturerUri: https://device-type.com
-  name: ZidaTech
-type: d3-device-type-assertion

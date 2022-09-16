@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: af0ce943-92dc-5fbf-88b1-3c9532ec502c
-  macAddresses:
-  - 00:25:FC:00:00:00/24
-  manufacturer: Enda Endustriyel Elektronik Ltd. Sti.
-  manufacturerUri: https://device-type.com
-  name: EndaEndu
-type: d3-device-type-assertion

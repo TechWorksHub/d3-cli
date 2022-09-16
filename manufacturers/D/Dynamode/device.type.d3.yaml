@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5a4c46f5-3e7b-5633-a9fb-a96634cd8e9f
-  macAddresses:
-  - 24:3C:20:00:00:00/24
-  manufacturer: Dynamode Group
-  manufacturerUri: https://device-type.com
-  name: Dynamode
-type: d3-device-type-assertion

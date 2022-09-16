@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bf1795e8-e682-5d2a-b1a3-010e0302b9ef
-  macAddresses:
-  - 00:15:03:00:00:00/24
-  manufacturer: PROFIcomms s.r.o.
-  manufacturerUri: https://device-type.com
-  name: PROFIcom
-type: d3-device-type-assertion

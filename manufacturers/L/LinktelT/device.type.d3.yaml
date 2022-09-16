@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 48aa458a-0d15-532d-b830-bef56a528a9e
-  macAddresses:
-  - 68:E8:EB:00:00:00/24
-  manufacturer: Linktel Technologies Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: LinktelT
-type: d3-device-type-assertion

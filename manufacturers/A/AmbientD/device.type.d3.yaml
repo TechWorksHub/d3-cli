@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8812bd65-bbef-578d-a4d6-68e8c0714258
-  macAddresses:
-  - 00:1B:C5:09:30:00/36
-  manufacturer: Ambient Devices, Inc.
-  manufacturerUri: https://device-type.com
-  name: AmbientD
-type: d3-device-type-assertion

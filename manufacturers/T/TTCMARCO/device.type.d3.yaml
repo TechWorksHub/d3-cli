@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d09d5ed6-6705-58c9-b116-516da611e1c4
-  macAddresses:
-  - 88:96:76:00:00:00/24
-  manufacturer: TTC MARCONI s.r.o.
-  manufacturerUri: https://device-type.com
-  name: TTCMARCO
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cea46b24-962c-5982-8be1-bb6c2f6136eb
-  macAddresses:
-  - 04:71:4B:C0:00:00/28
-  manufacturer: KittyHawk Corporation
-  manufacturerUri: https://device-type.com
-  name: KittyHaw
-type: d3-device-type-assertion

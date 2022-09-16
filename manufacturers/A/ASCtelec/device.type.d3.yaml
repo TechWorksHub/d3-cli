@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e8ad7c4a-573c-5de3-8dc3-c57323b61d52
-  macAddresses:
-  - 00:50:C2:71:F0:00/36
-  manufacturer: ASC telecom AG
-  manufacturerUri: https://device-type.com
-  name: ASCtelec
-type: d3-device-type-assertion

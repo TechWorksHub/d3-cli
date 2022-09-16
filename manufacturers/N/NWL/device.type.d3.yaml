@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 74dc6c36-6bb8-5362-a9c8-2a69528003eb
-  macAddresses:
-  - CC:C2:61:10:00:00/28
-  manufacturer: NWL Inc.
-  manufacturerUri: https://device-type.com
-  name: NWL
-type: d3-device-type-assertion

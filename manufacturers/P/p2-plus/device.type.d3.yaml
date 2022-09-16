@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3fd23faa-2982-5f4d-bbd3-459e4dfbf447
-  macAddresses:
-  - 1C:21:D1:E0:00:00/28
-  manufacturer: p2-plus inc.
-  manufacturerUri: https://device-type.com
-  name: p2-plus
-type: d3-device-type-assertion

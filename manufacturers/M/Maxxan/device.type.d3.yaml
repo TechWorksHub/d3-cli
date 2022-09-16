@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dba56a15-bbd2-5a2b-aefc-2b03a26a6cde
-  macAddresses:
-  - 00:06:EF:00:00:00/24
-  manufacturer: Maxxan Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Maxxan
-type: d3-device-type-assertion

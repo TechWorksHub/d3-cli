@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9c101037-6c1c-5a09-8e7d-4b800ad3eaa6
-  macAddresses:
-  - 20:0A:0D:00:00:00/28
-  manufacturer: halstrup-walcher GmbH
-  manufacturerUri: https://device-type.com
-  name: halstrup
-type: d3-device-type-assertion

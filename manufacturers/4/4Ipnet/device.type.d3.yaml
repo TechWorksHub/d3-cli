@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d7d0f060-1c19-55a1-81e3-17d37a240a47
-  macAddresses:
-  - 00:1F:D4:00:00:00/24
-  manufacturer: 4Ipnet, Inc.
-  manufacturerUri: https://device-type.com
-  name: 4Ipnet
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d190329e-0139-52d9-b0d1-f60699cabcf4
-  macAddresses:
-  - E4:4C:C7:80:00:00/28
-  manufacturer: Iag Group Ltd
-  manufacturerUri: https://device-type.com
-  name: IagGroup
-type: d3-device-type-assertion

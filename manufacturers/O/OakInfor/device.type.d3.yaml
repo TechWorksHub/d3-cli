@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 768a84d0-cdf3-503b-bf88-defa8ecc2831
-  macAddresses:
-  - DC:36:43:80:00:00/28
-  manufacturer: Oak Information System Co.
-  manufacturerUri: https://device-type.com
-  name: OakInfor
-type: d3-device-type-assertion

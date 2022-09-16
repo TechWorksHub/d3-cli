@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eb64c1db-7c14-5944-b437-b8b54ed54da4
-  macAddresses:
-  - 5C:02:6A:00:00:00/24
-  manufacturer: Applied Vision Corporation
-  manufacturerUri: https://device-type.com
-  name: AppliedV
-type: d3-device-type-assertion

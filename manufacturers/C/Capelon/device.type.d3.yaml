@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 47d1a306-fcb0-56f9-bcb7-594b9cd5dda6
-  macAddresses:
-  - 00:15:AC:00:00:00/24
-  manufacturer: Capelon AB
-  manufacturerUri: https://device-type.com
-  name: Capelon
-type: d3-device-type-assertion

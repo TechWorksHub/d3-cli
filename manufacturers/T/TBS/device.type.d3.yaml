@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 420fcc19-c33e-51fb-8ab1-d8d5762fca0c
-  macAddresses:
-  - 00:50:C2:C6:E0:00/36
-  manufacturer: TBS Holding AG
-  manufacturerUri: https://device-type.com
-  name: TBS
-type: d3-device-type-assertion

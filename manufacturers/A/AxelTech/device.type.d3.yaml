@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 50aa779b-892c-589d-96ff-0701dd38f4f3
-  macAddresses:
-  - 50:A4:D0:D0:00:00/28
-  manufacturer: Axel Technology
-  manufacturerUri: https://device-type.com
-  name: AxelTech
-type: d3-device-type-assertion

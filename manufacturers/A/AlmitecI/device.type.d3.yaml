@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eb7cfd48-798d-56c1-87d6-eba2c5f1c4ed
-  macAddresses:
-  - 00:18:C1:00:00:00/24
-  manufacturer: "Almitec Inform\xE1tica e Com\xE9rcio"
-  manufacturerUri: https://device-type.com
-  name: AlmitecI
-type: d3-device-type-assertion

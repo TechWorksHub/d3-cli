@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4c18fca0-57d2-59d1-9f12-18b5f4174458
-  macAddresses:
-  - 00:18:98:00:00:00/24
-  manufacturer: Kingstate Electronics Corporation
-  manufacturerUri: https://device-type.com
-  name: Kingstat
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0a9c9d62-6db7-52ad-990e-d33f5804fbd1
-  macAddresses:
-  - 78:AF:58:00:00:00/24
-  manufacturer: Gimasi Sa
-  manufacturerUri: https://device-type.com
-  name: Gimasi
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2feb5e32-b203-5642-8ab9-71d20cb30689
-  macAddresses:
-  - 7C:44:4C:00:00:00/24
-  manufacturer: Entertainment Solutions, S.L.
-  manufacturerUri: https://device-type.com
-  name: Entertai
-type: d3-device-type-assertion

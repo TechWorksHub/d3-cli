@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: daf49198-d183-54b9-8f0b-24d2005b6657
-  macAddresses:
-  - 00:0E:92:00:00:00/24
-  manufacturer: Open Telecom
-  manufacturerUri: https://device-type.com
-  name: OpenTele
-type: d3-device-type-assertion

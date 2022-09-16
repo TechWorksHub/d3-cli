@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3187c8dc-2fd9-508b-afe0-73abfc58ec22
-  macAddresses:
-  - 00:08:57:00:00:00/24
-  manufacturer: Polaris Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: PolarisN
-type: d3-device-type-assertion

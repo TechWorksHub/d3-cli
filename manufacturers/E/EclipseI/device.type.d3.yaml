@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b9673ad8-a409-57a3-9b96-0825c0f1ab19
-  macAddresses:
-  - 34:04:9E:80:00:00/28
-  manufacturer: Eclipse Information Technologies
-  manufacturerUri: https://device-type.com
-  name: EclipseI
-type: d3-device-type-assertion

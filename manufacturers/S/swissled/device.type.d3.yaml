@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 332e7b4c-f62e-5223-8958-1ae1c54d9cc0
-  macAddresses:
-  - 70:B3:D5:64:90:00/36
-  manufacturer: swissled technologies AG
-  manufacturerUri: https://device-type.com
-  name: swissled
-type: d3-device-type-assertion

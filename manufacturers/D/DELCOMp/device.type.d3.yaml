@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 59fd1885-24b7-5aae-a5e4-8de871cf9efe
-  macAddresses:
-  - 00:0F:C0:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: DELCOMp
-type: d3-device-type-assertion

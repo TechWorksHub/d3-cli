@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6a13a865-1918-5f74-a484-b90f1bad9d10
-  macAddresses:
-  - 00:0A:9C:00:00:00/24
-  manufacturer: Server Technology, Inc.
-  manufacturerUri: https://device-type.com
-  name: ServerTe
-type: d3-device-type-assertion

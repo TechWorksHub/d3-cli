@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 953addb9-c2fc-5056-a50d-4602b8fd219d
-  macAddresses:
-  - 00:D0:39:00:00:00/24
-  manufacturer: Utilicom, Inc.
-  manufacturerUri: https://device-type.com
-  name: Utilicom
-type: d3-device-type-assertion

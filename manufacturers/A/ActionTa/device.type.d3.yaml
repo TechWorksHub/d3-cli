@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a1491d38-7cd8-5513-b384-bddbe720f074
-  macAddresses:
-  - 70:5E:AA:00:00:00/24
-  manufacturer: Action Target, Inc.
-  manufacturerUri: https://device-type.com
-  name: ActionTa
-type: d3-device-type-assertion

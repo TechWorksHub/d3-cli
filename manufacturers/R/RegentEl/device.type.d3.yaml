@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 56a135a2-fa12-5a67-8a9d-9e0db01f72e5
-  macAddresses:
-  - 00:D0:21:00:00:00/24
-  manufacturer: Regent Electronics Corp.
-  manufacturerUri: https://device-type.com
-  name: RegentEl
-type: d3-device-type-assertion

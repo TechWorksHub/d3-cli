@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e19baa94-1013-5c86-8e91-864e9d33e250
-  macAddresses:
-  - 00:1C:7A:00:00:00/24
-  manufacturer: Perfectone Netware Company Ltd
-  manufacturerUri: https://device-type.com
-  name: Perfecto
-type: d3-device-type-assertion

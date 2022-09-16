@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ad09fd7a-2962-554f-8256-f245867ffcb8
-  macAddresses:
-  - 30:09:F9:90:00:00/28
-  manufacturer: Bonraybio
-  manufacturerUri: https://device-type.com
-  name: Bonraybi
-type: d3-device-type-assertion

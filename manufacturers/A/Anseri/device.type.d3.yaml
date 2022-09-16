@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 81c5a16d-5ced-59d5-b2d3-b307298c8eb3
-  macAddresses:
-  - 00:1A:B8:00:00:00/24
-  manufacturer: Anseri Corporation
-  manufacturerUri: https://device-type.com
-  name: Anseri
-type: d3-device-type-assertion

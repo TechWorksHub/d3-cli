@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1950f856-1e44-55f7-859b-54a5006a9123
-  macAddresses:
-  - 00:10:60:00:00:00/24
-  manufacturer: Billington
-  manufacturerUri: https://device-type.com
-  name: Billingt
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 70e72c66-c683-5409-b387-2d18a3b19f1e
-  macAddresses:
-  - D4:61:32:00:00:00/24
-  manufacturer: Pro Concept Manufacturer Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: ProConce
-type: d3-device-type-assertion

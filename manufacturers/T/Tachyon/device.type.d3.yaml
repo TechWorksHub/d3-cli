@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d57482de-5468-59c8-af2d-21eb8e58b92e
-  macAddresses:
-  - 00:09:67:00:00:00/24
-  manufacturer: Tachyon, Inc
-  manufacturerUri: https://device-type.com
-  name: Tachyon
-type: d3-device-type-assertion

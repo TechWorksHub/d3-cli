@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4a71e96c-7079-5023-a51c-7d631c903da7
-  macAddresses:
-  - 00:0C:E1:00:00:00/24
-  manufacturer: The Open Group
-  manufacturerUri: https://device-type.com
-  name: OpenGrou
-type: d3-device-type-assertion

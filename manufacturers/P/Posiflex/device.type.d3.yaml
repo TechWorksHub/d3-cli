@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2ec70e85-cc36-54db-98a6-59cd77dc13c9
-  macAddresses:
-  - 00:19:17:00:00:00/24
-  manufacturer: Posiflex Inc.
-  manufacturerUri: https://device-type.com
-  name: Posiflex
-type: d3-device-type-assertion

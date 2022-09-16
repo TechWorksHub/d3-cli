@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d7e765a1-c023-5a0d-bb05-d5ea04432a1d
-  macAddresses:
-  - 00:50:C2:52:10:00/36
-  manufacturer: Aris Technologies
-  manufacturerUri: https://device-type.com
-  name: ArisTech
-type: d3-device-type-assertion

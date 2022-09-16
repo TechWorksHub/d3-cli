@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fb9563b4-8a1d-5cf1-9ad4-f1b4a95a7f4a
-  macAddresses:
-  - 9C:7F:57:00:00:00/24
-  manufacturer: UNIC Memory Technology Co Ltd
-  manufacturerUri: https://device-type.com
-  name: UNICMemo
-type: d3-device-type-assertion

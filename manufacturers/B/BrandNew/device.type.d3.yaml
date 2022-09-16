@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3f1a3e4d-f654-5070-a055-052a12a75c9f
-  macAddresses:
-  - A4:ED:43:D0:00:00/28
-  manufacturer: Brand New Brand Nordic AB
-  manufacturerUri: https://device-type.com
-  name: BrandNew
-type: d3-device-type-assertion

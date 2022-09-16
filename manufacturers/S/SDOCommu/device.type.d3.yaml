@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 363b4e9a-a4a7-5cdb-a40d-e0685fe48f80
-  macAddresses:
-  - 00:0D:B3:00:00:00/24
-  manufacturer: SDO Communication Corperation
-  manufacturerUri: https://device-type.com
-  name: SDOCommu
-type: d3-device-type-assertion

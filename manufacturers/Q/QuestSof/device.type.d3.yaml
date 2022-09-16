@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8d4732d8-b82c-5fa6-8992-88f8ba8ce720
-  macAddresses:
-  - D8:DF:7A:00:00:00/24
-  manufacturer: Quest Software, Inc.
-  manufacturerUri: https://device-type.com
-  name: QuestSof
-type: d3-device-type-assertion

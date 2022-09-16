@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f9b15451-d57a-5672-a81b-a365ba03f018
-  macAddresses:
-  - D0:5C:7A:00:00:00/24
-  manufacturer: Sartura d.o.o.
-  manufacturerUri: https://device-type.com
-  name: Sarturad
-type: d3-device-type-assertion

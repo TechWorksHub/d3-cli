@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fa88653e-489e-5100-a3c1-102bbe8b1b3f
-  macAddresses:
-  - 48:9B:E2:00:00:00/24
-  manufacturer: SCI Innovations Ltd
-  manufacturerUri: https://device-type.com
-  name: SCIInnov
-type: d3-device-type-assertion

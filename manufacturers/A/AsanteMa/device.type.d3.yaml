@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d446958b-a9ca-5dd9-93d7-5e069a3c38af
-  macAddresses:
-  - 00:00:94:00:00:00/24
-  manufacturer: Asante
-  manufacturerUri: https://device-type.com
-  name: AsanteMa
-type: d3-device-type-assertion

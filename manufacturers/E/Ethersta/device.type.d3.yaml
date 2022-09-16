@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bc84d214-a156-587e-af5a-77cfff0b85a6
-  macAddresses:
-  - 00:1F:42:00:00:00/24
-  manufacturer: Etherstack plc
-  manufacturerUri: https://device-type.com
-  name: Ethersta
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d57434ad-af2d-5364-b73f-fa2286f346e1
-  macAddresses:
-  - 00:07:E3:00:00:00/24
-  manufacturer: Navcom Technology, Inc.
-  manufacturerUri: https://device-type.com
-  name: NavcomTe
-type: d3-device-type-assertion

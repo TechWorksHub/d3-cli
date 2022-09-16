@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 183149cb-9758-5eb7-ad4f-b9afcbef4470
-  macAddresses:
-  - 64:D9:12:00:00:00/24
-  manufacturer: Solidica, Inc.
-  manufacturerUri: https://device-type.com
-  name: Solidica
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 066175a1-b234-5189-8ea1-407bf74eca85
-  macAddresses:
-  - F0:6E:32:00:00:00/24
-  manufacturer: Microtel Innovation S.R.L.
-  manufacturerUri: https://device-type.com
-  name: Microtel
-type: d3-device-type-assertion

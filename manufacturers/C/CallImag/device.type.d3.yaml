@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 60c552ac-185a-54f0-8185-5612ff67a645
-  macAddresses:
-  - 00:0C:F3:00:00:00/24
-  manufacturer: Call Image Sa
-  manufacturerUri: https://device-type.com
-  name: CallImag
-type: d3-device-type-assertion

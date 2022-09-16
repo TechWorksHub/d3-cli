@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 39ffcb73-7562-5a50-9d16-ae11bdd34175
-  macAddresses:
-  - B8:24:1A:00:00:00/24
-  manufacturer: Sweda Informatica Ltda
-  manufacturerUri: https://device-type.com
-  name: SwedaInf
-type: d3-device-type-assertion

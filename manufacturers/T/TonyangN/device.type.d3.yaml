@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f344bf0b-18a6-512b-9434-933a29a926f3
-  macAddresses:
-  - 00:A0:7C:00:00:00/24
-  manufacturer: Tonyang Nylon Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: TonyangN
-type: d3-device-type-assertion

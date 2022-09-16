@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5318cfb3-8ed2-54f9-84e1-6442407b2c02
-  macAddresses:
-  - 00:03:D0:00:00:00/24
-  manufacturer: KOANKEISO Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: KOANKEIS
-type: d3-device-type-assertion

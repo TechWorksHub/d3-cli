@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a6646911-e4d8-5d54-9637-7092968e8eeb
-  macAddresses:
-  - 00:1B:6F:00:00:00/24
-  manufacturer: Teletrak Ltd
-  manufacturerUri: https://device-type.com
-  name: Teletrak
-type: d3-device-type-assertion

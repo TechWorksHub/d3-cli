@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6b51160a-1b4d-54d0-9d7e-7cd76b8750d9
-  macAddresses:
-  - 00:50:C2:A7:C0:00/36
-  manufacturer: Pneu-Logic Corporation
-  manufacturerUri: https://device-type.com
-  name: Pneu-Log
-type: d3-device-type-assertion

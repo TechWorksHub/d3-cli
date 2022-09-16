@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c2ef864e-8363-599a-9693-b09cfb9e01b0
-  macAddresses:
-  - 00:21:F3:00:00:00/24
-  manufacturer: Si14 SpA
-  manufacturerUri: https://device-type.com
-  name: Si14
-type: d3-device-type-assertion

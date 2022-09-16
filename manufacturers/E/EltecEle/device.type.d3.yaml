@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fd3b96a1-3765-5aee-9ed9-350533865ffa
-  macAddresses:
-  - 00:00:5B:00:00:00/24
-  manufacturer: Eltec Elektronik Ag
-  manufacturerUri: https://device-type.com
-  name: EltecEle
-type: d3-device-type-assertion

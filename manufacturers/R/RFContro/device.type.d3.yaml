@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4047b4a4-a33f-5dfd-b6ac-128397c41575
-  macAddresses:
-  - 2C:69:BA:00:00:00/24
-  manufacturer: RF Controls, LLC
-  manufacturerUri: https://device-type.com
-  name: RFContro
-type: d3-device-type-assertion

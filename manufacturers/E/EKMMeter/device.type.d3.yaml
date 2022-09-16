@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c9fb63f6-192c-55a3-ab5e-b7214a42e364
-  macAddresses:
-  - 40:16:FA:00:00:00/24
-  manufacturer: EKM Metering
-  manufacturerUri: https://device-type.com
-  name: EKMMeter
-type: d3-device-type-assertion

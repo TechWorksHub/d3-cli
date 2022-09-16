@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c58db3b6-b33b-5f56-ab23-41e699324921
-  macAddresses:
-  - 00:03:D1:00:00:00/24
-  manufacturer: Takaya Corporation
-  manufacturerUri: https://device-type.com
-  name: Takaya
-type: d3-device-type-assertion

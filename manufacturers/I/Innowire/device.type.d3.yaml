@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 667f57c7-0ad6-5cef-bd41-5b7b5388123e
-  macAddresses:
-  - 30:78:C2:00:00:00/24
-  manufacturer: Innowireless / QUCELL Networks
-  manufacturerUri: https://device-type.com
-  name: Innowire
-type: d3-device-type-assertion

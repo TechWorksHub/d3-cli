@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 640b97f6-b3fb-5b1f-b663-442476aa40fc
-  macAddresses:
-  - 00:0D:27:00:00:00/24
-  manufacturer: MICROPLEX Printware AG
-  manufacturerUri: https://device-type.com
-  name: MICROPLE
-type: d3-device-type-assertion

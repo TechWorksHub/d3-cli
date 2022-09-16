@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d645878f-48a3-598c-b2ad-7d0fde235dee
-  macAddresses:
-  - 00:19:37:00:00:00/24
-  manufacturer: CommerceGuard AB
-  manufacturerUri: https://device-type.com
-  name: Commerce
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ca3fcf0e-078d-5ca9-afa6-15724ebe9a62
-  macAddresses:
-  - 00:50:C2:38:70:00/36
-  manufacturer: Inoteska s.r.o.
-  manufacturerUri: https://device-type.com
-  name: Inoteska
-type: d3-device-type-assertion

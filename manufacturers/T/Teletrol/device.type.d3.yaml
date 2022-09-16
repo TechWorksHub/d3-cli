@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 13c3bcf7-9e6f-5f70-a300-dcf9ef0d9e3c
-  macAddresses:
-  - 00:30:B7:00:00:00/24
-  manufacturer: Teletrol Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Teletrol
-type: d3-device-type-assertion

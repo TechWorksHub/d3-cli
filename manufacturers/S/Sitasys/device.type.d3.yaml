@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cd0d9156-5c2c-5686-8746-e10dff72a889
-  macAddresses:
-  - 08:00:64:00:00:00/24
-  manufacturer: Sitasys AG
-  manufacturerUri: https://device-type.com
-  name: Sitasys
-type: d3-device-type-assertion

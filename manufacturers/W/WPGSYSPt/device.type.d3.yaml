@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 29e87889-33a3-53a1-b9d9-7d994a1f5cda
-  macAddresses:
-  - 70:B3:D5:D8:60:00/36
-  manufacturer: WPGSYS Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: WPGSYSPt
-type: d3-device-type-assertion

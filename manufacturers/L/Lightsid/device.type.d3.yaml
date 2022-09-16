@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b31f4846-4db0-5d25-a4b4-ab59aa09c3f8
-  macAddresses:
-  - 70:B3:D5:EC:20:00/36
-  manufacturer: Lightside Instruments AS
-  manufacturerUri: https://device-type.com
-  name: Lightsid
-type: d3-device-type-assertion

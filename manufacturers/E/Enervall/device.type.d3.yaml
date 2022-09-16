@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ae24a0af-179b-56d7-8418-13ef5a342c02
-  macAddresses:
-  - FC:DB:96:00:00:00/24
-  manufacturer: Enervalley Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Enervall
-type: d3-device-type-assertion

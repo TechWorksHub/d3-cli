@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 51fb8300-6cae-5e57-87d3-f63744288f77
-  macAddresses:
-  - 00:50:C2:E9:90:00/36
-  manufacturer: UV Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: UVNetwor
-type: d3-device-type-assertion

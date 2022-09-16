@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5fadc91e-996e-5c6b-abe1-0a6ae3c4df8a
-  macAddresses:
-  - 70:B3:D5:C5:E0:00/36
-  manufacturer: Frog Cellsat Limited
-  manufacturerUri: https://device-type.com
-  name: FrogCell
-type: d3-device-type-assertion

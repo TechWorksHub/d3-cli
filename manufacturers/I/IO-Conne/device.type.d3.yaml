@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 813fd13d-0a3d-5289-a531-dbe06f8bb636
-  macAddresses:
-  - 00:50:C2:91:40:00/36
-  manufacturer: IO-Connect
-  manufacturerUri: https://device-type.com
-  name: IO-Conne
-type: d3-device-type-assertion

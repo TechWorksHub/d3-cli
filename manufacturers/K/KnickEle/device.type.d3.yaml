@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a17794d8-5216-5bda-b311-271fc852ef5a
-  macAddresses:
-  - 00:19:10:00:00:00/24
-  manufacturer: Knick Elektronische Messgeraete GmbH & Co. KG
-  manufacturerUri: https://device-type.com
-  name: KnickEle
-type: d3-device-type-assertion

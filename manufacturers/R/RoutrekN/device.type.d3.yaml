@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c93597dc-1396-59f0-8051-94b6584c7f11
-  macAddresses:
-  - 00:03:45:00:00:00/24
-  manufacturer: Routrek Networks Corporation
-  manufacturerUri: https://device-type.com
-  name: RoutrekN
-type: d3-device-type-assertion

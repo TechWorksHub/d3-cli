@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 581f2a51-7565-51ed-b51e-f239a1a07da3
-  macAddresses:
-  - C4:C1:38:00:00:00/24
-  manufacturer: OWLink Technology Inc
-  manufacturerUri: https://device-type.com
-  name: OWLinkTe
-type: d3-device-type-assertion

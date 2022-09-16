@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e5cbb71f-27b4-5048-b467-0e372f1cfb23
-  macAddresses:
-  - 00:40:C4:00:00:00/24
-  manufacturer: Kinkei System Corporation
-  manufacturerUri: https://device-type.com
-  name: KinkeiSy
-type: d3-device-type-assertion

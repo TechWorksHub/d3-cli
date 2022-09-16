@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 209fef57-ff7a-5e86-b897-e8eaef814726
-  macAddresses:
-  - 00:50:C2:4C:E0:00/36
-  manufacturer: Open Date Equipment Limited
-  manufacturerUri: https://device-type.com
-  name: OpenDate
-type: d3-device-type-assertion

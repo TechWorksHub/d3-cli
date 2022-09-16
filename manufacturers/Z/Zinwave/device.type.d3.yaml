@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 04a371f8-6859-5c2c-b0a8-5830a4479010
-  macAddresses:
-  - 00:17:68:00:00:00/24
-  manufacturer: Zinwave Ltd
-  manufacturerUri: https://device-type.com
-  name: Zinwave
-type: d3-device-type-assertion

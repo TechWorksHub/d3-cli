@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 88b5f1c0-bef4-52a4-9d67-c959f0a88dbc
-  macAddresses:
-  - 00:15:16:00:00:00/24
-  manufacturer: Uriel Systems Inc.
-  manufacturerUri: https://device-type.com
-  name: Uriel
-type: d3-device-type-assertion

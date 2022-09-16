@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d8796410-d61a-5d76-9aa5-8491c3c2c8df
-  macAddresses:
-  - 00:8D:DA:00:00:00/24
-  manufacturer: Link One Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: LinkOne
-type: d3-device-type-assertion

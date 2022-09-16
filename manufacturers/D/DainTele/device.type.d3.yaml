@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 72f7e88a-10b5-53d3-b483-4453a8fd936a
-  macAddresses:
-  - 00:50:38:00:00:00/24
-  manufacturer: Dain Telecom Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: DainTele
-type: d3-device-type-assertion

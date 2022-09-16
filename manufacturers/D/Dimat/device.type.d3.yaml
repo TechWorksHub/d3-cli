@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 62b4a12e-bdcc-518a-b88d-e37d9673b4d7
-  macAddresses:
-  - 00:E0:AB:00:00:00/24
-  manufacturer: Dimat S.A.
-  manufacturerUri: https://device-type.com
-  name: Dimat
-type: d3-device-type-assertion

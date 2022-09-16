@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2132ec62-f9a1-570d-9ede-0a94348b4857
-  macAddresses:
-  - 8C:31:E2:00:00:00/24
-  manufacturer: Dayouplus
-  manufacturerUri: https://device-type.com
-  name: Dayouplu
-type: d3-device-type-assertion

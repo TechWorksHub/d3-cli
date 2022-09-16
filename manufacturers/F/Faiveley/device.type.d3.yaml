@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 15f6f83e-194e-5364-beee-6e1314480ddf
-  macAddresses:
-  - 00:1B:79:00:00:00/24
-  manufacturer: Faiveley Transport
-  manufacturerUri: https://device-type.com
-  name: Faiveley
-type: d3-device-type-assertion

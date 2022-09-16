@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b089e26d-e92f-58ab-8298-cda9b30f3a50
-  macAddresses:
-  - A0:BB:3E:E0:00:00/28
-  manufacturer: Messtechnik Sachs GmbH
-  manufacturerUri: https://device-type.com
-  name: Messtech
-type: d3-device-type-assertion

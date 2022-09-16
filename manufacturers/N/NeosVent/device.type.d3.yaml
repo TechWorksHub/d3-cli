@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dc2134ba-3c41-5f3e-950b-61c6f0290be9
-  macAddresses:
-  - A8:3F:A1:80:00:00/28
-  manufacturer: Neos Ventures Limited
-  manufacturerUri: https://device-type.com
-  name: NeosVent
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 850dfe47-b531-5f10-b40a-0027d7c5dc8e
-  macAddresses:
-  - 00:50:C2:E8:70:00/36
-  manufacturer: Lamson Safes & Security
-  manufacturerUri: https://device-type.com
-  name: LamsonSa
-type: d3-device-type-assertion

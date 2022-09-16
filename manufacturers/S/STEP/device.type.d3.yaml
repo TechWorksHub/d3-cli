@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3af8da81-0794-518c-bc43-e9b016906c73
-  macAddresses:
-  - 70:B3:D5:48:10:00/36
-  manufacturer: STEP sarl
-  manufacturerUri: https://device-type.com
-  name: STEP
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: af005fbb-5212-5830-82a2-3daaa4d6a31e
-  macAddresses:
-  - A4:53:EE:20:00:00/28
-  manufacturer: Ubisafe Smart Devices
-  manufacturerUri: https://device-type.com
-  name: UbisafeS
-type: d3-device-type-assertion

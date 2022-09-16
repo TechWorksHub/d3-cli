@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4ed679a3-0494-5a1b-b2b7-81a6ffbd45c9
-  macAddresses:
-  - 00:50:C2:A5:30:00/36
-  manufacturer: Quality & Design
-  manufacturerUri: https://device-type.com
-  name: QualityD
-type: d3-device-type-assertion

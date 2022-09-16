@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b017a318-8a47-5566-84b8-18bb7e6bf500
-  macAddresses:
-  - 00:A0:D0:00:00:00/24
-  manufacturer: Ten X Technology, Inc.
-  manufacturerUri: https://device-type.com
-  name: TenXTech
-type: d3-device-type-assertion

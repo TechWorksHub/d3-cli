@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1bbf344c-e1a6-5085-9bb9-51b49a208746
-  macAddresses:
-  - 08:3A:B8:00:00:00/24
-  manufacturer: Shinoda Plasma Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: ShinodaP
-type: d3-device-type-assertion

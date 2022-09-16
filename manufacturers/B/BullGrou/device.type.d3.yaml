@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c5b487ba-32ab-5c08-b2f6-b8cb858f945c
-  macAddresses:
-  - C4:11:E0:00:00:00/24
-  manufacturer: Bull Group Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: BullGrou
-type: d3-device-type-assertion

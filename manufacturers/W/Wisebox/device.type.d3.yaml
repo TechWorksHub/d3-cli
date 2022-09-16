@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e081f545-766e-5297-b72f-0ca6a6d1824f
-  macAddresses:
-  - 70:B3:D5:AC:20:00/36
-  manufacturer: Wisebox.,Co.Ltd
-  manufacturerUri: https://device-type.com
-  name: Wisebox
-type: d3-device-type-assertion

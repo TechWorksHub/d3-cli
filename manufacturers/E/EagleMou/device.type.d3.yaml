@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3c2f2e25-1a11-53bd-938a-8180cd39c690
-  macAddresses:
-  - 70:B3:D5:55:90:00/36
-  manufacturer: Eagle Mountain Technology
-  manufacturerUri: https://device-type.com
-  name: EagleMou
-type: d3-device-type-assertion

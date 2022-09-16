@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ad5da0c6-9ea4-5ff1-a587-7973ca82664f
-  macAddresses:
-  - 00:50:C2:37:D0:00/36
-  manufacturer: VeroTrak Inc.
-  manufacturerUri: https://device-type.com
-  name: VeroTrak
-type: d3-device-type-assertion

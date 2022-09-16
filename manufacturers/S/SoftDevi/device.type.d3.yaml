@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1c166c10-13bb-57de-aeda-c05ae6674255
-  macAddresses:
-  - 00:19:97:00:00:00/24
-  manufacturer: Soft Device Sdn Bhd
-  manufacturerUri: https://device-type.com
-  name: SoftDevi
-type: d3-device-type-assertion

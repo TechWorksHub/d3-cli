@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f3efe9d0-86ff-5ac2-b7df-93c3594a57df
-  macAddresses:
-  - 00:1B:02:00:00:00/24
-  manufacturer: ED Co.Ltd
-  manufacturerUri: https://device-type.com
-  name: ED
-type: d3-device-type-assertion

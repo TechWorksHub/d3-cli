@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f2dd1a0f-3834-5726-9166-8fb750a805d7
-  macAddresses:
-  - 70:B3:D5:16:90:00/36
-  manufacturer: Service Plus LLC
-  manufacturerUri: https://device-type.com
-  name: ServiceP
-type: d3-device-type-assertion

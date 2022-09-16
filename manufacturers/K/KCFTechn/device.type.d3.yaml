@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b581916d-558d-57fc-83ce-53a870cc91f2
-  macAddresses:
-  - 94:92:D2:00:00:00/24
-  manufacturer: KCF Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: KCFTechn
-type: d3-device-type-assertion

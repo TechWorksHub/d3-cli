@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d0d385a3-7b12-595a-81fb-b65a53f46c7a
-  macAddresses:
-  - 70:B3:D5:6B:60:00/36
-  manufacturer: INRADIOS GmbH
-  manufacturerUri: https://device-type.com
-  name: INRADIOS
-type: d3-device-type-assertion

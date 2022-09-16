@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f18d6d01-69c9-5c76-938b-9e9a7752bfc1
-  macAddresses:
-  - 9C:43:1E:20:00:00/28
-  manufacturer: Haesung Ds
-  manufacturerUri: https://device-type.com
-  name: HaesungD
-type: d3-device-type-assertion

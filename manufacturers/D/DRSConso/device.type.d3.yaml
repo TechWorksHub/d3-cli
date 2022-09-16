@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 92ed95c8-afd9-5493-b66e-dc0d16d857bc
-  macAddresses:
-  - 00:25:3D:00:00:00/24
-  manufacturer: DRS Consolidated Controls
-  manufacturerUri: https://device-type.com
-  name: DRSConso
-type: d3-device-type-assertion

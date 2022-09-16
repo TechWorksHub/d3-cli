@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5c5a8ce5-2d86-5695-92c8-a528f0c9854f
-  macAddresses:
-  - 70:69:79:D0:00:00/28
-  manufacturer: Freund Elektronika D.O.O., Ip-Integra Technologies
-  manufacturerUri: https://device-type.com
-  name: FreundEl
-type: d3-device-type-assertion

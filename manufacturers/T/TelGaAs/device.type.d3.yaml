@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9eaaef69-310b-5172-9057-eccbb8ae3d46
-  macAddresses:
-  - 00:50:C2:CF:10:00/36
-  manufacturer: TelGaAs, Inc.
-  manufacturerUri: https://device-type.com
-  name: TelGaAs
-type: d3-device-type-assertion

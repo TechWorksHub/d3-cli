@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e2eb3651-9930-5236-bc36-72b59526f81c
-  macAddresses:
-  - 70:B3:D5:05:C0:00/36
-  manufacturer: Amber Kinetics Inc
-  manufacturerUri: https://device-type.com
-  name: AmberKin
-type: d3-device-type-assertion

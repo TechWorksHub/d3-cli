@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f1073719-baf0-5496-89c9-39ed9669db1f
-  macAddresses:
-  - 00:1D:0E:00:00:00/24
-  manufacturer: Agapha Technology co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: AgaphaTe
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 75432656-bcab-550c-a8d2-896baea7bd86
-  macAddresses:
-  - E0:5D:A6:00:00:00/24
-  manufacturer: Detlef Fink Elektronik & Softwareentwicklung
-  manufacturerUri: https://device-type.com
-  name: DetlefFi
-type: d3-device-type-assertion

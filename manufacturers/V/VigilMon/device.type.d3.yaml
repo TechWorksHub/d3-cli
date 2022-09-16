@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6413fc82-a061-5d6e-951d-f6fc4cfa6576
-  macAddresses:
-  - 28:FD:80:60:00:00/28
-  manufacturer: Vigil Monitoring
-  manufacturerUri: https://device-type.com
-  name: VigilMon
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 50d1cced-1593-54d3-bca5-db03dd465691
-  macAddresses:
-  - 00:07:36:00:00:00/24
-  manufacturer: Data Video Technologies Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: DataVide
-type: d3-device-type-assertion

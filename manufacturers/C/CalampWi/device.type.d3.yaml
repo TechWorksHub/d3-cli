@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 77446bc2-f20d-5040-87a5-c3cbe669005a
-  macAddresses:
-  - 00:0A:99:00:00:00/24
-  manufacturer: Calamp Wireless Networks Inc
-  manufacturerUri: https://device-type.com
-  name: CalampWi
-type: d3-device-type-assertion

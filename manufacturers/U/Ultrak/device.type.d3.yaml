@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 207d38b4-3b19-5d9c-94eb-bb0fb65f904f
-  macAddresses:
-  - 00:D0:57:00:00:00/24
-  manufacturer: Ultrak, Inc.
-  manufacturerUri: https://device-type.com
-  name: Ultrak
-type: d3-device-type-assertion

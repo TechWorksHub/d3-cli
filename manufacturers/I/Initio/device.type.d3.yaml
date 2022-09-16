@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ef806c0b-133a-5c00-b68b-451c0096ef48
-  macAddresses:
-  - 00:10:10:00:00:00/24
-  manufacturer: Initio Corporation
-  manufacturerUri: https://device-type.com
-  name: Initio
-type: d3-device-type-assertion

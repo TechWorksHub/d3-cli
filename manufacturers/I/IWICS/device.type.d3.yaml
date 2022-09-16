@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 40ac5c68-360d-54d4-b3c0-8cf5f7d09c3d
-  macAddresses:
-  - 00:11:EA:00:00:00/24
-  manufacturer: IWICS Inc.
-  manufacturerUri: https://device-type.com
-  name: IWICS
-type: d3-device-type-assertion

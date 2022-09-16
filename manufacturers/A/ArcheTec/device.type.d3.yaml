@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1f091f88-ecfd-5541-96db-e13df99fcee5
-  macAddresses:
-  - 00:80:B9:00:00:00/24
-  manufacturer: Arche Technoligies Inc.
-  manufacturerUri: https://device-type.com
-  name: ArcheTec
-type: d3-device-type-assertion

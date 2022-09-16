@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 06e55e73-4bb4-50af-8b29-c2f71959e86e
-  macAddresses:
-  - 00:13:79:00:00:00/24
-  manufacturer: Ponder Information Industries Ltd.
-  manufacturerUri: https://device-type.com
-  name: PonderIn
-type: d3-device-type-assertion

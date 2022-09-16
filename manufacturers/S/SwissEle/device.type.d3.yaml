@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9a7e4fee-52aa-5b1b-a0e9-8ef727aa045e
-  macAddresses:
-  - 14:1F:BA:C0:00:00/28
-  manufacturer: Swiss Electronic (Shenzhen) Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: SwissEle
-type: d3-device-type-assertion

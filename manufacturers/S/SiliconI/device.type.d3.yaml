@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2e2ece73-89b5-577a-87ac-fe2ced0d1d5a
-  macAddresses:
-  - 00:E0:06:00:00:00/24
-  manufacturer: Silicon Integrated Sys. Corp.
-  manufacturerUri: https://device-type.com
-  name: SiliconI
-type: d3-device-type-assertion

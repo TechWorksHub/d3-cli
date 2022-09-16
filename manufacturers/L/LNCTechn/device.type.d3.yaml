@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6a95bf9a-ebe2-577b-b681-8d10005b122f
-  macAddresses:
-  - 00:23:10:00:00:00/24
-  manufacturer: LNC Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: LNCTechn
-type: d3-device-type-assertion

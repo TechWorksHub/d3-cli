@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 041b0b36-f52a-5829-9e45-0cb62dfc0d57
-  macAddresses:
-  - 28:A5:74:00:00:00/24
-  manufacturer: Miller Electric Mfg. Co.
-  manufacturerUri: https://device-type.com
-  name: MillerEl
-type: d3-device-type-assertion

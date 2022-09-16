@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 380d3e54-6629-55b7-8ae6-0e522c654672
-  macAddresses:
-  - 64:FB:81:80:00:00/28
-  manufacturer: NPG Technology S.A.
-  manufacturerUri: https://device-type.com
-  name: NPGTechn
-type: d3-device-type-assertion

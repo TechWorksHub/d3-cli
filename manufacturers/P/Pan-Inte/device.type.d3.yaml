@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2258677d-5eb2-5cf7-8695-964c4abe63cc
-  macAddresses:
-  - 00:50:F6:00:00:00/24
-  manufacturer: Pan-International Industrial Corp.
-  manufacturerUri: https://device-type.com
-  name: Pan-Inte
-type: d3-device-type-assertion

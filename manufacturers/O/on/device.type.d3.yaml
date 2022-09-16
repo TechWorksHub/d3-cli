@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: be7fa0f9-2592-5ac6-85c9-2dcede4e1956
-  macAddresses:
-  - 70:B3:D5:5B:70:00/36
-  manufacturer: on-systems limited
-  manufacturerUri: https://device-type.com
-  name: 'on'
-type: d3-device-type-assertion

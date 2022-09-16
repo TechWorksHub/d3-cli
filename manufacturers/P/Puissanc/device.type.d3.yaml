@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 95b0d0dd-6ca3-592f-bad7-859a11a75d03
-  macAddresses:
-  - F8:A9:DE:00:00:00/24
-  manufacturer: Puissance Plus
-  manufacturerUri: https://device-type.com
-  name: Puissanc
-type: d3-device-type-assertion

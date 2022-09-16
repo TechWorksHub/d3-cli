@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b9e1d18d-f3df-5493-80d4-74a30480c3df
-  macAddresses:
-  - 00:14:8A:00:00:00/24
-  manufacturer: Elin Ebg Traction Gmbh
-  manufacturerUri: https://device-type.com
-  name: ElinEbgT
-type: d3-device-type-assertion

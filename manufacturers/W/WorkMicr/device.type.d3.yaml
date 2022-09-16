@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ff592316-7d3e-598a-812e-442294cef6b9
-  macAddresses:
-  - 00:12:B4:00:00:00/24
-  manufacturer: Work Microwave GmbH
-  manufacturerUri: https://device-type.com
-  name: WorkMicr
-type: d3-device-type-assertion

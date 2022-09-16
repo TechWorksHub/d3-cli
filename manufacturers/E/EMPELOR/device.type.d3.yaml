@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8376c792-e2f1-5dd7-91da-26721dc2edf1
-  macAddresses:
-  - 70:B3:D5:76:B0:00/36
-  manufacturer: EMPELOR GmbH
-  manufacturerUri: https://device-type.com
-  name: EMPELOR
-type: d3-device-type-assertion

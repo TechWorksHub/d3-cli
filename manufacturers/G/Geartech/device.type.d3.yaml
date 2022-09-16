@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e5d020e1-c09d-5cfa-8591-8d4827cc312b
-  macAddresses:
-  - 2C:48:35:40:00:00/28
-  manufacturer: Geartech Ltd
-  manufacturerUri: https://device-type.com
-  name: Geartech
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a4a265a1-55d4-5e3f-b136-10b8e9f81c07
-  macAddresses:
-  - F0:F0:8F:00:00:00/24
-  manufacturer: Nextek Solutions Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: NextekSo
-type: d3-device-type-assertion

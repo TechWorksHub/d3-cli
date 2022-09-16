@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b7e85d34-def6-54e6-a230-c5ad5b67fad3
-  macAddresses:
-  - 68:28:F6:00:00:00/24
-  manufacturer: Vubiq Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: VubiqNet
-type: d3-device-type-assertion

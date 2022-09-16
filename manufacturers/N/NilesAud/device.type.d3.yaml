@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1a140efe-b65f-5e73-9619-2144faa8c866
-  macAddresses:
-  - 00:13:51:00:00:00/24
-  manufacturer: Niles Audio Corporation
-  manufacturerUri: https://device-type.com
-  name: NilesAud
-type: d3-device-type-assertion

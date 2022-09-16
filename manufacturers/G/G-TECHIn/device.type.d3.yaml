@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3c49e0ac-ec3f-59af-a39f-7e7d4977aab9
-  macAddresses:
-  - 68:91:D0:40:00:00/28
-  manufacturer: G-TECH Instruments Inc.
-  manufacturerUri: https://device-type.com
-  name: G-TECHIn
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4f316f8e-addc-5ee7-b08e-922b64b05e21
-  macAddresses:
-  - 00:15:98:00:00:00/24
-  manufacturer: Kolektor group
-  manufacturerUri: https://device-type.com
-  name: Kolektor
-type: d3-device-type-assertion

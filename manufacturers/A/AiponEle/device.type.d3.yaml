@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f141b5be-b080-54e5-b468-3697306ab82e
-  macAddresses:
-  - 04:4A:C6:00:00:00/24
-  manufacturer: Aipon Electronics Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: AiponEle
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 51ec1ef3-b930-5c5c-a83f-75c003d7c6b9
-  macAddresses:
-  - 00:10:CE:00:00:00/24
-  manufacturer: Volamp, Ltd.
-  manufacturerUri: https://device-type.com
-  name: Volamp
-type: d3-device-type-assertion

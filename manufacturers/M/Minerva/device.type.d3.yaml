@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bc7c55ad-f816-51a5-ba0b-581f6618c9b6
-  macAddresses:
-  - 00:50:D0:00:00:00/24
-  manufacturer: Minerva Systems
-  manufacturerUri: https://device-type.com
-  name: Minerva
-type: d3-device-type-assertion

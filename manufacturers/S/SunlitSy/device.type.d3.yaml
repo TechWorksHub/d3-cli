@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9b32a499-c036-5a95-9bf4-e93a33be9cad
-  macAddresses:
-  - 80:14:40:00:00:00/24
-  manufacturer: Sunlit System Technology Corp
-  manufacturerUri: https://device-type.com
-  name: SunlitSy
-type: d3-device-type-assertion

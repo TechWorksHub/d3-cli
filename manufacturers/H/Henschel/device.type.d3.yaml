@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c69987f6-b975-54f9-b022-cb03803064dc
-  macAddresses:
-  - 70:B3:D5:8C:70:00/36
-  manufacturer: Henschel-Robotics GmbH
-  manufacturerUri: https://device-type.com
-  name: Henschel
-type: d3-device-type-assertion

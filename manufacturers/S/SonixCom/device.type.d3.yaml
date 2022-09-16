@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8e528dbe-55b7-58d6-8e37-e094a52a27c0
-  macAddresses:
-  - 00:20:8A:00:00:00/24
-  manufacturer: Sonix Communications, Ltd.
-  manufacturerUri: https://device-type.com
-  name: SonixCom
-type: d3-device-type-assertion

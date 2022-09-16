@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 192f1076-2217-52aa-8729-c34e9b9b8534
-  macAddresses:
-  - 44:C3:9B:00:00:00/24
-  manufacturer: Ooo Rubezh Npo
-  manufacturerUri: https://device-type.com
-  name: RubezhNp
-type: d3-device-type-assertion

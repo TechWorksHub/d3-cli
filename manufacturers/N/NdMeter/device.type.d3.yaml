@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: faa3a27b-5e10-5756-98a5-6e13e74cb1e9
-  macAddresses:
-  - 70:B3:D5:68:C0:00/36
-  manufacturer: Nd Meter
-  manufacturerUri: https://device-type.com
-  name: NdMeter
-type: d3-device-type-assertion

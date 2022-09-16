@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c794a7f9-6435-5926-b900-d01f213f28c9
-  macAddresses:
-  - 00:50:C2:37:20:00/36
-  manufacturer: ELV Elektronik AG
-  manufacturerUri: https://device-type.com
-  name: ELVElekt
-type: d3-device-type-assertion

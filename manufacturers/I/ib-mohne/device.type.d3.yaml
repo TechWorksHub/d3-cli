@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 273e4ab5-6ce7-55b9-9e27-6c5e5b3b448f
-  macAddresses:
-  - 00:0B:62:00:00:00/24
-  manufacturer: ib-mohnen KG
-  manufacturerUri: https://device-type.com
-  name: ib-mohne
-type: d3-device-type-assertion

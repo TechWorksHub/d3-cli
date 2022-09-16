@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 62993f2a-5b6f-5d80-b984-a1edd9a702ac
-  macAddresses:
-  - 70:B3:D5:1B:40:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: 5nines
-type: d3-device-type-assertion

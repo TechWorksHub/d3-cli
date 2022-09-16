@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4189b7d5-907a-5266-b855-0381a3787ff4
-  macAddresses:
-  - 00:D0:1E:00:00:00/24
-  manufacturer: Pingtel Corp.
-  manufacturerUri: https://device-type.com
-  name: Pingtel
-type: d3-device-type-assertion

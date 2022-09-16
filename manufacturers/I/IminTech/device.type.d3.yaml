@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 15a7b48d-a13b-5343-8401-1c0c43aaa4f4
-  macAddresses:
-  - D0:C8:57:40:00:00/28
-  manufacturer: Imin Technology Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: IminTech
-type: d3-device-type-assertion

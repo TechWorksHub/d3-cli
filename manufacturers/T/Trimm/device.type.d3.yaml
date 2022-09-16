@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f4378a03-af1b-56dc-9f66-39d6bfe96606
-  macAddresses:
-  - 00:1D:EF:00:00:00/24
-  manufacturer: Trimm, Inc.
-  manufacturerUri: https://device-type.com
-  name: Trimm
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a7f1e056-f4b7-50e7-92ce-432b865a7703
-  macAddresses:
-  - 40:DF:02:00:00:00/24
-  manufacturer: LINE BIZ Plus
-  manufacturerUri: https://device-type.com
-  name: LINEBIZP
-type: d3-device-type-assertion

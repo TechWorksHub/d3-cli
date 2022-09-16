@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ac818ecd-d73d-50ad-8bc0-8c3bcb2d109b
-  macAddresses:
-  - A0:69:86:00:00:00/24
-  manufacturer: Wellav Technologies Ltd
-  manufacturerUri: https://device-type.com
-  name: WellavTe
-type: d3-device-type-assertion

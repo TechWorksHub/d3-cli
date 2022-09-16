@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eb84a495-197f-5ff0-abfd-65e9bffc91ea
-  macAddresses:
-  - 00:0E:D9:00:00:00/24
-  manufacturer: Aksys, Ltd.
-  manufacturerUri: https://device-type.com
-  name: Aksys
-type: d3-device-type-assertion

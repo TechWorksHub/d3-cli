@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 03922f97-9380-5932-9d21-7ad60c510d2a
-  macAddresses:
-  - 28:AF:0A:00:00:00/24
-  manufacturer: Sirius XM Radio Inc
-  manufacturerUri: https://device-type.com
-  name: SiriusXM
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6d887134-7ceb-50da-86a2-b0b5fb94fd7b
-  macAddresses:
-  - B4:A2:EB:D0:00:00/28
-  manufacturer: SALZBRENNER media GmbH
-  manufacturerUri: https://device-type.com
-  name: SALZBREN
-type: d3-device-type-assertion

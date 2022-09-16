@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b46dc51f-15a3-5c65-b0d2-3a8ef9bfacc4
-  macAddresses:
-  - 88:D1:71:00:00:00/24
-  manufacturer: Beghelli S.P.A
-  manufacturerUri: https://device-type.com
-  name: Beghelli
-type: d3-device-type-assertion

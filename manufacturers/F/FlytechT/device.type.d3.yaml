@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: faf9164d-be33-5743-92b6-5d1cee0a3b7d
-  macAddresses:
-  - 00:60:EF:00:00:00/24
-  manufacturer: Flytech Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: FlytechT
-type: d3-device-type-assertion

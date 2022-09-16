@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 47a24ec6-7fbe-5cee-9850-7dd3831d5109
-  macAddresses:
-  - 70:B3:D5:7A:90:00/36
-  manufacturer: adidas AG
-  manufacturerUri: https://device-type.com
-  name: adidas
-type: d3-device-type-assertion

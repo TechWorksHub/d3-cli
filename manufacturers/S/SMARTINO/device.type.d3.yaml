@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e3bad1aa-d4c7-5e0a-853b-188be44d6a7e
-  macAddresses:
-  - 70:B3:D5:A3:D0:00/36
-  manufacturer: SMART IN OVATION GmbH
-  manufacturerUri: https://device-type.com
-  name: SMARTINO
-type: d3-device-type-assertion

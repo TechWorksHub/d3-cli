@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2d9f7d6f-fb23-57ce-8ae7-4f8077813c59
-  macAddresses:
-  - 00:D0:82:00:00:00/24
-  manufacturer: Iowave Inc.
-  manufacturerUri: https://device-type.com
-  name: Iowave
-type: d3-device-type-assertion

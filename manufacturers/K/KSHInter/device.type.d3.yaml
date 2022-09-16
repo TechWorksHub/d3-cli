@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 85357603-6cc7-51b7-8dcc-d9af7e60aeaa
-  macAddresses:
-  - 24:81:AA:00:00:00/24
-  manufacturer: KSH International Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: KSHInter
-type: d3-device-type-assertion

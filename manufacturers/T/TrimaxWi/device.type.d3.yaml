@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 432a9a87-3afd-583c-a120-ea1b83a6fb47
-  macAddresses:
-  - 00:25:A3:00:00:00/24
-  manufacturer: Trimax Wireless, Inc.
-  manufacturerUri: https://device-type.com
-  name: TrimaxWi
-type: d3-device-type-assertion

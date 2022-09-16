@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 98cfe353-0169-59cf-bbf9-d07f00a5f506
-  macAddresses:
-  - 00:50:C5:00:00:00/24
-  manufacturer: ADS Technologies, Inc
-  manufacturerUri: https://device-type.com
-  name: ADSTechn
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 665622a6-ecb1-5692-89f0-0b3db0860f08
-  macAddresses:
-  - 00:50:C2:20:90:00/36
-  manufacturer: LK Ltd
-  manufacturerUri: https://device-type.com
-  name: LK
-type: d3-device-type-assertion

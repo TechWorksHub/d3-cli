@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a39064b9-50ab-5cd4-b5d9-fe131d2cf1f1
-  macAddresses:
-  - 00:14:C5:00:00:00/24
-  manufacturer: Alive Technologies Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: AliveTec
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f1483145-ecb3-58e7-a814-3186a24e6c50
-  macAddresses:
-  - 70:B3:D5:A9:70:00/36
-  manufacturer: Bizwerks, LLC
-  manufacturerUri: https://device-type.com
-  name: Bizwerks
-type: d3-device-type-assertion

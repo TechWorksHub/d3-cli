@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 757efc4a-96b9-5a99-ac4d-e202723f2a50
-  macAddresses:
-  - 3C:DA:6D:00:00:00/24
-  manufacturer: Tiandy Technologies CO.,LTD
-  manufacturerUri: https://device-type.com
-  name: TiandyTe
-type: d3-device-type-assertion

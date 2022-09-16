@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d7736724-5d19-59bd-8cbb-bf2636b71260
-  macAddresses:
-  - A0:B9:ED:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Skytap
-type: d3-device-type-assertion

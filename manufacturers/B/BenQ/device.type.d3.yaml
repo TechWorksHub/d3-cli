@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 12d0b88e-b473-5ba5-b515-70bebe7a47a2
-  macAddresses:
-  - 80:65:E9:00:00:00/24
-  manufacturer: BenQ Corporation
-  manufacturerUri: https://device-type.com
-  name: BenQ
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 18301d03-05b9-503d-9815-bcd9ab934ffb
-  macAddresses:
-  - 00:25:E0:00:00:00/24
-  manufacturer: CeedTec Sdn Bhd
-  manufacturerUri: https://device-type.com
-  name: CeedTecS
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5ac64def-3b73-5489-9575-63270cdf9b31
-  macAddresses:
-  - 5C:25:4C:00:00:00/24
-  manufacturer: Avire Global Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: AvireGlo
-type: d3-device-type-assertion

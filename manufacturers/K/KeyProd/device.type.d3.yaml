@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b608c0da-76d2-5ff5-b21c-82d8ac6e2539
-  macAddresses:
-  - 70:B3:D5:47:30:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: KeyProd
-type: d3-device-type-assertion

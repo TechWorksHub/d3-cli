@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9b225ada-deaa-5e4f-b88d-cc6a0ff297ac
-  macAddresses:
-  - 08:00:02:00:00:00/24
-  manufacturer: Bridge Communications Inc.
-  manufacturerUri: https://device-type.com
-  name: BridgeCo
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 44dc027c-d547-5b09-9cbb-596ad8a6ae9c
-  macAddresses:
-  - 00:50:C2:6C:00:00/36
-  manufacturer: Gloster Sante Europe
-  manufacturerUri: https://device-type.com
-  name: GlosterS
-type: d3-device-type-assertion

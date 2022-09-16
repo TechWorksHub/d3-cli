@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8e8701f6-5be1-50bf-8b16-a9dcd8cfee91
-  macAddresses:
-  - 64:24:00:00:00:00/24
-  manufacturer: Xorcom Ltd.
-  manufacturerUri: https://device-type.com
-  name: Xorcom
-type: d3-device-type-assertion

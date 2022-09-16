@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 67c080b2-a3d4-55c9-a2e2-c62d4e63a9fc
-  macAddresses:
-  - 94:9F:3F:00:00:00/24
-  manufacturer: Optek Digital Technology company limited
-  manufacturerUri: https://device-type.com
-  name: OptekDig
-type: d3-device-type-assertion

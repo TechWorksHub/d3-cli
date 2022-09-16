@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 071bcd50-67c0-5e52-9325-94eec4f2bc56
-  macAddresses:
-  - AC:6F:BB:00:00:00/24
-  manufacturer: TATUNG Technology Inc.
-  manufacturerUri: https://device-type.com
-  name: TATUNGTe
-type: d3-device-type-assertion

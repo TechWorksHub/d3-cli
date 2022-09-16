@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a62e0fd3-0fab-57e3-a77c-19e5f76069c5
-  macAddresses:
-  - 00:15:FD:00:00:00/24
-  manufacturer: Complete Media Systems
-  manufacturerUri: https://device-type.com
-  name: Complete
-type: d3-device-type-assertion

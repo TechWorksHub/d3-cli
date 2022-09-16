@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4ead88ae-a443-5660-879d-baf4c73d9ccc
-  macAddresses:
-  - 00:1B:E5:00:00:00/24
-  manufacturer: 802automation Limited
-  manufacturerUri: https://device-type.com
-  name: 802autom
-type: d3-device-type-assertion

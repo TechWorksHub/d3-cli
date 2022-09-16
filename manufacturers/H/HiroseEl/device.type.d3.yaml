@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cc90900c-9869-50a1-94c0-da9cc2cfaec0
-  macAddresses:
-  - 18:2A:44:00:00:00/24
-  manufacturer: Hirose Electronic System
-  manufacturerUri: https://device-type.com
-  name: HiroseEl
-type: d3-device-type-assertion

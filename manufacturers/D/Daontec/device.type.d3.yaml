@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e55f2012-a606-511c-88a3-10b57e0f3579
-  macAddresses:
-  - D8:F8:AF:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Daontec
-type: d3-device-type-assertion

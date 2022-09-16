@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6e195a56-3739-53ec-ac0a-0b4fd1315f3e
-  macAddresses:
-  - 00:D0:86:00:00:00/24
-  manufacturer: Foveon, Inc.
-  manufacturerUri: https://device-type.com
-  name: Foveon
-type: d3-device-type-assertion

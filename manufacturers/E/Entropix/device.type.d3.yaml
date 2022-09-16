@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ccc3fd40-5abe-5f15-895e-cb597ea1ec36
-  macAddresses:
-  - 24:11:48:00:00:00/24
-  manufacturer: Entropix, LLC
-  manufacturerUri: https://device-type.com
-  name: Entropix
-type: d3-device-type-assertion

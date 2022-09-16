@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bc6a4f34-ddff-5432-9a81-7d943d7c8b2c
-  macAddresses:
-  - 00:24:18:00:00:00/24
-  manufacturer: Nextwave Semiconductor
-  manufacturerUri: https://device-type.com
-  name: Nextwave
-type: d3-device-type-assertion

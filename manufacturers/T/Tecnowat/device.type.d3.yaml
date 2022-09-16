@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5db2a11b-af5c-5241-aac4-894d480e6937
-  macAddresses:
-  - 70:B3:D5:B1:F0:00/36
-  manufacturer: Tecnowatt
-  manufacturerUri: https://device-type.com
-  name: Tecnowat
-type: d3-device-type-assertion

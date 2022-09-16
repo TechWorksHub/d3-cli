@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 836e13fa-1a1a-5ad8-a9bb-401761de1208
-  macAddresses:
-  - E0:60:89:00:00:00/24
-  manufacturer: Cloudleaf, Inc.
-  manufacturerUri: https://device-type.com
-  name: Cloudlea
-type: d3-device-type-assertion

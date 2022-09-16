@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 438aba4f-0826-51f9-9799-ae6b057653b9
-  macAddresses:
-  - F0:AC:D7:00:00:00/28
-  manufacturer: Guilin glsun Science and Tech Co.,LTD
-  manufacturerUri: https://device-type.com
-  name: Guilingl
-type: d3-device-type-assertion

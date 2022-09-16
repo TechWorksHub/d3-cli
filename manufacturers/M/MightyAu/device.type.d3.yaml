@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f88769fb-3e56-55e9-af6c-4e8cf1af4474
-  macAddresses:
-  - 24:4E:7B:B0:00:00/28
-  manufacturer: Mighty Audio, Inc.
-  manufacturerUri: https://device-type.com
-  name: MightyAu
-type: d3-device-type-assertion

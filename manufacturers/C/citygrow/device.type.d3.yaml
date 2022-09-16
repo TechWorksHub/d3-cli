@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 47265026-38f2-537d-a146-04ff94119f91
-  macAddresses:
-  - 70:8B:78:00:00:00/24
-  manufacturer: citygrow technology co., ltd
-  manufacturerUri: https://device-type.com
-  name: citygrow
-type: d3-device-type-assertion

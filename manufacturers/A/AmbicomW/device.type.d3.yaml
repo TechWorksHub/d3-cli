@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 42802810-aaf0-5108-9488-61f0f3c07fde
-  macAddresses:
-  - 00:10:7A:00:00:00/24
-  manufacturer: Ambicom (was Tandy?)
-  manufacturerUri: https://device-type.com
-  name: AmbicomW
-type: d3-device-type-assertion

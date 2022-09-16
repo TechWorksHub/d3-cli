@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9ad0e949-99a1-5c3f-8532-cff446409b71
-  macAddresses:
-  - 50:4B:5B:00:00:00/24
-  manufacturer: CONTROLtronic GmbH
-  manufacturerUri: https://device-type.com
-  name: CONTROLt
-type: d3-device-type-assertion

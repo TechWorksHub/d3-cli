@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 14bb94c7-f437-5a44-b5f3-0549f31b8f10
-  macAddresses:
-  - 58:E8:76:20:00:00/28
-  manufacturer: Coala Life AB
-  manufacturerUri: https://device-type.com
-  name: CoalaLif
-type: d3-device-type-assertion

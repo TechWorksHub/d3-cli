@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1aabbb07-6bc8-5c31-91c0-2db50d5cceca
-  macAddresses:
-  - 70:59:86:00:00:00/24
-  manufacturer: Ooo Ttv
-  manufacturerUri: https://device-type.com
-  name: Ttv
-type: d3-device-type-assertion

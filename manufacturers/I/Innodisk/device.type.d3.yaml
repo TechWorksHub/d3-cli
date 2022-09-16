@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f8227e97-d5e8-59e5-8e40-b10e3425a95d
-  macAddresses:
-  - F8:02:78:20:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Innodisk
-type: d3-device-type-assertion

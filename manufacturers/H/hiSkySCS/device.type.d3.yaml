@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 34443dba-fd22-5d81-a472-08548827e0d4
-  macAddresses:
-  - 70:B3:D5:2E:10:00/36
-  manufacturer: hiSky S.C.S LTD
-  manufacturerUri: https://device-type.com
-  name: hiSkySCS
-type: d3-device-type-assertion

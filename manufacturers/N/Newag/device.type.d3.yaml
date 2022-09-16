@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c90aba1d-3c2b-5200-9165-357585a79b19
-  macAddresses:
-  - 80:76:93:00:00:00/24
-  manufacturer: Newag SA
-  manufacturerUri: https://device-type.com
-  name: Newag
-type: d3-device-type-assertion

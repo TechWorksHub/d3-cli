@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d3e7bbf4-4bae-589c-9b5f-ce68546bb327
-  macAddresses:
-  - 9C:C0:77:00:00:00/24
-  manufacturer: PrintCounts, LLC
-  manufacturerUri: https://device-type.com
-  name: PrintCou
-type: d3-device-type-assertion

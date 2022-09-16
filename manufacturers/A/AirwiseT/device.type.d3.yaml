@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3bfd6654-31f8-5405-8ecc-54b56bbfa794
-  macAddresses:
-  - 00:50:C2:50:C0:00/36
-  manufacturer: Airwise Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: AirwiseT
-type: d3-device-type-assertion

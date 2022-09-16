@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 781a6aef-080b-5037-a449-90d8d64703f5
-  macAddresses:
-  - 00:21:3F:00:00:00/24
-  manufacturer: A-Team Technology Ltd.
-  manufacturerUri: https://device-type.com
-  name: A-TeamTe
-type: d3-device-type-assertion

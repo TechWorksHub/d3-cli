@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c57dff59-a33d-5042-a80d-3289d0c720a0
-  macAddresses:
-  - 00:01:EE:00:00:00/24
-  manufacturer: Comtrol Europe, Ltd.
-  manufacturerUri: https://device-type.com
-  name: ComtrolE
-type: d3-device-type-assertion

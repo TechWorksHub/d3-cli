@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: da31cfc5-d0f3-5e77-a36b-5f7816893931
-  macAddresses:
-  - 70:B3:D5:D5:80:00/36
-  manufacturer: Idyllic Engineering Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: IdyllicE
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 068d0f4f-1048-57ff-bc7a-86f4f1e33f9f
-  macAddresses:
-  - 00:1F:86:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: digEcor
-type: d3-device-type-assertion

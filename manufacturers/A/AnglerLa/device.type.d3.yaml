@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 150490bd-6e2f-5b64-9412-6a74d79a5811
-  macAddresses:
-  - 68:69:75:00:00:00/24
-  manufacturer: Angler Labs Inc
-  manufacturerUri: https://device-type.com
-  name: AnglerLa
-type: d3-device-type-assertion

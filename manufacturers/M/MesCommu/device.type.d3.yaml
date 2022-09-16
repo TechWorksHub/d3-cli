@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 376bee19-3c62-5690-93c3-2ae8e7d3461b
-  macAddresses:
-  - 70:B3:D5:A9:30:00/36
-  manufacturer: Mes Communication Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: MesCommu
-type: d3-device-type-assertion

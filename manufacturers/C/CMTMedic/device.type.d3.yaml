@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0116945c-57cc-576c-b1ea-f3da4b546614
-  macAddresses:
-  - 70:B3:D5:95:00:00/36
-  manufacturer: CMT Medical technologies
-  manufacturerUri: https://device-type.com
-  name: CMTMedic
-type: d3-device-type-assertion

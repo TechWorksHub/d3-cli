@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6d9ed140-f829-5538-a7aa-c10378f6b638
-  macAddresses:
-  - 00:10:E8:00:00:00/24
-  manufacturer: Telocity, Incorporated
-  manufacturerUri: https://device-type.com
-  name: Telocity
-type: d3-device-type-assertion

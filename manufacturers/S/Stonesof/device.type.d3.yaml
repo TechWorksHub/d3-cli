@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9b11ea3e-804a-5bb7-92d7-2948e72ea053
-  macAddresses:
-  - 58:7A:4D:00:00:00/24
-  manufacturer: Stonesoft Corporation
-  manufacturerUri: https://device-type.com
-  name: Stonesof
-type: d3-device-type-assertion

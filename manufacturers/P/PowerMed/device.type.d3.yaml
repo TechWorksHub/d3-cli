@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e967b856-e764-5329-83c4-a806fa312d92
-  macAddresses:
-  - 00:50:C2:AE:20:00/36
-  manufacturer: Power Medical Interventions
-  manufacturerUri: https://device-type.com
-  name: PowerMed
-type: d3-device-type-assertion

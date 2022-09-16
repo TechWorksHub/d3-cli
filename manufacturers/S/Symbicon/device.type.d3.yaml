@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b6c7fb6b-1cd1-5fc9-b736-3831bf5f6b5b
-  macAddresses:
-  - 70:B3:D5:7A:70:00/36
-  manufacturer: Symbicon Ltd
-  manufacturerUri: https://device-type.com
-  name: Symbicon
-type: d3-device-type-assertion

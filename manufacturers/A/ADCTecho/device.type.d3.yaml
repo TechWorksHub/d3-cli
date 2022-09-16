@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d73f0893-7940-5f7a-a3c3-9d7c1ab3c316
-  macAddresses:
-  - 00:09:E7:00:00:00/24
-  manufacturer: ADC Techonology
-  manufacturerUri: https://device-type.com
-  name: ADCTecho
-type: d3-device-type-assertion

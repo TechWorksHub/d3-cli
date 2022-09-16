@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e0c32c2f-7a99-5d67-8aa7-89e43f0bc586
-  macAddresses:
-  - 00:12:8D:00:00:00/24
-  manufacturer: STB Datenservice GmbH
-  manufacturerUri: https://device-type.com
-  name: STBDaten
-type: d3-device-type-assertion

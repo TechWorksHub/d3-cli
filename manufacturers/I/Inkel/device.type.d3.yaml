@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4a02ae87-9a9a-5ea6-8e1a-b1bf8a9f0e29
-  macAddresses:
-  - 00:01:6F:00:00:00/24
-  manufacturer: Inkel Corp.
-  manufacturerUri: https://device-type.com
-  name: Inkel
-type: d3-device-type-assertion

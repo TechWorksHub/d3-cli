@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0a687727-8859-5f34-83bb-845bd4f0a236
-  macAddresses:
-  - 2C:02:9F:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: 3ALogics
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 084810cc-4360-5d78-a348-f49358a7276a
-  macAddresses:
-  - 00:19:31:00:00:00/24
-  manufacturer: Balluff GmbH
-  manufacturerUri: https://device-type.com
-  name: Balluff
-type: d3-device-type-assertion

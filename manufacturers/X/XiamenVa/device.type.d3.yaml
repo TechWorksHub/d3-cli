@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7cd48617-7a71-5df4-aec3-8d5e8bfb1eaa
-  macAddresses:
-  - 60:46:16:00:00:00/24
-  manufacturer: Xiamen Vann Intelligent Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: XiamenVa
-type: d3-device-type-assertion

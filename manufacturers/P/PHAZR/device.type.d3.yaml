@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 507ed940-8aee-5e9d-9000-5c9eb2adb961
-  macAddresses:
-  - 3C:10:E6:00:00:00/24
-  manufacturer: PHAZR Inc.
-  manufacturerUri: https://device-type.com
-  name: PHAZR
-type: d3-device-type-assertion

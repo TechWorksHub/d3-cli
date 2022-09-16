@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a6744855-80c7-5d57-878a-9ee992d35c53
-  macAddresses:
-  - 70:B3:D5:1D:30:00/36
-  manufacturer: "Airobot O\xFC"
-  manufacturerUri: https://device-type.com
-  name: Airobot
-type: d3-device-type-assertion

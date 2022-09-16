@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d33ab964-3baa-578a-b09a-c2bb098745ca
-  macAddresses:
-  - 00:10:46:00:00:00/24
-  manufacturer: Alcorn Mcbride Inc.
-  manufacturerUri: https://device-type.com
-  name: AlcornMc
-type: d3-device-type-assertion

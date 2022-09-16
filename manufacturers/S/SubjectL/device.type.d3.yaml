@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 29b3cd2c-dcbc-5e96-9605-2e8f0c056b47
-  macAddresses:
-  - 70:B3:D5:13:70:00/36
-  manufacturer: Subject Link Inc
-  manufacturerUri: https://device-type.com
-  name: SubjectL
-type: d3-device-type-assertion

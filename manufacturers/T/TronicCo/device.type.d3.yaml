@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6bf3b09a-86b2-54a5-b783-fbc5b4895ba4
-  macAddresses:
-  - 40:D8:55:06:70:00/36
-  manufacturer: Tronic Control ltd.
-  manufacturerUri: https://device-type.com
-  name: TronicCo
-type: d3-device-type-assertion

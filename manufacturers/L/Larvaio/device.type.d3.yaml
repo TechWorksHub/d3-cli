@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 962f3449-f159-5c53-9168-dce97069c7f4
-  macAddresses:
-  - A4:53:EE:30:00:00/28
-  manufacturer: "Larva.io O\xDC"
-  manufacturerUri: https://device-type.com
-  name: Larvaio
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3c10882a-fd6b-5211-93f2-37d7e2ec1858
-  macAddresses:
-  - 00:50:C2:09:A0:00/36
-  manufacturer: NBO Development Center Sekusui Chemical Co. Ltd.
-  manufacturerUri: https://device-type.com
-  name: NBODevel
-type: d3-device-type-assertion

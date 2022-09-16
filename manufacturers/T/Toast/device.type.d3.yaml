@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c65e79ad-20cd-53d1-bd08-a3bea5c4da8e
-  macAddresses:
-  - 0C:7F:ED:10:00:00/28
-  manufacturer: Toast, Inc.
-  manufacturerUri: https://device-type.com
-  name: Toast
-type: d3-device-type-assertion

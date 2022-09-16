@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b05f2426-b0ce-5b55-99f3-f2e25c909899
-  macAddresses:
-  - 00:22:EA:00:00:00/24
-  manufacturer: Rustelcom Inc.
-  manufacturerUri: https://device-type.com
-  name: Rustelco
-type: d3-device-type-assertion

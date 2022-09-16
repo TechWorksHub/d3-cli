@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e9712184-f5a5-5732-b507-aca01e2013b5
-  macAddresses:
-  - 58:E3:26:00:00:00/24
-  manufacturer: Compass Technologies Inc.
-  manufacturerUri: https://device-type.com
-  name: CompassT
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e7564e37-79b2-59af-9057-295082b825f4
-  macAddresses:
-  - 70:B3:D5:F7:70:00/36
-  manufacturer: Satcube AB
-  manufacturerUri: https://device-type.com
-  name: Satcube
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 49d2fa24-4fee-5757-b40e-eb96ecbd84d8
-  macAddresses:
-  - 00:0D:8B:00:00:00/24
-  manufacturer: T&D Corporation
-  manufacturerUri: https://device-type.com
-  name: T&D
-type: d3-device-type-assertion

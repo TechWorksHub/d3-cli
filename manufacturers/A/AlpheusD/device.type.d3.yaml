@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3587563f-833f-53fd-91be-9d52ced77c82
-  macAddresses:
-  - 2C:ED:EB:00:00:00/24
-  manufacturer: Alpheus Digital Company Limited
-  manufacturerUri: https://device-type.com
-  name: AlpheusD
-type: d3-device-type-assertion

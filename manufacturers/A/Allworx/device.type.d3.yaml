@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: de658e50-1937-59e4-95c4-c523ce2eb904
-  macAddresses:
-  - 00:0A:DD:00:00:00/24
-  manufacturer: Allworx Corp.
-  manufacturerUri: https://device-type.com
-  name: Allworx
-type: d3-device-type-assertion

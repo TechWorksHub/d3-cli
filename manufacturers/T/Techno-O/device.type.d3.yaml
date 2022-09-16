@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 95039b9d-b43a-5a96-8898-8ae099eed906
-  macAddresses:
-  - 00:0C:0F:00:00:00/24
-  manufacturer: Techno-One Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Techno-O
-type: d3-device-type-assertion

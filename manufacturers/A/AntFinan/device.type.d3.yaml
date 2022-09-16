@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 778d0ad5-4d2f-5bbd-8f79-09c24163eab8
-  macAddresses:
-  - FC:A4:7A:20:00:00/28
-  manufacturer: "Ant Financial\uFF08Hang Zhou\uFF09Network Technology Co.,Ltd."
-  manufacturerUri: https://device-type.com
-  name: AntFinan
-type: d3-device-type-assertion

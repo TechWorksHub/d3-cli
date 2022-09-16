@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cdfbc898-de61-50d2-9fda-3fa482aebedc
-  macAddresses:
-  - 00:00:C4:00:00:00/24
-  manufacturer: Waters Div. Of Millipore
-  manufacturerUri: https://device-type.com
-  name: WatersDi
-type: d3-device-type-assertion

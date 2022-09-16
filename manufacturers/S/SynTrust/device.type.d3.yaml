@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8525667b-8125-520a-afb2-0adce5b3fee2
-  macAddresses:
-  - 24:A5:34:00:00:00/24
-  manufacturer: SynTrust Tech International Ltd.
-  manufacturerUri: https://device-type.com
-  name: SynTrust
-type: d3-device-type-assertion

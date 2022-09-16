@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b5d82e09-81f5-552d-b1a3-ede3a9d33c59
-  macAddresses:
-  - 70:B3:D5:06:30:00/36
-  manufacturer: PoolDigital GmbH & Co. KG
-  manufacturerUri: https://device-type.com
-  name: PoolDigi
-type: d3-device-type-assertion

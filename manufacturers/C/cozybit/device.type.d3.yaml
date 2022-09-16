@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 087c885f-ed2a-5441-8f1f-fdc26fc7f7f8
-  macAddresses:
-  - 4C:22:58:00:00:00/24
-  manufacturer: cozybit, Inc.
-  manufacturerUri: https://device-type.com
-  name: cozybit
-type: d3-device-type-assertion

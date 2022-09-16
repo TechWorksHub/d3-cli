@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: de7d7182-4b80-524c-a957-a6e2a28d3f75
-  macAddresses:
-  - 00:1B:8E:00:00:00/24
-  manufacturer: Hulu Sweden AB
-  manufacturerUri: https://device-type.com
-  name: HuluSwed
-type: d3-device-type-assertion

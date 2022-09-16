@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4209dfc4-1286-5337-9955-8b6b76280bf9
-  macAddresses:
-  - 90:7E:30:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Lars
-type: d3-device-type-assertion

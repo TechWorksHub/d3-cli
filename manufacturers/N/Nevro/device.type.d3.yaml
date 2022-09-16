@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8ea4d3ba-3459-5e29-9d95-25202edb2b6f
-  macAddresses:
-  - 38:AF:D0:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Nevro
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2c25da2d-49b9-5287-b0c6-538824d49a94
-  macAddresses:
-  - 0C:46:9D:00:00:00/24
-  manufacturer: MS Sedco
-  manufacturerUri: https://device-type.com
-  name: MSSedco
-type: d3-device-type-assertion

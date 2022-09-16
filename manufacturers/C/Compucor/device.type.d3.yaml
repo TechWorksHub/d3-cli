@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 68d42627-fdee-5526-b7d3-5e4761ae9402
-  macAddresses:
-  - 00:00:53:00:00:00/24
-  manufacturer: Compucorp
-  manufacturerUri: https://device-type.com
-  name: Compucor
-type: d3-device-type-assertion

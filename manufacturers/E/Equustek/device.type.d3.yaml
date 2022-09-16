@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 376e59a3-d445-580b-b83d-cafe7d8d6eae
-  macAddresses:
-  - 00:19:C2:00:00:00/24
-  manufacturer: Equustek Solutions, Inc.
-  manufacturerUri: https://device-type.com
-  name: Equustek
-type: d3-device-type-assertion

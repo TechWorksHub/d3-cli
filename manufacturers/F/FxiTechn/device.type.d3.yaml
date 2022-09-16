@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e1f9632b-27ea-53d8-9705-5005837db3ed
-  macAddresses:
-  - D8:0D:E3:00:00:00/24
-  manufacturer: Fxi Technologies As
-  manufacturerUri: https://device-type.com
-  name: FxiTechn
-type: d3-device-type-assertion

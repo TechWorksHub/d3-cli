@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3d86834b-7890-58dc-bda2-95c240cfb056
-  macAddresses:
-  - 00:A0:2E:00:00:00/24
-  manufacturer: Brand Communications, Ltd.
-  manufacturerUri: https://device-type.com
-  name: BrandCom
-type: d3-device-type-assertion

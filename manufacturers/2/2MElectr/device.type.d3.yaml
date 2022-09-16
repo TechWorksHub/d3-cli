@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: da919340-ed68-5467-a87e-15c5d0011d81
-  macAddresses:
-  - 00:1B:8A:00:00:00/24
-  manufacturer: 2M Electronic A/S
-  manufacturerUri: https://device-type.com
-  name: 2MElectr
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a3c324b8-3754-51ef-a15b-799081251567
-  macAddresses:
-  - 98:FC:84:50:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Zymbit
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fb4a9d6a-a87b-5fb9-9b61-532bda5513d5
-  macAddresses:
-  - 00:05:24:00:00:00/24
-  manufacturer: BTL System (HK) Limited
-  manufacturerUri: https://device-type.com
-  name: BTLSyste
-type: d3-device-type-assertion

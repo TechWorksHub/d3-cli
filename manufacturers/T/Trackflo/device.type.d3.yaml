@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 214714e5-1554-5c8f-b700-72c3efcccc4d
-  macAddresses:
-  - 00:16:5C:00:00:00/24
-  manufacturer: Trackflow Ltd.
-  manufacturerUri: https://device-type.com
-  name: Trackflo
-type: d3-device-type-assertion

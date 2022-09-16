@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b967a30d-3089-53fe-b84a-dc4a50225594
-  macAddresses:
-  - A0:0C:A1:00:00:00/24
-  manufacturer: SKTB SKiT
-  manufacturerUri: https://device-type.com
-  name: SKTBSKiT
-type: d3-device-type-assertion

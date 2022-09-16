@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 53fb4b95-1335-513a-9928-cee1f5bb5569
-  macAddresses:
-  - 00:08:0C:00:00:00/24
-  manufacturer: VDA Group S.p.a.
-  manufacturerUri: https://device-type.com
-  name: VDAGroup
-type: d3-device-type-assertion

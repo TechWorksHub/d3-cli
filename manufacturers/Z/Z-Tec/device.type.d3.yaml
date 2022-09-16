@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 84e56462-7b4d-54ed-a13b-6ddca9b0c588
-  macAddresses:
-  - BC:39:D9:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Z-Tec
-type: d3-device-type-assertion

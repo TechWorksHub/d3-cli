@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 86cae1c1-eabd-5b65-9792-ad72e576d56d
-  macAddresses:
-  - 08:B0:A7:00:00:00/24
-  manufacturer: Truebeyond Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Truebeyo
-type: d3-device-type-assertion

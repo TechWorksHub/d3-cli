@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c7044aa1-b54a-55a3-82dd-1ae8cddf5906
-  macAddresses:
-  - 9C:F6:DD:D0:00:00/28
-  manufacturer: Foshan Synwit Technology Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: FoshanSy
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e7fe9f55-dbca-5f84-b9ab-217cd4eec934
-  macAddresses:
-  - 00:24:09:00:00:00/24
-  manufacturer: The Toro Company
-  manufacturerUri: https://device-type.com
-  name: Toro
-type: d3-device-type-assertion

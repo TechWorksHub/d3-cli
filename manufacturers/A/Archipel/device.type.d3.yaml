@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3a792401-45b0-5499-acc0-6efcba8ec66a
-  macAddresses:
-  - 00:C0:97:00:00:00/24
-  manufacturer: Archipel Sa
-  manufacturerUri: https://device-type.com
-  name: Archipel
-type: d3-device-type-assertion

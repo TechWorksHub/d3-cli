@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 802e803c-88e3-5c02-9a25-2e4b9eb7c5a1
-  macAddresses:
-  - 3C:AA:3F:00:00:00/24
-  manufacturer: iKey, Ltd.
-  manufacturerUri: https://device-type.com
-  name: iKey
-type: d3-device-type-assertion

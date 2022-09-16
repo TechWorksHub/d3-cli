@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: df23e13d-5f52-582f-b689-a9f44bd2eecd
-  macAddresses:
-  - 00:16:25:00:00:00/24
-  manufacturer: Impinj, Inc.
-  manufacturerUri: https://device-type.com
-  name: Impinj
-type: d3-device-type-assertion

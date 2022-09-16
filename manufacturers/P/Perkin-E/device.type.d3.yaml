@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8f93b7c7-a729-5e0e-817a-1650cf75b226
-  macAddresses:
-  - 00:60:9C:00:00:00/24
-  manufacturer: Perkin-Elmer Incorporated
-  manufacturerUri: https://device-type.com
-  name: Perkin-E
-type: d3-device-type-assertion

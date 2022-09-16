@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ab547d77-a0e1-50ae-94ea-023386c47604
-  macAddresses:
-  - 00:1C:9D:00:00:00/24
-  manufacturer: Liecthi AG
-  manufacturerUri: https://device-type.com
-  name: Liecthi
-type: d3-device-type-assertion

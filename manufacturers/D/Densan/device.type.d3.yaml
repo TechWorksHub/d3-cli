@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 08102400-069c-5cab-95b7-0a349c46e355
-  macAddresses:
-  - 00:00:CC:00:00:00/24
-  manufacturer: Densan Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Densan
-type: d3-device-type-assertion

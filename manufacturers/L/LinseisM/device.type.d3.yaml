@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9a58c05b-7474-5e02-8ede-7ff5c3b221f2
-  macAddresses:
-  - A4:ED:43:80:00:00/28
-  manufacturer: Linseis Messgeraete GmbH
-  manufacturerUri: https://device-type.com
-  name: LinseisM
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: de1b8f8a-359b-5d4d-b58d-97e715446fb7
-  macAddresses:
-  - 00:50:BE:00:00:00/24
-  manufacturer: Fast Multimedia Ag
-  manufacturerUri: https://device-type.com
-  name: FastMult
-type: d3-device-type-assertion

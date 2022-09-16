@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7d4446da-943f-5c52-b208-c09321bcef97
-  macAddresses:
-  - 00:05:90:00:00:00/24
-  manufacturer: Swissvoice Ltd.
-  manufacturerUri: https://device-type.com
-  name: Swissvoi
-type: d3-device-type-assertion

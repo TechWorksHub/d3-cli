@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a8a16933-13b3-5937-8ba7-733bc4360208
-  macAddresses:
-  - 00:09:34:00:00:00/24
-  manufacturer: Dream-Multimedia-Tv GmbH
-  manufacturerUri: https://device-type.com
-  name: Dream-Mu
-type: d3-device-type-assertion

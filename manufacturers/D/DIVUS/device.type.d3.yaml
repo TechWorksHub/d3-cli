@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4f6f61de-895f-5e6c-b36e-6301090ec624
-  macAddresses:
-  - 6C:B6:CA:00:00:00/24
-  manufacturer: DIVUS GmbH
-  manufacturerUri: https://device-type.com
-  name: DIVUS
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1df01377-94dc-58bf-84e4-800d842b7a89
-  macAddresses:
-  - 00:50:C1:00:00:00/24
-  manufacturer: Gemflex Networks, Ltd.
-  manufacturerUri: https://device-type.com
-  name: GemflexN
-type: d3-device-type-assertion

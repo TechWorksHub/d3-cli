@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ebba5013-61a9-55dd-84d3-49115903ee6d
-  macAddresses:
-  - 34:63:D4:00:00:00/24
-  manufacturer: Bionix Supplychain Technologies Slu
-  manufacturerUri: https://device-type.com
-  name: BionixSu
-type: d3-device-type-assertion

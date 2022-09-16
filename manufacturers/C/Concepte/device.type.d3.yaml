@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 941fccb0-375f-5af9-a555-4410b692689f
-  macAddresses:
-  - 00:50:C2:B2:C0:00/36
-  manufacturer: Concepteers, LLC
-  manufacturerUri: https://device-type.com
-  name: Concepte
-type: d3-device-type-assertion

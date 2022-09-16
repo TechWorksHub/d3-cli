@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e2524fcd-fea8-5731-8f6f-a5f0c03bb312
-  macAddresses:
-  - 00:13:3A:00:00:00/24
-  manufacturer: VadaTech Inc.
-  manufacturerUri: https://device-type.com
-  name: VadaTech
-type: d3-device-type-assertion

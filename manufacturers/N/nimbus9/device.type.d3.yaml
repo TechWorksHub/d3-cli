@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 651986aa-3101-5853-91f3-34e393c4d306
-  macAddresses:
-  - A8:64:05:00:00:00/24
-  manufacturer: nimbus 9, Inc
-  manufacturerUri: https://device-type.com
-  name: nimbus9
-type: d3-device-type-assertion

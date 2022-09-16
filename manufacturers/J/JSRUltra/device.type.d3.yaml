@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 79646026-1d5c-5cd2-8efe-f08e10bb7ad1
-  macAddresses:
-  - 00:50:C2:05:10:00/36
-  manufacturer: JSR Ultrasonics
-  manufacturerUri: https://device-type.com
-  name: JSRUltra
-type: d3-device-type-assertion

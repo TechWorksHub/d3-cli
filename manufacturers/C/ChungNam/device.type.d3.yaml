@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d4af190b-352b-5f6f-9acf-2402d7c24dba
-  macAddresses:
-  - 00:05:7B:00:00:00/24
-  manufacturer: Chung Nam Electronic Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: ChungNam
-type: d3-device-type-assertion

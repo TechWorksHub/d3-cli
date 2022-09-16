@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8d1bcee9-d8d1-5903-916a-0e90a38c274f
-  macAddresses:
-  - F0:58:49:00:00:00/24
-  manufacturer: CareView Communications
-  manufacturerUri: https://device-type.com
-  name: CareView
-type: d3-device-type-assertion

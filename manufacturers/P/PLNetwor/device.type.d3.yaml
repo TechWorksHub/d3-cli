@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bc9c2e11-536b-5f4f-b245-237752918bbc
-  macAddresses:
-  - 14:0C:5B:00:00:00/24
-  manufacturer: PLNetworks
-  manufacturerUri: https://device-type.com
-  name: PLNetwor
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8caca396-06c5-56ed-9edc-55be1302514f
-  macAddresses:
-  - 00:60:58:00:00:00/24
-  manufacturer: Copper Mountain Communications, Inc.
-  manufacturerUri: https://device-type.com
-  name: CopperMo
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d9dd0320-fc4e-5ec8-9d00-c406e8f91b46
-  macAddresses:
-  - 00:11:02:00:00:00/24
-  manufacturer: Aurora Multimedia Corp.
-  manufacturerUri: https://device-type.com
-  name: AuroraMu
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f0f42df0-b68f-51d9-a1ba-750fcd3060e9
-  macAddresses:
-  - 00:50:C2:F8:10:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Plda
-type: d3-device-type-assertion

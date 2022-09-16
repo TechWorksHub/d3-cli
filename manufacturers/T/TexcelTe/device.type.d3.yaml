@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c84c4c53-5a46-57d9-b343-0f8a71b70f07
-  macAddresses:
-  - 00:03:09:00:00:00/24
-  manufacturer: Texcel Technology PLC
-  manufacturerUri: https://device-type.com
-  name: TexcelTe
-type: d3-device-type-assertion

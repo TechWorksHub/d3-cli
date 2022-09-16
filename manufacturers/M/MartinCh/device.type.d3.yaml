@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 737fbaf3-82f3-5147-aad6-c8433ff6f3f8
-  macAddresses:
-  - 00:21:DF:00:00:00/24
-  manufacturer: Martin Christ GmbH
-  manufacturerUri: https://device-type.com
-  name: MartinCh
-type: d3-device-type-assertion

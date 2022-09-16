@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8a2b7416-4b16-5cd5-880d-35e59e33a251
-  macAddresses:
-  - 70:B3:D5:92:90:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: OutSys
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b12bc746-2255-5ac0-a483-3d31568c5a65
-  macAddresses:
-  - 1C:87:79:90:00:00/28
-  manufacturer: Istria soluciones de criptografia, S. A.
-  manufacturerUri: https://device-type.com
-  name: Istriaso
-type: d3-device-type-assertion

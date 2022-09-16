@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ee082b9b-554d-5238-a30c-bbd79ea39297
-  macAddresses:
-  - 00:50:C2:4A:40:00/36
-  manufacturer: Ieee P1609 Wg
-  manufacturerUri: https://device-type.com
-  name: IeeeP160
-type: d3-device-type-assertion

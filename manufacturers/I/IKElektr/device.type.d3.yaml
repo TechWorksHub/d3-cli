@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cd81b3ca-d1f0-554b-baa9-f56e78feeae6
-  macAddresses:
-  - 30:49:50:50:00:00/28
-  manufacturer: IK Elektronik GmbH
-  manufacturerUri: https://device-type.com
-  name: IKElektr
-type: d3-device-type-assertion

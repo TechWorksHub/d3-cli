@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 795456bf-b684-54c7-a784-283b4a59bdff
-  macAddresses:
-  - 24:53:BF:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Enernet
-type: d3-device-type-assertion

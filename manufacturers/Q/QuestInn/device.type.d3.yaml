@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c9de0a83-601e-5bb0-a24e-eb526f18b726
-  macAddresses:
-  - 00:50:C2:11:40:00/36
-  manufacturer: Quest Innovations
-  manufacturerUri: https://device-type.com
-  name: QuestInn
-type: d3-device-type-assertion

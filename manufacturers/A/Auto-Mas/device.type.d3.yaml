@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 381763fe-5b56-506e-b31d-dd95eda53134
-  macAddresses:
-  - 00:16:A0:00:00:00/24
-  manufacturer: Auto-Maskin
-  manufacturerUri: https://device-type.com
-  name: Auto-Mas
-type: d3-device-type-assertion

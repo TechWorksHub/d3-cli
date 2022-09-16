@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5ab53d55-0cff-55dc-9b25-e557a2f7752b
-  macAddresses:
-  - 00:25:E3:00:00:00/24
-  manufacturer: Hanshinit Inc.
-  manufacturerUri: https://device-type.com
-  name: Hanshini
-type: d3-device-type-assertion

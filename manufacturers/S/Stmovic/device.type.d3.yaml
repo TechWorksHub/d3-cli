@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 023c4a16-9b92-5ab7-99c4-5f1ed6f7e72b
-  macAddresses:
-  - 70:B3:D5:8F:50:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Stmovic
-type: d3-device-type-assertion

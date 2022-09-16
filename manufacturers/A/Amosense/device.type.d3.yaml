@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4dc730a8-3d6b-5754-9c66-5a72523cf37c
-  macAddresses:
-  - D0:56:BF:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Amosense
-type: d3-device-type-assertion

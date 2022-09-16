@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 01ba613d-277c-5f73-a5aa-a02b896d8f0f
-  macAddresses:
-  - 08:ED:02:10:00:00/28
-  manufacturer: Imperx, Inc
-  manufacturerUri: https://device-type.com
-  name: Imperx
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 873f4d5b-f97f-5c3b-9767-c5a944497280
-  macAddresses:
-  - 68:78:48:00:00:00/24
-  manufacturer: Westunitis Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Westunit
-type: d3-device-type-assertion

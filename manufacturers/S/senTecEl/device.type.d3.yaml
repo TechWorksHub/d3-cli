@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 156c2215-6136-57dc-b1a9-cf8d072abeff
-  macAddresses:
-  - 00:50:C2:FB:E0:00/36
-  manufacturer: senTec Elektronik GmbH
-  manufacturerUri: https://device-type.com
-  name: senTecEl
-type: d3-device-type-assertion

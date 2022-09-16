@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f8a45ec7-85d1-5379-bc34-1ae3d813cbf0
-  macAddresses:
-  - 00:0E:C3:00:00:00/24
-  manufacturer: Logic Controls, Inc.
-  manufacturerUri: https://device-type.com
-  name: LogicCon
-type: d3-device-type-assertion

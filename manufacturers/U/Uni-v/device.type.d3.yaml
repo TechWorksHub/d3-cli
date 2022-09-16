@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1262a27a-4f2e-517c-aa82-8da662aa87d3
-  macAddresses:
-  - 00:24:31:00:00:00/24
-  manufacturer: Uni-v co.,ltd
-  manufacturerUri: https://device-type.com
-  name: Uni-v
-type: d3-device-type-assertion

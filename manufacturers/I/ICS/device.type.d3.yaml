@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c582f545-c7f9-5dc4-9d4d-a99e7514e1de
-  macAddresses:
-  - 00:05:0A:00:00:00/24
-  manufacturer: ICS Spa
-  manufacturerUri: https://device-type.com
-  name: ICS
-type: d3-device-type-assertion

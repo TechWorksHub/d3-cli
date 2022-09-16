@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7aefea68-d173-57e7-8046-8b5df412268f
-  macAddresses:
-  - 70:B3:D5:52:40:00/36
-  manufacturer: Wuxi New Optical Communication Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: WuxiNewO
-type: d3-device-type-assertion

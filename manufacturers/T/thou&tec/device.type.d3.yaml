@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9d281071-9e80-5668-891a-1bb15a9f3154
-  macAddresses:
-  - 70:B3:D5:78:20:00/36
-  manufacturer: thou&tech
-  manufacturerUri: https://device-type.com
-  name: thou&tec
-type: d3-device-type-assertion

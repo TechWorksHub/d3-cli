@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e2762ff1-5495-57f2-bbe1-55a5308dbc9b
-  macAddresses:
-  - E8:18:63:E0:00:00/28
-  manufacturer: Acopian Technical Company
-  manufacturerUri: https://device-type.com
-  name: AcopianT
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 615ed361-2258-5f45-aaac-d65ef50ebb05
-  macAddresses:
-  - 00:15:04:00:00:00/24
-  manufacturer: Game Plus Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: GamePlus
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b3f7571b-ae19-543b-a86a-4a3479281520
-  macAddresses:
-  - 14:C2:1D:00:00:00/24
-  manufacturer: Sabtech Industries
-  manufacturerUri: https://device-type.com
-  name: SabtechI
-type: d3-device-type-assertion

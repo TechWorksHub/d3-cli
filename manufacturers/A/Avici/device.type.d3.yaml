@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c1518990-330d-5bc0-959f-ca0a6aa814bb
-  macAddresses:
-  - 00:90:B2:00:00:00/24
-  manufacturer: Avici Systems Inc.
-  manufacturerUri: https://device-type.com
-  name: Avici
-type: d3-device-type-assertion

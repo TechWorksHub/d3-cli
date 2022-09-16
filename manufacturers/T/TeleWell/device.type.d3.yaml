@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 528eefaf-64bb-519e-90a3-a03f20d1af60
-  macAddresses:
-  - 00:1E:AB:00:00:00/24
-  manufacturer: TeleWell Oy
-  manufacturerUri: https://device-type.com
-  name: TeleWell
-type: d3-device-type-assertion

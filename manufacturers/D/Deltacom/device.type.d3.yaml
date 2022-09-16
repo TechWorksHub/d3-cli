@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aa9b9b54-3df2-51f0-8408-84befd7e7110
-  macAddresses:
-  - 00:23:1D:00:00:00/24
-  manufacturer: Deltacom Electronics Ltd
-  manufacturerUri: https://device-type.com
-  name: Deltacom
-type: d3-device-type-assertion

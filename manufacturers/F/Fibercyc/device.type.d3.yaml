@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1877ccff-8fa8-52ba-952e-5fe483a6f2f7
-  macAddresses:
-  - 00:04:19:00:00:00/24
-  manufacturer: Fibercycle Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: Fibercyc
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 01ddd177-114b-5fd3-b2ff-765bb457df79
-  macAddresses:
-  - 00:1F:87:00:00:00/24
-  manufacturer: Skydigital Inc.
-  manufacturerUri: https://device-type.com
-  name: Skydigit
-type: d3-device-type-assertion

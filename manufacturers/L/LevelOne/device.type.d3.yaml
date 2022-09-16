@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 23d87296-8e53-5ff4-8dac-cfa25409bec3
-  macAddresses:
-  - 70:76:F0:00:00:00/24
-  manufacturer: LevelOne Communications (India) Private Limited
-  manufacturerUri: https://device-type.com
-  name: LevelOne
-type: d3-device-type-assertion

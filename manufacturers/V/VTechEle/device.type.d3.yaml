@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a50a98cc-ba53-5d88-b082-23e7d96f70c5
-  macAddresses:
-  - 04:07:2E:00:00:00/24
-  manufacturer: VTech Electronics Ltd.
-  manufacturerUri: https://device-type.com
-  name: VTechEle
-type: d3-device-type-assertion

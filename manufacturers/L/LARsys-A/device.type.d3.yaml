@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3185ee90-d98f-5559-bd66-0095ec7abe33
-  macAddresses:
-  - 00:2A:AF:00:00:00/24
-  manufacturer: LARsys-Automation GmbH
-  manufacturerUri: https://device-type.com
-  name: LARsys-A
-type: d3-device-type-assertion

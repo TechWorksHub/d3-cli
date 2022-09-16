@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6b8e180e-46b7-5359-920e-8aaec93c1dc6
-  macAddresses:
-  - 00:1C:F5:00:00:00/24
-  manufacturer: Wiseblue Technology Limited
-  manufacturerUri: https://device-type.com
-  name: Wiseblue
-type: d3-device-type-assertion

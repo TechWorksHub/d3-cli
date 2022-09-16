@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: baf7a574-cd5b-5a3e-a0fb-869a2231f5f8
-  macAddresses:
-  - A0:41:A7:00:00:00/24
-  manufacturer: NL Ministry of Defense
-  manufacturerUri: https://device-type.com
-  name: NLMinist
-type: d3-device-type-assertion

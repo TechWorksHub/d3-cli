@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5061c5c1-a790-5be8-b4dd-db0bd845a18b
-  macAddresses:
-  - 00:18:76:00:00:00/24
-  manufacturer: WowWee Ltd.
-  manufacturerUri: https://device-type.com
-  name: WowWee
-type: d3-device-type-assertion

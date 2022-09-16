@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8dad65bc-796b-5832-8491-c47509b3fd11
-  macAddresses:
-  - B0:57:06:00:00:00/24
-  manufacturer: Vallox Oy
-  manufacturerUri: https://device-type.com
-  name: Vallox
-type: d3-device-type-assertion

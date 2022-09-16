@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a5d61c1f-3a31-5187-9553-3040aba27779
-  macAddresses:
-  - 00:10:BC:00:00:00/24
-  manufacturer: Aastra Telecom
-  manufacturerUri: https://device-type.com
-  name: AastraTe
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2af36e74-01df-5ce8-a1d9-ed6859a4951f
-  macAddresses:
-  - A0:19:B2:E0:00:00/28
-  manufacturer: Ahgora Sistemas SA
-  manufacturerUri: https://device-type.com
-  name: AhgoraSi
-type: d3-device-type-assertion

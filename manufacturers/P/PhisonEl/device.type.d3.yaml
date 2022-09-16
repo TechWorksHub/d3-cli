@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 94ad68a5-5e3c-53f9-a95d-275fc6f9d2d2
-  macAddresses:
-  - 64:79:A7:00:00:00/24
-  manufacturer: Phison Electronics Corp.
-  manufacturerUri: https://device-type.com
-  name: PhisonEl
-type: d3-device-type-assertion

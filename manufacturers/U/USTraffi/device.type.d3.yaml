@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eae65508-04a2-5d12-9b3b-512ddfb644f7
-  macAddresses:
-  - 00:50:C2:13:00:00/36
-  manufacturer: U.S. Traffic Corporation
-  manufacturerUri: https://device-type.com
-  name: USTraffi
-type: d3-device-type-assertion

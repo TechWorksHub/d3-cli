@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 759bd356-6e56-5991-8421-f0b3f06c4c99
-  macAddresses:
-  - 08:00:1D:00:00:00/24
-  manufacturer: Able Communications Inc.
-  manufacturerUri: https://device-type.com
-  name: AbleComm
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6a1fad2d-5e6f-52c1-8704-dc20c83493ea
-  macAddresses:
-  - D0:14:11:60:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Ahnnet
-type: d3-device-type-assertion

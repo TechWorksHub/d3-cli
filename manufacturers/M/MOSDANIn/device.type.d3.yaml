@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 436fbfec-6089-5299-b1aa-601ce1270362
-  macAddresses:
-  - 00:17:03:00:00:00/24
-  manufacturer: MOSDAN Internation Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: MOSDANIn
-type: d3-device-type-assertion

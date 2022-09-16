@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 41c5639d-5168-5459-a0a6-3400768b3224
-  macAddresses:
-  - 00:0C:C8:00:00:00/24
-  manufacturer: Xytronix Research & Design, Inc.
-  manufacturerUri: https://device-type.com
-  name: Xytronix
-type: d3-device-type-assertion

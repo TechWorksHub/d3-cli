@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 41da254e-cda5-516a-91cf-337037da7378
-  macAddresses:
-  - 00:04:53:00:00:00/24
-  manufacturer: YottaYotta, Inc.
-  manufacturerUri: https://device-type.com
-  name: YottaYot
-type: d3-device-type-assertion

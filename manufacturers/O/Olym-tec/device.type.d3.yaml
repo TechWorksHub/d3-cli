@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3ae0a6d9-6e7a-5f7b-a566-b3c9de31c4cb
-  macAddresses:
-  - 00:0D:B0:00:00:00/24
-  manufacturer: Olym-tech Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: Olym-tec
-type: d3-device-type-assertion

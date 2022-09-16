@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b6010982-2b10-5a5f-bcfb-a46be5024c9a
-  macAddresses:
-  - F8:F0:05:00:00:00/24
-  manufacturer: Newport Media Inc.
-  manufacturerUri: https://device-type.com
-  name: NewportM
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e6553328-146c-5b07-aa8d-7922e27cb734
-  macAddresses:
-  - 70:B3:D5:CC:D0:00/36
-  manufacturer: Suzhou PowerCore Technology Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: SuzhouPo
-type: d3-device-type-assertion

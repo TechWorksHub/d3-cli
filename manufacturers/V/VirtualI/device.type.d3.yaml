@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2c9e8e8f-5a93-5b89-8054-4ab855bbbe52
-  macAddresses:
-  - 18:92:2C:00:00:00/24
-  manufacturer: Virtual Instruments
-  manufacturerUri: https://device-type.com
-  name: VirtualI
-type: d3-device-type-assertion

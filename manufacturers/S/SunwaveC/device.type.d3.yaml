@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 25f68d29-05a9-5c2f-8bb0-e3d97923f201
-  macAddresses:
-  - 68:1D:64:00:00:00/24
-  manufacturer: Sunwave Communications Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: SunwaveC
-type: d3-device-type-assertion

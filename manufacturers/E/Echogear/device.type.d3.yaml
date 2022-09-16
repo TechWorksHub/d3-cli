@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0ae74757-8495-5e0c-ba5d-966d06c783af
-  macAddresses:
-  - 70:B3:D5:57:10:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Echogear
-type: d3-device-type-assertion

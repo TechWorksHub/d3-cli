@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0fdd8c3e-2613-5ccd-b1a9-75e53c1d141c
-  macAddresses:
-  - 28:FD:80:E0:00:00/28
-  manufacturer: T-Radio AS
-  manufacturerUri: https://device-type.com
-  name: T-RadioA
-type: d3-device-type-assertion

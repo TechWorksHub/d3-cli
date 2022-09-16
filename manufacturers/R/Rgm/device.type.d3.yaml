@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aab47c19-b78d-51b5-b3d8-feb745540642
-  macAddresses:
-  - 00:50:C2:6C:D0:00/36
-  manufacturer: Rgm Spa
-  manufacturerUri: https://device-type.com
-  name: Rgm
-type: d3-device-type-assertion

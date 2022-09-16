@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ae87806a-4e88-5a8b-b767-6e8a223def01
-  macAddresses:
-  - 70:B3:D5:94:80:00/36
-  manufacturer: Vision Systems Aurtomotive (Safety Tech)
-  manufacturerUri: https://device-type.com
-  name: VisionAu
-type: d3-device-type-assertion

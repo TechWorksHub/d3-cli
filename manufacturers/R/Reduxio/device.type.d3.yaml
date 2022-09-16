@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8751737c-6a8e-5dd5-8179-77b3b2f953aa
-  macAddresses:
-  - F4:03:2F:00:00:00/24
-  manufacturer: Reduxio Systems
-  manufacturerUri: https://device-type.com
-  name: Reduxio
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d1e0052b-9f77-5159-80af-002c00f18892
-  macAddresses:
-  - 00:25:B7:00:00:00/24
-  manufacturer: Costar electronics, inc.,
-  manufacturerUri: https://device-type.com
-  name: Costarel
-type: d3-device-type-assertion

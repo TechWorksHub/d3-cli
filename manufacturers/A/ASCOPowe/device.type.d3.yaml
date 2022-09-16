@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4d6252e2-39d4-5116-8ed0-2d3bbe167b16
-  macAddresses:
-  - 5C:B2:9E:00:00:00/24
-  manufacturer: ASCO Power Technologies
-  manufacturerUri: https://device-type.com
-  name: ASCOPowe
-type: d3-device-type-assertion

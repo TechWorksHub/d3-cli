@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 802daa63-d050-5be7-8420-a2bd2ebe3aff
-  macAddresses:
-  - AC:1D:DF:90:00:00/28
-  manufacturer: Solare Datensysteme GmbH
-  manufacturerUri: https://device-type.com
-  name: SolareDa
-type: d3-device-type-assertion

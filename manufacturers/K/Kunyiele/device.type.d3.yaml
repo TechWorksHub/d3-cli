@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 46817fb6-1b68-5df8-b1ee-d39aeec5f994
-  macAddresses:
-  - 2C:27:9E:20:00:00/28
-  manufacturer: Kunyi electronic technology (Shanghai) Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Kunyiele
-type: d3-device-type-assertion

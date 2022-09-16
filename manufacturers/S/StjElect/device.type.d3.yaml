@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 81517e3b-54cb-5750-afe7-247f17e03d4c
-  macAddresses:
-  - 00:25:7B:00:00:00/24
-  manufacturer: Stj Electronics Pvt Ltd
-  manufacturerUri: https://device-type.com
-  name: StjElect
-type: d3-device-type-assertion

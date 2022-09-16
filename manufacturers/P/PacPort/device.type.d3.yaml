@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1c3c3c67-8a9e-57f0-8953-47998dff5513
-  macAddresses:
-  - 04:D1:6E:C0:00:00/28
-  manufacturer: PacPort Corporation
-  manufacturerUri: https://device-type.com
-  name: PacPort
-type: d3-device-type-assertion

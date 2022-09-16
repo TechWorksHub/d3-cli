@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bbdd9639-64bc-535b-beef-828c64fa436c
-  macAddresses:
-  - 00:D0:6E:00:00:00/24
-  manufacturer: Trendview Recorders Ltd.
-  manufacturerUri: https://device-type.com
-  name: Trendvie
-type: d3-device-type-assertion

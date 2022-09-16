@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 83d66e62-771c-54db-bfd2-a77267beccbf
-  macAddresses:
-  - C8:D2:C1:00:00:00/24
-  manufacturer: Jetlun (Shenzhen) Corporation
-  manufacturerUri: https://device-type.com
-  name: JetlunSh
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 98e522a4-3820-5726-874e-bb8611cdf124
-  macAddresses:
-  - 44:67:55:00:00:00/24
-  manufacturer: Orbit Irrigation
-  manufacturerUri: https://device-type.com
-  name: OrbitIrr
-type: d3-device-type-assertion

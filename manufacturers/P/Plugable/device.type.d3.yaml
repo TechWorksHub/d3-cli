@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cfe6057c-374a-5791-add5-6f2f287d9c77
-  macAddresses:
-  - 8C:AE:4C:00:00:00/24
-  manufacturer: Plugable Technologies
-  manufacturerUri: https://device-type.com
-  name: Plugable
-type: d3-device-type-assertion

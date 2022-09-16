@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9c514357-4808-542d-a160-ba8bca1fcaba
-  macAddresses:
-  - 24:5D:FC:50:00:00/28
-  manufacturer: ContactProximity Inc
-  manufacturerUri: https://device-type.com
-  name: ContactP
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ec7975b6-a4a7-5555-a2fd-56367384b769
-  macAddresses:
-  - 00:0F:D0:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Astri
-type: d3-device-type-assertion

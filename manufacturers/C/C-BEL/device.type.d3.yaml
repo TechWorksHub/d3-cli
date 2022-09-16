@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aad73c1d-cc81-5ac8-b1c1-178648fabba1
-  macAddresses:
-  - 00:1D:DB:00:00:00/24
-  manufacturer: C-BEL Corporation
-  manufacturerUri: https://device-type.com
-  name: C-BEL
-type: d3-device-type-assertion

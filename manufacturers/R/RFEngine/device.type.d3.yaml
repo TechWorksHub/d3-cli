@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3230759e-6884-5a81-92d1-ed912ac31bc8
-  macAddresses:
-  - C8:2C:2B:30:00:00/28
-  manufacturer: RF Engineering and Energy Resource
-  manufacturerUri: https://device-type.com
-  name: RFEngine
-type: d3-device-type-assertion

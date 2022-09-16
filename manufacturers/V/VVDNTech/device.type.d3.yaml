@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3ad618cc-ce47-556e-b638-9e27a21f391e
-  macAddresses:
-  - 98:AE:71:00:00:00/24
-  manufacturer: VVDN Technologies Pvt Ltd
-  manufacturerUri: https://device-type.com
-  name: VVDNTech
-type: d3-device-type-assertion

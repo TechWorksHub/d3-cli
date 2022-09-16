@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f9650284-4da2-5843-b090-9fc61c670762
-  macAddresses:
-  - 00:0C:79:00:00:00/24
-  manufacturer: Extel Communications P/L
-  manufacturerUri: https://device-type.com
-  name: ExtelCom
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5e2be08b-1be9-564c-a9b8-60ad83dd8cad
-  macAddresses:
-  - 28:14:71:00:00:00/24
-  manufacturer: Lantis co., LTD.
-  manufacturerUri: https://device-type.com
-  name: Lantis
-type: d3-device-type-assertion

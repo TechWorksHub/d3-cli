@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d00e0ee8-9dea-5372-8d0a-2403d06ba85f
-  macAddresses:
-  - 94:19:3A:00:00:00/24
-  manufacturer: Elvaco AB
-  manufacturerUri: https://device-type.com
-  name: Elvaco
-type: d3-device-type-assertion

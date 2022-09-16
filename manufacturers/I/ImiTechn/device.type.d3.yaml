@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c604ef57-747d-51f3-bcc2-507f9d1c643b
-  macAddresses:
-  - 00:09:7E:00:00:00/24
-  manufacturer: Imi Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: ImiTechn
-type: d3-device-type-assertion

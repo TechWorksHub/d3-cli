@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 22ed40df-9888-5eb4-9132-9cee3cffc14f
-  macAddresses:
-  - F4:C7:C8:00:00:00/24
-  manufacturer: Kelvin Inc.
-  manufacturerUri: https://device-type.com
-  name: Kelvin
-type: d3-device-type-assertion

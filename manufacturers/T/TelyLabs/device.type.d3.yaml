@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 339ed845-d7a9-5110-8168-2c0a9202fc8a
-  macAddresses:
-  - 54:20:18:00:00:00/24
-  manufacturer: Tely Labs
-  manufacturerUri: https://device-type.com
-  name: TelyLabs
-type: d3-device-type-assertion

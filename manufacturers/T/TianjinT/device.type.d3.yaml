@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8cb31b41-28fb-5a44-accc-23fde7882c39
-  macAddresses:
-  - 30:4E:C3:00:00:00/24
-  manufacturer: Tianjin Techua Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: TianjinT
-type: d3-device-type-assertion

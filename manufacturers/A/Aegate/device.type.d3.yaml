@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0f4e8e7c-4b24-5e47-abb4-8d49c07b00f3
-  macAddresses:
-  - 00:16:57:00:00:00/24
-  manufacturer: Aegate Ltd
-  manufacturerUri: https://device-type.com
-  name: Aegate
-type: d3-device-type-assertion

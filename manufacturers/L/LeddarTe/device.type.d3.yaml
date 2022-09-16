@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a46e1bd0-00a2-5861-83d9-c99d63cf29d5
-  macAddresses:
-  - F0:C8:8C:00:00:00/24
-  manufacturer: LeddarTech Inc.
-  manufacturerUri: https://device-type.com
-  name: LeddarTe
-type: d3-device-type-assertion

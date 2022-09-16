@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fa275ae6-5d29-517e-9609-5e7955f54f5d
-  macAddresses:
-  - 00:50:C2:8A:70:00/36
-  manufacturer: Pixeye Ltd
-  manufacturerUri: https://device-type.com
-  name: Pixeye
-type: d3-device-type-assertion

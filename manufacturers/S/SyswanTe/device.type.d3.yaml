@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 955ba295-8160-5da0-8ddf-c22f8e5c18ee
-  macAddresses:
-  - 00:1C:74:00:00:00/24
-  manufacturer: Syswan Technologies Inc.
-  manufacturerUri: https://device-type.com
-  name: SyswanTe
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 93b6bf2b-9f53-5318-8835-b891a60fddb4
-  macAddresses:
-  - 00:13:AF:00:00:00/24
-  manufacturer: NUMA Technology,Inc.
-  manufacturerUri: https://device-type.com
-  name: NUMATech
-type: d3-device-type-assertion

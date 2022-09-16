@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d3cfade0-9c31-5ff4-9450-da451df71451
-  macAddresses:
-  - 00:A0:1F:00:00:00/24
-  manufacturer: Tricord Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Tricord
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 59e81fbb-0b5a-5556-9189-95d08ab1169f
-  macAddresses:
-  - 00:1B:C5:02:80:00/36
-  manufacturer: Stechwin.Co.Ltd.
-  manufacturerUri: https://device-type.com
-  name: Stechwin
-type: d3-device-type-assertion

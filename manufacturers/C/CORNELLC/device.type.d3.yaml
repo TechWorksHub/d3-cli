@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: db342bb6-98b0-5da7-a63f-01de9c9fd2f6
-  macAddresses:
-  - 00:21:C3:00:00:00/24
-  manufacturer: CORNELL Communications, Inc.
-  manufacturerUri: https://device-type.com
-  name: CORNELLC
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6d69774a-4d08-5efa-9992-d7893cbfe52f
-  macAddresses:
-  - 18:2D:F7:00:00:00/24
-  manufacturer: Jy Company
-  manufacturerUri: https://device-type.com
-  name: Jy
-type: d3-device-type-assertion

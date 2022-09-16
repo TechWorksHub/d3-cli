@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 294e5f8a-6d3b-56fa-a802-c746a4cd5747
-  macAddresses:
-  - 20:85:93:E0:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Dynaudio
-type: d3-device-type-assertion

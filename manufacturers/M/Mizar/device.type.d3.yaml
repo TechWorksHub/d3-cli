@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 23cd79ac-04e6-5d5b-96ec-c90e3de206a5
-  macAddresses:
-  - 00:80:F8:00:00:00/24
-  manufacturer: Mizar, Inc.
-  manufacturerUri: https://device-type.com
-  name: Mizar
-type: d3-device-type-assertion

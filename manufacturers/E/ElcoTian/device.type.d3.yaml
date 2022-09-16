@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 88375426-3cac-58d9-ad3a-be68c9ae33dc
-  macAddresses:
-  - 8C:19:2D:50:00:00/28
-  manufacturer: Elco(Tianjin)Electronics Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: ElcoTian
-type: d3-device-type-assertion

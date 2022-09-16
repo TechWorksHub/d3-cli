@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 581aa1df-a81c-5c17-a743-89176da26f13
-  macAddresses:
-  - 00:15:46:00:00:00/24
-  manufacturer: ITG Worldwide Sdn Bhd
-  manufacturerUri: https://device-type.com
-  name: ITGWorld
-type: d3-device-type-assertion

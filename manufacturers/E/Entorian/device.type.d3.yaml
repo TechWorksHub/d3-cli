@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0fc14a56-3c00-5c44-a9e2-03f3f204e72e
-  macAddresses:
-  - 00:22:53:00:00:00/24
-  manufacturer: Entorian Technologies
-  manufacturerUri: https://device-type.com
-  name: Entorian
-type: d3-device-type-assertion

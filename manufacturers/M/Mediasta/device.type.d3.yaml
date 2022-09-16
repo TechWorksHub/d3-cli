@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 66098065-ee0a-5dfd-bcf6-b880af32c679
-  macAddresses:
-  - 00:50:20:00:00:00/24
-  manufacturer: Mediastar Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Mediasta
-type: d3-device-type-assertion

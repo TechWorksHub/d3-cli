@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2f03400c-0765-5417-9a32-9e4f905bd00a
-  macAddresses:
-  - E4:92:2A:00:00:00/24
-  manufacturer: Dbg Holdings Limited
-  manufacturerUri: https://device-type.com
-  name: DbgHoldi
-type: d3-device-type-assertion

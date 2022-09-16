@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 644d8cd5-04eb-5663-928d-5385075f5ce1
-  macAddresses:
-  - 00:0F:41:00:00:00/24
-  manufacturer: Zipher Ltd
-  manufacturerUri: https://device-type.com
-  name: Zipher
-type: d3-device-type-assertion

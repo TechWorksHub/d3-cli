@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a5734e99-3758-59cd-984f-b0b737e7f067
-  macAddresses:
-  - 00:09:A4:00:00:00/24
-  manufacturer: HARTEC Corporation
-  manufacturerUri: https://device-type.com
-  name: HARTEC
-type: d3-device-type-assertion

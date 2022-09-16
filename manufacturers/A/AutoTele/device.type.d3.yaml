@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 17a0e9f2-fb44-5b9f-a172-f438626cddd3
-  macAddresses:
-  - 00:09:85:00:00:00/24
-  manufacturer: Auto Telecom Company
-  manufacturerUri: https://device-type.com
-  name: AutoTele
-type: d3-device-type-assertion

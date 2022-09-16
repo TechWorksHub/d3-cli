@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f54d4633-24e8-54a5-9f06-bba39f9a6974
-  macAddresses:
-  - 00:10:48:00:00:00/24
-  manufacturer: Htrc Automation, Inc.
-  manufacturerUri: https://device-type.com
-  name: HtrcAuto
-type: d3-device-type-assertion

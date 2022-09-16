@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eb07f2c1-2cce-5d0b-85d4-a395a48c4be6
-  macAddresses:
-  - 44:03:77:C0:00:00/28
-  manufacturer: BIG Climatic Manufacture, Co. LTD, Zhongshan Branch
-  manufacturerUri: https://device-type.com
-  name: BIGClima
-type: d3-device-type-assertion

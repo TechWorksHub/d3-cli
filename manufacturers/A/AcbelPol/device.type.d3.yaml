@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 62b9e55d-fd93-5256-8a77-fc2578ce3a2a
-  macAddresses:
-  - 00:13:96:00:00:00/24
-  manufacturer: Acbel Polytech Inc.
-  manufacturerUri: https://device-type.com
-  name: AcbelPol
-type: d3-device-type-assertion

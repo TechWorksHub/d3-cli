@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 11fc3eab-f612-53ce-84d5-420e6fabb609
-  macAddresses:
-  - 00:08:5F:00:00:00/24
-  manufacturer: Picanol N.V.
-  manufacturerUri: https://device-type.com
-  name: Picanol
-type: d3-device-type-assertion

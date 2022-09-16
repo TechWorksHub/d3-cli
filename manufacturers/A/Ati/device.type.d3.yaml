@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 46e476a3-cfd6-5eed-b8e4-befb5383e3c1
-  macAddresses:
-  - C4:7C:8D:00:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Ati
-type: d3-device-type-assertion

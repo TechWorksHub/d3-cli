@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9abd2e28-2d6d-55d5-8dea-0bc571f8fdfa
-  macAddresses:
-  - 70:B3:D5:F6:F0:00/36
-  manufacturer: Smashtag Ltd
-  manufacturerUri: https://device-type.com
-  name: Smashtag
-type: d3-device-type-assertion

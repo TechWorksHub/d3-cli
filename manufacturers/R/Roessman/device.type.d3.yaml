@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 06a4dd69-366f-5411-87ee-65bed12b6c93
-  macAddresses:
-  - 00:50:C2:95:50:00/36
-  manufacturer: Roessmann Engineering
-  manufacturerUri: https://device-type.com
-  name: Roessman
-type: d3-device-type-assertion

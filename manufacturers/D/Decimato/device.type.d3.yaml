@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cdcafd21-8baf-534b-ba3c-4283fc611eb4
-  macAddresses:
-  - 30:A8:89:00:00:00/24
-  manufacturer: Decimator Design
-  manufacturerUri: https://device-type.com
-  name: Decimato
-type: d3-device-type-assertion

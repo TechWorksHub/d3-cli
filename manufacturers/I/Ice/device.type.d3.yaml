@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ad5d8ad2-2ac8-58cb-920a-73bc53425758
-  macAddresses:
-  - 00:00:41:00:00:00/24
-  manufacturer: Ice Corporation
-  manufacturerUri: https://device-type.com
-  name: Ice
-type: d3-device-type-assertion

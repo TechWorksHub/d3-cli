@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0caaf0a7-9a04-5387-a1a6-ae756fb137ce
-  macAddresses:
-  - 70:B3:D5:27:30:00/36
-  manufacturer: WeVo Tech
-  manufacturerUri: https://device-type.com
-  name: WeVoTech
-type: d3-device-type-assertion

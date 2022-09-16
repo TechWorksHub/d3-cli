@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 19d96c10-5030-58cd-86b1-f0b34702a01f
-  macAddresses:
-  - 00:0E:8A:00:00:00/24
-  manufacturer: Avara Technologies Pty. Ltd.
-  manufacturerUri: https://device-type.com
-  name: AvaraTec
-type: d3-device-type-assertion

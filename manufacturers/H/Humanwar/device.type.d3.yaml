@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d898bb98-bf8a-564c-9f3a-ba6ed265e4ce
-  macAddresses:
-  - 00:25:EC:00:00:00/24
-  manufacturer: Humanware
-  manufacturerUri: https://device-type.com
-  name: Humanwar
-type: d3-device-type-assertion

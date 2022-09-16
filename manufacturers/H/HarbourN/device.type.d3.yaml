@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 05314f45-a3fa-5e13-ac33-f505fd0d636f
-  macAddresses:
-  - 00:05:3B:00:00:00/24
-  manufacturer: Harbour Networks Ltd., Co. Beijing
-  manufacturerUri: https://device-type.com
-  name: HarbourN
-type: d3-device-type-assertion

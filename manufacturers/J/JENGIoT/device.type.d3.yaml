@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e8155301-5ae3-55a7-84b3-847389158abd
-  macAddresses:
-  - 70:B3:D5:5A:F0:00/36
-  manufacturer: JENG IoT BV
-  manufacturerUri: https://device-type.com
-  name: JENGIoT
-type: d3-device-type-assertion

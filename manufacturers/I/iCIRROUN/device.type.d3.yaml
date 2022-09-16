@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 24c09274-d51d-5362-bcc1-7c29a4b4e11f
-  macAddresses:
-  - 2C:D1:41:00:00:00/28
-  manufacturer: iCIRROUND Inc
-  manufacturerUri: https://device-type.com
-  name: iCIRROUN
-type: d3-device-type-assertion

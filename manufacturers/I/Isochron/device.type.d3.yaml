@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 23418d9a-3cf2-518d-913a-dd745508a61b
-  macAddresses:
-  - 00:50:C2:68:C0:00/36
-  manufacturer: Isochron Inc
-  manufacturerUri: https://device-type.com
-  name: Isochron
-type: d3-device-type-assertion

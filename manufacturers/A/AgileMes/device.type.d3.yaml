@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 85e18818-4c48-580d-8a86-ffbb32b45076
-  macAddresses:
-  - 80:91:C0:00:00:00/24
-  manufacturer: AgileMesh, Inc.
-  manufacturerUri: https://device-type.com
-  name: AgileMes
-type: d3-device-type-assertion

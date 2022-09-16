@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d10e0048-6b18-5793-857e-8fed69cf4c77
-  macAddresses:
-  - 70:B3:D5:14:30:00/36
-  manufacturer: A & T Technologies
-  manufacturerUri: https://device-type.com
-  name: ATTechno
-type: d3-device-type-assertion

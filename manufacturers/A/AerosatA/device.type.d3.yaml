@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bce5469c-fa19-58b2-a54d-2886657e0179
-  macAddresses:
-  - 00:21:23:00:00:00/24
-  manufacturer: Aerosat Avionics
-  manufacturerUri: https://device-type.com
-  name: AerosatA
-type: d3-device-type-assertion

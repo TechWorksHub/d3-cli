@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4944787b-881c-5a2a-bec8-1408e05ed3d8
-  macAddresses:
-  - 00:02:40:00:00:00/24
-  manufacturer: Seedek Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Seedek
-type: d3-device-type-assertion

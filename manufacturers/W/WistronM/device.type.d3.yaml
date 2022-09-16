@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 748be20f-be66-5bff-a527-9706d8a666d7
-  macAddresses:
-  - EC:B4:E8:00:00:00/24
-  manufacturer: Wistron Mexico SA de CV
-  manufacturerUri: https://device-type.com
-  name: WistronM
-type: d3-device-type-assertion

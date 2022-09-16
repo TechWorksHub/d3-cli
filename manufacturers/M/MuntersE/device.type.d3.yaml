@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9cab8dd7-f693-533c-bf03-0ff502dbc5f2
-  macAddresses:
-  - 0C:5C:B5:E0:00:00/28
-  manufacturer: Munters Europe AB
-  manufacturerUri: https://device-type.com
-  name: MuntersE
-type: d3-device-type-assertion

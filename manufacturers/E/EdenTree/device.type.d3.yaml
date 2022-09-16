@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0886704c-92a6-5ec9-a61e-1bff39f7342b
-  macAddresses:
-  - 00:50:C2:23:30:00/36
-  manufacturer: EdenTree Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: EdenTree
-type: d3-device-type-assertion

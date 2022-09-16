@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 973f897e-a872-5de2-b801-be8d7a0344b3
-  macAddresses:
-  - 00:1F:E5:00:00:00/24
-  manufacturer: In-Circuit GmbH
-  manufacturerUri: https://device-type.com
-  name: In-Circu
-type: d3-device-type-assertion

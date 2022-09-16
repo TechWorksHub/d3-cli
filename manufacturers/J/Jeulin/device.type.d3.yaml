@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e83d3c9c-36ec-52d0-a420-92207cd4327a
-  macAddresses:
-  - 00:1E:92:00:00:00/24
-  manufacturer: Jeulin S.A.
-  manufacturerUri: https://device-type.com
-  name: Jeulin
-type: d3-device-type-assertion

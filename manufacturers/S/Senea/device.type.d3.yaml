@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: abba0fe3-b4ed-51ac-9c0a-a1cacc4c248a
-  macAddresses:
-  - 00:16:D8:00:00:00/24
-  manufacturer: Senea AB
-  manufacturerUri: https://device-type.com
-  name: Senea
-type: d3-device-type-assertion

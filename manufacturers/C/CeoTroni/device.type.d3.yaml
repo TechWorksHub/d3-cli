@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0fd25c83-dd75-56fa-af1a-68d612f6bbeb
-  macAddresses:
-  - 7C:CB:E2:10:00:00/28
-  manufacturer: CeoTronics AG
-  manufacturerUri: https://device-type.com
-  name: CeoTroni
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ace10e06-de39-560b-94b4-66e0af096ecc
-  macAddresses:
-  - 64:B6:4A:00:00:00/24
-  manufacturer: ViVOtech, Inc.
-  manufacturerUri: https://device-type.com
-  name: ViVOtech
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2ee1c026-872a-5149-a8c0-ef706dbe6e63
-  macAddresses:
-  - 70:B3:D5:15:A0:00/36
-  manufacturer: Enabler Ltd.
-  manufacturerUri: https://device-type.com
-  name: Enabler
-type: d3-device-type-assertion

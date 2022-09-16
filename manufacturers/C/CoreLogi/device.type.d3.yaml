@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1650a974-61cc-5ef8-90a9-3f3950b68c95
-  macAddresses:
-  - 6C:6E:FE:00:00:00/24
-  manufacturer: Core Logic Inc.
-  manufacturerUri: https://device-type.com
-  name: CoreLogi
-type: d3-device-type-assertion

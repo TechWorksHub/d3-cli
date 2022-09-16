@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0638d70b-ae0b-5a2f-b833-49a020ea3fc1
-  macAddresses:
-  - 00:18:21:00:00:00/24
-  manufacturer: Sindoricoh
-  manufacturerUri: https://device-type.com
-  name: Sindoric
-type: d3-device-type-assertion

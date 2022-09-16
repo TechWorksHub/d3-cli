@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3178cbd8-29b0-5551-83c5-709b111505e8
-  macAddresses:
-  - 28:3E:76:00:00:00/24
-  manufacturer: Common Networks
-  manufacturerUri: https://device-type.com
-  name: CommonNe
-type: d3-device-type-assertion

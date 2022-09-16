@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 85ec154f-b47d-508d-b076-adf2b0f745fc
-  macAddresses:
-  - 70:B3:D5:4E:50:00/36
-  manufacturer: viZaar industrial imaging AG
-  manufacturerUri: https://device-type.com
-  name: viZaarin
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a069f107-2391-5eeb-8ebd-097180d9f5a7
-  macAddresses:
-  - 70:B3:D5:35:D0:00/36
-  manufacturer: Fresh Idea Factory BV
-  manufacturerUri: https://device-type.com
-  name: FreshIde
-type: d3-device-type-assertion

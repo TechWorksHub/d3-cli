@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b3524399-dc3e-5447-83c3-fb4fdf9ffdfd
-  macAddresses:
-  - 00:1F:71:00:00:00/24
-  manufacturer: xG Technology, Inc.
-  manufacturerUri: https://device-type.com
-  name: xGTechno
-type: d3-device-type-assertion

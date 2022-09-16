@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3bd70bdb-f8ec-54a5-b9aa-4184944df27b
-  macAddresses:
-  - 78:5E:E8:10:00:00/28
-  manufacturer: RIKEN KEIKI NARA MFG. Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: RIKENKEI
-type: d3-device-type-assertion

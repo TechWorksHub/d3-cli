@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a8491921-1f4b-5629-918e-b7cfc031bcfd
-  macAddresses:
-  - 90:50:5A:00:00:00/24
-  manufacturer: unGlue, Inc
-  manufacturerUri: https://device-type.com
-  name: unGlue
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 98ea45a4-b68d-5966-ba15-405c4aca34aa
-  macAddresses:
-  - 2C:26:5F:A0:00:00/28
-  manufacturer: Polara Engineering
-  manufacturerUri: https://device-type.com
-  name: PolaraEn
-type: d3-device-type-assertion

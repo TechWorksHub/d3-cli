@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cea5d1dd-faa1-5044-8d5e-d0c3f1ec07d5
-  macAddresses:
-  - 30:E3:D6:00:00:00/24
-  manufacturer: Spotify USA Inc.
-  manufacturerUri: https://device-type.com
-  name: SpotifyU
-type: d3-device-type-assertion

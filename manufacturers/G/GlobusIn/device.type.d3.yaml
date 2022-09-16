@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0d607df7-e115-5948-9e50-b4d2088ec95e
-  macAddresses:
-  - 68:79:12:C0:00:00/28
-  manufacturer: Globus Infocom Limited
-  manufacturerUri: https://device-type.com
-  name: GlobusIn
-type: d3-device-type-assertion

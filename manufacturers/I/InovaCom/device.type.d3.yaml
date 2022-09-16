@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dee4d6fd-9897-5136-a23c-5f487837d356
-  macAddresses:
-  - 00:50:B8:00:00:00/24
-  manufacturer: Inova Computers Gmbh & Co. Kg
-  manufacturerUri: https://device-type.com
-  name: InovaCom
-type: d3-device-type-assertion

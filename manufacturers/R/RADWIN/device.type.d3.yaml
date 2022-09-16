@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 41bc89bc-73fe-565d-b85b-5543c1640bfd
-  macAddresses:
-  - 00:15:67:00:00:00/24
-  manufacturer: RADWIN Inc.
-  manufacturerUri: https://device-type.com
-  name: RADWIN
-type: d3-device-type-assertion

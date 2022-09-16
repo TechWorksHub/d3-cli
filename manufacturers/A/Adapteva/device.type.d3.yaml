@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 69f85c32-fd2b-5a3c-a97b-d1d3ac5ade6c
-  macAddresses:
-  - 04:4F:8B:00:00:00/24
-  manufacturer: Adapteva, Inc.
-  manufacturerUri: https://device-type.com
-  name: Adapteva
-type: d3-device-type-assertion

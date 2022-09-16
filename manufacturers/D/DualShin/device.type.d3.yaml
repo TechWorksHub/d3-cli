@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7da2a51a-70bb-5fcc-8bc6-2ce0426f703e
-  macAddresses:
-  - 44:7B:C4:00:00:00/24
-  manufacturer: DualShine Technology(SZ)Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: DualShin
-type: d3-device-type-assertion

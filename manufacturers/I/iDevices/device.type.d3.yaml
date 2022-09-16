@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d3ef4065-c9e0-5a8f-98ad-c595d772da84
-  macAddresses:
-  - D4:81:CA:00:00:00/24
-  manufacturer: iDevices, LLC
-  manufacturerUri: https://device-type.com
-  name: iDevices
-type: d3-device-type-assertion

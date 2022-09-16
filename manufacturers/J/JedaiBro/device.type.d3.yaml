@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7d7ad2b9-98c4-5e22-99a8-cfefc2c815cf
-  macAddresses:
-  - 00:06:36:00:00:00/24
-  manufacturer: Jedai Broadband Networks
-  manufacturerUri: https://device-type.com
-  name: JedaiBro
-type: d3-device-type-assertion

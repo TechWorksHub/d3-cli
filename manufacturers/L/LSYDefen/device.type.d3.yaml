@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2136b6cd-359f-5c6f-bdc3-c9fa2bbf41d0
-  macAddresses:
-  - 54:2A:9C:00:00:00/24
-  manufacturer: LSY Defense, LLC.
-  manufacturerUri: https://device-type.com
-  name: LSYDefen
-type: d3-device-type-assertion

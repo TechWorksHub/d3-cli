@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1cef17b6-a9c7-5f68-b7ff-f70c8bb2801d
-  macAddresses:
-  - 70:B3:D5:A1:60:00/36
-  manufacturer: devAIs s.r.l.
-  manufacturerUri: https://device-type.com
-  name: devAIs
-type: d3-device-type-assertion

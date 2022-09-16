@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2a78d592-a058-5efb-87a5-e3c7a723dc0d
-  macAddresses:
-  - 94:9C:55:00:00:00/24
-  manufacturer: Alta Data Technologies
-  manufacturerUri: https://device-type.com
-  name: AltaData
-type: d3-device-type-assertion

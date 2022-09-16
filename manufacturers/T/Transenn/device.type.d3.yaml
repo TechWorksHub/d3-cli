@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fb2e1544-db47-5a97-9bfc-a56e640eec01
-  macAddresses:
-  - 00:50:C2:5A:A0:00/36
-  manufacturer: Transenna AB
-  manufacturerUri: https://device-type.com
-  name: Transenn
-type: d3-device-type-assertion

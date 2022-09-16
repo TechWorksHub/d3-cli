@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 57c815dc-7a53-5459-9342-e5245388c955
-  macAddresses:
-  - 00:15:06:00:00:00/24
-  manufacturer: Neo Photonics
-  manufacturerUri: https://device-type.com
-  name: NeoPhoto
-type: d3-device-type-assertion

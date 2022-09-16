@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 35cb67fb-35f4-5564-876a-fd30a381deff
-  macAddresses:
-  - 20:40:05:00:00:00/24
-  manufacturer: feno GmbH
-  manufacturerUri: https://device-type.com
-  name: feno
-type: d3-device-type-assertion

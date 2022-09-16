@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 265bf263-fb0b-5d6b-bb3f-c20e7ae1f9cb
-  macAddresses:
-  - 00:10:4E:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Ceologic
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c24efb48-6051-5e95-82e4-52cbf1ae0752
-  macAddresses:
-  - 70:B3:D5:07:20:00/36
-  manufacturer: Lightdrop
-  manufacturerUri: https://device-type.com
-  name: Lightdro
-type: d3-device-type-assertion

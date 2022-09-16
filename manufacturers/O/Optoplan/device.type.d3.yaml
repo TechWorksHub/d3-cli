@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e10c69ff-7d46-5ad1-b46b-9b2853ee7b95
-  macAddresses:
-  - 00:50:C2:6B:F0:00/36
-  manufacturer: Optoplan as
-  manufacturerUri: https://device-type.com
-  name: Optoplan
-type: d3-device-type-assertion

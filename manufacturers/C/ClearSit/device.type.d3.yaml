@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5089dbf7-5a95-5c52-af01-203d72e6ed84
-  macAddresses:
-  - 40:D8:55:00:90:00/36
-  manufacturer: ClearSite Communications Inc.
-  manufacturerUri: https://device-type.com
-  name: ClearSit
-type: d3-device-type-assertion

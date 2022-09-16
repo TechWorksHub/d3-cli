@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ce3aa7b3-d476-52cc-9d37-74102cb5c6d2
-  macAddresses:
-  - 74:96:37:00:00:00/24
-  manufacturer: Todaair Electronic Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: TodaairE
-type: d3-device-type-assertion

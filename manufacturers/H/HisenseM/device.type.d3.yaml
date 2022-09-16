@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8f60d28b-579d-5762-b984-ff41b5c06606
-  macAddresses:
-  - 00:1A:95:00:00:00/24
-  manufacturer: Hisense Mobile Communications Technoligy Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: HisenseM
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 00e2ed72-e7f6-5ae4-b3b9-1706a271b8d5
-  macAddresses:
-  - 00:D0:93:00:00:00/24
-  manufacturer: Tq - Components Gmbh
-  manufacturerUri: https://device-type.com
-  name: Tq-Compo
-type: d3-device-type-assertion

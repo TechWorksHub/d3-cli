@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8b74ef43-2aa1-5bd5-8245-c911bbf130e0
-  macAddresses:
-  - 84:A9:91:00:00:00/24
-  manufacturer: Cyber Trans Japan Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: CyberTra
-type: d3-device-type-assertion

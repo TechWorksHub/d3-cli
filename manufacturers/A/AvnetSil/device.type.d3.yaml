@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a3be62c5-4cfc-530f-bf70-d324624e86d3
-  macAddresses:
-  - D8:22:F4:00:00:00/24
-  manufacturer: Avnet Silica
-  manufacturerUri: https://device-type.com
-  name: AvnetSil
-type: d3-device-type-assertion

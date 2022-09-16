@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5f6c7021-9e6b-5aa9-a99f-d058e94de9d6
-  macAddresses:
-  - 00:50:C2:93:10:00/36
-  manufacturer: Korea Telecom Internet Solutions (KTIS)
-  manufacturerUri: https://device-type.com
-  name: KoreaTel
-type: d3-device-type-assertion

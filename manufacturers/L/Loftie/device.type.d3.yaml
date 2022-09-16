@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ce840249-e49c-5089-976b-56fd9e51d117
-  macAddresses:
-  - 58:95:D8:90:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Loftie
-type: d3-device-type-assertion

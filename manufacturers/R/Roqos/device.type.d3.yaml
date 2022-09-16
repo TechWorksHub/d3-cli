@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 376c5270-1d29-59ac-ae2b-55b3b92c538b
-  macAddresses:
-  - A8:C8:7F:00:00:00/24
-  manufacturer: Roqos, Inc.
-  manufacturerUri: https://device-type.com
-  name: Roqos
-type: d3-device-type-assertion

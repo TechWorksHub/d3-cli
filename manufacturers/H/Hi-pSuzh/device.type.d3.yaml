@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 96dfa2e3-b1af-5ad2-af88-ec2f53892e41
-  macAddresses:
-  - 28:36:13:10:00:00/28
-  manufacturer: Hi-p (Suzhou) Electronics Co,Ltd
-  manufacturerUri: https://device-type.com
-  name: Hi-pSuzh
-type: d3-device-type-assertion

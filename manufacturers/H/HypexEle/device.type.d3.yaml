@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 059ae0ba-d9b5-53c7-a12d-a9b6cb1b86a8
-  macAddresses:
-  - 70:B3:D5:28:70:00/36
-  manufacturer: Hypex Electronics BV
-  manufacturerUri: https://device-type.com
-  name: HypexEle
-type: d3-device-type-assertion

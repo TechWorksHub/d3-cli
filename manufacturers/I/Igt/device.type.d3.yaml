@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 78c9a76c-7d88-5b6c-babf-704e3b58bc65
-  macAddresses:
-  - 00:D0:EF:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Igt
-type: d3-device-type-assertion

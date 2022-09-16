@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 44be0cb4-8f54-5cef-90d2-561eb7b9aacb
-  macAddresses:
-  - 00:01:73:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Amcc
-type: d3-device-type-assertion

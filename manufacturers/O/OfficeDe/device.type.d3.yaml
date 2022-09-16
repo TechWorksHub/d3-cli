@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 000c5c9d-f00f-50f2-9ec6-a2be8311c109
-  macAddresses:
-  - 00:07:B0:00:00:00/24
-  manufacturer: Office Details, Inc.
-  manufacturerUri: https://device-type.com
-  name: OfficeDe
-type: d3-device-type-assertion

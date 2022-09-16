@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a21f3d56-2e5f-5f40-8afd-a540041b1597
-  macAddresses:
-  - 08:CD:9B:00:00:00/24
-  manufacturer: samtec automotive electronics & software GmbH
-  manufacturerUri: https://device-type.com
-  name: samtecau
-type: d3-device-type-assertion

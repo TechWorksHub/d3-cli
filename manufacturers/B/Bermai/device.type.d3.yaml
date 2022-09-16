@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 74c63142-e99e-5717-8bde-569dd1954cb5
-  macAddresses:
-  - 00:0E:4C:00:00:00/24
-  manufacturer: Bermai Inc.
-  manufacturerUri: https://device-type.com
-  name: Bermai
-type: d3-device-type-assertion

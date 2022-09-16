@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3142c41b-fef2-513d-abd4-ca7a47864f16
-  macAddresses:
-  - 70:B3:D5:E1:E0:00/36
-  manufacturer: Umano Medical Inc.
-  manufacturerUri: https://device-type.com
-  name: UmanoMed
-type: d3-device-type-assertion

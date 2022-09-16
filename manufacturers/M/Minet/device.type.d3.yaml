@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3d9e7114-7a93-5bd9-b4f8-dff7137ad25e
-  macAddresses:
-  - 00:04:2C:00:00:00/24
-  manufacturer: Minet, Inc.
-  manufacturerUri: https://device-type.com
-  name: Minet
-type: d3-device-type-assertion

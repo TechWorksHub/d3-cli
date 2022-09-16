@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8f662562-73ae-5016-9e9e-aa499de31d57
-  macAddresses:
-  - 40:D8:55:0A:40:00/36
-  manufacturer: Resch Electronic Innovation GmbH
-  manufacturerUri: https://device-type.com
-  name: ReschEle
-type: d3-device-type-assertion

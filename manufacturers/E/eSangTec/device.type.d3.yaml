@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 02bbdf60-62d1-57a0-af90-b7d61ad92b10
-  macAddresses:
-  - 00:22:1F:00:00:00/24
-  manufacturer: eSang Technologies Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: eSangTec
-type: d3-device-type-assertion

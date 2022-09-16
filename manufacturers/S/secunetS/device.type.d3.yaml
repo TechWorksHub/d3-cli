@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e96cc53c-efba-534f-a04f-df65b94b08ac
-  macAddresses:
-  - 00:1C:19:00:00:00/24
-  manufacturer: secunet Security Networks AG
-  manufacturerUri: https://device-type.com
-  name: secunetS
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cad41d1e-4eee-5a9e-bc00-8d4889976c7f
-  macAddresses:
-  - DC:82:5B:00:00:00/24
-  manufacturer: JANUS, spol. s r.o.
-  manufacturerUri: https://device-type.com
-  name: JANUSspo
-type: d3-device-type-assertion

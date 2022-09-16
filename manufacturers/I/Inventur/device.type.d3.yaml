@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7fcd5e66-c944-529f-a9cd-5e7421ede52d
-  macAddresses:
-  - 00:50:C2:A2:D0:00/36
-  manufacturer: Inventure Inc.
-  manufacturerUri: https://device-type.com
-  name: Inventur
-type: d3-device-type-assertion

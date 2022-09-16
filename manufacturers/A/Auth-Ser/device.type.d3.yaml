@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2350c3b1-5b6e-5c3b-9259-6aae24980879
-  macAddresses:
-  - 64:6A:74:00:00:00/24
-  manufacturer: Auth-Servers, Llc
-  manufacturerUri: https://device-type.com
-  name: Auth-Ser
-type: d3-device-type-assertion

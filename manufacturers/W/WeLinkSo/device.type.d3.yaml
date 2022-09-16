@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 97bef3eb-8a22-5777-9819-6f61180327a9
-  macAddresses:
-  - 00:22:05:00:00:00/24
-  manufacturer: WeLink Solutions, Inc.
-  manufacturerUri: https://device-type.com
-  name: WeLinkSo
-type: d3-device-type-assertion

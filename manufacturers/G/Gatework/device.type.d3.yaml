@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f337ed37-25d4-5d6e-900d-1de1b79d1f32
-  macAddresses:
-  - 00:D0:12:00:00:00/24
-  manufacturer: Gateworks Corp.
-  manufacturerUri: https://device-type.com
-  name: Gatework
-type: d3-device-type-assertion

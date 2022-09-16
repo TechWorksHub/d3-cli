@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aab013ed-2bbd-534e-b6d9-0d88541f7966
-  macAddresses:
-  - 40:D8:55:1C:40:00/36
-  manufacturer: QED Advanced Systems Limited
-  manufacturerUri: https://device-type.com
-  name: QEDAdvan
-type: d3-device-type-assertion

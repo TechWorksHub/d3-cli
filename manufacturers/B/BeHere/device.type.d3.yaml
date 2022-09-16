@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 01458291-7bd5-5857-9008-54b393d2b8b3
-  macAddresses:
-  - 00:16:0D:00:00:00/24
-  manufacturer: Be Here Corporation
-  manufacturerUri: https://device-type.com
-  name: BeHere
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c71ef850-b8ac-5ffc-ab8e-297880f9532c
-  macAddresses:
-  - 1C:CA:E3:B0:00:00/28
-  manufacturer: Dream Visions Co., LTD
-  manufacturerUri: https://device-type.com
-  name: DreamVis
-type: d3-device-type-assertion

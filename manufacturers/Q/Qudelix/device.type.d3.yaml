@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5e3c9ec3-bb02-54a8-89f1-4d9744c27bb1
-  macAddresses:
-  - 98:8E:79:00:00:00/24
-  manufacturer: Qudelix, Inc.
-  manufacturerUri: https://device-type.com
-  name: Qudelix
-type: d3-device-type-assertion

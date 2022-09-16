@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 26846055-0b15-5b51-b378-c57535a69cf9
-  macAddresses:
-  - 78:53:64:00:00:00/24
-  manufacturer: SHIFT GmbH
-  manufacturerUri: https://device-type.com
-  name: SHIFT
-type: d3-device-type-assertion

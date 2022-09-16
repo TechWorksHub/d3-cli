@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cd128290-6960-5801-bcb6-294737c8ff4a
-  macAddresses:
-  - 00:0D:3E:00:00:00/24
-  manufacturer: APLUX Communications Ltd.
-  manufacturerUri: https://device-type.com
-  name: APLUXCom
-type: d3-device-type-assertion

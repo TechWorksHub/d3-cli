@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4e0b976a-b394-5f81-99ad-3e9ba0ba2ce4
-  macAddresses:
-  - 00:1D:9A:00:00:00/24
-  manufacturer: Godex International Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: GodexInt
-type: d3-device-type-assertion

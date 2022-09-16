@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a084ed05-4681-57e4-bb4f-5cff388d7014
-  macAddresses:
-  - 00:07:7B:00:00:00/24
-  manufacturer: Millimetrix Broadband Networks
-  manufacturerUri: https://device-type.com
-  name: Millimet
-type: d3-device-type-assertion

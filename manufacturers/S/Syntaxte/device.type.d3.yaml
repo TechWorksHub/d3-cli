@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 984f3898-eb55-5642-a4d1-c89c5912a039
-  macAddresses:
-  - 1C:59:74:40:00:00/28
-  manufacturer: Syntax technology(tianjin)Co.,LTD
-  manufacturerUri: https://device-type.com
-  name: Syntaxte
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1b25eae7-3803-571e-8968-84d1587a58df
-  macAddresses:
-  - 00:09:87:00:00:00/24
-  manufacturer: Nishi Nippon Electric Wire & Cable Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: NishiNip
-type: d3-device-type-assertion

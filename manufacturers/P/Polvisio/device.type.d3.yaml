@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 724067bd-d6d5-5dfe-9988-730d3de63739
-  macAddresses:
-  - 70:B3:D5:61:00:00/36
-  manufacturer: Polvision
-  manufacturerUri: https://device-type.com
-  name: Polvisio
-type: d3-device-type-assertion

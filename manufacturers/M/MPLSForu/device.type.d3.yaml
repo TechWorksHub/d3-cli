@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 582c63aa-c7cc-543d-9297-1373a579c3d4
-  macAddresses:
-  - 00:0A:70:00:00:00/24
-  manufacturer: MPLS Forum
-  manufacturerUri: https://device-type.com
-  name: MPLSForu
-type: d3-device-type-assertion

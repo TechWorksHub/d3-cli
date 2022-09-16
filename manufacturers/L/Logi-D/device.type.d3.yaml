@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d4028480-2917-5062-83f8-73cd2b13fc5e
-  macAddresses:
-  - 14:5A:83:00:00:00/24
-  manufacturer: Logi-D inc
-  manufacturerUri: https://device-type.com
-  name: Logi-D
-type: d3-device-type-assertion

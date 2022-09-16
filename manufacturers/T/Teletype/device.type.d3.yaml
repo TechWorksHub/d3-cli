@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 67a0ff64-a5c3-531a-8f96-9d011ae6f27b
-  macAddresses:
-  - 70:B3:D5:55:40:00/36
-  manufacturer: Teletypes Manufacturing Plant
-  manufacturerUri: https://device-type.com
-  name: Teletype
-type: d3-device-type-assertion

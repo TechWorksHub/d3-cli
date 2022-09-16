@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c21cc245-d3ad-574e-9040-7611f06134f4
-  macAddresses:
-  - 00:0F:04:00:00:00/24
-  manufacturer: cim-usa inc
-  manufacturerUri: https://device-type.com
-  name: cim-usa
-type: d3-device-type-assertion

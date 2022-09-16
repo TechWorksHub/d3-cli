@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fddee576-7a44-52d9-932b-fe24ce186049
-  macAddresses:
-  - 00:1D:95:00:00:00/24
-  manufacturer: Flash, Inc.
-  manufacturerUri: https://device-type.com
-  name: Flash
-type: d3-device-type-assertion

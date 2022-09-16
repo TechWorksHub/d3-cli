@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 566d4f14-e660-548f-87e6-75f640767e7e
-  macAddresses:
-  - 04:D9:21:00:00:00/24
-  manufacturer: Occuspace
-  manufacturerUri: https://device-type.com
-  name: Occuspac
-type: d3-device-type-assertion

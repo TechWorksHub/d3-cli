@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8baf7975-6a84-52c6-ae0b-c0c7502b88de
-  macAddresses:
-  - 00:09:24:00:00:00/24
-  manufacturer: Telebau GmbH
-  manufacturerUri: https://device-type.com
-  name: Telebau
-type: d3-device-type-assertion

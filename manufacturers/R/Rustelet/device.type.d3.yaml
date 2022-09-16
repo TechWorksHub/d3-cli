@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 008fffc4-d507-5383-b5be-5a6c6cbf06d7
-  macAddresses:
-  - C4:36:DA:00:00:00/24
-  manufacturer: Rusteletech Ltd.
-  manufacturerUri: https://device-type.com
-  name: Rustelet
-type: d3-device-type-assertion

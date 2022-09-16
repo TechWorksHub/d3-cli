@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b3f42851-08e3-553f-9b64-140cb62d5828
-  macAddresses:
-  - 0C:7F:ED:E0:00:00/28
-  manufacturer: environmental systems corporation
-  manufacturerUri: https://device-type.com
-  name: environm
-type: d3-device-type-assertion

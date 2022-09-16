@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1aa39ac0-8938-5dc9-b83a-99dcf9d85c93
-  macAddresses:
-  - 00:04:3B:00:00:00/24
-  manufacturer: Lava Computer Mfg., Inc.
-  manufacturerUri: https://device-type.com
-  name: LavaComp
-type: d3-device-type-assertion

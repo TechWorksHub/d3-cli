@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bcf09a3c-71dd-5eb0-9a1c-446be2cc953c
-  macAddresses:
-  - 88:5F:E8:A0:00:00/28
-  manufacturer: Lisle Design Ltd
-  manufacturerUri: https://device-type.com
-  name: LisleDes
-type: d3-device-type-assertion

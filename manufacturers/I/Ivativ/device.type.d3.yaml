@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7bcb2eca-3fac-5657-8d53-496125a54590
-  macAddresses:
-  - 50:DE:19:80:00:00/28
-  manufacturer: Ivativ, Inc
-  manufacturerUri: https://device-type.com
-  name: Ivativ
-type: d3-device-type-assertion

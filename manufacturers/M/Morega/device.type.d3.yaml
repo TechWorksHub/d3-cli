@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9677e747-974f-5cba-963b-257106b5b655
-  macAddresses:
-  - 00:22:1B:00:00:00/24
-  manufacturer: Morega Systems
-  manufacturerUri: https://device-type.com
-  name: Morega
-type: d3-device-type-assertion

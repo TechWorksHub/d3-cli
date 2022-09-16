@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eaf16a44-63e4-596e-9c03-6981684f8f1a
-  macAddresses:
-  - 00:E0:62:00:00:00/24
-  manufacturer: Host Engineering
-  manufacturerUri: https://device-type.com
-  name: HostEngi
-type: d3-device-type-assertion

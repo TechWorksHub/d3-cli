@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 05369519-7a0c-5591-b2ba-7d002abfad93
-  macAddresses:
-  - 00:0A:21:00:00:00/24
-  manufacturer: Integra Telecom Co. Ltd
-  manufacturerUri: https://device-type.com
-  name: IntegraT
-type: d3-device-type-assertion

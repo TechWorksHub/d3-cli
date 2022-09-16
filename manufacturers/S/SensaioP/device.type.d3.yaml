@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9fe2979f-ffee-55fc-a673-f42546310e84
-  macAddresses:
-  - 1C:A8:52:00:00:00/24
-  manufacturer: Sensaio Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: SensaioP
-type: d3-device-type-assertion

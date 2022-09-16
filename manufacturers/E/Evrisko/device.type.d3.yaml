@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e5f96511-f1a7-534f-bd8f-c0315fc102c4
-  macAddresses:
-  - 74:D8:50:00:00:00/24
-  manufacturer: Evrisko Systems
-  manufacturerUri: https://device-type.com
-  name: Evrisko
-type: d3-device-type-assertion

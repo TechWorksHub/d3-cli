@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 573683ea-f20d-5c26-887c-e8964399e6a7
-  macAddresses:
-  - 3C:80:AA:00:00:00/24
-  manufacturer: Ransnet Singapore Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: RansnetS
-type: d3-device-type-assertion

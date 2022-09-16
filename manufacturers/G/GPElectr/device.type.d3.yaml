@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1c5b18d7-c62c-5c78-8cd6-fe2eed6dd26b
-  macAddresses:
-  - 84:17:15:00:00:00/24
-  manufacturer: GP Electronics (HK) Ltd.
-  manufacturerUri: https://device-type.com
-  name: GPElectr
-type: d3-device-type-assertion

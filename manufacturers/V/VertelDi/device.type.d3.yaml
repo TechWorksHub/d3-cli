@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 54470d4a-ce89-5a77-a351-b18402aad5aa
-  macAddresses:
-  - 70:B3:D5:91:20:00/36
-  manufacturer: Vertel Digital Private Limited
-  manufacturerUri: https://device-type.com
-  name: VertelDi
-type: d3-device-type-assertion

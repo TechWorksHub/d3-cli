@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0c50ff77-ac88-541f-a6f5-6fac9d58bfbd
-  macAddresses:
-  - 00:14:EC:00:00:00/24
-  manufacturer: Acro Telecom
-  manufacturerUri: https://device-type.com
-  name: AcroTele
-type: d3-device-type-assertion

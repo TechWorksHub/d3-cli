@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bd3b5652-6159-5fc9-ba08-ed0b345006ef
-  macAddresses:
-  - BC:0F:2B:00:00:00/24
-  manufacturer: Fortune Techgroup Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: FortuneT
-type: d3-device-type-assertion

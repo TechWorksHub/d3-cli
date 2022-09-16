@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f4ecddf5-b103-50cc-b4a6-95d18e1a20cb
-  macAddresses:
-  - 74:E4:24:00:00:00/24
-  manufacturer: Apiste Corporation
-  manufacturerUri: https://device-type.com
-  name: Apiste
-type: d3-device-type-assertion

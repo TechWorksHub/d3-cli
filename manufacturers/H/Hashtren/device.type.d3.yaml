@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 352ce8d6-cb9d-5489-8a35-4229acf99d9d
-  macAddresses:
-  - 6C:DF:FB:70:00:00/28
-  manufacturer: Hashtrend AG
-  manufacturerUri: https://device-type.com
-  name: Hashtren
-type: d3-device-type-assertion

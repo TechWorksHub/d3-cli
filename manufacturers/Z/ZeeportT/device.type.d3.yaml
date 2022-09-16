@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3a29c8ac-0830-5684-ad34-6db93e2224bc
-  macAddresses:
-  - 00:22:C3:00:00:00/24
-  manufacturer: Zeeport Technology Inc.
-  manufacturerUri: https://device-type.com
-  name: ZeeportT
-type: d3-device-type-assertion

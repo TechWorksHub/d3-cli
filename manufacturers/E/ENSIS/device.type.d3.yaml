@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cd3fc0e6-d489-5584-93c6-329a029643b7
-  macAddresses:
-  - 00:50:C2:E3:10:00/36
-  manufacturer: ENSIS Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: ENSIS
-type: d3-device-type-assertion

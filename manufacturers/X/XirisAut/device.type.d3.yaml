@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cad33444-3723-5502-ab50-98b5890e5637
-  macAddresses:
-  - 70:B3:D5:9B:F0:00/36
-  manufacturer: Xiris Automation Inc.
-  manufacturerUri: https://device-type.com
-  name: XirisAut
-type: d3-device-type-assertion

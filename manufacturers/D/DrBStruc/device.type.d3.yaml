@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8dcdbd8e-65fe-5ea8-8850-7cebfa04556d
-  macAddresses:
-  - 00:00:56:00:00:00/24
-  manufacturer: Dr. B. Struck
-  manufacturerUri: https://device-type.com
-  name: DrBStruc
-type: d3-device-type-assertion

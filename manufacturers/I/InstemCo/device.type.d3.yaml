@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f0e585b6-2e00-5b0b-ac6f-d06d0ae9eedc
-  macAddresses:
-  - 00:A0:D3:00:00:00/24
-  manufacturer: Instem Computer Systems, Ltd.
-  manufacturerUri: https://device-type.com
-  name: InstemCo
-type: d3-device-type-assertion

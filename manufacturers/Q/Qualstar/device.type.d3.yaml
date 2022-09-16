@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9754dde4-4336-542b-b2b5-89bc765c8864
-  macAddresses:
-  - 00:08:4F:00:00:00/24
-  manufacturer: Qualstar Corporation
-  manufacturerUri: https://device-type.com
-  name: Qualstar
-type: d3-device-type-assertion

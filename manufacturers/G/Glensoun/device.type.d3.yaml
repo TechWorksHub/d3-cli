@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5396635a-493e-5be4-9086-171eaa2c2fa8
-  macAddresses:
-  - 00:22:03:00:00:00/24
-  manufacturer: Glensound Electronics Ltd
-  manufacturerUri: https://device-type.com
-  name: Glensoun
-type: d3-device-type-assertion

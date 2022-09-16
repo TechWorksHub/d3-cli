@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ac7ad783-5bbd-577c-9701-ba37d2b95f14
-  macAddresses:
-  - 00:0F:30:00:00:00/24
-  manufacturer: Raza Microelectronics Inc
-  manufacturerUri: https://device-type.com
-  name: RazaMicr
-type: d3-device-type-assertion

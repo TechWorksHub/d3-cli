@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8ab8b484-984d-5855-96d0-283802898e8b
-  macAddresses:
-  - F4:4D:17:00:00:00/24
-  manufacturer: Goldcard High-Tech Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: Goldcard
-type: d3-device-type-assertion

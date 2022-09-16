@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4319a52e-5e91-5370-ada2-341ba6e7db6e
-  macAddresses:
-  - 00:1A:F6:00:00:00/24
-  manufacturer: Woven Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Woven
-type: d3-device-type-assertion

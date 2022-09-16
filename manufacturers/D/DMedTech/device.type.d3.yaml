@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2a0d565c-fa50-522c-ab0d-d798c9b62b65
-  macAddresses:
-  - 98:80:BB:E0:00:00/28
-  manufacturer: D.Med Technical Products GmbH
-  manufacturerUri: https://device-type.com
-  name: DMedTech
-type: d3-device-type-assertion

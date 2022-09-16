@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b28218e8-8e71-5d24-9694-e7c852255b05
-  macAddresses:
-  - EC:B5:41:00:00:00/24
-  manufacturer: SHINANO E and E Co.Ltd.
-  manufacturerUri: https://device-type.com
-  name: SHINANOE
-type: d3-device-type-assertion

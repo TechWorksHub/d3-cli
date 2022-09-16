@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 11c1313a-1753-598d-adea-550613555e47
-  macAddresses:
-  - 00:08:8A:00:00:00/24
-  manufacturer: Minds@Work
-  manufacturerUri: https://device-type.com
-  name: Minds@Wo
-type: d3-device-type-assertion

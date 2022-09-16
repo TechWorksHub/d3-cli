@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d7f52f5b-6d7d-58a7-8726-7019c09dccb4
-  macAddresses:
-  - 00:50:C2:0A:50:00/36
-  manufacturer: Mobiltex Data Ltd.
-  manufacturerUri: https://device-type.com
-  name: Mobiltex
-type: d3-device-type-assertion

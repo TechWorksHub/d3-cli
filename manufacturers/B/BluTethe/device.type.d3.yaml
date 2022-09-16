@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: df6ba9b1-361e-5df3-b9ff-ea5b799ffc60
-  macAddresses:
-  - D8:B6:D6:00:00:00/24
-  manufacturer: Blu Tether Limited
-  manufacturerUri: https://device-type.com
-  name: BluTethe
-type: d3-device-type-assertion

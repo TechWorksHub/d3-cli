@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e4ffc0ef-51ef-53cb-b39c-42c661288325
-  macAddresses:
-  - 60:53:17:00:00:00/24
-  manufacturer: Sandstone Technologies
-  manufacturerUri: https://device-type.com
-  name: Sandston
-type: d3-device-type-assertion

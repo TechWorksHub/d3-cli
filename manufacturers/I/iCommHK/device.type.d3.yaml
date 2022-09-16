@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2af6e0ca-17c2-5dbe-a7f3-698d2c584b6d
-  macAddresses:
-  - A4:3E:A0:00:00:00/24
-  manufacturer: iComm HK LIMITED
-  manufacturerUri: https://device-type.com
-  name: iCommHK
-type: d3-device-type-assertion

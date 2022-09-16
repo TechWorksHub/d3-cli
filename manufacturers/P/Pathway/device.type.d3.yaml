@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 00210f63-fc0e-5d01-ac1e-26aa07dd442b
-  macAddresses:
-  - 00:D0:C7:00:00:00/24
-  manufacturer: Pathway, Inc.
-  manufacturerUri: https://device-type.com
-  name: Pathway
-type: d3-device-type-assertion

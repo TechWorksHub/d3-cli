@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 78df7761-04f9-5680-96c5-202017b452b3
-  macAddresses:
-  - 00:50:C2:46:90:00/36
-  manufacturer: BiPOM Electronics, Inc.
-  manufacturerUri: https://device-type.com
-  name: BiPOMEle
-type: d3-device-type-assertion

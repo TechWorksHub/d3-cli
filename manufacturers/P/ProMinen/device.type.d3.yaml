@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2a082931-b7c0-59eb-be87-7827dff1854a
-  macAddresses:
-  - 00:11:5E:00:00:00/24
-  manufacturer: ProMinent Dosiertechnik GmbH
-  manufacturerUri: https://device-type.com
-  name: ProMinen
-type: d3-device-type-assertion

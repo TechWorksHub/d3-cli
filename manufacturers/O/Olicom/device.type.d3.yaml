@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b79ae599-f25b-565e-8f19-d44d115f0ba3
-  macAddresses:
-  - 00:50:EC:00:00:00/24
-  manufacturer: Olicom A/S
-  manufacturerUri: https://device-type.com
-  name: Olicom
-type: d3-device-type-assertion

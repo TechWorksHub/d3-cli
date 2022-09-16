@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1fc28e58-8061-57fb-9649-4d33fb011d89
-  macAddresses:
-  - 40:48:FD:C0:00:00/28
-  manufacturer: Ecotap B.V.
-  manufacturerUri: https://device-type.com
-  name: Ecotap
-type: d3-device-type-assertion

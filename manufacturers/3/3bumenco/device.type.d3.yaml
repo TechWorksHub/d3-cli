@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2e557993-fd5d-521f-a093-bac5fec4a501
-  macAddresses:
-  - 1C:7E:51:00:00:00/24
-  manufacturer: 3bumen.com
-  manufacturerUri: https://device-type.com
-  name: 3bumenco
-type: d3-device-type-assertion

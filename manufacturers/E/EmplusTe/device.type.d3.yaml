@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a84f138f-cf07-5339-bf23-945d50f947fa
-  macAddresses:
-  - 4C:13:65:00:00:00/24
-  manufacturer: Emplus Technologies
-  manufacturerUri: https://device-type.com
-  name: EmplusTe
-type: d3-device-type-assertion

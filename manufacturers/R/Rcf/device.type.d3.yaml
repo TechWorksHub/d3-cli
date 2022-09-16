@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f9994588-a0d2-5b2d-a1eb-b30c56228fea
-  macAddresses:
-  - D4:1C:1C:00:00:00/24
-  manufacturer: Rcf S.P.A.
-  manufacturerUri: https://device-type.com
-  name: Rcf
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1034a729-a2ac-5ff3-b97d-309ed9f43f55
-  macAddresses:
-  - B8:D8:12:70:00:00/28
-  manufacturer: Neuropace Inc.
-  manufacturerUri: https://device-type.com
-  name: Neuropac
-type: d3-device-type-assertion

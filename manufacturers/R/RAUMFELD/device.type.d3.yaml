@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3699f345-29ca-5929-8d71-ffbe9f655f83
-  macAddresses:
-  - 00:26:06:00:00:00/24
-  manufacturer: RAUMFELD GmbH
-  manufacturerUri: https://device-type.com
-  name: RAUMFELD
-type: d3-device-type-assertion

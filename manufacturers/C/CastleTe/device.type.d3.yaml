@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cc51fc7b-072a-5b09-9f60-ce5e1650256c
-  macAddresses:
-  - 00:09:95:00:00:00/24
-  manufacturer: Castle Technology Ltd
-  manufacturerUri: https://device-type.com
-  name: CastleTe
-type: d3-device-type-assertion

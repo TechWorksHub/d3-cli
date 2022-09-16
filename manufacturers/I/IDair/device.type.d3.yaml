@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1134fec4-36c2-5fc8-a05c-b16be011f668
-  macAddresses:
-  - 80:7B:85:80:00:00/28
-  manufacturer: IDair, LLC
-  manufacturerUri: https://device-type.com
-  name: IDair
-type: d3-device-type-assertion

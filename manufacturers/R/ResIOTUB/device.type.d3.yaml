@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c94d595e-9770-53f4-a08d-2c2bbd392a69
-  macAddresses:
-  - 70:B3:D5:DD:40:00/36
-  manufacturer: ResIOT UBLSOFTWARE SRL
-  manufacturerUri: https://device-type.com
-  name: ResIOTUB
-type: d3-device-type-assertion

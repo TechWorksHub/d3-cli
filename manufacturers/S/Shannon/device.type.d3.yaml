@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 26abf4c4-de47-5e9e-9bfb-726192170f5b
-  macAddresses:
-  - 18:F2:92:00:00:00/24
-  manufacturer: Shannon Systems
-  manufacturerUri: https://device-type.com
-  name: Shannon
-type: d3-device-type-assertion

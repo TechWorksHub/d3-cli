@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6b475612-7717-556b-b792-73f4cc10988e
-  macAddresses:
-  - 20:CE:2A:60:00:00/28
-  manufacturer: Radarxense BV
-  manufacturerUri: https://device-type.com
-  name: Radarxen
-type: d3-device-type-assertion

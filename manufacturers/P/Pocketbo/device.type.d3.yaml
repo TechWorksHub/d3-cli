@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 42a12921-f451-5858-9e04-4dabd7d761dd
-  macAddresses:
-  - 88:6F:29:00:00:00/24
-  manufacturer: Pocketbook International SA
-  manufacturerUri: https://device-type.com
-  name: Pocketbo
-type: d3-device-type-assertion

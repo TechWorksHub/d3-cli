@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 040e8c5d-1d24-51ac-ae9a-0057055f255d
-  macAddresses:
-  - 00:21:E3:00:00:00/24
-  manufacturer: SerialTek LLC
-  manufacturerUri: https://device-type.com
-  name: SerialTe
-type: d3-device-type-assertion

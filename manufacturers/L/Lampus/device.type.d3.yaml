@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ea8cb239-d518-5a10-98ae-f12a7ef1cb5b
-  macAddresses:
-  - 00:02:45:00:00:00/24
-  manufacturer: Lampus Co, Ltd.
-  manufacturerUri: https://device-type.com
-  name: Lampus
-type: d3-device-type-assertion

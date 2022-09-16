@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3b804239-8e50-5271-b8fa-56ecd3114231
-  macAddresses:
-  - 20:C7:4F:00:00:00/24
-  manufacturer: SensorPush
-  manufacturerUri: https://device-type.com
-  name: SensorPu
-type: d3-device-type-assertion

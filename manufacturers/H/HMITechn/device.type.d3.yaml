@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4917c70d-4195-5ce2-a75f-7343e4fefe9b
-  macAddresses:
-  - 00:50:C2:D7:F0:00/36
-  manufacturer: HMI Technologies
-  manufacturerUri: https://device-type.com
-  name: HMITechn
-type: d3-device-type-assertion

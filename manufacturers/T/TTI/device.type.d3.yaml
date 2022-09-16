@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 404bd969-5662-5b9c-bc0e-59cc7a2b6da8
-  macAddresses:
-  - 70:B3:D5:3C:A0:00/36
-  manufacturer: TTI Ltd
-  manufacturerUri: https://device-type.com
-  name: TTI
-type: d3-device-type-assertion

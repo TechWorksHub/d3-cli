@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c85d326e-f7ac-5694-acbf-1bfcacdba213
-  macAddresses:
-  - C8:93:46:00:00:00/24
-  manufacturer: MXCHIP Company Limited
-  manufacturerUri: https://device-type.com
-  name: MXCHIP
-type: d3-device-type-assertion

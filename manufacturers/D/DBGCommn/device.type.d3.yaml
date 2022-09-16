@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ff83a022-67d1-555d-80ed-ff0f2003500d
-  macAddresses:
-  - D4:73:50:00:00:00/24
-  manufacturer: DBG Commnunications Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: DBGCommn
-type: d3-device-type-assertion

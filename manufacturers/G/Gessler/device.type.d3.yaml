@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 35b1e012-aae8-586d-b535-75e6080f97f2
-  macAddresses:
-  - A4:E5:97:00:00:00/24
-  manufacturer: Gessler GmbH
-  manufacturerUri: https://device-type.com
-  name: Gessler
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dfbc7e6f-1643-5645-a991-7490db5c2dbb
-  macAddresses:
-  - 00:13:F8:00:00:00/24
-  manufacturer: Dex Security Solutions
-  manufacturerUri: https://device-type.com
-  name: DexSecur
-type: d3-device-type-assertion

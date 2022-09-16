@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7cf42262-8412-5a3b-a81f-5b2ed3bd4a07
-  macAddresses:
-  - 00:50:C2:BA:A0:00/36
-  manufacturer: NetworkFX Communications, LLC
-  manufacturerUri: https://device-type.com
-  name: NetworkF
-type: d3-device-type-assertion

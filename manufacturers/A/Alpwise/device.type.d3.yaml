@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 00a1275b-c662-5927-a9e5-2d577d5b14c8
-  macAddresses:
-  - A4:3B:FA:80:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Alpwise
-type: d3-device-type-assertion

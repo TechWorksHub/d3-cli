@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 85fa1d06-b09b-50ce-9ea9-f17a4f0f864d
-  macAddresses:
-  - 70:B3:D5:44:A0:00/36
-  manufacturer: Canon Electron Tubes & Devices Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: CanonEle
-type: d3-device-type-assertion

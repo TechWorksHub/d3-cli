@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 02d7dcf2-0840-5429-89eb-82728d7a25f7
-  macAddresses:
-  - E4:2C:56:00:00:00/24
-  manufacturer: Lilee Systems, Ltd.
-  manufacturerUri: https://device-type.com
-  name: Lilee
-type: d3-device-type-assertion

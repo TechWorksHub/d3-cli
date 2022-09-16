@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a3119816-7cd7-541d-b138-b6ab9868ac0f
-  macAddresses:
-  - 74:63:DF:00:00:00/24
-  manufacturer: VTS GmbH
-  manufacturerUri: https://device-type.com
-  name: VTS
-type: d3-device-type-assertion

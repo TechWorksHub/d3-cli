@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dae6689a-65ae-51db-a2be-246027ca47b5
-  macAddresses:
-  - 00:1B:CD:00:00:00/24
-  manufacturer: Daviscomms (S) Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: Daviscom
-type: d3-device-type-assertion

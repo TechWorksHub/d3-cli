@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e60671c6-6914-53c6-859e-360524de9d92
-  macAddresses:
-  - 70:61:EE:00:00:00/24
-  manufacturer: Sunwoda Electronic Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: SunwodaE
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 50ae5bdd-40ff-5ae5-bc57-b6d55a3b6915
-  macAddresses:
-  - 00:E0:FF:00:00:00/24
-  manufacturer: SECURITY DYNAMICS TECHNOLOGIES, Inc.
-  manufacturerUri: https://device-type.com
-  name: SECURITY
-type: d3-device-type-assertion

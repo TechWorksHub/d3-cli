@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 00f3a271-aa44-5352-b2ef-9c437ea773b1
-  macAddresses:
-  - E8:78:29:C0:00:00/28
-  manufacturer: FairPhone B.V.
-  manufacturerUri: https://device-type.com
-  name: FairPhon
-type: d3-device-type-assertion

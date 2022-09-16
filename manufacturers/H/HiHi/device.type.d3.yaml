@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 18afcd26-5c09-5cf9-9a45-abd7a9677cf6
-  macAddresses:
-  - 1C:FD:08:20:00:00/28
-  manufacturer: HiHi Ltd
-  manufacturerUri: https://device-type.com
-  name: HiHi
-type: d3-device-type-assertion

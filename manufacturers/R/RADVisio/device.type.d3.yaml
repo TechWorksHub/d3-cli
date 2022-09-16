@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4334257a-1401-5804-af01-e401169184ab
-  macAddresses:
-  - 00:03:D6:00:00:00/24
-  manufacturer: RADVision, Ltd.
-  manufacturerUri: https://device-type.com
-  name: RADVisio
-type: d3-device-type-assertion

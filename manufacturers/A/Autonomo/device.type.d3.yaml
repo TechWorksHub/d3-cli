@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c26e8e28-386e-5b38-a36a-d4df81adef18
-  macAddresses:
-  - 40:D8:55:1A:E0:00/36
-  manufacturer: Autonomous Solutions, Inc
-  manufacturerUri: https://device-type.com
-  name: Autonomo
-type: d3-device-type-assertion

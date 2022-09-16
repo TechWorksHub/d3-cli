@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b17a0ffb-4e1a-5683-9bfd-1ea50c37c910
-  macAddresses:
-  - 2C:6A:6F:80:00:00/28
-  manufacturer: Milbank Manufacturing Co.
-  manufacturerUri: https://device-type.com
-  name: MilbankM
-type: d3-device-type-assertion

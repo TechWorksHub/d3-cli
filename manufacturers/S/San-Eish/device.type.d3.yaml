@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d6376047-6470-58b8-a53d-b4914fa79926
-  macAddresses:
-  - 00:1E:9B:00:00:00/24
-  manufacturer: San-Eisha, Ltd.
-  manufacturerUri: https://device-type.com
-  name: San-Eish
-type: d3-device-type-assertion

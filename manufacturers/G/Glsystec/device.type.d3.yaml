@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7a02f565-d712-5791-9bc0-e29ba7a93fee
-  macAddresses:
-  - 00:0C:3D:00:00:00/24
-  manufacturer: Glsystech Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Glsystec
-type: d3-device-type-assertion

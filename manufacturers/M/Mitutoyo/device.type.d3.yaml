@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3eef42a9-ef49-500f-a901-edc7c6a1727e
-  macAddresses:
-  - 00:18:14:00:00:00/24
-  manufacturer: Mitutoyo Corporation
-  manufacturerUri: https://device-type.com
-  name: Mitutoyo
-type: d3-device-type-assertion

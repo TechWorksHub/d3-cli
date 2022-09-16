@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dfb63bb3-0094-5d45-92ba-f64e4597cc68
-  macAddresses:
-  - DC:36:43:B0:00:00/28
-  manufacturer: nami.ai
-  manufacturerUri: https://device-type.com
-  name: namiai
-type: d3-device-type-assertion

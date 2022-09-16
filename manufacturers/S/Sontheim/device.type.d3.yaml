@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6ab0c5c7-c3a5-5998-be87-c8fa70851ef0
-  macAddresses:
-  - 00:1F:B2:00:00:00/24
-  manufacturer: Sontheim Industrie Elektronik GmbH
-  manufacturerUri: https://device-type.com
-  name: Sontheim
-type: d3-device-type-assertion

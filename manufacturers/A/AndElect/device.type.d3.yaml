@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 15d633f1-42d3-5a3d-b1f4-3772dd7d69e7
-  macAddresses:
-  - 68:16:05:00:00:00/24
-  manufacturer: Systems And Electronic Development FZCO
-  manufacturerUri: https://device-type.com
-  name: AndElect
-type: d3-device-type-assertion

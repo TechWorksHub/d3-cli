@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f700e7fa-d4cb-56d6-b1bb-a01d08e9abd9
-  macAddresses:
-  - 04:C9:91:00:00:00/24
-  manufacturer: Phistek INC.
-  manufacturerUri: https://device-type.com
-  name: Phistek
-type: d3-device-type-assertion

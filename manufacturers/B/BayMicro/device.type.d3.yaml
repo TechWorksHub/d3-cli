@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d838afa3-bb9d-5eaa-9893-142294dffd49
-  macAddresses:
-  - 00:0B:C1:00:00:00/24
-  manufacturer: Bay Microsystems, Inc.
-  manufacturerUri: https://device-type.com
-  name: BayMicro
-type: d3-device-type-assertion

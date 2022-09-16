@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 432b7efd-4e81-5c13-8948-86883c9fcfee
-  macAddresses:
-  - 90:F4:C1:00:00:00/24
-  manufacturer: Rand McNally
-  manufacturerUri: https://device-type.com
-  name: RandMcNa
-type: d3-device-type-assertion

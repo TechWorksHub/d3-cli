@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 10ce1164-d7ad-53f5-bdaf-e934bc8a1063
-  macAddresses:
-  - 0C:E0:41:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: iDruide
-type: d3-device-type-assertion

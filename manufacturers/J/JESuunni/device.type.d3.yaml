@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 28c68928-b9c3-5e22-9377-6a0678903007
-  macAddresses:
-  - 00:1B:C5:03:30:00/36
-  manufacturer: JE Suunnittelu Oy
-  manufacturerUri: https://device-type.com
-  name: JESuunni
-type: d3-device-type-assertion

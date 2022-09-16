@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1cc77ab8-2205-5e6b-a7ba-8e1db816fd1c
-  macAddresses:
-  - 00:07:5D:00:00:00/24
-  manufacturer: Celleritas Inc.
-  manufacturerUri: https://device-type.com
-  name: Cellerit
-type: d3-device-type-assertion

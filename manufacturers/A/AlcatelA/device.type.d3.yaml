@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1569e020-910a-5a1a-b5bb-9277a2fc5a7e
-  macAddresses:
-  - 00:15:3F:00:00:00/24
-  manufacturer: Alcatel Alenia Space Italia
-  manufacturerUri: https://device-type.com
-  name: AlcatelA
-type: d3-device-type-assertion

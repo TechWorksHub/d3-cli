@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c5d69eff-683f-5518-b42c-cd808ac221ed
-  macAddresses:
-  - 08:00:04:00:00:00/24
-  manufacturer: Cromemco Incorporated
-  manufacturerUri: https://device-type.com
-  name: Cromemco
-type: d3-device-type-assertion

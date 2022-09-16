@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d2c58d46-05f0-51f5-878d-7689ac916f5b
-  macAddresses:
-  - 00:01:EF:00:00:00/24
-  manufacturer: Camtel Technology Corp.
-  manufacturerUri: https://device-type.com
-  name: CamtelTe
-type: d3-device-type-assertion

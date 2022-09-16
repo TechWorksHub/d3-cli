@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 20c42089-b297-595c-b53b-84953092cc23
-  macAddresses:
-  - 00:05:BD:00:00:00/24
-  manufacturer: Roax Bv
-  manufacturerUri: https://device-type.com
-  name: Roax
-type: d3-device-type-assertion

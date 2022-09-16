@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 73a9559e-bc71-50f2-b5d6-8835f19d3726
-  macAddresses:
-  - 8C:92:36:00:00:00/24
-  manufacturer: Aus.Linx Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: AusLinxT
-type: d3-device-type-assertion

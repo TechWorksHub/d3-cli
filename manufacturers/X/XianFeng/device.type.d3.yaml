@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b2e3e729-321b-5960-ad44-9e1e1e48f8a0
-  macAddresses:
-  - CC:72:86:00:00:00/24
-  manufacturer: Xi'an Fengyu Information Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: XianFeng
-type: d3-device-type-assertion

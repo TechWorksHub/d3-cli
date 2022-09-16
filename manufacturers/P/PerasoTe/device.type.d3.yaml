@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1e7f64e3-9240-5c5d-ac7e-708e7aa1e25c
-  macAddresses:
-  - 20:CE:C4:00:00:00/24
-  manufacturer: Peraso Technologies
-  manufacturerUri: https://device-type.com
-  name: PerasoTe
-type: d3-device-type-assertion

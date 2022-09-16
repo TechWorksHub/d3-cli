@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f27e3e7d-a181-5caa-85a9-8f2a0e2db6b7
-  macAddresses:
-  - 00:16:5B:00:00:00/24
-  manufacturer: Grip Audio
-  manufacturerUri: https://device-type.com
-  name: GripAudi
-type: d3-device-type-assertion

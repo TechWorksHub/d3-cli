@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 619f9570-7c47-5afb-917c-769bbb205941
-  macAddresses:
-  - B0:CF:4D:00:00:00/24
-  manufacturer: MI-Zone Technology Ireland
-  manufacturerUri: https://device-type.com
-  name: MI-ZoneT
-type: d3-device-type-assertion

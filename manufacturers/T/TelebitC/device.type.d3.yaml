@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: effd2489-83cd-5a7a-b2be-7b728abec54a
-  macAddresses:
-  - 00:40:FF:00:00:00/24
-  manufacturer: Telebit Corporation
-  manufacturerUri: https://device-type.com
-  name: TelebitC
-type: d3-device-type-assertion

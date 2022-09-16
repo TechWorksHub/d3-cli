@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f7e46b7c-26e9-58c7-a1b2-61689f34dcb5
-  macAddresses:
-  - 50:DE:19:90:00:00/28
-  manufacturer: AEG Identifikationssysteme GmbH
-  manufacturerUri: https://device-type.com
-  name: AEGIdent
-type: d3-device-type-assertion

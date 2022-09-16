@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a7acfabc-c9b7-53b1-aea0-2ec31d1e51fb
-  macAddresses:
-  - 40:9C:A6:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Curvalux
-type: d3-device-type-assertion

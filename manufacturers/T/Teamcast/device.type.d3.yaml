@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f22e3731-0375-5aae-9584-1b8666144cc6
-  macAddresses:
-  - 00:18:D3:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Teamcast
-type: d3-device-type-assertion

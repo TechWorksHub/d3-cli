@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f089aa3a-107f-554d-a46e-fecf2d8acfdd
-  macAddresses:
-  - 00:08:BA:00:00:00/24
-  manufacturer: Erskine Systems Ltd
-  manufacturerUri: https://device-type.com
-  name: Erskine
-type: d3-device-type-assertion

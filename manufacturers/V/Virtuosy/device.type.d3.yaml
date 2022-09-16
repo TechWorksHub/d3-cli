@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0a4e4431-6eb3-512b-80d4-83f021def8b3
-  macAddresses:
-  - 70:B3:D5:BE:A0:00/36
-  manufacturer: Virtuosys Ltd
-  manufacturerUri: https://device-type.com
-  name: Virtuosy
-type: d3-device-type-assertion

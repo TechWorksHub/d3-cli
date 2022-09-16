@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c2d7b9f9-b9b8-5448-a688-8dd432c420f9
-  macAddresses:
-  - 00:14:FD:00:00:00/24
-  manufacturer: Thecus Technology Corp.
-  manufacturerUri: https://device-type.com
-  name: ThecusTe
-type: d3-device-type-assertion

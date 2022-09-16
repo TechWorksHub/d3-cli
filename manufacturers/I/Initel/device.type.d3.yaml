@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7192ff4d-419f-5238-a097-02d5ab52e36a
-  macAddresses:
-  - 00:50:C2:69:40:00/36
-  manufacturer: Initel srl
-  manufacturerUri: https://device-type.com
-  name: Initel
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 78a36a30-9d3f-5ae5-bfd2-dff692c71092
-  macAddresses:
-  - CC:D3:9D:90:00:00/28
-  manufacturer: Bejing Nexsec Inc.
-  manufacturerUri: https://device-type.com
-  name: BejingNe
-type: d3-device-type-assertion

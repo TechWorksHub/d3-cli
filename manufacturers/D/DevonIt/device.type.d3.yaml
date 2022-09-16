@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 77b7f316-8071-546f-9e7f-48f224aaf2ab
-  macAddresses:
-  - 00:1C:59:00:00:00/24
-  manufacturer: Devon It
-  manufacturerUri: https://device-type.com
-  name: DevonIt
-type: d3-device-type-assertion

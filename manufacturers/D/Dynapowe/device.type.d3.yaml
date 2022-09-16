@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7390c906-db58-503e-b787-41e4dca99282
-  macAddresses:
-  - 14:3A:EA:00:00:00/24
-  manufacturer: Dynapower Company LLC
-  manufacturerUri: https://device-type.com
-  name: Dynapowe
-type: d3-device-type-assertion

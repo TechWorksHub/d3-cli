@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e5091ce7-c973-5032-8b93-4d6e6400a6f9
-  macAddresses:
-  - 00:0B:19:00:00:00/24
-  manufacturer: Vernier Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: VernierN
-type: d3-device-type-assertion

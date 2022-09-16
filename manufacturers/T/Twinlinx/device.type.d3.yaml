@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2d974f64-647b-5813-9cca-a57a4fe5861c
-  macAddresses:
-  - D8:1B:FE:00:00:00/24
-  manufacturer: Twinlinx Corporation
-  manufacturerUri: https://device-type.com
-  name: Twinlinx
-type: d3-device-type-assertion

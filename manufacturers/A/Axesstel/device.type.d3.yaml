@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3b1143a1-82bf-5751-9c60-a7912d38b121
-  macAddresses:
-  - 00:19:ED:00:00:00/24
-  manufacturer: Axesstel Inc.
-  manufacturerUri: https://device-type.com
-  name: Axesstel
-type: d3-device-type-assertion

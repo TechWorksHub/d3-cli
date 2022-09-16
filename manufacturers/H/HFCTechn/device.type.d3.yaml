@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c63fd3ed-d18e-54cd-a9ba-dc5f80d119bf
-  macAddresses:
-  - 10:3D:EA:00:00:00/24
-  manufacturer: HFC Technology (Beijing) Ltd. Co.
-  manufacturerUri: https://device-type.com
-  name: HFCTechn
-type: d3-device-type-assertion

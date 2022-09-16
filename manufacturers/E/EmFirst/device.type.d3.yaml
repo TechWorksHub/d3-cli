@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bdf211fb-4c2c-5ebd-8a3e-7703db70d284
-  macAddresses:
-  - 8C:33:30:00:00:00/24
-  manufacturer: EmFirst Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: EmFirst
-type: d3-device-type-assertion

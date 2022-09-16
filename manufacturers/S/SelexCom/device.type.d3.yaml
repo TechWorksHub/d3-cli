@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1e5802c6-4951-5058-99f0-b070bfb35025
-  macAddresses:
-  - 00:17:28:00:00:00/24
-  manufacturer: Selex Communications
-  manufacturerUri: https://device-type.com
-  name: SelexCom
-type: d3-device-type-assertion

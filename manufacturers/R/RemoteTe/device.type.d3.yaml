@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 70d5bc82-91d6-5bcb-a366-a75faab4e99a
-  macAddresses:
-  - 00:15:26:00:00:00/24
-  manufacturer: Remote Technologies Inc
-  manufacturerUri: https://device-type.com
-  name: RemoteTe
-type: d3-device-type-assertion

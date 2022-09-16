@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 61123f78-3f91-5700-bb74-a3ed4ff91a1c
-  macAddresses:
-  - 70:B3:D5:7E:60:00/36
-  manufacturer: 11811347 CANADA Inc.
-  manufacturerUri: https://device-type.com
-  name: '11811347'
-type: d3-device-type-assertion

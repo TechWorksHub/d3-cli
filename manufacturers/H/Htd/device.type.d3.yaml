@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b9fabd78-d8b1-5660-a8b4-160cb7b14451
-  macAddresses:
-  - A4:4F:29:A0:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Htd
-type: d3-device-type-assertion

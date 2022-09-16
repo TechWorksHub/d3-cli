@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3dc53bd6-afcd-5752-a228-dd6d9b217225
-  macAddresses:
-  - 2C:9A:A4:00:00:00/24
-  manufacturer: Eolo SpA
-  manufacturerUri: https://device-type.com
-  name: Eolo
-type: d3-device-type-assertion

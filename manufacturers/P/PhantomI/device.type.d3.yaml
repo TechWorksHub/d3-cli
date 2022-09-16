@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 067637b0-afae-5590-8a3d-ba84b46bcfc1
-  macAddresses:
-  - F0:AF:50:00:00:00/24
-  manufacturer: Phantom Intelligence
-  manufacturerUri: https://device-type.com
-  name: PhantomI
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3e023cab-e434-5d81-a9a9-194f0a06b96e
-  macAddresses:
-  - FC:7F:56:00:00:00/24
-  manufacturer: CoSyst Control Systems GmbH
-  manufacturerUri: https://device-type.com
-  name: CoSystCo
-type: d3-device-type-assertion

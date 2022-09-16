@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d999d603-451e-51a3-9b52-1fadff53b25b
-  macAddresses:
-  - 00:14:E5:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Alticast
-type: d3-device-type-assertion

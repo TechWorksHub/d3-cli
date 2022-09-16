@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b878cec0-5657-5c61-acc4-5b2570688c7b
-  macAddresses:
-  - 48:61:A3:00:00:00/24
-  manufacturer: Concern "Axion" JSC
-  manufacturerUri: https://device-type.com
-  name: ConcernA
-type: d3-device-type-assertion

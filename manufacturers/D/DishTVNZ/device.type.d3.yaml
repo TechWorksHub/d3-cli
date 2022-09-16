@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cc0c5b95-0f8e-519d-b262-6c524aa6f48d
-  macAddresses:
-  - C4:FC:E4:00:00:00/24
-  manufacturer: DishTV NZ Ltd
-  manufacturerUri: https://device-type.com
-  name: DishTVNZ
-type: d3-device-type-assertion

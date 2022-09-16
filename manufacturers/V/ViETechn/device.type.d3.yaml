@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dff82535-59d3-554f-8a4b-6c531710f827
-  macAddresses:
-  - 08:76:18:00:00:00/24
-  manufacturer: ViE Technologies Sdn. Bhd.
-  manufacturerUri: https://device-type.com
-  name: ViETechn
-type: d3-device-type-assertion

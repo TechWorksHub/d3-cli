@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 77827ea2-f94f-5336-bb7c-4b9abe2a23ea
-  macAddresses:
-  - 00:04:30:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Netgem
-type: d3-device-type-assertion

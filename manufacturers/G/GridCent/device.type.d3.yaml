@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e927c696-8e4e-5a2b-a58b-d1c988c55574
-  macAddresses:
-  - 28:48:46:00:00:00/24
-  manufacturer: GridCentric Inc.
-  manufacturerUri: https://device-type.com
-  name: GridCent
-type: d3-device-type-assertion

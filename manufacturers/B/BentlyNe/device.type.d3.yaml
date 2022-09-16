@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fea1b437-5d9c-50f1-8589-dd5925b81e60
-  macAddresses:
-  - 00:E0:46:00:00:00/24
-  manufacturer: Bently Nevada Corp.
-  manufacturerUri: https://device-type.com
-  name: BentlyNe
-type: d3-device-type-assertion

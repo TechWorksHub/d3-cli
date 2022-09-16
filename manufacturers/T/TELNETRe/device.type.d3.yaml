@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3f70b709-64c4-553b-896a-6ff131a4f710
-  macAddresses:
-  - 78:3D:5B:00:00:00/24
-  manufacturer: TELNET Redes Inteligentes S.A.
-  manufacturerUri: https://device-type.com
-  name: TELNETRe
-type: d3-device-type-assertion

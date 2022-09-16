@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 995be85f-52f0-5ca6-8fe2-06a12a15e686
-  macAddresses:
-  - 80:74:84:00:00:00/24
-  manufacturer: ALL Winner (Hong Kong) Limited
-  manufacturerUri: https://device-type.com
-  name: ALLWinne
-type: d3-device-type-assertion

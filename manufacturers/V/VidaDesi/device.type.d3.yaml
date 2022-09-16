@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e42a29f7-0f42-562c-b03d-33359ba708ed
-  macAddresses:
-  - 00:06:99:00:00:00/24
-  manufacturer: Vida Design Co.
-  manufacturerUri: https://device-type.com
-  name: VidaDesi
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d9b28783-08ed-56d2-9693-db4f14d9cb40
-  macAddresses:
-  - 20:B7:80:00:00:00/24
-  manufacturer: Toshiba Visual Solutions Corporation Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: ToshibaV
-type: d3-device-type-assertion

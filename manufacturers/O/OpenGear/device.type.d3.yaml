@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4030bf05-05dc-5320-bf27-f72010f3ff87
-  macAddresses:
-  - 00:13:C6:00:00:00/24
-  manufacturer: OpenGear, Inc
-  manufacturerUri: https://device-type.com
-  name: OpenGear
-type: d3-device-type-assertion

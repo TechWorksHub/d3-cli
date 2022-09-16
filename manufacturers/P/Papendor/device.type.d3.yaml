@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e9629bc1-024e-5178-905b-b7401eef6a10
-  macAddresses:
-  - 40:D8:55:08:40:00/36
-  manufacturer: Papendorf Software Engineering GmbH
-  manufacturerUri: https://device-type.com
-  name: Papendor
-type: d3-device-type-assertion

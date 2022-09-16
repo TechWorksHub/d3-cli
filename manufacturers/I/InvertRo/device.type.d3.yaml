@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0c89193c-d1e4-5b9c-8dd6-5e303f8e0a8e
-  macAddresses:
-  - 70:B3:D5:FC:70:00/36
-  manufacturer: Invert Robotics Ltd.
-  manufacturerUri: https://device-type.com
-  name: InvertRo
-type: d3-device-type-assertion

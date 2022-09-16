@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6e85e71b-8984-542f-ad44-738ab0ed0e9b
-  macAddresses:
-  - FC:8D:3D:00:00:00/24
-  manufacturer: Leapfive Tech. Ltd.
-  manufacturerUri: https://device-type.com
-  name: Leapfive
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0aeab94f-c316-57bf-b057-75e04d209742
-  macAddresses:
-  - 00:18:5C:00:00:00/24
-  manufacturer: EDSLAB Technologies
-  manufacturerUri: https://device-type.com
-  name: EDSLABTe
-type: d3-device-type-assertion

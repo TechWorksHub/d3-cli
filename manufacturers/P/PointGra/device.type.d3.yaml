@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2a9efb78-4414-572c-869e-6331d0ae63af
-  macAddresses:
-  - 50:A4:D0:60:00:00/28
-  manufacturer: PointGrab
-  manufacturerUri: https://device-type.com
-  name: PointGra
-type: d3-device-type-assertion

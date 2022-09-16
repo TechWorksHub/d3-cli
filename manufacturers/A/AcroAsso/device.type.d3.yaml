@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bee8e170-8f7c-57ab-81e4-717a36d7d67f
-  macAddresses:
-  - 7C:C8:AB:00:00:00/24
-  manufacturer: Acro Associates, Inc.
-  manufacturerUri: https://device-type.com
-  name: AcroAsso
-type: d3-device-type-assertion

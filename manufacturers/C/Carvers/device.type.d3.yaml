@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a5bc7ed8-1150-5d56-b6e4-b47ab46b5df9
-  macAddresses:
-  - 00:14:BA:00:00:00/24
-  manufacturer: Carvers SA de CV
-  manufacturerUri: https://device-type.com
-  name: Carvers
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 36414232-97a7-5eae-8eed-daeeff0409a0
-  macAddresses:
-  - 34:D7:B4:00:00:00/24
-  manufacturer: Tributary Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Tributar
-type: d3-device-type-assertion

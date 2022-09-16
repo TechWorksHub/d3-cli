@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8b37cf39-32e9-539d-90d8-b3736ee0308f
-  macAddresses:
-  - 58:84:E4:00:00:00/24
-  manufacturer: IP500 Alliance e.V.
-  manufacturerUri: https://device-type.com
-  name: IP500All
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: edbfd089-1012-55d0-a1f5-ad516ebec29e
-  macAddresses:
-  - 70:B3:D5:CF:70:00/36
-  manufacturer: Gentec Electro-Optics
-  manufacturerUri: https://device-type.com
-  name: GentecEl
-type: d3-device-type-assertion

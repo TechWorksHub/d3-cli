@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c07cda96-7cdd-5e4a-af56-460dd41a9d75
-  macAddresses:
-  - 00:50:C2:7F:10:00/36
-  manufacturer: STUHL Regelsysteme GmbH
-  manufacturerUri: https://device-type.com
-  name: STUHLReg
-type: d3-device-type-assertion

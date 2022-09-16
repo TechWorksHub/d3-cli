@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b255e022-ebe4-58ef-9873-b43d5a6e47e6
-  macAddresses:
-  - 94:70:D2:00:00:00/24
-  manufacturer: Winfirm Technology
-  manufacturerUri: https://device-type.com
-  name: WinfirmT
-type: d3-device-type-assertion

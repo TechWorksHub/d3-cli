@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c90b3bda-35a7-5fe4-9286-65b9f4c19a93
-  macAddresses:
-  - 00:1E:6D:00:00:00/24
-  manufacturer: IT R&D Center
-  manufacturerUri: https://device-type.com
-  name: ITR&DCen
-type: d3-device-type-assertion

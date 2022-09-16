@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bedc57ae-87db-5937-898e-a22eb4ac8026
-  macAddresses:
-  - 80:B7:45:00:00:00/24
-  manufacturer: The Silk Technologies ILC LTD
-  manufacturerUri: https://device-type.com
-  name: SilkTech
-type: d3-device-type-assertion

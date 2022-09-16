@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 195639c9-b0a3-5478-8a87-63d0b64d9fc8
-  macAddresses:
-  - 00:02:0B:00:00:00/24
-  manufacturer: Native Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: NativeNe
-type: d3-device-type-assertion

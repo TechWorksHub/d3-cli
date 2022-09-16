@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6467ff80-e988-567d-ad1b-20a53e4bebba
-  macAddresses:
-  - 00:09:ED:00:00:00/24
-  manufacturer: CipherOptics
-  manufacturerUri: https://device-type.com
-  name: CipherOp
-type: d3-device-type-assertion

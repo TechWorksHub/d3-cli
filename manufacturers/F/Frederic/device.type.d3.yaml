@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 74bfb625-261a-5eae-9904-4797278e45d9
-  macAddresses:
-  - 00:50:C2:0D:E0:00/36
-  manufacturer: Frederick Engineering
-  manufacturerUri: https://device-type.com
-  name: Frederic
-type: d3-device-type-assertion

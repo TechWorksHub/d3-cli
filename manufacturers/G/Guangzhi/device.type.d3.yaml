@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 061acc12-f1a0-50be-8366-aeada2f89cd6
-  macAddresses:
-  - E0:48:D8:00:00:00/24
-  manufacturer: Guangzhi Wulian Technology(Guangzhou) Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Guangzhi
-type: d3-device-type-assertion

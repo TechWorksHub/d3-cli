@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a65b4273-e476-5ca0-93d9-2f3b59e50fdf
-  macAddresses:
-  - 00:06:5E:00:00:00/24
-  manufacturer: Photuris, Inc.
-  manufacturerUri: https://device-type.com
-  name: Photuris
-type: d3-device-type-assertion

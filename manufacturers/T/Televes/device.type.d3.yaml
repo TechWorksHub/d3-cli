@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d31b4337-fe33-5d1a-bd5b-f59d42239e75
-  macAddresses:
-  - 00:0E:7C:00:00:00/24
-  manufacturer: Televes S.A.
-  manufacturerUri: https://device-type.com
-  name: Televes
-type: d3-device-type-assertion

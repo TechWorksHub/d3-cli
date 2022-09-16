@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f740d610-954c-5d70-9416-bc3e117c5fd9
-  macAddresses:
-  - 00:E0:7A:00:00:00/24
-  manufacturer: Mikrodidakt Ab
-  manufacturerUri: https://device-type.com
-  name: Mikrodid
-type: d3-device-type-assertion

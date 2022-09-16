@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f799ebc2-ae45-534a-8cf0-a56640b7b098
-  macAddresses:
-  - A4:5F:B9:00:00:00/24
-  manufacturer: DreamBig Semiconductor, Inc.
-  manufacturerUri: https://device-type.com
-  name: DreamBig
-type: d3-device-type-assertion

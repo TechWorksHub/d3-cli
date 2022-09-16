@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3b317db9-5842-5223-a64b-1820c3dad64b
-  macAddresses:
-  - EC:6F:0B:00:00:00/24
-  manufacturer: FADU, Inc.
-  manufacturerUri: https://device-type.com
-  name: FADU
-type: d3-device-type-assertion

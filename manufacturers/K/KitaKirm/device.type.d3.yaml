@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 841d1aa7-b18f-514f-b91f-151b948f7cf2
-  macAddresses:
-  - 70:B3:D5:99:80:00/36
-  manufacturer: Kita Kirmizi Takim Bilgi Guvenligi Danismanlik ve Egitim A.S.
-  manufacturerUri: https://device-type.com
-  name: KitaKirm
-type: d3-device-type-assertion

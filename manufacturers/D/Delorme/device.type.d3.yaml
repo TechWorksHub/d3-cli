@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5a9cfd2b-3a4c-5fc8-b63e-c0f49e87768d
-  macAddresses:
-  - 00:1A:A3:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Delorme
-type: d3-device-type-assertion

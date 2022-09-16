@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8b8e9875-26d9-558f-a674-cead7adcfcca
-  macAddresses:
-  - 00:08:88:00:00:00/24
-  manufacturer: OULLIM Information Technology Inc,.
-  manufacturerUri: https://device-type.com
-  name: OULLIMIn
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c539ab49-c260-5659-97dd-c7e57fc347ce
-  macAddresses:
-  - 70:B3:D5:60:90:00/36
-  manufacturer: PBSI Group Limited
-  manufacturerUri: https://device-type.com
-  name: PBSIGrou
-type: d3-device-type-assertion

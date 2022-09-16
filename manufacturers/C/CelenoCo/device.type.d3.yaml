@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6d5fc4d4-d13a-5e44-b811-76ca40754565
-  macAddresses:
-  - 00:1C:51:00:00:00/24
-  manufacturer: Celeno Communications
-  manufacturerUri: https://device-type.com
-  name: CelenoCo
-type: d3-device-type-assertion

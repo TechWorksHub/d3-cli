@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bc67f401-4007-565a-a3b3-0e30f3ded455
-  macAddresses:
-  - 00:40:DE:00:00:00/24
-  manufacturer: Elsag Datamat spa
-  manufacturerUri: https://device-type.com
-  name: ElsagDat
-type: d3-device-type-assertion

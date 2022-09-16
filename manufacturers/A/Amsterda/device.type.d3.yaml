@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9b370bd1-4a29-514d-bf4d-9bd52cbe2de7
-  macAddresses:
-  - 00:50:C2:EC:90:00/36
-  manufacturer: Amsterdam Scientific Instruments BV
-  manufacturerUri: https://device-type.com
-  name: Amsterda
-type: d3-device-type-assertion

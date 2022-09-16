@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f36108bf-404b-54c9-919e-900b236507f0
-  macAddresses:
-  - 00:50:C2:E3:50:00/36
-  manufacturer: Omnica Corporation
-  manufacturerUri: https://device-type.com
-  name: Omnica
-type: d3-device-type-assertion

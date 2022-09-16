@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 39c30005-dea2-5ede-9bb3-42b547cc025a
-  macAddresses:
-  - 98:8F:E0:50:00:00/28
-  manufacturer: KuaiZhu SmartTechnology?Suzhou?CO.,Ltd
-  manufacturerUri: https://device-type.com
-  name: KuaiZhuS
-type: d3-device-type-assertion

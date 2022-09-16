@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d8482c3b-99bd-591f-9f40-60657320139f
-  macAddresses:
-  - 40:D8:55:16:40:00/36
-  manufacturer: NFT Automatisierungssysteme GmbH
-  manufacturerUri: https://device-type.com
-  name: NFTAutom
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3f3e03e6-8d4d-5989-8d0d-704bbc71b610
-  macAddresses:
-  - 44:03:77:E0:00:00/28
-  manufacturer: Bolin Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: BolinTec
-type: d3-device-type-assertion

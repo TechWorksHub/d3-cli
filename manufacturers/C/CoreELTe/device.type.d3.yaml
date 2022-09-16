@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 48f6f64b-1285-5dad-bd42-e2f7f646b848
-  macAddresses:
-  - 70:B3:D5:10:D0:00/36
-  manufacturer: CoreEL Technologies Pvt Ltd
-  manufacturerUri: https://device-type.com
-  name: CoreELTe
-type: d3-device-type-assertion

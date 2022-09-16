@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c0899ae9-6cac-5958-9a26-27cd20d94835
-  macAddresses:
-  - 60:84:3B:00:00:00/24
-  manufacturer: Soladigm, Inc.
-  manufacturerUri: https://device-type.com
-  name: Soladigm
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8ccbbbb8-c0f7-595f-b66d-96828785a307
-  macAddresses:
-  - 00:22:54:00:00:00/24
-  manufacturer: Bigelow Aerospace
-  manufacturerUri: https://device-type.com
-  name: BigelowA
-type: d3-device-type-assertion

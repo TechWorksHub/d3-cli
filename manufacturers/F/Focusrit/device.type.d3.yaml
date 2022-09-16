@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e18e5236-4c44-5ca1-8cf6-ff76ed6f7c0c
-  macAddresses:
-  - 00:13:0E:00:00:00/24
-  manufacturer: Focusrite Audio Engineering Limited
-  manufacturerUri: https://device-type.com
-  name: Focusrit
-type: d3-device-type-assertion

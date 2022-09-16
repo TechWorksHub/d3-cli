@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 305757a9-00d3-5a8e-87c6-7b3b7d80c2a6
-  macAddresses:
-  - 38:F7:CD:80:00:00/28
-  manufacturer: BlastWave Inc.
-  manufacturerUri: https://device-type.com
-  name: BlastWav
-type: d3-device-type-assertion

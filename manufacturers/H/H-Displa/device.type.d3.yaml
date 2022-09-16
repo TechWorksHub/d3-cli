@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2db0eeb2-6092-5bc7-a783-58a11457d48c
-  macAddresses:
-  - E8:C2:29:00:00:00/24
-  manufacturer: H-Displays (MSC) Bhd
-  manufacturerUri: https://device-type.com
-  name: H-Displa
-type: d3-device-type-assertion

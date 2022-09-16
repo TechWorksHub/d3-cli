@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fe76462e-c3a6-570d-9e52-ecce67e2ab3d
-  macAddresses:
-  - 10:E2:D5:00:00:00/24
-  manufacturer: Qi Hardware Inc.
-  manufacturerUri: https://device-type.com
-  name: QiHardwa
-type: d3-device-type-assertion

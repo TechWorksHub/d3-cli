@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aa73b333-4b25-5f9f-9c11-c4c8b278cc8d
-  macAddresses:
-  - 00:04:EC:00:00:00/24
-  manufacturer: Memobox SA
-  manufacturerUri: https://device-type.com
-  name: Memobox
-type: d3-device-type-assertion

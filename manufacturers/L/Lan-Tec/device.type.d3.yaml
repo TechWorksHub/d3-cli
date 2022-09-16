@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 84ad2fbf-d04f-5cc5-be17-97ff2130c995
-  macAddresses:
-  - 08:00:2D:00:00:00/24
-  manufacturer: Lan-Tec Inc.
-  manufacturerUri: https://device-type.com
-  name: Lan-Tec
-type: d3-device-type-assertion

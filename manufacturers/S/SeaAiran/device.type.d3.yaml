@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d5b4520c-cdf3-59ac-8a79-bac5fca81745
-  macAddresses:
-  - 70:B3:D5:5A:B0:00/36
-  manufacturer: Sea Air and Land Communications Ltd
-  manufacturerUri: https://device-type.com
-  name: SeaAiran
-type: d3-device-type-assertion

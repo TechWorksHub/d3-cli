@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 35792480-6574-5ad5-a28d-83473792041b
-  macAddresses:
-  - 00:90:19:00:00:00/24
-  manufacturer: Hermes Electronics Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: HermesEl
-type: d3-device-type-assertion

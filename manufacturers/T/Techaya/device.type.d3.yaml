@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3705d190-5c06-58e3-9562-30333da2caf7
-  macAddresses:
-  - 1C:51:B5:00:00:00/24
-  manufacturer: Techaya LTD
-  manufacturerUri: https://device-type.com
-  name: Techaya
-type: d3-device-type-assertion

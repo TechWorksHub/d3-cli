@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 41c7350f-ab6f-5ac3-989e-aeaf0cea0eb8
-  macAddresses:
-  - 00:0C:3B:00:00:00/24
-  manufacturer: Orion Electric Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: OrionEle
-type: d3-device-type-assertion

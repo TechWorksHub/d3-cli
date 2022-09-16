@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a9b63aa2-f641-5330-bd25-03a0ebf4449e
-  macAddresses:
-  - 40:11:75:50:00:00/28
-  manufacturer: Mirc Electronics Ltd
-  manufacturerUri: https://device-type.com
-  name: MircElec
-type: d3-device-type-assertion

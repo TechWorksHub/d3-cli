@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a3730874-0b10-5623-bfa9-ceb57844f710
-  macAddresses:
-  - 98:90:80:00:00:00/24
-  manufacturer: Linkpower Network System Inc Ltd.
-  manufacturerUri: https://device-type.com
-  name: Linkpowe
-type: d3-device-type-assertion

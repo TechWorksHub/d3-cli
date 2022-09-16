@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0742c3a4-1938-56a6-abaa-5ae4ab7d7577
-  macAddresses:
-  - 00:16:FC:00:00:00/24
-  manufacturer: Tohken Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: Tohken
-type: d3-device-type-assertion

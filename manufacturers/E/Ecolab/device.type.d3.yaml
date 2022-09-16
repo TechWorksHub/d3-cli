@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 84f0e6c8-6199-54c8-a198-6bada0a24aae
-  macAddresses:
-  - 00:1E:12:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Ecolab
-type: d3-device-type-assertion

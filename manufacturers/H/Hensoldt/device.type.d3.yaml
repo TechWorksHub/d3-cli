@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 91f57c27-671e-5fdb-b3ae-07198eb2e182
-  macAddresses:
-  - 70:B3:D5:2D:30:00/36
-  manufacturer: Hensoldt Sensors GmbH
-  manufacturerUri: https://device-type.com
-  name: Hensoldt
-type: d3-device-type-assertion

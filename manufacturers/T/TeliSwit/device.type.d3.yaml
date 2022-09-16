@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d47831b9-b882-58c2-86b8-8997d8e0b77c
-  macAddresses:
-  - 00:1B:C5:05:00:00/36
-  manufacturer: TeliSwitch Solutions
-  manufacturerUri: https://device-type.com
-  name: TeliSwit
-type: d3-device-type-assertion

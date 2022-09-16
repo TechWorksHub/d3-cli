@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 23f258d3-9e8c-5dca-97ba-5b71d80091bd
-  macAddresses:
-  - 00:40:88:00:00:00/24
-  manufacturer: Mobuis
-  manufacturerUri: https://device-type.com
-  name: MobuisNu
-type: d3-device-type-assertion

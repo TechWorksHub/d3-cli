@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8e615c3a-38bc-5b11-826d-5a5f15014ba1
-  macAddresses:
-  - 04:67:85:00:00:00/24
-  manufacturer: scemtec Hard- und Software fuer Mess- und Steuerungstechnik GmbH
-  manufacturerUri: https://device-type.com
-  name: scemtecH
-type: d3-device-type-assertion

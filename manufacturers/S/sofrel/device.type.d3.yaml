@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c3794c29-3931-5f2c-bb93-15e873622d95
-  macAddresses:
-  - 00:0B:48:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: sofrel
-type: d3-device-type-assertion

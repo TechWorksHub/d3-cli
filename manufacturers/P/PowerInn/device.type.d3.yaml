@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ed408d1a-a591-5b59-a4c1-46bde60e3114
-  macAddresses:
-  - 00:1D:18:00:00:00/24
-  manufacturer: Power Innovation GmbH
-  manufacturerUri: https://device-type.com
-  name: PowerInn
-type: d3-device-type-assertion

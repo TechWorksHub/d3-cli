@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e31c7d16-d618-5491-9ef5-4c9e1828807a
-  macAddresses:
-  - 00:06:91:00:00:00/24
-  manufacturer: PT Inovacao
-  manufacturerUri: https://device-type.com
-  name: PTInovac
-type: d3-device-type-assertion

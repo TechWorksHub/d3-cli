@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c5bdbbd1-558d-5aca-ba31-14f9b8a56da3
-  macAddresses:
-  - 08:AC:C4:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: FMTech
-type: d3-device-type-assertion

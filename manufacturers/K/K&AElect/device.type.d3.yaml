@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 283a4fc0-149b-5039-a538-2a7a0465e8e2
-  macAddresses:
-  - 70:B3:D5:9E:40:00/36
-  manufacturer: K&A Electronics Inc.
-  manufacturerUri: https://device-type.com
-  name: K&AElect
-type: d3-device-type-assertion

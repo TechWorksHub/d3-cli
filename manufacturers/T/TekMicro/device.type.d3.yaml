@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2188a0d7-6ab3-533e-a653-b2d8e29d5b64
-  macAddresses:
-  - 00:D0:FB:00:00:00/24
-  manufacturer: Tek Microsystems, Incorporated
-  manufacturerUri: https://device-type.com
-  name: TekMicro
-type: d3-device-type-assertion

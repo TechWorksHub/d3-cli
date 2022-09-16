@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dd66b87e-f095-560c-93ee-e5946bf1b337
-  macAddresses:
-  - A8:70:A5:00:00:00/24
-  manufacturer: UniComm Inc.
-  manufacturerUri: https://device-type.com
-  name: UniComm
-type: d3-device-type-assertion

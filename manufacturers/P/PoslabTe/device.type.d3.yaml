@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3c3c6d7d-43b9-5faf-b6cb-552ab386b7f9
-  macAddresses:
-  - F0:B6:EB:00:00:00/24
-  manufacturer: Poslab Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: PoslabTe
-type: d3-device-type-assertion

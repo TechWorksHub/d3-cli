@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3c1a151d-8444-50e6-9f8e-46bae8b3dd26
-  macAddresses:
-  - 00:80:EB:00:00:00/24
-  manufacturer: Compcontrol B.V.
-  manufacturerUri: https://device-type.com
-  name: Compcont
-type: d3-device-type-assertion

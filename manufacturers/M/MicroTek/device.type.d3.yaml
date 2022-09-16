@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9778c5dc-6220-5faa-bbfb-a93f18e722ea
-  macAddresses:
-  - 00:50:C2:3C:10:00/36
-  manufacturer: MicroTek Electronics, Inc.
-  manufacturerUri: https://device-type.com
-  name: MicroTek
-type: d3-device-type-assertion

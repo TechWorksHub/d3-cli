@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9a818103-11c4-58f8-b759-9587c44deb92
-  macAddresses:
-  - 70:B3:D5:F4:20:00/36
-  manufacturer: Matsuhisa Corporation
-  manufacturerUri: https://device-type.com
-  name: Matsuhis
-type: d3-device-type-assertion

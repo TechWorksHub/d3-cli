@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 187cc409-0228-5764-84f6-6fa1c92e03f4
-  macAddresses:
-  - 58:35:26:00:00:00/24
-  manufacturer: Deeplet Technology Corp
-  manufacturerUri: https://device-type.com
-  name: DeepletT
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bfc7de02-7e33-5e6b-8ba5-a8e5de010091
-  macAddresses:
-  - 20:D7:5A:00:00:00/24
-  manufacturer: Posh Mobile Limited
-  manufacturerUri: https://device-type.com
-  name: PoshMobi
-type: d3-device-type-assertion

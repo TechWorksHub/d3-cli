@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1482bc0e-9fde-58ce-8622-d35b6b0a6a6f
-  macAddresses:
-  - 1C:21:D1:30:00:00/28
-  manufacturer: Microview Science and Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: Microvie
-type: d3-device-type-assertion

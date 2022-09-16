@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dd08502a-7a5e-5fc3-9db7-5b7404d09980
-  macAddresses:
-  - 70:B3:D5:63:D0:00/36
-  manufacturer: Topic Embedded Products B.V.
-  manufacturerUri: https://device-type.com
-  name: TopicEmb
-type: d3-device-type-assertion

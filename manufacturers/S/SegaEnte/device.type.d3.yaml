@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fd55760b-f66b-518a-9141-54d15f80cb5a
-  macAddresses:
-  - 00:D0:F1:00:00:00/24
-  manufacturer: Sega Enterprises, Ltd.
-  manufacturerUri: https://device-type.com
-  name: SegaEnte
-type: d3-device-type-assertion

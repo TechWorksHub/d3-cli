@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 79fdf7d7-1edc-5eb8-b3f9-b79fe2a1f22c
-  macAddresses:
-  - 7C:BC:84:60:00:00/28
-  manufacturer: "Soci\xE9t\xE9 de Transport de Montr\xE9al"
-  manufacturerUri: https://device-type.com
-  name: "Soci\xE9t\xE9d"
-type: d3-device-type-assertion

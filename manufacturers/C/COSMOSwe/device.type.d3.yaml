@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3830fcd9-57cd-50cf-b387-2268f07e228d
-  macAddresses:
-  - 70:B3:D5:3E:80:00/36
-  manufacturer: COSMOS web Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: COSMOSwe
-type: d3-device-type-assertion

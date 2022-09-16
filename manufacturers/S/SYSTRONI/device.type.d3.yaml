@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 68f28405-bda3-52bb-8b56-5fc9efeb8fa6
-  macAddresses:
-  - 2C:5A:8D:00:00:00/24
-  manufacturer: SYSTRONIK Elektronik u. Systemtechnik GmbH
-  manufacturerUri: https://device-type.com
-  name: SYSTRONI
-type: d3-device-type-assertion

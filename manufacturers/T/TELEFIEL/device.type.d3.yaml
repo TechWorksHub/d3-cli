@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f3ea7a1d-590c-5173-a3fc-b3d743b7b7b4
-  macAddresses:
-  - 00:0E:5A:00:00:00/24
-  manufacturer: TELEFIELD inc.
-  manufacturerUri: https://device-type.com
-  name: TELEFIEL
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9421560e-937c-5b59-835c-ea473bfe3c86
-  macAddresses:
-  - 08:00:4B:00:00:00/24
-  manufacturer: Planning Research Corp.
-  manufacturerUri: https://device-type.com
-  name: Planning
-type: d3-device-type-assertion

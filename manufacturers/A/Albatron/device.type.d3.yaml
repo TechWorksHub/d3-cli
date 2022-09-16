@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6f29b199-6484-5ee5-8fac-2393772fae0c
-  macAddresses:
-  - 00:0A:48:00:00:00/24
-  manufacturer: Albatron Technology
-  manufacturerUri: https://device-type.com
-  name: Albatron
-type: d3-device-type-assertion

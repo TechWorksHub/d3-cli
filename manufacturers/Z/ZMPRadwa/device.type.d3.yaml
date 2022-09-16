@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aca20b9d-1e5f-5405-9911-d67c7053d1f1
-  macAddresses:
-  - 00:16:59:00:00:00/24
-  manufacturer: Z.M.P. Radwag
-  manufacturerUri: https://device-type.com
-  name: ZMPRadwa
-type: d3-device-type-assertion

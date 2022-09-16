@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d36f6cb3-ac06-5ee1-99dd-56d187425c0e
-  macAddresses:
-  - D0:9F:D9:E0:00:00/28
-  manufacturer: Minibems Ltd
-  manufacturerUri: https://device-type.com
-  name: Minibems
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7014c868-3b29-575d-a132-42b184666855
-  macAddresses:
-  - 00:11:D9:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: TiVo
-type: d3-device-type-assertion

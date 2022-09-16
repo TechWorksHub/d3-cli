@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dcd3d98c-2200-5f96-918c-4565cf4bdecc
-  macAddresses:
-  - 00:14:E7:00:00:00/24
-  manufacturer: Stolinx,. Inc
-  manufacturerUri: https://device-type.com
-  name: Stolinx
-type: d3-device-type-assertion

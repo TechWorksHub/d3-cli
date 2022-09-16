@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9f1c40a0-d264-5a65-ae34-3422916c1760
-  macAddresses:
-  - 00:0F:11:00:00:00/24
-  manufacturer: Prodrive B.V.
-  manufacturerUri: https://device-type.com
-  name: Prodrive
-type: d3-device-type-assertion

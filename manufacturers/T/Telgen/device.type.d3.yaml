@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 78c40639-0bcc-5436-8602-5631f825a5da
-  macAddresses:
-  - 00:30:5A:00:00:00/24
-  manufacturer: Telgen Corporation
-  manufacturerUri: https://device-type.com
-  name: Telgen
-type: d3-device-type-assertion

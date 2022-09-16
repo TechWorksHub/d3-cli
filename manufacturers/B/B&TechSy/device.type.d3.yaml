@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a284afe7-c865-552a-ba19-de01fa63c6e9
-  macAddresses:
-  - 00:09:2E:00:00:00/24
-  manufacturer: B&Tech System Inc.
-  manufacturerUri: https://device-type.com
-  name: B&TechSy
-type: d3-device-type-assertion

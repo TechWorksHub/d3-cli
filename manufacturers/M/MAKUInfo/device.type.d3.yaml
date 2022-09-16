@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b78ca476-1cc8-5263-b536-487557f79856
-  macAddresses:
-  - 00:09:BA:00:00:00/24
-  manufacturer: MAKU Informationstechik GmbH
-  manufacturerUri: https://device-type.com
-  name: MAKUInfo
-type: d3-device-type-assertion

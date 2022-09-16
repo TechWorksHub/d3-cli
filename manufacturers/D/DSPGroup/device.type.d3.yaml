@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 50063f3d-c182-5e7a-8597-824f6521b9a1
-  macAddresses:
-  - 00:50:C2:1B:40:00/36
-  manufacturer: DSP Group Inc.
-  manufacturerUri: https://device-type.com
-  name: DSPGroup
-type: d3-device-type-assertion

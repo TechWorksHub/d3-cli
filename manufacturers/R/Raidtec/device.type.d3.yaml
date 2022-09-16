@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 079d329e-ec0b-555d-913f-5985c703e303
-  macAddresses:
-  - 00:10:E9:00:00:00/24
-  manufacturer: Raidtec Ltd.
-  manufacturerUri: https://device-type.com
-  name: Raidtec
-type: d3-device-type-assertion

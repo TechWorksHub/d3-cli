@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a6a7dff7-02d8-5182-a59b-e1c9ffcf86d3
-  macAddresses:
-  - 00:1A:2C:00:00:00/24
-  manufacturer: SATEC Co.,LTD
-  manufacturerUri: https://device-type.com
-  name: SATEC
-type: d3-device-type-assertion

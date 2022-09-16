@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3b0e7f0b-9ea3-59e5-946c-b323a5dccc2d
-  macAddresses:
-  - 24:79:EF:00:00:00/24
-  manufacturer: Greenpacket Berhad, Taiwan
-  manufacturerUri: https://device-type.com
-  name: Greenpac
-type: d3-device-type-assertion

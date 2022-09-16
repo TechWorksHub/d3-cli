@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f35f1389-da47-555b-86a1-c80fa3ec7398
-  macAddresses:
-  - 00:50:C2:73:E0:00/36
-  manufacturer: Quantec Networks GmbH
-  manufacturerUri: https://device-type.com
-  name: QuantecN
-type: d3-device-type-assertion

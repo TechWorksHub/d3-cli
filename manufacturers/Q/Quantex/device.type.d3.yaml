@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f2b07b9a-a67d-501d-8b49-6447f9b0f4fd
-  macAddresses:
-  - 68:91:D0:90:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Quantex
-type: d3-device-type-assertion

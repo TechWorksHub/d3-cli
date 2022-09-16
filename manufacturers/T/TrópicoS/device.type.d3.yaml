@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 75b7765a-9c92-5848-9346-caae681bf8f4
-  macAddresses:
-  - 00:1A:90:00:00:00/24
-  manufacturer: "Tr\xF3pico Sistemas e Telecomunica\xE7\xF5es da Amaz\xF4nia LTDA."
-  manufacturerUri: https://device-type.com
-  name: "Tr\xF3picoS"
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 59e6d34a-fe4b-542e-a810-7258aab444c7
-  macAddresses:
-  - 00:09:C0:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: 6Wind
-type: d3-device-type-assertion

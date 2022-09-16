@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0450ea6e-9b3c-5cc7-9635-65df26312d59
-  macAddresses:
-  - CC:31:2A:00:00:00/24
-  manufacturer: Huizhou Tcl Communication Electron Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: HuizhouT
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 16e221cc-f7db-51f2-bdfe-aa11c7bf8d23
-  macAddresses:
-  - 00:01:66:00:00:00/24
-  manufacturer: Tc Group A/S
-  manufacturerUri: https://device-type.com
-  name: TcGroup
-type: d3-device-type-assertion

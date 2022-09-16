@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bc659721-be07-5a11-96a4-23b0fc1f82cd
-  macAddresses:
-  - C8:A1:BA:00:00:00/24
-  manufacturer: Neul Ltd
-  manufacturerUri: https://device-type.com
-  name: Neul
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3ddd77b9-cc9d-5787-8782-3777730f8bfe
-  macAddresses:
-  - 8C:19:2D:A0:00:00/28
-  manufacturer: TeleAlarm SA
-  manufacturerUri: https://device-type.com
-  name: TeleAlar
-type: d3-device-type-assertion

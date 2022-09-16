@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ec4b50c9-2f46-53ef-b35b-6a818caa857d
-  macAddresses:
-  - 00:00:16:00:00:00/24
-  manufacturer: Du Pont Pixel Systems.
-  manufacturerUri: https://device-type.com
-  name: DuPontPi
-type: d3-device-type-assertion

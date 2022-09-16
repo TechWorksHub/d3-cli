@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b2d94fbe-df11-5702-a01e-f820b8a78109
-  macAddresses:
-  - 00:0B:D2:00:00:00/24
-  manufacturer: Remopro Technology Inc.
-  manufacturerUri: https://device-type.com
-  name: RemoproT
-type: d3-device-type-assertion

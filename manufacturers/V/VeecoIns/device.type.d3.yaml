@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 22a93c51-598e-5a3c-8a63-4d353efd5b36
-  macAddresses:
-  - 70:B3:D5:D0:80:00/36
-  manufacturer: Veeco Instruments
-  manufacturerUri: https://device-type.com
-  name: VeecoIns
-type: d3-device-type-assertion

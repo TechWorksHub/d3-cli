@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 18a54a77-978f-5ded-b487-d84c39af05d5
-  macAddresses:
-  - 64:FB:81:50:00:00/28
-  manufacturer: Kay Schulze & Karsten Pohle GbR
-  manufacturerUri: https://device-type.com
-  name: KaySchul
-type: d3-device-type-assertion

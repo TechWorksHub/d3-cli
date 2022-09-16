@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7fe02e39-e0ae-527f-88b7-d7c78b2feb05
-  macAddresses:
-  - 00:1C:81:00:00:00/24
-  manufacturer: NextGen Venturi LTD
-  manufacturerUri: https://device-type.com
-  name: NextGenV
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 18524b3c-8f53-532b-802f-a35210a0b73f
-  macAddresses:
-  - 00:A0:4F:00:00:00/24
-  manufacturer: Ameritec Corp.
-  manufacturerUri: https://device-type.com
-  name: Ameritec
-type: d3-device-type-assertion

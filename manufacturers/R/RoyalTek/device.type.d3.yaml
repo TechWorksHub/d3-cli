@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fed4f7a9-c830-5f22-94e9-ce7e98ec8597
-  macAddresses:
-  - 00:1F:1B:00:00:00/24
-  manufacturer: RoyalTek Company Ltd.
-  manufacturerUri: https://device-type.com
-  name: RoyalTek
-type: d3-device-type-assertion

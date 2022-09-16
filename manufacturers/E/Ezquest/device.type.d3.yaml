@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 39975bf8-be5a-5182-ad8e-7ed85826687c
-  macAddresses:
-  - 00:0E:F1:00:00:00/24
-  manufacturer: Ezquest Inc.
-  manufacturerUri: https://device-type.com
-  name: Ezquest
-type: d3-device-type-assertion

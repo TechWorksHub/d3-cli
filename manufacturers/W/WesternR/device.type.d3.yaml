@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 44be5dd6-104e-53bf-88c3-bcdd281b7514
-  macAddresses:
-  - C8:63:14:00:00:00/28
-  manufacturer: Western Reserve Controls, Inc.
-  manufacturerUri: https://device-type.com
-  name: WesternR
-type: d3-device-type-assertion

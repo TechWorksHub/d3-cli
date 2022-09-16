@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5ec14cb0-c38a-532c-844a-fca2494fd9b4
-  macAddresses:
-  - 00:80:9D:00:00:00/24
-  manufacturer: Commscraft Ltd.
-  manufacturerUri: https://device-type.com
-  name: Commscra
-type: d3-device-type-assertion

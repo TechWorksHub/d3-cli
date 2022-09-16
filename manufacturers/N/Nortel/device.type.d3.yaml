@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 23f62359-d073-5af0-94cc-17956fdc5712
-  macAddresses:
-  - 00:90:CF:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Nortel
-type: d3-device-type-assertion

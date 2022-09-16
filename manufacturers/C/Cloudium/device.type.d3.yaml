@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 21f135eb-5dc0-5349-abea-960d9bf4340c
-  macAddresses:
-  - 1C:37:BF:00:00:00/24
-  manufacturer: Cloudium Systems Ltd.
-  manufacturerUri: https://device-type.com
-  name: Cloudium
-type: d3-device-type-assertion

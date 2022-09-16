@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ef8abff5-1004-587d-a1d4-719e120eb189
-  macAddresses:
-  - C8:6C:1E:00:00:00/24
-  manufacturer: Display Systems Ltd
-  manufacturerUri: https://device-type.com
-  name: Display
-type: d3-device-type-assertion

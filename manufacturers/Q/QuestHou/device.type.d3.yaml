@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a76bf62d-45ff-5567-a10f-136fb6e8a5e8
-  macAddresses:
-  - 70:B3:D5:84:B0:00/36
-  manufacturer: QuestHouse, Inc.
-  manufacturerUri: https://device-type.com
-  name: QuestHou
-type: d3-device-type-assertion

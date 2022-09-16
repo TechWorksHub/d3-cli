@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e1524144-21cb-511d-a322-6573920d81fb
-  macAddresses:
-  - D4:29:EA:00:00:00/24
-  manufacturer: Zimory GmbH
-  manufacturerUri: https://device-type.com
-  name: Zimory
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e58ec28a-3e2d-51ca-8ebe-9b16d2f30a50
-  macAddresses:
-  - 00:60:A8:00:00:00/24
-  manufacturer: Tidomat Ab
-  manufacturerUri: https://device-type.com
-  name: Tidomat
-type: d3-device-type-assertion

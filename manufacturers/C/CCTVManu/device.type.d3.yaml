@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2dfc9724-f7bd-511c-aa4c-77c7f1db511d
-  macAddresses:
-  - 50:62:55:A0:00:00/28
-  manufacturer: CCTV Manufacturer
-  manufacturerUri: https://device-type.com
-  name: CCTVManu
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c85e55c4-39a8-5ccd-a3c5-e24856aff07d
-  macAddresses:
-  - 00:90:A4:00:00:00/24
-  manufacturer: Altiga Networks
-  manufacturerUri: https://device-type.com
-  name: AltigaNe
-type: d3-device-type-assertion

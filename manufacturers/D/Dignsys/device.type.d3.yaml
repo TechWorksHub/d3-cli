@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bb53d79a-cdb8-58d9-a8de-777e65cbd602
-  macAddresses:
-  - 00:1B:FD:00:00:00/24
-  manufacturer: Dignsys Inc.
-  manufacturerUri: https://device-type.com
-  name: Dignsys
-type: d3-device-type-assertion

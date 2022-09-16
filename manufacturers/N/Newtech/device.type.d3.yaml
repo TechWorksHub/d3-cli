@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5e4cb393-89a5-597b-9314-8348dc33af84
-  macAddresses:
-  - 00:0B:5C:00:00:00/24
-  manufacturer: Newtech Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: Newtech
-type: d3-device-type-assertion

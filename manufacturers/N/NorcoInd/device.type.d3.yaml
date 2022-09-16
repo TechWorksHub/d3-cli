@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e5f02bec-729f-5c8a-8e89-8ea3b0119d29
-  macAddresses:
-  - 00:50:C2:2B:A0:00/36
-  manufacturer: Norco Industrial Technology Inc
-  manufacturerUri: https://device-type.com
-  name: NorcoInd
-type: d3-device-type-assertion

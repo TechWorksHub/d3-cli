@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 40d1ed32-2405-5873-83fe-1ec8d216545d
-  macAddresses:
-  - 00:1B:0F:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Petratec
-type: d3-device-type-assertion

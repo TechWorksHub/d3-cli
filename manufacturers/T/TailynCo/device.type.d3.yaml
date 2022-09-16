@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f2ffe918-f549-5efa-9897-c646d2254e2c
-  macAddresses:
-  - 00:05:65:00:00:00/24
-  manufacturer: Tailyn Communication Company Ltd.
-  manufacturerUri: https://device-type.com
-  name: TailynCo
-type: d3-device-type-assertion

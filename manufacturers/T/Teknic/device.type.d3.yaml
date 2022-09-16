@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dbd6fa01-ce1c-51a6-85bb-4ff24afbda3d
-  macAddresses:
-  - 24:15:10:B0:00:00/28
-  manufacturer: Teknic, Inc.
-  manufacturerUri: https://device-type.com
-  name: Teknic
-type: d3-device-type-assertion

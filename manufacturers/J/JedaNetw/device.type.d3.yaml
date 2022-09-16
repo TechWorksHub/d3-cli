@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 519977d5-e4b0-5a64-9e35-f9a326b7acf7
-  macAddresses:
-  - 48:D5:4C:00:00:00/24
-  manufacturer: Jeda Networks
-  manufacturerUri: https://device-type.com
-  name: JedaNetw
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6c8fdb7f-0429-5bee-8fbb-3befc80f73bd
-  macAddresses:
-  - 00:13:EB:00:00:00/24
-  manufacturer: Sysmaster Corporation
-  manufacturerUri: https://device-type.com
-  name: Sysmaste
-type: d3-device-type-assertion

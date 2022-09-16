@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8044bab7-6299-5cfd-b85a-645f5c3e98ed
-  macAddresses:
-  - 00:50:C2:F8:50:00/36
-  manufacturer: Enetics, Inc.
-  manufacturerUri: https://device-type.com
-  name: Enetics
-type: d3-device-type-assertion

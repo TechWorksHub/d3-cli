@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9de161ba-c6cd-5400-aada-ff24db221583
-  macAddresses:
-  - 24:5D:FC:C0:00:00/28
-  manufacturer: Senix Corporation
-  manufacturerUri: https://device-type.com
-  name: Senix
-type: d3-device-type-assertion

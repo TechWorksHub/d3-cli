@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a510ccd0-7dd3-53fd-81b5-2207a2721754
-  macAddresses:
-  - C8:F5:D6:00:00:00/28
-  manufacturer: Meiryo Technica Corporation
-  manufacturerUri: https://device-type.com
-  name: MeiryoTe
-type: d3-device-type-assertion

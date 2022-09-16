@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ea55d0e9-e09b-5149-83bc-1f877e8b7510
-  macAddresses:
-  - BC:34:00:20:00:00/28
-  manufacturer: LifeSmart
-  manufacturerUri: https://device-type.com
-  name: LifeSmar
-type: d3-device-type-assertion

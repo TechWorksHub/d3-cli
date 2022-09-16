@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 95039a35-835d-5b66-929a-713a4e64e137
-  macAddresses:
-  - 98:02:84:00:00:00/24
-  manufacturer: Theobroma Systems GmbH
-  manufacturerUri: https://device-type.com
-  name: Theobrom
-type: d3-device-type-assertion

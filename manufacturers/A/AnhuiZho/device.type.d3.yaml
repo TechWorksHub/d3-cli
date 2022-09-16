@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8e29fc34-f661-5fb7-b587-05c6ed2bb6c7
-  macAddresses:
-  - 44:A9:2C:20:00:00/28
-  manufacturer: Anhui Zhongxin Electronic Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: AnhuiZho
-type: d3-device-type-assertion

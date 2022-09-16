@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d10da08f-68d4-5e51-b607-a23b1cbad97a
-  macAddresses:
-  - 04:9B:9C:00:00:00/24
-  manufacturer: Eadingcore Intelligent Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Eadingco
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 24552889-6b01-5491-b08e-736e7a6c42d7
-  macAddresses:
-  - 00:A0:CE:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Ecessa
-type: d3-device-type-assertion

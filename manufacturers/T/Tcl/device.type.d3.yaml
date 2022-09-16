@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 80e59775-758b-59a4-816c-4f0b9ffc4388
-  macAddresses:
-  - 00:00:DD:00:00:00/24
-  manufacturer: Tcl Incorporated
-  manufacturerUri: https://device-type.com
-  name: Tcl
-type: d3-device-type-assertion

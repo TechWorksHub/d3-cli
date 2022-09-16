@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c8824cfb-2057-50ed-b483-725839030616
-  macAddresses:
-  - 38:B8:EB:70:00:00/28
-  manufacturer: Sirin Mobile Technologies
-  manufacturerUri: https://device-type.com
-  name: SirinMob
-type: d3-device-type-assertion

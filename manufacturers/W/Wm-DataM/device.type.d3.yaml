@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 70f55b9e-b0b2-5b64-9a92-56b5cb359961
-  macAddresses:
-  - 00:40:8F:00:00:00/24
-  manufacturer: Wm-Data Minfo Ab
-  manufacturerUri: https://device-type.com
-  name: Wm-DataM
-type: d3-device-type-assertion

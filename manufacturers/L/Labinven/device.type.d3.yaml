@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ce8b42de-fb72-5f8e-8d86-9647428e2719
-  macAddresses:
-  - 70:B3:D5:C1:B0:00/36
-  manufacturer: Labinvent JSC
-  manufacturerUri: https://device-type.com
-  name: Labinven
-type: d3-device-type-assertion

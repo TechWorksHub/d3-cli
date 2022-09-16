@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 69301d54-4b19-5b29-8f99-aa22bb32207f
-  macAddresses:
-  - A4:ED:43:00:00:00/28
-  manufacturer: Sweam AB
-  manufacturerUri: https://device-type.com
-  name: Sweam
-type: d3-device-type-assertion

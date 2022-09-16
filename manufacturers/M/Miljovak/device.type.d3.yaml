@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e58aca6f-907e-526f-8f86-af116935546f
-  macAddresses:
-  - CC:0C:DA:00:00:00/24
-  manufacturer: Miljovakt AS
-  manufacturerUri: https://device-type.com
-  name: Miljovak
-type: d3-device-type-assertion

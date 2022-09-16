@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 611d0a02-da62-57bb-9311-62a1cdf9fea9
-  macAddresses:
-  - 00:40:02:00:00:00/24
-  manufacturer: Perle Systems Limited
-  manufacturerUri: https://device-type.com
-  name: Perle
-type: d3-device-type-assertion

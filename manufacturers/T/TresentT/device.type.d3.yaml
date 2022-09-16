@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 61b621ec-f339-579d-8f29-06ba4633550b
-  macAddresses:
-  - 70:B3:D5:03:00:00/36
-  manufacturer: Tresent Technologies
-  manufacturerUri: https://device-type.com
-  name: TresentT
-type: d3-device-type-assertion

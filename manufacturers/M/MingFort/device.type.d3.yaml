@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: edfda8f2-2a16-5c8e-82ca-a108ec15e22d
-  macAddresses:
-  - 00:20:27:00:00:00/24
-  manufacturer: Ming Fortune Industry Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: MingFort
-type: d3-device-type-assertion

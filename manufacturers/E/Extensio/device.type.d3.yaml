@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 41adeb1d-c6cf-56b0-9da6-ee0169d27b96
-  macAddresses:
-  - 00:40:7D:00:00:00/24
-  manufacturer: Extension Technology Corp.
-  manufacturerUri: https://device-type.com
-  name: Extensio
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a54f05e5-0e73-5207-a4f7-8088b48da3e1
-  macAddresses:
-  - 00:01:69:00:00:00/24
-  manufacturer: Celestix Networks Pte Ltd.
-  manufacturerUri: https://device-type.com
-  name: Celestix
-type: d3-device-type-assertion

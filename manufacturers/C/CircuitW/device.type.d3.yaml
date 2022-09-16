@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1ae56605-737b-5941-a2cd-39047a2e466a
-  macAddresses:
-  - 94:CC:04:80:00:00/28
-  manufacturer: CircuitWerkes, Inc.
-  manufacturerUri: https://device-type.com
-  name: CircuitW
-type: d3-device-type-assertion

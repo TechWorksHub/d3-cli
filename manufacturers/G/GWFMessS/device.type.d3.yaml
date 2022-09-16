@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 05a88e4c-c356-5942-a476-aaeaccff8daf
-  macAddresses:
-  - 70:B3:D5:38:70:00/36
-  manufacturer: GWF MessSysteme AG
-  manufacturerUri: https://device-type.com
-  name: GWFMessS
-type: d3-device-type-assertion

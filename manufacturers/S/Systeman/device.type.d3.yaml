@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d217f283-34c6-5d94-932a-9fbcfd89f5df
-  macAddresses:
-  - 00:14:9F:00:00:00/24
-  manufacturer: System and Chips, Inc.
-  manufacturerUri: https://device-type.com
-  name: Systeman
-type: d3-device-type-assertion

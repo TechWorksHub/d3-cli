@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f9297ca0-35cf-57cc-954e-e54aa4578ef6
-  macAddresses:
-  - 20:A2:E7:00:00:00/24
-  manufacturer: Lee-Dickens Ltd
-  manufacturerUri: https://device-type.com
-  name: Lee-Dick
-type: d3-device-type-assertion

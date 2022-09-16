@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c2f3dc54-4f9e-5cfd-880d-22631a8d7e5f
-  macAddresses:
-  - 70:B3:D5:6D:10:00/36
-  manufacturer: Visual Engineering Technologies Ltd
-  manufacturerUri: https://device-type.com
-  name: VisualEn
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cda4e87c-ac52-56cd-87c5-53ac53fd94c4
-  macAddresses:
-  - A8:63:DF:00:00:00/24
-  manufacturer: Displaire Corporation
-  manufacturerUri: https://device-type.com
-  name: Displair
-type: d3-device-type-assertion

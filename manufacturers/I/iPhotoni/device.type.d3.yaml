@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a87936f3-0a87-5c95-ac48-b499fde5bcf5
-  macAddresses:
-  - 00:1C:15:00:00:00/24
-  manufacturer: iPhotonix LLC
-  manufacturerUri: https://device-type.com
-  name: iPhotoni
-type: d3-device-type-assertion

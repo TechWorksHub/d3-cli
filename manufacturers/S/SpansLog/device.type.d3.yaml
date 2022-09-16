@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: de20f0c6-a259-5fb0-a26c-08c9203fcf00
-  macAddresses:
-  - 00:17:DA:00:00:00/24
-  manufacturer: Spans Logic
-  manufacturerUri: https://device-type.com
-  name: SpansLog
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 239e9ec7-ce5b-5c98-a96e-16b9f0478774
-  macAddresses:
-  - 00:17:99:00:00:00/24
-  manufacturer: SmarTire Systems Inc.
-  manufacturerUri: https://device-type.com
-  name: SmarTire
-type: d3-device-type-assertion

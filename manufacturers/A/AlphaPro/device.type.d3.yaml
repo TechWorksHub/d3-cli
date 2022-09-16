@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b30f8d59-5dd7-5cb0-bb24-5e283b7e078a
-  macAddresses:
-  - 00:02:56:00:00:00/24
-  manufacturer: Alpha Processor, Inc.
-  manufacturerUri: https://device-type.com
-  name: AlphaPro
-type: d3-device-type-assertion

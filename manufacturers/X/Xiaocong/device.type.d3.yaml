@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e2634365-00f5-5665-bd55-86e31a418e4f
-  macAddresses:
-  - 28:FD:80:50:00:00/28
-  manufacturer: Xiaocong Network Limited
-  manufacturerUri: https://device-type.com
-  name: Xiaocong
-type: d3-device-type-assertion

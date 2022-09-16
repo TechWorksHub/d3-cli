@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 571d8c6d-dc2a-55f8-bb94-0ab1454ade94
-  macAddresses:
-  - B0:88:07:00:00:00/24
-  manufacturer: Strata Worldwide
-  manufacturerUri: https://device-type.com
-  name: StrataWo
-type: d3-device-type-assertion

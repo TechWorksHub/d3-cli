@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3ea14851-b404-5ea6-9f37-6571464f6ad1
-  macAddresses:
-  - 0C:9D:56:00:00:00/24
-  manufacturer: Consort Controls Ltd
-  manufacturerUri: https://device-type.com
-  name: ConsortC
-type: d3-device-type-assertion

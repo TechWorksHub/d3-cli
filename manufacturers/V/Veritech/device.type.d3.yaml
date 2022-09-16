@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b369b653-fbee-5ec6-8e91-8eed356b184d
-  macAddresses:
-  - 00:18:63:00:00:00/24
-  manufacturer: Veritech Electronics Limited
-  manufacturerUri: https://device-type.com
-  name: Veritech
-type: d3-device-type-assertion

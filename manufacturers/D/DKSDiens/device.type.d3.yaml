@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5e93c54c-da52-5db1-ab1f-dd29bfe8c475
-  macAddresses:
-  - 70:B3:D5:EF:80:00/36
-  manufacturer: DKS Dienstl.ges. f. Komm.anl. d. Stadt- u. Reg.verk. mbH
-  manufacturerUri: https://device-type.com
-  name: DKSDiens
-type: d3-device-type-assertion

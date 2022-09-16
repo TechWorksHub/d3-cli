@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5ffa162f-8046-5615-a550-3ad47aab2697
-  macAddresses:
-  - 00:50:C2:21:40:00/36
-  manufacturer: Oshimi System Design Inc.
-  manufacturerUri: https://device-type.com
-  name: OshimiSy
-type: d3-device-type-assertion

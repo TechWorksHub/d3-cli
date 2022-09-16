@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d8d9c833-e2c1-5747-b5dc-9712355ebe6c
-  macAddresses:
-  - 70:B3:D5:08:70:00/36
-  manufacturer: Tempus Fugit Consoles bvba
-  manufacturerUri: https://device-type.com
-  name: TempusFu
-type: d3-device-type-assertion

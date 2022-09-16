@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 02096a57-6929-5047-80bf-ec10dd5732df
-  macAddresses:
-  - 00:50:C2:5E:10:00/36
-  manufacturer: Ittiam Systems (P) Ltd
-  manufacturerUri: https://device-type.com
-  name: IttiamP
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 614d1d7b-b6ed-5f6b-8028-30ab456b1d7c
-  macAddresses:
-  - 00:50:C2:07:E0:00/36
-  manufacturer: JL-teknik
-  manufacturerUri: https://device-type.com
-  name: JL-tekni
-type: d3-device-type-assertion

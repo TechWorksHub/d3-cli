@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 52ad331b-3892-57db-94de-7ed1ae86569e
-  macAddresses:
-  - 44:8D:BF:00:00:00/24
-  manufacturer: Rhino Mobility LLC
-  manufacturerUri: https://device-type.com
-  name: RhinoMob
-type: d3-device-type-assertion

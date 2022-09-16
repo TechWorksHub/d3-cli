@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 859beb29-4b1a-55b6-bbdf-3ec9e9d15db3
-  macAddresses:
-  - 50:14:08:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: AiNET
-type: d3-device-type-assertion

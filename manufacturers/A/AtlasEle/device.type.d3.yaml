@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1b548e8c-eaf8-581d-8bea-83a22c3d0fc4
-  macAddresses:
-  - 20:6A:FF:00:00:00/24
-  manufacturer: Atlas Elektronik UK Limited
-  manufacturerUri: https://device-type.com
-  name: AtlasEle
-type: d3-device-type-assertion

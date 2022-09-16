@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c9c2c392-d3c6-52f1-9863-9f7a146e6464
-  macAddresses:
-  - 08:00:0E:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Ncr/At&T
-type: d3-device-type-assertion

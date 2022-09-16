@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4e625533-0d32-5f19-9f5c-abb44342d136
-  macAddresses:
-  - 00:60:28:00:00:00/24
-  manufacturer: Macrovision Corporation
-  manufacturerUri: https://device-type.com
-  name: Macrovis
-type: d3-device-type-assertion

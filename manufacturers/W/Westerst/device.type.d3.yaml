@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 97f47135-8757-550d-b77f-94f067b3b457
-  macAddresses:
-  - 00:07:09:00:00:00/24
-  manufacturer: Westerstrand Urfabrik AB
-  manufacturerUri: https://device-type.com
-  name: Westerst
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 93838681-dafe-5555-b05e-ad63dd865440
-  macAddresses:
-  - 00:1E:55:00:00:00/24
-  manufacturer: COWON SYSTEMS,Inc.
-  manufacturerUri: https://device-type.com
-  name: COWON
-type: d3-device-type-assertion

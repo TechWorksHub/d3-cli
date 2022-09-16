@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c9eba435-02b6-5a96-b8f3-469bf1033fd5
-  macAddresses:
-  - 00:A0:87:00:00:00/24
-  manufacturer: Microsemi Corporation
-  manufacturerUri: https://device-type.com
-  name: Microsem
-type: d3-device-type-assertion

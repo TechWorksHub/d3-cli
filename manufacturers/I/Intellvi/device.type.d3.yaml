@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 51e055a5-0d44-5a74-aaec-d18f4e4daf70
-  macAddresses:
-  - 00:1B:C5:00:40:00/36
-  manufacturer: Intellvisions Software Ltd
-  manufacturerUri: https://device-type.com
-  name: Intellvi
-type: d3-device-type-assertion

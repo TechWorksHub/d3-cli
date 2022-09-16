@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d0c02e2d-d589-540c-85dc-aeb332412b83
-  macAddresses:
-  - 00:00:77:00:00:00/24
-  manufacturer: Interphase
-  manufacturerUri: https://device-type.com
-  name: Interpha
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8c9812a2-4091-5b81-93cd-158e92608e9d
-  macAddresses:
-  - 60:4A:1C:00:00:00/24
-  manufacturer: SUYIN Corporation
-  manufacturerUri: https://device-type.com
-  name: SUYIN
-type: d3-device-type-assertion

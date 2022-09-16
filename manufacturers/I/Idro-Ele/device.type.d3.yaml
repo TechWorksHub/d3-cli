@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b69453c9-17a6-579d-bf6d-7eba44af654a
-  macAddresses:
-  - 8C:59:3C:D0:00:00/28
-  manufacturer: Idro-Elettrica S.P.A.
-  manufacturerUri: https://device-type.com
-  name: Idro-Ele
-type: d3-device-type-assertion

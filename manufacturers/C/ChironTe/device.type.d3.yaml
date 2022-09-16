@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2e73b9e4-c1a5-5d7b-a82b-c0ca5268a1d1
-  macAddresses:
-  - 00:11:78:00:00:00/24
-  manufacturer: Chiron Technology Ltd
-  manufacturerUri: https://device-type.com
-  name: ChironTe
-type: d3-device-type-assertion

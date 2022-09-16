@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 70e4de39-c844-512b-b1b3-c8a39bc9c3c8
-  macAddresses:
-  - 00:0A:A3:00:00:00/24
-  manufacturer: Shimafuji Electric Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: Shimafuj
-type: d3-device-type-assertion

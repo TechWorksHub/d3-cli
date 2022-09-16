@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7a60fd60-1666-57b6-9f44-858bdc1bb4c1
-  macAddresses:
-  - 00:50:C2:E2:B0:00/36
-  manufacturer: Plant Integrity Limited
-  manufacturerUri: https://device-type.com
-  name: PlantInt
-type: d3-device-type-assertion

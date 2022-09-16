@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a604a9e9-b66c-5f99-b7a6-e21bc563f313
-  macAddresses:
-  - 00:50:C8:00:00:00/24
-  manufacturer: Addonics Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: Addonics
-type: d3-device-type-assertion

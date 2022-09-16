@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4551d27f-0ef7-5004-be3c-1ed21f7f2f2f
-  macAddresses:
-  - E0:87:B1:00:00:00/24
-  manufacturer: Nata-Info Ltd.
-  manufacturerUri: https://device-type.com
-  name: Nata-Inf
-type: d3-device-type-assertion

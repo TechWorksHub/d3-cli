@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6f6ee363-476c-5762-9b90-35f2f433df33
-  macAddresses:
-  - 28:26:A6:00:00:00/24
-  manufacturer: PBR electronics GmbH
-  manufacturerUri: https://device-type.com
-  name: PBRelect
-type: d3-device-type-assertion

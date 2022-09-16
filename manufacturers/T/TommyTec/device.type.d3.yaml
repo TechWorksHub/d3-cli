@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 43420787-4b3b-5364-acdf-9fd2eed917fd
-  macAddresses:
-  - 00:02:74:00:00:00/24
-  manufacturer: Tommy Technologies Corp.
-  manufacturerUri: https://device-type.com
-  name: TommyTec
-type: d3-device-type-assertion

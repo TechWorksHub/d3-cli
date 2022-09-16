@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bb49e840-17fd-5d80-9f4d-7cf2d98766f8
-  macAddresses:
-  - E0:0D:B9:00:00:00/24
-  manufacturer: Cree, Inc.
-  manufacturerUri: https://device-type.com
-  name: Cree
-type: d3-device-type-assertion

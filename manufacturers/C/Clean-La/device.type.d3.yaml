@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: db43f1d3-2eb1-5d21-be26-26c205c8bc2f
-  macAddresses:
-  - 70:B3:D5:C5:F0:00/36
-  manufacturer: Clean-Lasersysteme GmbH
-  manufacturerUri: https://device-type.com
-  name: Clean-La
-type: d3-device-type-assertion

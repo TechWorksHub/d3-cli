@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4d2a27ef-4b9c-517d-92b8-a0fcd8c0729b
-  macAddresses:
-  - 70:B3:D5:ED:90:00/36
-  manufacturer: AADONA Communication Pvt Ltd
-  manufacturerUri: https://device-type.com
-  name: AADONACo
-type: d3-device-type-assertion

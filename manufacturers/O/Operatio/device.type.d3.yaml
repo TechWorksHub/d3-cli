@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f66dc6c2-86ce-5906-a1ae-b5778026f7e2
-  macAddresses:
-  - 70:B3:D5:4D:60:00/36
-  manufacturer: Operational Technology Solutions
-  manufacturerUri: https://device-type.com
-  name: Operatio
-type: d3-device-type-assertion

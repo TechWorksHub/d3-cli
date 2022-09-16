@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6572756b-30e7-5c2e-a35c-832265295afd
-  macAddresses:
-  - 70:B3:D5:FF:70:00/36
-  manufacturer: Cybercom AB
-  manufacturerUri: https://device-type.com
-  name: Cybercom
-type: d3-device-type-assertion

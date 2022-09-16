@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 78223395-716b-551f-a4b6-a67f23fdb380
-  macAddresses:
-  - 30:0A:60:50:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: A9
-type: d3-device-type-assertion

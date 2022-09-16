@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: af99eb35-a77d-5b7d-8909-34a2f812e402
-  macAddresses:
-  - 00:60:E8:00:00:00/24
-  manufacturer: Hitachi Computer Products (America), Inc.
-  manufacturerUri: https://device-type.com
-  name: HitachiC
-type: d3-device-type-assertion

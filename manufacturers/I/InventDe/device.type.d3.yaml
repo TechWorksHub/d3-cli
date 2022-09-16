@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ff3c9274-905e-5868-849c-1e426ea6d0e7
-  macAddresses:
-  - D0:76:50:A0:00:00/28
-  manufacturer: InventDesign
-  manufacturerUri: https://device-type.com
-  name: InventDe
-type: d3-device-type-assertion

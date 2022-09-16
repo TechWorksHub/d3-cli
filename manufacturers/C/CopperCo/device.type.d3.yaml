@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4c40cadb-96ad-595d-8983-de7319b7c336
-  macAddresses:
-  - 00:90:FD:00:00:00/24
-  manufacturer: CopperCom, Inc.
-  manufacturerUri: https://device-type.com
-  name: CopperCo
-type: d3-device-type-assertion

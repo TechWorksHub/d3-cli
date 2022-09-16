@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2ffb75a0-38fc-5c14-94ff-53dd80cf1fe9
-  macAddresses:
-  - 00:0E:F8:00:00:00/24
-  manufacturer: Sbc Asi
-  manufacturerUri: https://device-type.com
-  name: SbcAsi
-type: d3-device-type-assertion

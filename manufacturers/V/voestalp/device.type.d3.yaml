@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1d9d404d-88c3-5f8b-9534-b8b6f88f1e07
-  macAddresses:
-  - E8:6D:6E:00:00:00/24
-  manufacturer: voestalpine Signaling UK Ltd.
-  manufacturerUri: https://device-type.com
-  name: voestalp
-type: d3-device-type-assertion

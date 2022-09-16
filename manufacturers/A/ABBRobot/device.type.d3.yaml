@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 51527aad-7368-55c6-ae19-67e1c606ecdd
-  macAddresses:
-  - E0:02:A5:00:00:00/24
-  manufacturer: ABB Robotics
-  manufacturerUri: https://device-type.com
-  name: ABBRobot
-type: d3-device-type-assertion

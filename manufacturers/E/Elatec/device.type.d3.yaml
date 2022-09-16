@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4266f407-be0c-560c-a3d1-7890549c3b42
-  macAddresses:
-  - 20:1D:03:00:00:00/24
-  manufacturer: Elatec GmbH
-  manufacturerUri: https://device-type.com
-  name: Elatec
-type: d3-device-type-assertion

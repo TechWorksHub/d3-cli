@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0e5c6abd-7e64-535f-a124-f50eb3cdc9a0
-  macAddresses:
-  - 00:00:C9:00:00:00/24
-  manufacturer: Emulex
-  manufacturerUri: https://device-type.com
-  name: EmulexTe
-type: d3-device-type-assertion

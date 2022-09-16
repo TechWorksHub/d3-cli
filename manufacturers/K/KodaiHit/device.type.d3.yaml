@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 349f7e08-cb41-576e-89c0-320a642c906d
-  macAddresses:
-  - 00:E0:54:00:00:00/24
-  manufacturer: Kodai Hitec Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: KodaiHit
-type: d3-device-type-assertion

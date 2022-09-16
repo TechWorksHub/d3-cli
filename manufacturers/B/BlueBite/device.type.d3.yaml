@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 128d636c-a742-590a-9f96-bc9e5e1c86bb
-  macAddresses:
-  - F4:C0:2F:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: BlueBite
-type: d3-device-type-assertion

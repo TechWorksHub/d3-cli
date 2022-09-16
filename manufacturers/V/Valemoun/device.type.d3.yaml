@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: adaaa510-b9e8-55ae-80d2-87a8d8503e4f
-  macAddresses:
-  - 00:19:5F:00:00:00/24
-  manufacturer: Valemount Networks Corporation
-  manufacturerUri: https://device-type.com
-  name: Valemoun
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 16d8ffa9-dcf0-50c4-973c-ab1d9c3615d4
-  macAddresses:
-  - EC:49:93:00:00:00/24
-  manufacturer: Qihan Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: QihanTec
-type: d3-device-type-assertion

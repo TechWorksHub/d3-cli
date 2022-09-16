@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e1b07342-53d9-54fc-a0ed-6594c1a78e8f
-  macAddresses:
-  - 84:85:53:00:00:00/24
-  manufacturer: Biznes Systema Telecom, LLC
-  manufacturerUri: https://device-type.com
-  name: BiznesSy
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 20ff6cb0-7eac-515c-b828-fe4eb2ef0084
-  macAddresses:
-  - E0:F9:BE:00:00:00/24
-  manufacturer: Cloudena Corp.
-  manufacturerUri: https://device-type.com
-  name: Cloudena
-type: d3-device-type-assertion

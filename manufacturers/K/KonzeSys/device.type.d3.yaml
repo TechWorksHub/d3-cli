@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 27924b42-577c-58c1-b604-f69257df32e0
-  macAddresses:
-  - 28:02:45:00:00:00/24
-  manufacturer: Konze System Technology Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: KonzeSys
-type: d3-device-type-assertion

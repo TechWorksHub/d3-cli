@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 36cb3bf6-7cbf-53ef-9c3f-c093c65bc876
-  macAddresses:
-  - 70:B3:D5:14:E0:00/36
-  manufacturer: Innosonix GmbH
-  manufacturerUri: https://device-type.com
-  name: Innosoni
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 91ce4705-8ff8-5136-b3af-ac601d457d9e
-  macAddresses:
-  - 00:22:97:00:00:00/24
-  manufacturer: XMOS Semiconductor
-  manufacturerUri: https://device-type.com
-  name: XMOSSemi
-type: d3-device-type-assertion

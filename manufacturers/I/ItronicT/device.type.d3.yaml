@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1ceb6a3d-503a-53cd-9829-d4bf5edbc4e4
-  macAddresses:
-  - 98:38:7D:00:00:00/24
-  manufacturer: Itronic Technology Co. , Ltd.
-  manufacturerUri: https://device-type.com
-  name: ItronicT
-type: d3-device-type-assertion

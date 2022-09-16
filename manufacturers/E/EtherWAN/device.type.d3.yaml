@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e236b7a6-0b28-5b82-9c36-9288bd9c5af4
-  macAddresses:
-  - 00:E0:B3:00:00:00/24
-  manufacturer: EtherWAN Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: EtherWAN
-type: d3-device-type-assertion

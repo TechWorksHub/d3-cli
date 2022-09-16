@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ef50f850-5357-5ee0-81d5-c930d38374f9
-  macAddresses:
-  - 00:03:8C:00:00:00/24
-  manufacturer: Total Impact
-  manufacturerUri: https://device-type.com
-  name: TotalImp
-type: d3-device-type-assertion

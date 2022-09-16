@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 65d2c84f-9cbb-56ab-8ae8-3b448c597bff
-  macAddresses:
-  - 00:08:05:00:00:00/24
-  manufacturer: Techno-Holon Corporation
-  manufacturerUri: https://device-type.com
-  name: Techno-H
-type: d3-device-type-assertion

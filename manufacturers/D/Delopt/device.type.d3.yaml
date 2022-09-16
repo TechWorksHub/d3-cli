@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ebc23c53-dab5-54d9-98e5-0c02e0210cde
-  macAddresses:
-  - 40:D8:55:08:30:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Delopt
-type: d3-device-type-assertion

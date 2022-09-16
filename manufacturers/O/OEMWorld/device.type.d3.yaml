@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c7f03c10-bf03-52eb-98f5-60ec48a40358
-  macAddresses:
-  - 00:26:17:00:00:00/24
-  manufacturer: OEM Worldwide
-  manufacturerUri: https://device-type.com
-  name: OEMWorld
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 79f4e01b-51ee-5008-8cb0-777b4302df98
-  macAddresses:
-  - 94:A4:0C:00:00:00/24
-  manufacturer: Diehl Metering GmbH
-  manufacturerUri: https://device-type.com
-  name: DiehlMet
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 398ccdba-9bb5-5c0b-9956-b5543a6a0c90
-  macAddresses:
-  - 00:11:96:00:00:00/24
-  manufacturer: Actuality Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Actualit
-type: d3-device-type-assertion

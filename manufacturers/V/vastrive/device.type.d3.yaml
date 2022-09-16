@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 851e4490-d7d4-54f0-b582-abfc00fdd9e9
-  macAddresses:
-  - E0:ED:1A:00:00:00/24
-  manufacturer: vastriver Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: vastrive
-type: d3-device-type-assertion

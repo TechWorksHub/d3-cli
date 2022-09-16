@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5147f973-d9b3-5c16-9fcc-90402935a0ab
-  macAddresses:
-  - 00:1E:CB:00:00:00/24
-  manufacturer: RPC Energoautomatika" Ltd
-  manufacturerUri: https://device-type.com
-  name: RPCEnerg
-type: d3-device-type-assertion

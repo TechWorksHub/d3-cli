@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ff7507bc-73d6-5bb8-8047-da189ed5a956
-  macAddresses:
-  - 00:1E:E8:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Mytek
-type: d3-device-type-assertion

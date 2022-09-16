@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d0c8e73a-6a38-5a6d-988a-898e90e1d232
-  macAddresses:
-  - 78:5E:E8:50:00:00/28
-  manufacturer: Infomobility S.R.L.
-  manufacturerUri: https://device-type.com
-  name: Infomobi
-type: d3-device-type-assertion

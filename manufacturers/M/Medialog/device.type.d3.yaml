@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 425c5078-fbd1-5cef-975a-839579e08ecc
-  macAddresses:
-  - 00:04:82:00:00:00/24
-  manufacturer: Medialogic Corp.
-  manufacturerUri: https://device-type.com
-  name: Medialog
-type: d3-device-type-assertion

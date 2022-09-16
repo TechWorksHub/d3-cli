@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1889d476-a188-5b35-a8b6-8b2370a77155
-  macAddresses:
-  - 00:E0:E3:00:00:00/24
-  manufacturer: Sk-Elektronik Gmbh
-  manufacturerUri: https://device-type.com
-  name: Sk-Elekt
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b3859db7-caa8-513c-889b-33e0869e32c7
-  macAddresses:
-  - 00:13:ED:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Psia
-type: d3-device-type-assertion

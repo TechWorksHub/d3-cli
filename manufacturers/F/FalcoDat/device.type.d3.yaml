@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1f437f29-22a3-5f95-b133-efe3e5d12663
-  macAddresses:
-  - 00:80:CB:00:00:00/24
-  manufacturer: Falco Data Products
-  manufacturerUri: https://device-type.com
-  name: FalcoDat
-type: d3-device-type-assertion

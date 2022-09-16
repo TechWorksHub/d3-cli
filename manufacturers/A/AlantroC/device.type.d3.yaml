@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 586ddb00-2bad-51ca-ba15-6f5d1adfed78
-  macAddresses:
-  - 00:D0:A4:00:00:00/24
-  manufacturer: Alantro Communications
-  manufacturerUri: https://device-type.com
-  name: AlantroC
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1d662040-c5b8-5b3c-ae68-003c3361efd6
-  macAddresses:
-  - 84:2B:BC:00:00:00/24
-  manufacturer: Modelleisenbahn GmbH
-  manufacturerUri: https://device-type.com
-  name: Modellei
-type: d3-device-type-assertion

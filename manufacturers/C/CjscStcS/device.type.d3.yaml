@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ae3aab72-b643-58eb-a923-e772d5fef830
-  macAddresses:
-  - 00:1B:C5:02:20:00/36
-  manufacturer: Cjsc Stc Simos
-  manufacturerUri: https://device-type.com
-  name: CjscStcS
-type: d3-device-type-assertion

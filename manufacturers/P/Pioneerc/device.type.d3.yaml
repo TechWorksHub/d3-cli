@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a7f9aa6b-aad8-5204-af4e-77a92b78501d
-  macAddresses:
-  - E0:6D:18:00:00:00/24
-  manufacturer: Pioneercorporation
-  manufacturerUri: https://device-type.com
-  name: Pioneerc
-type: d3-device-type-assertion

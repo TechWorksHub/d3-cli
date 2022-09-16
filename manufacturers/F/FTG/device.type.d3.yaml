@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6b34318c-166c-5128-8129-90ac9905d99a
-  macAddresses:
-  - 70:B3:D5:01:70:00/36
-  manufacturer: FTG Corporation
-  manufacturerUri: https://device-type.com
-  name: FTG
-type: d3-device-type-assertion

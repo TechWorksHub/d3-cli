@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 373e2ebd-f733-57e1-bc15-2037b69e49ec
-  macAddresses:
-  - 00:09:CE:00:00:00/24
-  manufacturer: SpaceBridge Semiconductor Corp.
-  manufacturerUri: https://device-type.com
-  name: SpaceBri
-type: d3-device-type-assertion

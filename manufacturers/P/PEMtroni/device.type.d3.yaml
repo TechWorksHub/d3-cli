@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6cdd200f-606f-51b8-a5d8-e55096421265
-  macAddresses:
-  - 7C:83:34:20:00:00/28
-  manufacturer: PEMtronics LLC
-  manufacturerUri: https://device-type.com
-  name: PEMtroni
-type: d3-device-type-assertion

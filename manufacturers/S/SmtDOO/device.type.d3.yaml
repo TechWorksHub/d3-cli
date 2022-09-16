@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dc2bf960-9813-5270-870e-fa19faeb5d94
-  macAddresses:
-  - 40:D8:55:02:10:00/36
-  manufacturer: Smt D.O.O.
-  manufacturerUri: https://device-type.com
-  name: SmtDOO
-type: d3-device-type-assertion

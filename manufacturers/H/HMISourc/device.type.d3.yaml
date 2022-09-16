@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0f02b389-1619-53b0-847f-44bddc3372ae
-  macAddresses:
-  - C4:1E:CE:00:00:00/24
-  manufacturer: HMI Sources Ltd.
-  manufacturerUri: https://device-type.com
-  name: HMISourc
-type: d3-device-type-assertion

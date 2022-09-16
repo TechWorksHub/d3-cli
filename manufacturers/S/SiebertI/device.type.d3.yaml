@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 86693b32-6c18-5ffa-a4b1-12c5377029bd
-  macAddresses:
-  - 40:ED:98:B0:00:00/28
-  manufacturer: Siebert Industrieelektronik GmbH
-  manufacturerUri: https://device-type.com
-  name: SiebertI
-type: d3-device-type-assertion

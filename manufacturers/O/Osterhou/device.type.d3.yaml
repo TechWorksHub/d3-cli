@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 17a72898-a728-5d05-ab96-bd8df0f86c49
-  macAddresses:
-  - 80:A8:5D:00:00:00/24
-  manufacturer: Osterhout Design Group
-  manufacturerUri: https://device-type.com
-  name: Osterhou
-type: d3-device-type-assertion

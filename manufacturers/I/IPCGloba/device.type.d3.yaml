@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f110131a-6dc9-51d7-b52d-dd99dda9516d
-  macAddresses:
-  - 50:FF:99:40:00:00/28
-  manufacturer: IPC Global
-  manufacturerUri: https://device-type.com
-  name: IPCGloba
-type: d3-device-type-assertion

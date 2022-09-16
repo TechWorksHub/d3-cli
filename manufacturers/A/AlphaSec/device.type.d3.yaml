@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2950aaef-5328-562b-a643-0fa950291ce2
-  macAddresses:
-  - C0:12:42:00:00:00/24
-  manufacturer: Alpha Security Products
-  manufacturerUri: https://device-type.com
-  name: AlphaSec
-type: d3-device-type-assertion

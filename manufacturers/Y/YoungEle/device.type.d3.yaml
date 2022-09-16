@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5b8d8416-345a-5eaa-8857-bed6eeec3739
-  macAddresses:
-  - 44:37:6F:00:00:00/24
-  manufacturer: Young Electric Sign Co
-  manufacturerUri: https://device-type.com
-  name: YoungEle
-type: d3-device-type-assertion

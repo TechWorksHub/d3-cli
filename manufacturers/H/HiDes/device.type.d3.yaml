@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 51cc7e43-1118-505b-b6b2-4b1d972c8015
-  macAddresses:
-  - 70:B3:D5:83:70:00/36
-  manufacturer: HiDes, Inc.
-  manufacturerUri: https://device-type.com
-  name: HiDes
-type: d3-device-type-assertion

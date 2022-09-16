@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1e762e53-0928-5321-8acc-267a3022816c
-  macAddresses:
-  - 00:A0:5F:00:00:00/24
-  manufacturer: BTG Electronics Design BV
-  manufacturerUri: https://device-type.com
-  name: BTGElect
-type: d3-device-type-assertion

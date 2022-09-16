@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fc52e6ea-f7c7-59f1-b8b8-3686816a9bd8
-  macAddresses:
-  - 00:00:BE:00:00:00/24
-  manufacturer: The Nti Group
-  manufacturerUri: https://device-type.com
-  name: NtiGroup
-type: d3-device-type-assertion

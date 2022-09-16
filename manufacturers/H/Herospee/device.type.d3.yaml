@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dcd7757e-cd00-543c-9322-e223ade7b8e3
-  macAddresses:
-  - 2C:6F:51:00:00:00/24
-  manufacturer: Herospeed Digital Technology Limited
-  manufacturerUri: https://device-type.com
-  name: Herospee
-type: d3-device-type-assertion

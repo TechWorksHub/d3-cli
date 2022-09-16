@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cb3a21f0-12a4-591c-8e10-b9921a06447b
-  macAddresses:
-  - 28:BC:18:00:00:00/24
-  manufacturer: SourcingOverseas Co. Ltd
-  manufacturerUri: https://device-type.com
-  name: Sourcing
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6f38073d-343a-521f-ba10-82d5d045764e
-  macAddresses:
-  - 00:30:9B:00:00:00/24
-  manufacturer: Smartware
-  manufacturerUri: https://device-type.com
-  name: Smartwar
-type: d3-device-type-assertion

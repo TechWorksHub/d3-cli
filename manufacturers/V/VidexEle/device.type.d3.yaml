@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 868e16db-d59e-5327-904d-a952a4cd906f
-  macAddresses:
-  - A0:3E:6B:20:00:00/28
-  manufacturer: Videx Electronics S.p.A.
-  manufacturerUri: https://device-type.com
-  name: VidexEle
-type: d3-device-type-assertion

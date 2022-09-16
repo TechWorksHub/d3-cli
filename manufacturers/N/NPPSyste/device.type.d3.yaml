@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d8ffcef4-72fa-58bd-b1e3-02ddbeb1876e
-  macAddresses:
-  - 6C:2C:06:00:00:00/24
-  manufacturer: OOO NPP Systemotechnika-NN
-  manufacturerUri: https://device-type.com
-  name: NPPSyste
-type: d3-device-type-assertion

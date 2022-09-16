@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8574a2cf-7180-526d-a5f5-d4859fcd739e
-  macAddresses:
-  - 00:A0:8B:00:00:00/24
-  manufacturer: Aston Electronic Designs Ltd.
-  manufacturerUri: https://device-type.com
-  name: AstonEle
-type: d3-device-type-assertion

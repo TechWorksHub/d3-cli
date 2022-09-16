@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c987e789-260e-5265-99a4-44eb80b31675
-  macAddresses:
-  - 00:08:2B:00:00:00/24
-  manufacturer: Wooksung Electronics, Inc.
-  manufacturerUri: https://device-type.com
-  name: Wooksung
-type: d3-device-type-assertion

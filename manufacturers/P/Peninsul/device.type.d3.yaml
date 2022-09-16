@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c93de32e-144e-5e8d-8fa7-914967d4538b
-  macAddresses:
-  - 00:08:A5:00:00:00/24
-  manufacturer: Peninsula Systems Inc.
-  manufacturerUri: https://device-type.com
-  name: Peninsul
-type: d3-device-type-assertion

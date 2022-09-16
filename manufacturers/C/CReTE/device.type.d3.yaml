@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 18411b61-5cea-5a53-9599-6bef2f1d205f
-  macAddresses:
-  - 00:16:3F:00:00:00/24
-  manufacturer: CReTE SYSTEMS Inc.
-  manufacturerUri: https://device-type.com
-  name: CReTE
-type: d3-device-type-assertion

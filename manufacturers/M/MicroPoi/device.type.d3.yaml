@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 85cb4854-5bdb-51c5-a874-77140e965c0a
-  macAddresses:
-  - 00:50:C2:B8:A0:00/36
-  manufacturer: MicroPoise
-  manufacturerUri: https://device-type.com
-  name: MicroPoi
-type: d3-device-type-assertion

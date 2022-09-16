@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cf4a8dd1-d4c1-572e-a747-2a656004dfd3
-  macAddresses:
-  - 70:B3:D5:99:F0:00/36
-  manufacturer: Confed Holding B.V.
-  manufacturerUri: https://device-type.com
-  name: Confed
-type: d3-device-type-assertion

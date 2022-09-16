@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 03a3f713-4049-5197-a815-50211031d352
-  macAddresses:
-  - 00:14:89:00:00:00/24
-  manufacturer: B15402100 - Jandei, S.L.
-  manufacturerUri: https://device-type.com
-  name: B1540210
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 44d39193-ce8e-5998-9889-ff16db0c50a5
-  macAddresses:
-  - 00:0D:C3:00:00:00/24
-  manufacturer: First Communication, Inc.
-  manufacturerUri: https://device-type.com
-  name: FirstCom
-type: d3-device-type-assertion

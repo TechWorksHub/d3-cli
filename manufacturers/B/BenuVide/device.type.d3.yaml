@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 373ba304-cad7-5b18-8717-ccb194758dc1
-  macAddresses:
-  - 08:AC:A5:00:00:00/24
-  manufacturer: Benu Video, Inc.
-  manufacturerUri: https://device-type.com
-  name: BenuVide
-type: d3-device-type-assertion

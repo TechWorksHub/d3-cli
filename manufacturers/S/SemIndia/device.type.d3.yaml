@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a2426273-d4c4-536e-8c44-82ba0fd4f4b3
-  macAddresses:
-  - 00:21:2C:00:00:00/24
-  manufacturer: SemIndia System Private Limited
-  manufacturerUri: https://device-type.com
-  name: SemIndia
-type: d3-device-type-assertion

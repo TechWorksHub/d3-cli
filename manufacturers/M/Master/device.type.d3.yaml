@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: be8719ba-24da-5d44-be88-3c05acafc40b
-  macAddresses:
-  - 00:50:C2:B0:20:00/36
-  manufacturer: Master Co Ltd
-  manufacturerUri: https://device-type.com
-  name: Master
-type: d3-device-type-assertion

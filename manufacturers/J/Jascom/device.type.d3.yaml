@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1edb4128-9c61-5517-99d9-731e4b74138b
-  macAddresses:
-  - 00:08:65:00:00:00/24
-  manufacturer: Jascom Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Jascom
-type: d3-device-type-assertion

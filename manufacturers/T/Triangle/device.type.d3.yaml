@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4f282c6d-49c0-5c0d-8956-9d149dfed501
-  macAddresses:
-  - 00:1F:2E:00:00:00/24
-  manufacturer: Triangle Research Int'l Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: Triangle
-type: d3-device-type-assertion

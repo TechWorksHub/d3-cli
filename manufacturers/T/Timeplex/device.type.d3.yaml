@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2cd7950d-1834-522b-a256-fc2d33d18950
-  macAddresses:
-  - 00:00:2F:00:00:00/24
-  manufacturer: Timeplex Inc.
-  manufacturerUri: https://device-type.com
-  name: Timeplex
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 24a46af0-3c8e-5a6e-8cdc-e23385eb2703
-  macAddresses:
-  - 00:50:C2:91:00:00/36
-  manufacturer: Autotank AB
-  manufacturerUri: https://device-type.com
-  name: Autotank
-type: d3-device-type-assertion

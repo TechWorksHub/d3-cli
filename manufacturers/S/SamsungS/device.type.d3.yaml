@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5bc5eec3-09be-5104-b9a6-69fb3a968c4c
-  macAddresses:
-  - 74:5F:00:00:00:00/24
-  manufacturer: Samsung Semiconductor Inc.
-  manufacturerUri: https://device-type.com
-  name: SamsungS
-type: d3-device-type-assertion

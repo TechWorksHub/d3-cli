@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 18472507-66dd-5be3-89de-70ab96d1a718
-  macAddresses:
-  - 58:A7:6F:00:00:00/24
-  manufacturer: iD corporation
-  manufacturerUri: https://device-type.com
-  name: iD
-type: d3-device-type-assertion

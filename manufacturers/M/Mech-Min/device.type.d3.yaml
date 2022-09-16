@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b363484c-eb66-5de4-b408-49badad2750f
-  macAddresses:
-  - 80:02:F4:60:00:00/28
-  manufacturer: Mech-Mind Robotics Technologies Ltd.
-  manufacturerUri: https://device-type.com
-  name: Mech-Min
-type: d3-device-type-assertion

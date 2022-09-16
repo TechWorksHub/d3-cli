@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cad31243-1603-5a98-869c-eca697431fbd
-  macAddresses:
-  - D4:6C:DA:00:00:00/24
-  manufacturer: CSM GmbH
-  manufacturerUri: https://device-type.com
-  name: CSM
-type: d3-device-type-assertion

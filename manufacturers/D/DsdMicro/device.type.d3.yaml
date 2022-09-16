@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5c6aaa02-aa2e-5e66-b692-7135b97f3436
-  macAddresses:
-  - 70:B3:D5:30:80:00/36
-  manufacturer: Dsd Microtechnology,Inc.
-  manufacturerUri: https://device-type.com
-  name: DsdMicro
-type: d3-device-type-assertion

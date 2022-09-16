@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 36e0e9fc-7dc9-5dec-aec5-4c4725e51bf3
-  macAddresses:
-  - 00:19:EC:00:00:00/24
-  manufacturer: Sagamore Systems, Inc.
-  manufacturerUri: https://device-type.com
-  name: Sagamore
-type: d3-device-type-assertion

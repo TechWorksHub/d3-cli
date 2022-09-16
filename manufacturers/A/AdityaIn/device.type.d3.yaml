@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9493b6dd-6f3d-530c-ad3f-03195eae649f
-  macAddresses:
-  - 28:18:FD:00:00:00/24
-  manufacturer: Aditya Infotech Ltd.
-  manufacturerUri: https://device-type.com
-  name: AdityaIn
-type: d3-device-type-assertion

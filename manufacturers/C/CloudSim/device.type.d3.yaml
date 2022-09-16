@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e214b666-268e-5c27-9d0d-7bd8ad2ab0c9
-  macAddresses:
-  - EA:60:76:00:00:00/24
-  manufacturer: CloudSimple, Inc.
-  manufacturerUri: https://device-type.com
-  name: CloudSim
-type: d3-device-type-assertion

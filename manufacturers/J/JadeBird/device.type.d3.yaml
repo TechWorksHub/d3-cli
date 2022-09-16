@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 53501466-84dd-5ec3-b3a8-bd1841979515
-  macAddresses:
-  - 38:1F:26:C0:00:00/28
-  manufacturer: Jade Bird Fire Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: JadeBird
-type: d3-device-type-assertion

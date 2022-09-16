@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2d1a9a9d-3528-575a-8763-bb857dd3fe03
-  macAddresses:
-  - BC:66:41:10:00:00/28
-  manufacturer: Global China Technology Limited
-  manufacturerUri: https://device-type.com
-  name: GlobalCh
-type: d3-device-type-assertion

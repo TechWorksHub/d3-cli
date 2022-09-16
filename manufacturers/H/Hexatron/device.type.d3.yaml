@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ff782663-1c33-53ec-b65c-55981210a968
-  macAddresses:
-  - AC:80:D6:00:00:00/24
-  manufacturer: Hexatronic AB
-  manufacturerUri: https://device-type.com
-  name: Hexatron
-type: d3-device-type-assertion

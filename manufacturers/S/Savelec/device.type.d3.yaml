@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aafb39af-203b-54d0-9d23-5c3f51b05947
-  macAddresses:
-  - 1C:A0:D3:30:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Savelec
-type: d3-device-type-assertion

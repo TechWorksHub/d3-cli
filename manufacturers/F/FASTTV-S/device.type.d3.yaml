@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 51c2045f-75fb-59f5-866e-992c889cf32e
-  macAddresses:
-  - 00:0F:8D:00:00:00/24
-  manufacturer: FAST TV-Server AG
-  manufacturerUri: https://device-type.com
-  name: FASTTV-S
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 03bcf6d6-270f-53db-a6b6-92e3fd640af2
-  macAddresses:
-  - 0C:E9:9A:00:00:00/24
-  manufacturer: Atls Altec
-  manufacturerUri: https://device-type.com
-  name: AtlsAlte
-type: d3-device-type-assertion

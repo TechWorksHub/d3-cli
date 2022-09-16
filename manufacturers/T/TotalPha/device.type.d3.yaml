@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5d131f33-d360-5c44-a84c-1a1eb6940427
-  macAddresses:
-  - 90:8C:09:00:00:00/24
-  manufacturer: Total Phase
-  manufacturerUri: https://device-type.com
-  name: TotalPha
-type: d3-device-type-assertion

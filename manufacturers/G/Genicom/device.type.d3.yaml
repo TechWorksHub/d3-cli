@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 076707e2-c86d-5581-acfe-a4601f648dff
-  macAddresses:
-  - 00:50:27:00:00:00/24
-  manufacturer: Genicom Corporation
-  manufacturerUri: https://device-type.com
-  name: Genicom
-type: d3-device-type-assertion

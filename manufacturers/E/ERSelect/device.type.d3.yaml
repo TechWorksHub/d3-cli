@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c1dfb2ce-8535-58e5-81a9-24b177863442
-  macAddresses:
-  - 00:50:C2:D9:70:00/36
-  manufacturer: ERS electronic GmbH
-  manufacturerUri: https://device-type.com
-  name: ERSelect
-type: d3-device-type-assertion

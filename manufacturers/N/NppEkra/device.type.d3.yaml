@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9f5150ae-1ba9-598b-be3d-fda63c7cddf3
-  macAddresses:
-  - 00:26:57:00:00:00/24
-  manufacturer: Ooo Npp Ekra
-  manufacturerUri: https://device-type.com
-  name: NppEkra
-type: d3-device-type-assertion

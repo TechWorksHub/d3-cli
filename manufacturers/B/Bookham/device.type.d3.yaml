@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9ec69fbb-e8d8-5847-91b1-3b8e272c1232
-  macAddresses:
-  - 00:14:73:00:00:00/24
-  manufacturer: Bookham Inc
-  manufacturerUri: https://device-type.com
-  name: Bookham
-type: d3-device-type-assertion

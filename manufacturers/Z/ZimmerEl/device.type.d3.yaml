@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0d0d245e-2c50-5843-9aa4-3982ddc17d77
-  macAddresses:
-  - 00:15:E4:00:00:00/24
-  manufacturer: Zimmer Elektromedizin
-  manufacturerUri: https://device-type.com
-  name: ZimmerEl
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5f9f3e1c-51b7-5bd8-bc1e-2b2dfdb88c85
-  macAddresses:
-  - 64:4F:42:00:00:00/24
-  manufacturer: JETTER CO., Ltd.
-  manufacturerUri: https://device-type.com
-  name: JETTER
-type: d3-device-type-assertion

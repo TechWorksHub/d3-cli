@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 775f91f0-6311-55a0-b91d-e3b79afce27f
-  macAddresses:
-  - 78:12:B8:00:00:00/24
-  manufacturer: Orantek Limited
-  manufacturerUri: https://device-type.com
-  name: Orantek
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ae9c6b33-404d-5467-962f-896569eb4019
-  macAddresses:
-  - 00:16:7D:00:00:00/24
-  manufacturer: Sky-Line Information Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Sky-Line
-type: d3-device-type-assertion

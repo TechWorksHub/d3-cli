@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 482ffcd3-71da-5e19-a0a1-36a82f5d0c4f
-  macAddresses:
-  - 00:C0:13:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Netrix
-type: d3-device-type-assertion

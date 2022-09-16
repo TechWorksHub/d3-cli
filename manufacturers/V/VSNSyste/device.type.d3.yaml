@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 91c4f323-b44b-5f35-8c4f-ebce944ae6e0
-  macAddresses:
-  - 00:09:25:00:00:00/24
-  manufacturer: VSN Systemen BV
-  manufacturerUri: https://device-type.com
-  name: VSNSyste
-type: d3-device-type-assertion

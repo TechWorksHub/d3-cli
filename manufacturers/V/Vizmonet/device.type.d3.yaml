@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b4865723-eae4-534a-9cba-0f8004903459
-  macAddresses:
-  - 74:E2:77:00:00:00/24
-  manufacturer: Vizmonet Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: Vizmonet
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7dc91161-2c67-52ae-9343-6494cd683f9c
-  macAddresses:
-  - 00:25:2D:00:00:00/24
-  manufacturer: Kiryung Electronics
-  manufacturerUri: https://device-type.com
-  name: KiryungE
-type: d3-device-type-assertion

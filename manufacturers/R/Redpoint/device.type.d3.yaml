@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 966be686-bcdc-5395-9b79-0a0449e93645
-  macAddresses:
-  - 00:50:C2:1D:50:00/36
-  manufacturer: Redpoint Controls
-  manufacturerUri: https://device-type.com
-  name: Redpoint
-type: d3-device-type-assertion

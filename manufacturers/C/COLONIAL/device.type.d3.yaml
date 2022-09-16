@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 98804301-ddf4-5050-91b5-714fe74e3fc9
-  macAddresses:
-  - 40:D8:55:05:90:00/36
-  manufacturer: COLONIAL ASSEMBLY and DESIGN
-  manufacturerUri: https://device-type.com
-  name: COLONIAL
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 923e2844-df0f-51e5-9cab-9fd83d6272ac
-  macAddresses:
-  - 00:90:BC:00:00:00/24
-  manufacturer: Telemann Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Telemann
-type: d3-device-type-assertion

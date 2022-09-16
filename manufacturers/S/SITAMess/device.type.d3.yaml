@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bc1912dd-838a-59d8-b3b4-fe55bd488f56
-  macAddresses:
-  - 70:B3:D5:53:50:00/36
-  manufacturer: SITA Messtechnik GmbH
-  manufacturerUri: https://device-type.com
-  name: SITAMess
-type: d3-device-type-assertion

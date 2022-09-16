@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0ea5995c-2452-5b3f-b594-50c976048c6a
-  macAddresses:
-  - 00:2D:76:00:00:00/24
-  manufacturer: TITECH GmbH
-  manufacturerUri: https://device-type.com
-  name: TITECH
-type: d3-device-type-assertion

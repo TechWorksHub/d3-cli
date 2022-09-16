@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b81f0240-be48-52e6-ad8c-dcb012f45ca1
-  macAddresses:
-  - 00:06:DE:00:00:00/24
-  manufacturer: Flash Technology
-  manufacturerUri: https://device-type.com
-  name: FlashTec
-type: d3-device-type-assertion

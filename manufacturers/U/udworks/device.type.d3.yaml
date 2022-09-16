@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ad788853-b351-52bf-a0b2-97e01437a98d
-  macAddresses:
-  - 44:AA:27:00:00:00/24
-  manufacturer: udworks Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: udworks
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a8797d16-5afe-580f-80cb-f361ce102146
-  macAddresses:
-  - 04:92:EE:00:00:00/24
-  manufacturer: iway AG
-  manufacturerUri: https://device-type.com
-  name: iway
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 971a6c94-d794-5e27-8733-3e7d6000c23b
-  macAddresses:
-  - 00:11:A3:00:00:00/24
-  manufacturer: LanReady Technologies Inc.
-  manufacturerUri: https://device-type.com
-  name: LanReady
-type: d3-device-type-assertion

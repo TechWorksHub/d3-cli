@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cfac9cc3-e100-5a78-95d6-bb2931085ccf
-  macAddresses:
-  - 00:00:8B:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Infotron
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5f1781fd-812b-58fb-94e0-d2a79fad44d4
-  macAddresses:
-  - 04:71:4B:40:00:00/28
-  manufacturer: Apparatebau Gauting GmbH
-  manufacturerUri: https://device-type.com
-  name: Apparate
-type: d3-device-type-assertion

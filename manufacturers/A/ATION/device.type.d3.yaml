@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1312b139-3b76-55e4-9f51-f18791de6bc8
-  macAddresses:
-  - 70:B3:D5:32:C0:00/36
-  manufacturer: ATION Corporation
-  manufacturerUri: https://device-type.com
-  name: ATION
-type: d3-device-type-assertion

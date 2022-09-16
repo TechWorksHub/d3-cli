@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2e66058e-f69f-59d1-823f-4d763a7b2356
-  macAddresses:
-  - D4:52:2A:00:00:00/24
-  manufacturer: TangoWiFi.com
-  manufacturerUri: https://device-type.com
-  name: TangoWiF
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c06b6105-b92d-5c11-af3d-c710d10c3685
-  macAddresses:
-  - 9C:8E:CD:00:00:00/24
-  manufacturer: Amcrest Technologies
-  manufacturerUri: https://device-type.com
-  name: AmcrestT
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 54009769-1423-5ab0-b3a4-7696ea924f8b
-  macAddresses:
-  - 00:04:89:00:00:00/24
-  manufacturer: YAFO Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: YAFONetw
-type: d3-device-type-assertion

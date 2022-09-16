@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7a44e237-4e08-552e-ab35-eaa071e9e92e
-  macAddresses:
-  - 70:B3:D5:97:00:00/36
-  manufacturer: Bintel AB
-  manufacturerUri: https://device-type.com
-  name: Bintel
-type: d3-device-type-assertion

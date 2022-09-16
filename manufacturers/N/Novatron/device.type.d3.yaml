@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 655113d9-b60c-56a0-8fe9-480b97562ab0
-  macAddresses:
-  - 00:17:B8:00:00:00/24
-  manufacturer: Novatron Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Novatron
-type: d3-device-type-assertion

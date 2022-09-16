@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2de6e842-accd-5354-b2b6-ed6a15c13a50
-  macAddresses:
-  - 00:1F:7F:00:00:00/24
-  manufacturer: Phabrix Limited
-  manufacturerUri: https://device-type.com
-  name: Phabrix
-type: d3-device-type-assertion

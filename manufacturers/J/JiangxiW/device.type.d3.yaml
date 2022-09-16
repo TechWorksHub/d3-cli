@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4a72b1b4-f021-5b12-a3a3-aad28171278d
-  macAddresses:
-  - 78:13:05:40:00:00/28
-  manufacturer: Jiangxi Winsky Intelligence Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: JiangxiW
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 29f77430-3d2a-50fc-ab0d-10ab5eae33b4
-  macAddresses:
-  - E0:E8:BB:00:00:00/24
-  manufacturer: Unicom Vsens Telecommunications Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: UnicomVs
-type: d3-device-type-assertion

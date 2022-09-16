@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 38d3d370-6363-59a4-95d2-07dfa949adca
-  macAddresses:
-  - 00:08:64:00:00:00/24
-  manufacturer: Fasy S.p.A.
-  manufacturerUri: https://device-type.com
-  name: Fasy
-type: d3-device-type-assertion

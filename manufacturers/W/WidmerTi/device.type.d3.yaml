@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a76acc27-6241-5559-804f-9236fbc265d3
-  macAddresses:
-  - 00:50:C2:6C:C0:00/36
-  manufacturer: Widmer Time Recorder Co., Inc.
-  manufacturerUri: https://device-type.com
-  name: WidmerTi
-type: d3-device-type-assertion

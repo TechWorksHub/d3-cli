@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 605fc873-f3ab-511a-abd4-7a83c03f0637
-  macAddresses:
-  - 24:D2:CC:00:00:00/24
-  manufacturer: SmartDrive Systems Inc.
-  manufacturerUri: https://device-type.com
-  name: SmartDri
-type: d3-device-type-assertion

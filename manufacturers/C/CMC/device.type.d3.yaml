@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 072a3341-1817-52f1-b658-fbfda7d73e51
-  macAddresses:
-  - 02:CF:1F:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: CMC
-type: d3-device-type-assertion

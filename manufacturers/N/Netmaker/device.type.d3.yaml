@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8d0e4012-cc7a-5ddf-af3e-893514e7b024
-  macAddresses:
-  - 00:50:C2:E6:90:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Netmaker
-type: d3-device-type-assertion

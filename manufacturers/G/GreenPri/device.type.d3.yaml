@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7d961f42-adaf-5064-8fca-9e50de303a5b
-  macAddresses:
-  - DC:AD:9E:00:00:00/24
-  manufacturer: GreenPriz
-  manufacturerUri: https://device-type.com
-  name: GreenPri
-type: d3-device-type-assertion

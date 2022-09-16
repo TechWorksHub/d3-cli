@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f9fb3cf7-3638-50c5-a13c-31c0ba9b2065
-  macAddresses:
-  - 78:D4:F1:B0:00:00/28
-  manufacturer: Jiangsu byzoro intelligent technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: Jiangsub
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bff84739-0cd3-517e-a024-02daa814b4d3
-  macAddresses:
-  - 00:50:C2:53:80:00/36
-  manufacturer: EtherTek Circuits
-  manufacturerUri: https://device-type.com
-  name: EtherTek
-type: d3-device-type-assertion

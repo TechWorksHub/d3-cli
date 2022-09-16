@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 497d7e0e-f175-5e0e-99ba-8d623e8998f9
-  macAddresses:
-  - 00:05:F1:00:00:00/24
-  manufacturer: Vrcom, Inc.
-  manufacturerUri: https://device-type.com
-  name: Vrcom
-type: d3-device-type-assertion

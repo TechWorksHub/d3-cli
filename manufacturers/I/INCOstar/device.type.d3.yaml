@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5e25458b-8209-51a5-a37e-37da34b8249a
-  macAddresses:
-  - 00:27:01:00:00:00/24
-  manufacturer: INCOstartec GmbH
-  manufacturerUri: https://device-type.com
-  name: INCOstar
-type: d3-device-type-assertion

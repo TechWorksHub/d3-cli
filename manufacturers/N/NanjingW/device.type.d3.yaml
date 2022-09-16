@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 212a914f-19a5-5c04-989d-949426a09433
-  macAddresses:
-  - 24:4E:7B:70:00:00/28
-  manufacturer: Nanjing Wanlida Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: NanjingW
-type: d3-device-type-assertion

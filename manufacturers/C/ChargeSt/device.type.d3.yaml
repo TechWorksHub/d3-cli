@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c53a085d-6f91-5579-9884-5eb396b3f01b
-  macAddresses:
-  - A4:7C:14:00:00:00/24
-  manufacturer: ChargeStorm AB
-  manufacturerUri: https://device-type.com
-  name: ChargeSt
-type: d3-device-type-assertion

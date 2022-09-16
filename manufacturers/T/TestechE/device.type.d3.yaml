@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4dbea4e4-e313-5b69-9486-05db35c22e72
-  macAddresses:
-  - 00:27:03:00:00:00/24
-  manufacturer: Testech Electronics Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: TestechE
-type: d3-device-type-assertion

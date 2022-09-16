@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 01a014b0-729c-5da5-8685-392b4fca6226
-  macAddresses:
-  - 00:1A:33:00:00:00/24
-  manufacturer: ASI Communications, Inc.
-  manufacturerUri: https://device-type.com
-  name: ASICommu
-type: d3-device-type-assertion

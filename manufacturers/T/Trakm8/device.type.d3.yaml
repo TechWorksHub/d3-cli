@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bdea388c-5582-5178-83d1-f72cdb2bd867
-  macAddresses:
-  - B8:25:B5:00:00:00/24
-  manufacturer: Trakm8 Ltd
-  manufacturerUri: https://device-type.com
-  name: Trakm8
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fbe367a5-3305-55d9-9990-04b2ee1ea305
-  macAddresses:
-  - A8:C2:22:00:00:00/24
-  manufacturer: TM-Research Inc.
-  manufacturerUri: https://device-type.com
-  name: TM-Resea
-type: d3-device-type-assertion

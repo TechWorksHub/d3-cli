@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 307c5b40-7a94-5997-9fe0-bc2afd26e7de
-  macAddresses:
-  - 34:C5:D0:00:00:00/24
-  manufacturer: Hagleitner Hygiene International GmbH
-  manufacturerUri: https://device-type.com
-  name: Hagleitn
-type: d3-device-type-assertion

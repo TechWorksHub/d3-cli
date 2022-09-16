@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 15ab30ee-5cb9-533b-a7a2-1f278d017072
-  macAddresses:
-  - 00:1D:24:00:00:00/24
-  manufacturer: Aclara Power-Line Systems Inc.
-  manufacturerUri: https://device-type.com
-  name: AclaraPo
-type: d3-device-type-assertion

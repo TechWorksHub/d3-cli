@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1407eb9e-9aab-5552-b3b1-50fe369188dc
-  macAddresses:
-  - 00:0F:10:00:00:00/24
-  manufacturer: RDM Corporation
-  manufacturerUri: https://device-type.com
-  name: RDM
-type: d3-device-type-assertion

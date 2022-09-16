@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c271ca2a-3c5d-5ae7-8466-ac8a119a9cc0
-  macAddresses:
-  - 00:30:52:00:00:00/24
-  manufacturer: Elastic Networks
-  manufacturerUri: https://device-type.com
-  name: ElasticN
-type: d3-device-type-assertion

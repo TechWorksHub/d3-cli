@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 31e49734-d67e-5961-a218-5e20bd9ebbd5
-  macAddresses:
-  - 00:0A:5C:00:00:00/24
-  manufacturer: Carel s.p.a.
-  manufacturerUri: https://device-type.com
-  name: Carel
-type: d3-device-type-assertion

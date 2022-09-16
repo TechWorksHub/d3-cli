@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 61b92191-6bda-5f5a-8ec2-14945d1a4f19
-  macAddresses:
-  - 00:50:C2:AB:B0:00/36
-  manufacturer: Volantic AB
-  manufacturerUri: https://device-type.com
-  name: Volantic
-type: d3-device-type-assertion

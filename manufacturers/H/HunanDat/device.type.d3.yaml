@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d73f360e-1f6d-58ca-9545-975bcecc9bf9
-  macAddresses:
-  - 7C:83:34:C0:00:00/28
-  manufacturer: Hunan Datang Xianyi Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: HunanDat
-type: d3-device-type-assertion

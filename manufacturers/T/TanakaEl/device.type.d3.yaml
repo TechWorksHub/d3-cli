@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f1e74617-902e-5e32-89e9-64280382e72f
-  macAddresses:
-  - 70:B3:D5:52:D0:00/36
-  manufacturer: Tanaka Electric Industry Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: TanakaEl
-type: d3-device-type-assertion

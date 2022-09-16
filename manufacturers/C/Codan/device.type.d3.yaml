@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 587c9e66-61ef-56db-9a1e-86124214e13e
-  macAddresses:
-  - 00:12:E0:00:00:00/24
-  manufacturer: Codan Limited
-  manufacturerUri: https://device-type.com
-  name: Codan
-type: d3-device-type-assertion

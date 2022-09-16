@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a12d2feb-d845-53fc-8100-4efae9cbb7c5
-  macAddresses:
-  - CC:CD:64:00:00:00/24
-  manufacturer: SM-Electronic GmbH
-  manufacturerUri: https://device-type.com
-  name: SM-Elect
-type: d3-device-type-assertion

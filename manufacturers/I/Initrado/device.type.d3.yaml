@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 327951e0-7080-5b8a-afca-f22bdb094a31
-  macAddresses:
-  - 00:24:53:00:00:00/24
-  manufacturer: Initra d.o.o.
-  manufacturerUri: https://device-type.com
-  name: Initrado
-type: d3-device-type-assertion

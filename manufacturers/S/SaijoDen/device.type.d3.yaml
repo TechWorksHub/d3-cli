@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1a8563c9-1b6f-5b98-bae6-ebe61ead0242
-  macAddresses:
-  - 70:68:79:00:00:00/24
-  manufacturer: Saijo Denki International Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: SaijoDen
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 941aba0f-9674-5fa3-8265-daec36c05051
-  macAddresses:
-  - 00:07:32:00:00:00/24
-  manufacturer: AAEON Technology Inc.
-  manufacturerUri: https://device-type.com
-  name: AAEONTec
-type: d3-device-type-assertion

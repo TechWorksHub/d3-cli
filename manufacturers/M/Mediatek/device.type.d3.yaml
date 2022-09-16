@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 79deddef-523b-5361-ae3e-98f846536ee3
-  macAddresses:
-  - 00:0A:00:00:00:00/24
-  manufacturer: Mediatek Corp.
-  manufacturerUri: https://device-type.com
-  name: Mediatek
-type: d3-device-type-assertion

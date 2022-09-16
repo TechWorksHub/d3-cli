@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1a198785-06d9-525a-a5c3-0375e17420bb
-  macAddresses:
-  - 00:D0:47:00:00:00/24
-  manufacturer: Xn Technologies
-  manufacturerUri: https://device-type.com
-  name: XnTechno
-type: d3-device-type-assertion

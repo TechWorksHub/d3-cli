@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 946a58de-cf50-5441-81ec-65e54ce627c4
-  macAddresses:
-  - 00:16:8A:00:00:00/24
-  manufacturer: id-Confirm Inc
-  manufacturerUri: https://device-type.com
-  name: id-Confi
-type: d3-device-type-assertion

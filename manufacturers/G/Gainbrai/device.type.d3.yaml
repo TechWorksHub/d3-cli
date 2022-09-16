@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b3c429d6-0fbb-5424-a377-c9087281b695
-  macAddresses:
-  - 00:50:C2:BB:00:00/36
-  manufacturer: Gainbrain
-  manufacturerUri: https://device-type.com
-  name: Gainbrai
-type: d3-device-type-assertion

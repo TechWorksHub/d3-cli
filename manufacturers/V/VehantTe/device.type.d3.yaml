@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 66ef87a4-d78a-5adf-97e9-4da59c6ddac0
-  macAddresses:
-  - 28:B7:7C:B0:00:00/28
-  manufacturer: Vehant Technologies Pvt Ltd.
-  manufacturerUri: https://device-type.com
-  name: VehantTe
-type: d3-device-type-assertion

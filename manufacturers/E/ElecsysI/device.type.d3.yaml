@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d5d703d6-6b83-5cc6-82e3-0a0e78419684
-  macAddresses:
-  - 18:36:FC:00:00:00/24
-  manufacturer: Elecsys International Corporation
-  manufacturerUri: https://device-type.com
-  name: ElecsysI
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eea17c5e-d427-51f7-9b32-4af2f9e7084c
-  macAddresses:
-  - 70:B3:D5:4F:30:00/36
-  manufacturer: Xps Eletronica Ltda
-  manufacturerUri: https://device-type.com
-  name: XpsEletr
-type: d3-device-type-assertion

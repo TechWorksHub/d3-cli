@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5f58a98d-4016-52cd-b0a2-622e621df70f
-  macAddresses:
-  - 90:A6:2F:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Naver
-type: d3-device-type-assertion

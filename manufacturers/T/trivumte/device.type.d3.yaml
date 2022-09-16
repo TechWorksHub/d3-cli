@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4d60900b-0ecb-5433-b2c2-e6bcea1d8719
-  macAddresses:
-  - 94:AC:CA:00:00:00/24
-  manufacturer: trivum technologies GmbH
-  manufacturerUri: https://device-type.com
-  name: trivumte
-type: d3-device-type-assertion

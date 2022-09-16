@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 22e75f11-fbae-5563-b7f3-d1f22e351707
-  macAddresses:
-  - 60:BD:91:00:00:00/24
-  manufacturer: Move Innovation
-  manufacturerUri: https://device-type.com
-  name: MoveInno
-type: d3-device-type-assertion

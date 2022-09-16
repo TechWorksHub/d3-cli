@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 286a9f5b-21b4-56b5-b4ae-762471ab0de7
-  macAddresses:
-  - 08:2A:D0:00:00:00/24
-  manufacturer: SRD Innovations Inc.
-  manufacturerUri: https://device-type.com
-  name: SRDInnov
-type: d3-device-type-assertion

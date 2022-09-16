@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 550f576b-dab9-5d80-9655-76f7d843efc7
-  macAddresses:
-  - 00:0F:70:00:00:00/24
-  manufacturer: Wintec Industries, inc.
-  manufacturerUri: https://device-type.com
-  name: WintecIn
-type: d3-device-type-assertion

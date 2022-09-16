@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 875ea9c1-cb01-51e7-aeb0-af0a764e63ac
-  macAddresses:
-  - 00:04:E4:00:00:00/24
-  manufacturer: Daeryung Ind., Inc.
-  manufacturerUri: https://device-type.com
-  name: Daeryung
-type: d3-device-type-assertion

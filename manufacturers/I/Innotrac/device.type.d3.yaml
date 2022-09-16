@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 91498dc2-effb-5742-8b85-7ff3f17faab7
-  macAddresses:
-  - 00:0B:96:00:00:00/24
-  manufacturer: Innotrac Diagnostics Oy
-  manufacturerUri: https://device-type.com
-  name: Innotrac
-type: d3-device-type-assertion

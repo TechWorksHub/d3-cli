@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6ff193a3-f2b8-51e8-a9cf-53a027d4a0d8
-  macAddresses:
-  - 00:1F:57:00:00:00/24
-  manufacturer: Phonik Innovation Co.,LTD
-  manufacturerUri: https://device-type.com
-  name: PhonikIn
-type: d3-device-type-assertion

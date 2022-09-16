@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b8a7000c-b5ba-52a5-b728-df79e9100773
-  macAddresses:
-  - 00:0D:EB:00:00:00/24
-  manufacturer: CompXs Limited
-  manufacturerUri: https://device-type.com
-  name: CompXs
-type: d3-device-type-assertion

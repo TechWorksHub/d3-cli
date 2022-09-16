@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 44cd069c-e530-55d7-a306-477eaa3a4b25
-  macAddresses:
-  - 00:50:C2:38:C0:00/36
-  manufacturer: Epsilon Srl
-  manufacturerUri: https://device-type.com
-  name: Epsilon
-type: d3-device-type-assertion

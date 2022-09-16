@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ba2dd814-1e21-512f-bc48-b514867d6c57
-  macAddresses:
-  - EC:EE:D8:00:00:00/24
-  manufacturer: ZTLX Network Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: ZTLXNetw
-type: d3-device-type-assertion

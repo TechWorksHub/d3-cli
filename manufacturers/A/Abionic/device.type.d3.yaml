@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: beb3d3e8-7376-5c1f-b37f-f1ae85378369
-  macAddresses:
-  - 70:B3:D5:BC:10:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Abionic
-type: d3-device-type-assertion

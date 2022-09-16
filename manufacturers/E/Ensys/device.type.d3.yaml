@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6c81757e-b4e1-59db-bb37-759582824aea
-  macAddresses:
-  - 70:B3:D5:BB:F0:00/36
-  manufacturer: Ensys srl
-  manufacturerUri: https://device-type.com
-  name: Ensys
-type: d3-device-type-assertion

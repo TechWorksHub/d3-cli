@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fdb6c183-27d3-5310-b079-7aff43debb45
-  macAddresses:
-  - 00:18:EE:00:00:00/24
-  manufacturer: Videology Imaging Solutions, Inc.
-  manufacturerUri: https://device-type.com
-  name: Videolog
-type: d3-device-type-assertion

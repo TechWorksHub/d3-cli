@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8729dd41-2113-5b98-ad04-69e0ae9b3f07
-  macAddresses:
-  - 00:14:A6:00:00:00/24
-  manufacturer: Teranetics, Inc.
-  manufacturerUri: https://device-type.com
-  name: Teraneti
-type: d3-device-type-assertion

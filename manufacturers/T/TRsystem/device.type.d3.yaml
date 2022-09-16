@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 29ee36d4-6724-513b-95f4-df093b89f42e
-  macAddresses:
-  - 00:03:12:00:00:00/24
-  manufacturer: TRsystems GmbH
-  manufacturerUri: https://device-type.com
-  name: TRsystem
-type: d3-device-type-assertion

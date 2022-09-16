@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fe0bee4d-f214-51d0-a81b-93c6cb29300d
-  macAddresses:
-  - 08:00:50:00:00:00/24
-  manufacturer: Daisy Systems Corp.
-  manufacturerUri: https://device-type.com
-  name: Daisy
-type: d3-device-type-assertion

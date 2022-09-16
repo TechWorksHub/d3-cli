@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 708e8588-d4fb-52e8-9b10-cdf366926f2d
-  macAddresses:
-  - 70:B3:D5:4F:B0:00/36
-  manufacturer: MAS Elettronica sas di Mascetti Sandro e C.
-  manufacturerUri: https://device-type.com
-  name: MASElett
-type: d3-device-type-assertion

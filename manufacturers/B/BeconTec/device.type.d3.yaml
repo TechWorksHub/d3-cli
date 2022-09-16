@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 826ffc14-8281-5507-b614-2ea150074d84
-  macAddresses:
-  - 1C:B8:57:00:00:00/24
-  manufacturer: Becon Technologies Co,.Ltd.
-  manufacturerUri: https://device-type.com
-  name: BeconTec
-type: d3-device-type-assertion

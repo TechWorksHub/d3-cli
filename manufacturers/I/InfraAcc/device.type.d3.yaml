@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6b53f28c-0370-5a98-8eca-e0922f723a20
-  macAddresses:
-  - 00:1E:8B:00:00:00/24
-  manufacturer: Infra Access Korea Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: InfraAcc
-type: d3-device-type-assertion

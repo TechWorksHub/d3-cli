@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5094db5c-d692-52c0-a938-ad472b0fd92e
-  macAddresses:
-  - 00:0C:9E:00:00:00/24
-  manufacturer: MemoryLink Corp.
-  manufacturerUri: https://device-type.com
-  name: MemoryLi
-type: d3-device-type-assertion

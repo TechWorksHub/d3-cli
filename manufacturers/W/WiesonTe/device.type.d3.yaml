@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 590fbffd-a290-5b27-94d1-55e49b92fe09
-  macAddresses:
-  - A0:0A:BF:00:00:00/24
-  manufacturer: Wieson Technologies Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: WiesonTe
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2af3bfd0-6158-50a6-98d5-04492f6fbeb5
-  macAddresses:
-  - 70:B3:D5:8A:20:00/36
-  manufacturer: Winners Digital Corporation
-  manufacturerUri: https://device-type.com
-  name: WinnersD
-type: d3-device-type-assertion

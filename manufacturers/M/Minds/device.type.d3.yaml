@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 00da11e9-7be7-56b8-b7c5-15ea1aa30a09
-  macAddresses:
-  - 00:0D:5F:00:00:00/24
-  manufacturer: Minds Inc
-  manufacturerUri: https://device-type.com
-  name: Minds
-type: d3-device-type-assertion

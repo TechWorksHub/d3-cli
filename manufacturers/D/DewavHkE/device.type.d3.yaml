@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5aaf377b-def0-5f29-b08d-b57ae57d6cb9
-  macAddresses:
-  - D8:16:C1:00:00:00/24
-  manufacturer: Dewav (Hk) Electronics Limited
-  manufacturerUri: https://device-type.com
-  name: DewavHkE
-type: d3-device-type-assertion

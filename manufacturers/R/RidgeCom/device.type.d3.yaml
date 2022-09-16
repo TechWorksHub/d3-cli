@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ab73bd64-2b57-56aa-91db-266a4bbe1e09
-  macAddresses:
-  - 08:00:68:00:00:00/24
-  manufacturer: Ridge Computers
-  manufacturerUri: https://device-type.com
-  name: RidgeCom
-type: d3-device-type-assertion

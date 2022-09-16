@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 92105c88-f21b-5175-bf19-428fdaa98a94
-  macAddresses:
-  - 00:50:C2:15:70:00/36
-  manufacturer: nCore, Inc.
-  manufacturerUri: https://device-type.com
-  name: nCore
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: da5aae35-1570-5d05-9b4f-70cda59d59e7
-  macAddresses:
-  - D0:D9:4F:D0:00:00/28
-  manufacturer: Duksanmecasys Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Duksanme
-type: d3-device-type-assertion

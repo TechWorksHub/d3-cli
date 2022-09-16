@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5b3458c3-c5ed-57a6-bc14-ae9bdd42cbab
-  macAddresses:
-  - 00:50:C2:7F:80:00/36
-  manufacturer: "Wise Industria de Telecomunica\xE7\xF5es Ldta."
-  manufacturerUri: https://device-type.com
-  name: WiseIndu
-type: d3-device-type-assertion

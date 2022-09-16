@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 93796b23-4895-5763-bdd4-d4edc39e2a6d
-  macAddresses:
-  - 70:69:79:10:00:00/28
-  manufacturer: Linksys Telecom Shenzhen CO., LTD
-  manufacturerUri: https://device-type.com
-  name: LinksysT
-type: d3-device-type-assertion

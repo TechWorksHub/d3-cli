@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1b442d19-8008-588b-a3d3-2fc6cc2ed19c
-  macAddresses:
-  - 00:22:35:00:00:00/24
-  manufacturer: Strukton Systems bv
-  manufacturerUri: https://device-type.com
-  name: Strukton
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 512eb4b7-b11f-5901-8d6f-cf90910ae479
-  macAddresses:
-  - 00:16:71:00:00:00/24
-  manufacturer: Symphox Information Co.
-  manufacturerUri: https://device-type.com
-  name: SymphoxI
-type: d3-device-type-assertion

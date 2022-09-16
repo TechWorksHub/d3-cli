@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0ff8ee8c-3a01-5e7c-a163-bf1bd587233e
-  macAddresses:
-  - 00:90:E8:00:00:00/24
-  manufacturer: Moxa Technologies Corp., Ltd.
-  manufacturerUri: https://device-type.com
-  name: MoxaTech
-type: d3-device-type-assertion

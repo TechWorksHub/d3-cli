@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 273126fa-c880-5b81-89b9-b3bb9a46d0f1
-  macAddresses:
-  - 1C:CA:E3:10:00:00/28
-  manufacturer: Pga Electronic
-  manufacturerUri: https://device-type.com
-  name: PgaElect
-type: d3-device-type-assertion

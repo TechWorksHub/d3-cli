@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 74eff49c-2e88-5b47-8a75-4df36bda2d53
-  macAddresses:
-  - 00:05:15:00:00:00/24
-  manufacturer: Nuark Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Nuark
-type: d3-device-type-assertion

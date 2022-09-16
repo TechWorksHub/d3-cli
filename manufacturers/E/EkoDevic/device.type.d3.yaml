@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c896a06b-3262-5471-9823-9945bb775385
-  macAddresses:
-  - 88:D2:11:00:00:00/24
-  manufacturer: Eko Devices, Inc.
-  manufacturerUri: https://device-type.com
-  name: EkoDevic
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 97027270-74b2-506e-9dac-1d15238fb1c7
-  macAddresses:
-  - 30:D9:41:00:00:00/24
-  manufacturer: Raydium Semiconductor Corp.
-  manufacturerUri: https://device-type.com
-  name: RaydiumS
-type: d3-device-type-assertion

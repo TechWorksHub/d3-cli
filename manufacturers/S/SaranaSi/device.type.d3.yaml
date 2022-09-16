@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 756d95e7-53db-5fd2-8d60-ce4894a303ff
-  macAddresses:
-  - 40:D8:55:00:A0:00/36
-  manufacturer: Sarana Sistem Mikro
-  manufacturerUri: https://device-type.com
-  name: SaranaSi
-type: d3-device-type-assertion

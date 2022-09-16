@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b4b0815b-905b-5080-bd7c-5ba99a5a75a1
-  macAddresses:
-  - 70:B3:D5:3F:B0:00/36
-  manufacturer: Liberty Reach
-  manufacturerUri: https://device-type.com
-  name: LibertyR
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2ceee501-d446-540b-b688-dc17ccf3ef06
-  macAddresses:
-  - 44:7E:95:00:00:00/24
-  manufacturer: Alpha and Omega, Inc
-  manufacturerUri: https://device-type.com
-  name: Alphaand
-type: d3-device-type-assertion

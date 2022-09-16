@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a784186c-4412-528a-a6cd-ebafd9e2cce3
-  macAddresses:
-  - 70:B3:D5:55:30:00/36
-  manufacturer: TAALEX Systemtechnik GmbH
-  manufacturerUri: https://device-type.com
-  name: TAALEXSy
-type: d3-device-type-assertion

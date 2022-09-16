@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dd902d8f-5723-5cd6-ad02-24ebc5e1336c
-  macAddresses:
-  - 08:00:8F:00:00:00/24
-  manufacturer: Chipcom Corporation
-  manufacturerUri: https://device-type.com
-  name: Chipcom
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4459665a-94a2-5804-a6f1-f0b06149a11c
-  macAddresses:
-  - 00:04:8E:00:00:00/24
-  manufacturer: Ohm Tech Labs, Inc.
-  manufacturerUri: https://device-type.com
-  name: OhmTechL
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a34fdbf8-fe08-5071-9205-92b05c47a5c2
-  macAddresses:
-  - 30:09:F9:E0:00:00/28
-  manufacturer: ZhongLi HengFeng (Shenzhen) Technology co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: ZhongLiH
-type: d3-device-type-assertion

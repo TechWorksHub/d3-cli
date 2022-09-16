@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 64219330-1a49-50e2-8d69-9b5f920aef85
-  macAddresses:
-  - 0C:CD:FB:00:00:00/24
-  manufacturer: EDIC Systems Inc.
-  manufacturerUri: https://device-type.com
-  name: EDIC
-type: d3-device-type-assertion

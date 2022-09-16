@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6a4c464f-da72-5e72-b7de-75e2474ed013
-  macAddresses:
-  - 88:97:65:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: exands
-type: d3-device-type-assertion

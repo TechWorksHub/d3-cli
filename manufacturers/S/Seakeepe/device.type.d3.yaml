@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 399d1f86-b884-5a6e-9a30-c137490d934c
-  macAddresses:
-  - E0:9C:8D:00:00:00/24
-  manufacturer: Seakeeper, Inc.
-  manufacturerUri: https://device-type.com
-  name: Seakeepe
-type: d3-device-type-assertion

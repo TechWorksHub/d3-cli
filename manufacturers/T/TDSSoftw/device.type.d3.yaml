@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: bda24cc0-6444-5391-b710-3aac6433c3ef
-  macAddresses:
-  - 40:D8:55:14:F0:00/36
-  manufacturer: TDS Software Solutions Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: TDSSoftw
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9c446817-e0a1-5c06-9f32-fd661366751e
-  macAddresses:
-  - 00:1E:09:00:00:00/24
-  manufacturer: ZEFATEK Co.,LTD
-  manufacturerUri: https://device-type.com
-  name: ZEFATEK
-type: d3-device-type-assertion

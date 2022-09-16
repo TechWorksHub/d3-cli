@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 301fd4ba-fe4b-5383-aea3-47e7d451f1df
-  macAddresses:
-  - 4C:BC:98:30:00:00/28
-  manufacturer: Machine Max
-  manufacturerUri: https://device-type.com
-  name: MachineM
-type: d3-device-type-assertion

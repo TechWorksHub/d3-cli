@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d9726f6f-f457-59ae-8320-a5600a424b6a
-  macAddresses:
-  - 24:59:0B:00:00:00/24
-  manufacturer: White Sky Inc. Limited
-  manufacturerUri: https://device-type.com
-  name: WhiteSky
-type: d3-device-type-assertion

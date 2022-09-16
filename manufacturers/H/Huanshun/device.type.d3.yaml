@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: af6ba06d-6c12-557c-b007-63bfdf735623
-  macAddresses:
-  - D4:10:CF:00:00:00/24
-  manufacturer: Huanshun Network Science and Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Huanshun
-type: d3-device-type-assertion

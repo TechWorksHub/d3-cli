@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c400bd20-8eaa-5872-8554-fd843e47aa3a
-  macAddresses:
-  - 1C:87:74:30:00:00/28
-  manufacturer: Silora R&D
-  manufacturerUri: https://device-type.com
-  name: SiloraR&
-type: d3-device-type-assertion

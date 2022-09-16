@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9f372c6f-2e01-5012-af28-4eca4d7482b3
-  macAddresses:
-  - 24:64:EF:00:00:00/24
-  manufacturer: Cyg Sunri Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: CygSunri
-type: d3-device-type-assertion

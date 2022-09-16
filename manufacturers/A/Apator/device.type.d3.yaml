@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 88d5b0bc-2e29-57e0-88ff-5062f8635f63
-  macAddresses:
-  - D8:DA:52:00:00:00/24
-  manufacturer: Apator S.A.
-  manufacturerUri: https://device-type.com
-  name: Apator
-type: d3-device-type-assertion

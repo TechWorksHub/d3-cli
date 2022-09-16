@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 017b2997-b4e8-544a-8036-39393349fc76
-  macAddresses:
-  - 00:01:E4:00:00:00/24
-  manufacturer: Sitera, Inc.
-  manufacturerUri: https://device-type.com
-  name: Sitera
-type: d3-device-type-assertion

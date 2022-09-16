@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f50bbbe1-7ecc-5280-b73d-af977312ab4f
-  macAddresses:
-  - 00:50:15:00:00:00/24
-  manufacturer: Bright Star Engineering
-  manufacturerUri: https://device-type.com
-  name: BrightSt
-type: d3-device-type-assertion

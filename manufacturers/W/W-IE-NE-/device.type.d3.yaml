@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7a02ef1d-133f-50d3-a9b1-07759fa7fed0
-  macAddresses:
-  - 30:32:94:00:00:00/24
-  manufacturer: W-IE-NE-R Plein & Baus GmbH
-  manufacturerUri: https://device-type.com
-  name: W-IE-NE-
-type: d3-device-type-assertion

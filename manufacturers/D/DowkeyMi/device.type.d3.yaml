@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 90010d36-7aca-5b09-a8c2-79b67d8163db
-  macAddresses:
-  - 00:08:D8:00:00:00/24
-  manufacturer: Dowkey Microwave
-  manufacturerUri: https://device-type.com
-  name: DowkeyMi
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 110cf4df-3ac7-5737-8db7-eaa82760e3b0
-  macAddresses:
-  - 74:5B:C5:30:00:00/28
-  manufacturer: Oxon Ag
-  manufacturerUri: https://device-type.com
-  name: Oxon
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5cab090e-2da7-5c71-b6a5-0d75240684b6
-  macAddresses:
-  - 00:05:D4:00:00:00/24
-  manufacturer: FutureSmart Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: FutureSm
-type: d3-device-type-assertion

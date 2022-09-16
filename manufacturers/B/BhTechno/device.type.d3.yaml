@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dc30a403-015d-52bc-9941-9d92403be7a2
-  macAddresses:
-  - E0:19:D8:00:00:00/24
-  manufacturer: Bh Technologies
-  manufacturerUri: https://device-type.com
-  name: BhTechno
-type: d3-device-type-assertion

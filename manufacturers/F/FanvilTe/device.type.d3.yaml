@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3735e520-48d6-56aa-a1c5-5844bf35aaf7
-  macAddresses:
-  - 0C:38:3E:00:00:00/24
-  manufacturer: Fanvil Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: FanvilTe
-type: d3-device-type-assertion

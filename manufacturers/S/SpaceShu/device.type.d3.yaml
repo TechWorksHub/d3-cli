@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a838e8e2-31bd-56bf-bc1d-13464e7543fd
-  macAddresses:
-  - 00:16:2E:00:00:00/24
-  manufacturer: Space Shuttle Hi-Tech Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: SpaceShu
-type: d3-device-type-assertion

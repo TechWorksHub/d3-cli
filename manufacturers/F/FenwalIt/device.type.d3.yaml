@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2a9cec1d-c220-58a4-8ffe-acdffe949f67
-  macAddresses:
-  - 00:50:C2:08:90:00/36
-  manufacturer: Fenwal Italia S.P.A.
-  manufacturerUri: https://device-type.com
-  name: FenwalIt
-type: d3-device-type-assertion

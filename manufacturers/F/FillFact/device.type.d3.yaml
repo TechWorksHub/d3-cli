@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5cccb84d-9ff9-550d-b7c4-78106e7b6afe
-  macAddresses:
-  - 00:09:4B:00:00:00/24
-  manufacturer: FillFactory NV
-  manufacturerUri: https://device-type.com
-  name: FillFact
-type: d3-device-type-assertion

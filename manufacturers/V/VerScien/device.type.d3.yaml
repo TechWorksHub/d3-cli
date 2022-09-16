@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f4e52117-0e46-5912-9cea-a871ea57fb24
-  macAddresses:
-  - 00:1C:BA:00:00:00/24
-  manufacturer: VerScient, Inc.
-  manufacturerUri: https://device-type.com
-  name: VerScien
-type: d3-device-type-assertion

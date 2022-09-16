@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5266d4c7-63f1-541f-b937-7799afe0dc6c
-  macAddresses:
-  - 00:1E:CC:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Cdvi
-type: d3-device-type-assertion

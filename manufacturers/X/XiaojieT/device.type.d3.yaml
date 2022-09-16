@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3e7f4ef3-56e4-5a33-8adb-3d3a44693d97
-  macAddresses:
-  - A0:02:4A:60:00:00/28
-  manufacturer: Xiaojie Technology (Shenzhen) Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: XiaojieT
-type: d3-device-type-assertion

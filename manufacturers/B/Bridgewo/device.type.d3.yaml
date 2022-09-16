@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7761c75d-c986-539e-93d0-fbb9aacdd6bc
-  macAddresses:
-  - 00:04:1B:00:00:00/24
-  manufacturer: Bridgeworks Ltd.
-  manufacturerUri: https://device-type.com
-  name: Bridgewo
-type: d3-device-type-assertion

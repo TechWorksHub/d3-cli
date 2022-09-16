@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2365e81c-d1f3-53e1-9a73-46968b776628
-  macAddresses:
-  - 00:1D:10:00:00:00/24
-  manufacturer: LightHaus Logic, Inc.
-  manufacturerUri: https://device-type.com
-  name: LightHau
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f1d8d1d8-d9c3-5259-94c5-cd0f7b7823d1
-  macAddresses:
-  - 00:02:14:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Dtvro
-type: d3-device-type-assertion

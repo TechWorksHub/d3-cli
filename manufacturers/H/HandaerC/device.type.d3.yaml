@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9bb9aed3-4910-5c34-8856-b3fff48ac479
-  macAddresses:
-  - B8:5A:FE:00:00:00/24
-  manufacturer: Handaer Communication Technology (Beijing) Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: HandaerC
-type: d3-device-type-assertion

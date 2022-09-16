@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dac56099-ad22-59e9-8307-b0001b443948
-  macAddresses:
-  - 70:B3:D5:45:10:00/36
-  manufacturer: Perform3-D LLC
-  manufacturerUri: https://device-type.com
-  name: Perform3
-type: d3-device-type-assertion

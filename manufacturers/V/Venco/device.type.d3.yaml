@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a47acf49-de0e-5878-91ac-d3c07df58291
-  macAddresses:
-  - 40:D8:55:14:40:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Venco
-type: d3-device-type-assertion

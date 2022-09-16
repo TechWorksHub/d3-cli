@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 696eea53-9e66-5166-a932-53af22adcc20
-  macAddresses:
-  - 00:13:F3:00:00:00/24
-  manufacturer: Giga-byte Communications Inc.
-  manufacturerUri: https://device-type.com
-  name: Giga-byt
-type: d3-device-type-assertion

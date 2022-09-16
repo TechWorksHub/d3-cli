@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ebcf349e-14f4-58db-8bf6-86e2172cfa2d
-  macAddresses:
-  - C8:0E:95:00:00:00/24
-  manufacturer: OmniLync Inc.
-  manufacturerUri: https://device-type.com
-  name: OmniLync
-type: d3-device-type-assertion

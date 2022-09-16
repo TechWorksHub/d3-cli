@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a8ae4918-8cac-53b6-a18b-844dbc2ab844
-  macAddresses:
-  - B4:74:47:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: CoreOS
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1dea8d7e-0610-5b93-9fd3-e81675264f72
-  macAddresses:
-  - 00:22:31:00:00:00/24
-  manufacturer: SMT&C Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: SMT&C
-type: d3-device-type-assertion

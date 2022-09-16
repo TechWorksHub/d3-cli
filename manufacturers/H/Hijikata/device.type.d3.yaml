@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 962d29ca-f455-5fb8-bac8-2c01c0a6ac99
-  macAddresses:
-  - 00:50:C2:D5:70:00/36
-  manufacturer: Hijikata Denki Corp.
-  manufacturerUri: https://device-type.com
-  name: Hijikata
-type: d3-device-type-assertion

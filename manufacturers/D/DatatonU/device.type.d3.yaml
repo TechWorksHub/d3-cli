@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cdc65fe4-725e-5a49-a15d-316d27c7f90f
-  macAddresses:
-  - 00:50:C2:56:B0:00/36
-  manufacturer: Dataton Utvecklings AB
-  manufacturerUri: https://device-type.com
-  name: DatatonU
-type: d3-device-type-assertion

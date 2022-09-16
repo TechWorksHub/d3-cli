@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2c1f2dce-b00a-570f-afa2-618f5bd5130c
-  macAddresses:
-  - 8C:59:3C:70:00:00/28
-  manufacturer: OBO Pro.2 Inc.
-  manufacturerUri: https://device-type.com
-  name: OBOPro2
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: da9537b4-986d-50d8-ac09-647f2d9f79f7
-  macAddresses:
-  - 00:30:60:00:00:00/24
-  manufacturer: Powerfile, Inc.
-  manufacturerUri: https://device-type.com
-  name: Powerfil
-type: d3-device-type-assertion

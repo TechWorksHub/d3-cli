@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b047fec4-21bd-50a6-bd6f-976dce48f8b1
-  macAddresses:
-  - 00:24:9B:00:00:00/24
-  manufacturer: Action Star Enterprise Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: ActionSt
-type: d3-device-type-assertion

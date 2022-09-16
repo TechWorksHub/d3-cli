@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2b3a72c4-fcc2-5528-9f08-4e0adc76b5c8
-  macAddresses:
-  - 00:18:6B:00:00:00/24
-  manufacturer: Sambu Communics CO., LTD.
-  manufacturerUri: https://device-type.com
-  name: SambuCom
-type: d3-device-type-assertion

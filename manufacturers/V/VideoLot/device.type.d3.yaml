@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c26ec567-49af-5467-bbd2-b06facac735b
-  macAddresses:
-  - 00:A0:71:00:00:00/24
-  manufacturer: Video Lottery Technologies,Inc
-  manufacturerUri: https://device-type.com
-  name: VideoLot
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 15597a65-d18f-543f-8508-8125a2c41538
-  macAddresses:
-  - 00:15:C4:00:00:00/24
-  manufacturer: Flovel Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Flovel
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 18fb177f-750d-55ea-9f81-3c2b16f6b692
-  macAddresses:
-  - 00:22:EC:00:00:00/24
-  manufacturer: Idealbt Technology Corporation
-  manufacturerUri: https://device-type.com
-  name: IdealbtT
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3d7dc945-2fb7-5938-b538-b13c995bce65
-  macAddresses:
-  - 00:12:DF:00:00:00/24
-  manufacturer: Novomatic AG
-  manufacturerUri: https://device-type.com
-  name: Novomati
-type: d3-device-type-assertion

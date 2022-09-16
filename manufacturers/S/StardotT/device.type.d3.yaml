@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d908a404-40af-5f84-bc48-c85b0b2f5a31
-  macAddresses:
-  - 00:30:F4:00:00:00/24
-  manufacturer: Stardot Technologies
-  manufacturerUri: https://device-type.com
-  name: StardotT
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: df2a4c59-d37b-5205-ae1a-77297c55e683
-  macAddresses:
-  - 00:11:BA:00:00:00/24
-  manufacturer: Elexol Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: Elexol
-type: d3-device-type-assertion

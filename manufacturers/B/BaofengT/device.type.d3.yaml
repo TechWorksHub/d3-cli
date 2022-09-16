@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 845687c6-6661-5aab-a022-54abcdf5393b
-  macAddresses:
-  - 78:0A:C7:00:00:00/24
-  manufacturer: Baofeng TV Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: BaofengT
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: fc473ca4-eac0-5d41-86b3-5281a3172129
-  macAddresses:
-  - 9C:D4:8B:00:00:00/24
-  manufacturer: Innolux Technology Europe BV
-  manufacturerUri: https://device-type.com
-  name: InnoluxT
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6a4f348c-f66d-5898-bf30-17ebf65ae1b1
-  macAddresses:
-  - 7C:97:63:00:00:00/24
-  manufacturer: Openmatics s.r.o.
-  manufacturerUri: https://device-type.com
-  name: Openmati
-type: d3-device-type-assertion

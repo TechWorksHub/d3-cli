@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 14075b67-a18c-5ae3-b8cf-bc6f68aec7f8
-  macAddresses:
-  - 00:E0:CC:00:00:00/24
-  manufacturer: Hero Systems, Ltd.
-  manufacturerUri: https://device-type.com
-  name: Hero
-type: d3-device-type-assertion

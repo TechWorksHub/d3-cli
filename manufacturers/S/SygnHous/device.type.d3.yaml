@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 41ffd106-9168-54df-a724-b1f20742bb56
-  macAddresses:
-  - A0:C4:A5:00:00:00/24
-  manufacturer: Sygn House Inc.
-  manufacturerUri: https://device-type.com
-  name: SygnHous
-type: d3-device-type-assertion

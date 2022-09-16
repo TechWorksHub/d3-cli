@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a565dfcb-7fde-52de-a673-5649e9f2d295
-  macAddresses:
-  - E8:78:29:80:00:00/28
-  manufacturer: JVISMall CO.,LTD
-  manufacturerUri: https://device-type.com
-  name: JVISMall
-type: d3-device-type-assertion

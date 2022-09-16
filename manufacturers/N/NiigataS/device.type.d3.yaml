@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6c30238b-ab0c-5958-b4f2-102f3dd5d470
-  macAddresses:
-  - 00:0E:46:00:00:00/24
-  manufacturer: Niigata Seimitsu Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: NiigataS
-type: d3-device-type-assertion

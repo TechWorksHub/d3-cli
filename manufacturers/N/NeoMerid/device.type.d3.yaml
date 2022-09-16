@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6ee4cb8a-4656-5522-8da4-9a777c08a8ea
-  macAddresses:
-  - 00:12:A0:00:00:00/24
-  manufacturer: NeoMeridian Sdn Bhd
-  manufacturerUri: https://device-type.com
-  name: NeoMerid
-type: d3-device-type-assertion

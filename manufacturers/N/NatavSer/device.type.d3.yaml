@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cbeae68e-6c72-5e62-ae6d-cd2207641b59
-  macAddresses:
-  - 70:B3:D5:E8:D0:00/36
-  manufacturer: Natav Services Ltd.
-  manufacturerUri: https://device-type.com
-  name: NatavSer
-type: d3-device-type-assertion

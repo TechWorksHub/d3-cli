@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ec6e1a4a-93d2-5c4b-bd32-34232a41ad87
-  macAddresses:
-  - 00:02:D4:00:00:00/24
-  manufacturer: PDA Peripherals, Inc.
-  manufacturerUri: https://device-type.com
-  name: PDAPerip
-type: d3-device-type-assertion

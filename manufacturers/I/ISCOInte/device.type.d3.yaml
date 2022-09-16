@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: ff8bd98b-4ef8-57a7-a1b0-5b27f1e9e4e7
-  macAddresses:
-  - 00:17:12:00:00:00/24
-  manufacturer: ISCO International
-  manufacturerUri: https://device-type.com
-  name: ISCOInte
-type: d3-device-type-assertion

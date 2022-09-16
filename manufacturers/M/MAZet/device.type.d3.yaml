@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: df0e6262-e21c-5616-8b6b-49b6f132341a
-  macAddresses:
-  - 00:50:C2:0B:B0:00/36
-  manufacturer: MAZet GmbH
-  manufacturerUri: https://device-type.com
-  name: MAZet
-type: d3-device-type-assertion

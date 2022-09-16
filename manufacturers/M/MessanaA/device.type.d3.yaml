@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c4420d8d-4ca0-541d-99cc-0bea3d0f4679
-  macAddresses:
-  - FC:D4:F6:00:00:00/24
-  manufacturer: Messana Air.Ray Conditioning s.r.l.
-  manufacturerUri: https://device-type.com
-  name: MessanaA
-type: d3-device-type-assertion

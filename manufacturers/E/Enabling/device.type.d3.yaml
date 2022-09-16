@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: d5aeddc5-1da3-5020-8ee7-5a1edbacf2b9
-  macAddresses:
-  - 00:26:07:00:00:00/24
-  manufacturer: Enabling Technology Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: Enabling
-type: d3-device-type-assertion

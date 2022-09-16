@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5a44eab3-9c74-56e8-a4cc-fd65cb297b9f
-  macAddresses:
-  - A8:5B:36:B0:00:00/28
-  manufacturer: Lampyris Plant LLC
-  manufacturerUri: https://device-type.com
-  name: Lampyris
-type: d3-device-type-assertion

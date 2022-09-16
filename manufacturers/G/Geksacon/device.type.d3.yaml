@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a76906ef-6da7-5cc3-9dba-747ea0c7e44b
-  macAddresses:
-  - 64:33:B5:C0:00:00/28
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Geksacon
-type: d3-device-type-assertion

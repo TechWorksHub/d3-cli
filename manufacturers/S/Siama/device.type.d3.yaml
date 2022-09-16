@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 76f674c7-a068-56b7-ae6c-db6aa3f2bba7
-  macAddresses:
-  - 60:11:99:00:00:00/24
-  manufacturer: Siama Systems Inc
-  manufacturerUri: https://device-type.com
-  name: Siama
-type: d3-device-type-assertion

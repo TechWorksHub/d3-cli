@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 10d0a937-adc6-5f41-9914-f25cbedfec01
-  macAddresses:
-  - 00:18:5D:00:00:00/24
-  manufacturer: Taiguen Technology (Shen-Zhen) Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: TaiguenT
-type: d3-device-type-assertion

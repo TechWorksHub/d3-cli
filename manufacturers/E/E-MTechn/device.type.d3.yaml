@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e4845081-b70b-5f40-8913-f8e904ad5cdc
-  macAddresses:
-  - 00:40:E4:00:00:00/24
-  manufacturer: E-M Technology, Inc.
-  manufacturerUri: https://device-type.com
-  name: E-MTechn
-type: d3-device-type-assertion

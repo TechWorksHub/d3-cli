@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 97388961-5ce6-5bb9-95dc-ec0dfcfd4c65
-  macAddresses:
-  - 00:17:FD:00:00:00/24
-  manufacturer: Amulet Hotkey
-  manufacturerUri: https://device-type.com
-  name: AmuletHo
-type: d3-device-type-assertion

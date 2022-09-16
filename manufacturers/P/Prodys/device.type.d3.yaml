@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 797f7a33-c7c9-58f6-8823-1fa2a240649c
-  macAddresses:
-  - 00:1C:77:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Prodys
-type: d3-device-type-assertion

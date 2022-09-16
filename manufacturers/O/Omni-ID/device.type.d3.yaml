@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0238a709-c597-50b4-bd4f-abdff7291eef
-  macAddresses:
-  - 0C:1E:F7:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Omni-ID
-type: d3-device-type-assertion

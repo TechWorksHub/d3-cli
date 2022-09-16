@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 10d0d4b1-68fe-5832-856f-ec74ffbea974
-  macAddresses:
-  - 88:91:DD:00:00:00/24
-  manufacturer: Racktivity
-  manufacturerUri: https://device-type.com
-  name: Racktivi
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 5ede9620-e725-5385-9d5f-0ba876eefab9
-  macAddresses:
-  - DC:F0:90:00:00:00/24
-  manufacturer: Nubia Technology Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: NubiaTec
-type: d3-device-type-assertion

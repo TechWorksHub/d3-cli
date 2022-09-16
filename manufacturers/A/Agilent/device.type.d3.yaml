@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f637c4b7-49b2-5f29-abc9-4bd5fbf7bd77
-  macAddresses:
-  - 8C:14:7D:20:00:00/28
-  manufacturer: Agilent S.p.A
-  manufacturerUri: https://device-type.com
-  name: Agilent
-type: d3-device-type-assertion

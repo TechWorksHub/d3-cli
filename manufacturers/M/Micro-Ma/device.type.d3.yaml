@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 56dc6c16-f3da-5682-9584-887ebe4dccc6
-  macAddresses:
-  - 00:00:B6:00:00:00/24
-  manufacturer: Micro-Matic Research
-  manufacturerUri: https://device-type.com
-  name: Micro-Ma
-type: d3-device-type-assertion

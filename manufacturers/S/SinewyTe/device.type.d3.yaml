@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a3257f44-d624-5859-bd01-bea4ce277685
-  macAddresses:
-  - 78:CC:2B:00:00:00/24
-  manufacturer: Sinewy Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: SinewyTe
-type: d3-device-type-assertion

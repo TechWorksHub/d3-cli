@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 73ca4451-fbf3-531d-ad4c-3287ab915f27
-  macAddresses:
-  - 00:0B:F1:00:00:00/24
-  manufacturer: LAP Laser Applikations
-  manufacturerUri: https://device-type.com
-  name: LAPLaser
-type: d3-device-type-assertion

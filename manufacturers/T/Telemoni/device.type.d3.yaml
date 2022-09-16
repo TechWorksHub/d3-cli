@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 57effe29-5375-5874-b59a-9219c00fb999
-  macAddresses:
-  - 00:06:8F:00:00:00/24
-  manufacturer: Telemonitor, Inc.
-  manufacturerUri: https://device-type.com
-  name: Telemoni
-type: d3-device-type-assertion

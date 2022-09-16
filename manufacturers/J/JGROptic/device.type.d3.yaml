@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 541bffa1-487a-5bba-a300-6906413a2ea8
-  macAddresses:
-  - A0:28:33:50:00:00/28
-  manufacturer: JGR Optics Inc
-  manufacturerUri: https://device-type.com
-  name: JGROptic
-type: d3-device-type-assertion

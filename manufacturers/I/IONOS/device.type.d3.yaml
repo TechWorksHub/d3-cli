@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0204144b-5836-5676-9825-7a46696ecb11
-  macAddresses:
-  - 00:13:C7:00:00:00/24
-  manufacturer: IONOS Co.,Ltd.
-  manufacturerUri: https://device-type.com
-  name: IONOS
-type: d3-device-type-assertion

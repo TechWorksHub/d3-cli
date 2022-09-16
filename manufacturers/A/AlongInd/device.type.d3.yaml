@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: eaa5f9d1-e6d5-56ff-9b83-99f288e411c0
-  macAddresses:
-  - 68:F0:6D:00:00:00/24
-  manufacturer: Along Industrial Co., Limited
-  manufacturerUri: https://device-type.com
-  name: AlongInd
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 069f0352-6722-5cd6-940f-dad16b3f9614
-  macAddresses:
-  - 00:03:03:00:00:00/24
-  manufacturer: JAMA Electronics Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: JAMAElec
-type: d3-device-type-assertion

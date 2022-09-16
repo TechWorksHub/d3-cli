@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4775ee82-77e1-5b4d-9d0a-bd5f207b70af
-  macAddresses:
-  - F0:87:7F:00:00:00/24
-  manufacturer: Magnetar Technology Shenzhen Co., LTD.
-  manufacturerUri: https://device-type.com
-  name: Magnetar
-type: d3-device-type-assertion

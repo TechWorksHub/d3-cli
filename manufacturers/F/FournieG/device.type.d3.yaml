@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 946d88b1-c32e-586e-8c2f-9de4d7eddc4d
-  macAddresses:
-  - 74:5B:C5:A0:00:00/28
-  manufacturer: Fournie Grospaud Energie SASU
-  manufacturerUri: https://device-type.com
-  name: FournieG
-type: d3-device-type-assertion

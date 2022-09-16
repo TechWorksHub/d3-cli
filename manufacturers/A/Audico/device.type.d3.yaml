@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6eb5a634-5d0d-56c7-85a8-1897dbe0ae23
-  macAddresses:
-  - 00:50:C2:70:E0:00/36
-  manufacturer: Audico Systems Oy
-  manufacturerUri: https://device-type.com
-  name: Audico
-type: d3-device-type-assertion

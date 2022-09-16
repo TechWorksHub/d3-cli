@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0659c399-0c32-529b-bbd4-96f60e8ffff1
-  macAddresses:
-  - 00:06:BE:00:00:00/24
-  manufacturer: Baumer Optronic GmbH
-  manufacturerUri: https://device-type.com
-  name: BaumerOp
-type: d3-device-type-assertion

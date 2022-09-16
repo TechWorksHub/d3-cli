@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6dd1c46a-9734-5714-9dde-c0598ba63dc9
-  macAddresses:
-  - A4:3B:FA:B0:00:00/28
-  manufacturer: ALSTOM Strongwish (Shenzhen) Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: ALSTOMSt
-type: d3-device-type-assertion

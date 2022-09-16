@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b7ce6b79-4ca0-5397-a062-5c7d314f246d
-  macAddresses:
-  - 7C:4B:78:00:00:00/24
-  manufacturer: Red Sun Synthesis Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: RedSunSy
-type: d3-device-type-assertion

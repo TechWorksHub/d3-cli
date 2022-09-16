@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7399b0a0-ef15-5ba7-b29e-e5604547bcf0
-  macAddresses:
-  - 00:05:0E:00:00:00/24
-  manufacturer: 3ware, Inc.
-  manufacturerUri: https://device-type.com
-  name: 3ware
-type: d3-device-type-assertion

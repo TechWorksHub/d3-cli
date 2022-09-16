@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 77f4d221-be8f-5b65-99a2-5bf50955d9f2
-  macAddresses:
-  - 34:D0:B8:00:00:00/28
-  manufacturer: Captec Ltd
-  manufacturerUri: https://device-type.com
-  name: Captec
-type: d3-device-type-assertion

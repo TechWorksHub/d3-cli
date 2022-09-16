@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dbbba7fe-a740-5e8f-adce-d5a0ae4eadf7
-  macAddresses:
-  - 00:08:9B:00:00:00/24
-  manufacturer: ICP Electronics Inc.
-  manufacturerUri: https://device-type.com
-  name: ICPElect
-type: d3-device-type-assertion

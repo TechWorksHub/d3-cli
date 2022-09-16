@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: baa08a8a-9fd6-5460-bc99-10c2fe0fe39c
-  macAddresses:
-  - A4:53:EE:80:00:00/28
-  manufacturer: T-Touching Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: T-Touchi
-type: d3-device-type-assertion

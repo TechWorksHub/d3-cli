@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8fc31d34-6dca-52ba-8a6a-a3e294191559
-  macAddresses:
-  - 00:50:C2:80:30:00/36
-  manufacturer: dB Broadcast Limited
-  manufacturerUri: https://device-type.com
-  name: dBBroadc
-type: d3-device-type-assertion

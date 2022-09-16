@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: aa9a9705-9af8-5600-87c8-80c30989d1e7
-  macAddresses:
-  - 00:1A:54:00:00:00/24
-  manufacturer: Hip Shing Electronics Ltd.
-  manufacturerUri: https://device-type.com
-  name: HipShing
-type: d3-device-type-assertion

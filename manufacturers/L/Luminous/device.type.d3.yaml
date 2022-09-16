@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 37a855c3-02cb-5cc6-a1bf-56c025f35593
-  macAddresses:
-  - 00:23:4F:00:00:00/24
-  manufacturer: Luminous Power Technologies Pvt. Ltd.
-  manufacturerUri: https://device-type.com
-  name: Luminous
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f9d5ab0c-5ae2-515b-9048-1c870c096054
-  macAddresses:
-  - 00:50:C2:0F:60:00/36
-  manufacturer: Carl Baasel Lasertechnik GmbH
-  manufacturerUri: https://device-type.com
-  name: CarlBaas
-type: d3-device-type-assertion

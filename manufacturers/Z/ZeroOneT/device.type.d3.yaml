@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4bf6474b-76c6-562f-a3cc-53c6cf866dec
-  macAddresses:
-  - 00:40:01:00:00:00/24
-  manufacturer: Zero One Technology Co Ltd (ZyXEL?)
-  manufacturerUri: https://device-type.com
-  name: ZeroOneT
-type: d3-device-type-assertion

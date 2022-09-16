@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9224366a-1a8e-57e5-8281-e55e6d172687
-  macAddresses:
-  - 70:B3:D5:4C:E0:00/36
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Agilack
-type: d3-device-type-assertion

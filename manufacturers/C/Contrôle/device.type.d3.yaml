@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7566f7ac-bcc0-5fca-8666-70c821bc71f6
-  macAddresses:
-  - 00:50:C2:3B:40:00/36
-  manufacturer: "Contr\xF4le Analytique inc."
-  manufacturerUri: https://device-type.com
-  name: "Contr\xF4le"
-type: d3-device-type-assertion

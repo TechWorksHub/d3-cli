@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 47ec16e3-5a64-56bf-a2e5-88538f9a83c9
-  macAddresses:
-  - 08:00:40:00:00:00/24
-  manufacturer: Ferranti Computer Sys. Limited
-  manufacturerUri: https://device-type.com
-  name: Ferranti
-type: d3-device-type-assertion

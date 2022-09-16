@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8cae1b40-22ac-50dd-8e31-13c66aedb7db
-  macAddresses:
-  - 2C:48:35:E0:00:00/28
-  manufacturer: Irootech Technology Co.,Ltd
-  manufacturerUri: https://device-type.com
-  name: Irootech
-type: d3-device-type-assertion

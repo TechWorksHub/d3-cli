@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3c7e7c4a-ef0e-59d3-82b9-70e586a7c065
-  macAddresses:
-  - 00:1A:7B:00:00:00/24
-  manufacturer: Teleco, Inc.
-  manufacturerUri: https://device-type.com
-  name: Teleco
-type: d3-device-type-assertion

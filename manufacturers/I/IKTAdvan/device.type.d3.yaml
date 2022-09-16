@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cdd89fd2-de0c-5a79-85f4-79717cb17b52
-  macAddresses:
-  - 00:26:2C:00:00:00/24
-  manufacturer: IKT Advanced Technologies s.r.o.
-  manufacturerUri: https://device-type.com
-  name: IKTAdvan
-type: d3-device-type-assertion

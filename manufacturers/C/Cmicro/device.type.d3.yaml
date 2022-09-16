@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 256bb367-bdec-56a2-a4b4-a9dcf8a2d5ec
-  macAddresses:
-  - 00:10:51:00:00:00/24
-  manufacturer: Cmicro Corporation
-  manufacturerUri: https://device-type.com
-  name: Cmicro
-type: d3-device-type-assertion

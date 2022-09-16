@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 11407887-b23c-5078-b4fa-6993243e0690
-  macAddresses:
-  - 00:1F:ED:00:00:00/24
-  manufacturer: Tecan Systems Inc.
-  manufacturerUri: https://device-type.com
-  name: Tecan
-type: d3-device-type-assertion

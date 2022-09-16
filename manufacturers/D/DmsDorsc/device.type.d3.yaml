@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4010440b-070a-5b87-91ad-97de465b1875
-  macAddresses:
-  - 00:A0:6B:00:00:00/24
-  manufacturer: Dms Dorsch Mikrosystem Gmbh
-  manufacturerUri: https://device-type.com
-  name: DmsDorsc
-type: d3-device-type-assertion

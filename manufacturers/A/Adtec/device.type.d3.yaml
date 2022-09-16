@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f21d1618-47a3-5ee7-abd9-86fcfb2f7eaf
-  macAddresses:
-  - 00:02:29:00:00:00/24
-  manufacturer: Adtec Corporation
-  manufacturerUri: https://device-type.com
-  name: Adtec
-type: d3-device-type-assertion

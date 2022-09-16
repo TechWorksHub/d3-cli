@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a07fae51-6188-58cc-89ec-6ec9964761b9
-  macAddresses:
-  - 08:00:66:00:00:00/24
-  manufacturer: AGFA
-  manufacturerUri: https://device-type.com
-  name: AgfaPrin
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 83648fcd-ddbc-56fc-aeed-56787b99b17d
-  macAddresses:
-  - 0C:CD:D3:00:00:00/24
-  manufacturer: Eastriver Technology Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: Eastrive
-type: d3-device-type-assertion

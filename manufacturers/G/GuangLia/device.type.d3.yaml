@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c68ad1aa-3255-5d95-a251-e4f6d5ac1669
-  macAddresses:
-  - E4:95:6E:40:00:00/28
-  manufacturer: Guang Lian Zhi Tong Technology Limited
-  manufacturerUri: https://device-type.com
-  name: GuangLia
-type: d3-device-type-assertion

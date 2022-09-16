@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7cbd0255-ee43-5fc7-bb48-0fcd4686ee6d
-  macAddresses:
-  - 00:50:C2:9C:50:00/36
-  manufacturer: Scansonic MI GmbH
-  manufacturerUri: https://device-type.com
-  name: Scansoni
-type: d3-device-type-assertion

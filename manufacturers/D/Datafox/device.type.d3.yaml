@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6d98d5ca-287c-54b8-b963-84111968aefb
-  macAddresses:
-  - E4:F7:A1:00:00:00/24
-  manufacturer: Datafox GmbH
-  manufacturerUri: https://device-type.com
-  name: Datafox
-type: d3-device-type-assertion

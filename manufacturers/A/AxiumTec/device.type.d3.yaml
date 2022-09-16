@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 18868634-2173-5c69-bc03-4b4f32746b8b
-  macAddresses:
-  - 0C:D7:C2:00:00:00/24
-  manufacturer: Axium Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: AxiumTec
-type: d3-device-type-assertion

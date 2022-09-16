@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0524ece3-247f-5277-96cb-1edb3aa1f2bc
-  macAddresses:
-  - 00:1F:B4:00:00:00/24
-  manufacturer: SmartShare Systems
-  manufacturerUri: https://device-type.com
-  name: SmartSha
-type: d3-device-type-assertion

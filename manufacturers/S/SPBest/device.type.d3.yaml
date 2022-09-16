@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: e29dae91-7bb0-5c67-843d-b6132eb783a9
-  macAddresses:
-  - B4:05:66:00:00:00/24
-  manufacturer: SP Best Corporation Co., LTD.
-  manufacturerUri: https://device-type.com
-  name: SPBest
-type: d3-device-type-assertion

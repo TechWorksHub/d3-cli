@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: dd37a90f-9757-5906-8aff-54907a206a94
-  macAddresses:
-  - A4:6C:C1:00:00:00/24
-  manufacturer: LTi REEnergy GmbH
-  manufacturerUri: https://device-type.com
-  name: LTiREEne
-type: d3-device-type-assertion

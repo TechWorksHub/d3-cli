@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6ad984c2-2706-5114-ba45-4cca9eb7b6fc
-  macAddresses:
-  - 00:0A:20:00:00:00/24
-  manufacturer: SVA Networks, Inc.
-  manufacturerUri: https://device-type.com
-  name: SVANetwo
-type: d3-device-type-assertion

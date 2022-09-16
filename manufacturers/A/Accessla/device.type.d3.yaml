@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 99aa5d9c-c4fa-5517-ad5a-e78f5404d0d5
-  macAddresses:
-  - 00:10:33:00:00:00/24
-  manufacturer: Accesslan Communications, Inc.
-  manufacturerUri: https://device-type.com
-  name: Accessla
-type: d3-device-type-assertion

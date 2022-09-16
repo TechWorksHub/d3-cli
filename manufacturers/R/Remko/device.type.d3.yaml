@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4de6efea-3373-522e-9d29-8fbe7029b177
-  macAddresses:
-  - DC:E5:33:20:00:00/28
-  manufacturer: Remko GmbH & Co. KG
-  manufacturerUri: https://device-type.com
-  name: Remko
-type: d3-device-type-assertion

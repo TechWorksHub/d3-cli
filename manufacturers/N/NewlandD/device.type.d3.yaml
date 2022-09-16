@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 195f2125-7c7e-55c8-a7db-68c8c77c0ed6
-  macAddresses:
-  - 90:9D:E0:00:00:00/24
-  manufacturer: Newland Design + Assoc. Inc.
-  manufacturerUri: https://device-type.com
-  name: NewlandD
-type: d3-device-type-assertion

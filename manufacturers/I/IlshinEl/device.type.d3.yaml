@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 73f06f70-5e5d-562e-9385-d89214c94cdd
-  macAddresses:
-  - 1C:EE:E8:00:00:00/24
-  manufacturer: Ilshin Elecom
-  manufacturerUri: https://device-type.com
-  name: IlshinEl
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1c81beb3-dee8-5f03-8c13-c8ebf3837ebe
-  macAddresses:
-  - 00:16:A7:00:00:00/24
-  manufacturer: Aweta G&P
-  manufacturerUri: https://device-type.com
-  name: AwetaG&P
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 4c77b654-7308-5dd7-a6f2-ee1da57efee0
-  macAddresses:
-  - 00:24:1B:00:00:00/24
-  manufacturer: iWOW Communications Pte Ltd
-  manufacturerUri: https://device-type.com
-  name: iWOWComm
-type: d3-device-type-assertion

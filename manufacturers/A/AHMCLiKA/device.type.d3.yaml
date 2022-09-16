@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: a408ab2b-bc53-5284-a504-4b1be962627d
-  macAddresses:
-  - 00:50:C2:AB:80:00/36
-  manufacturer: AHM Limited (CLiKAPAD)
-  manufacturerUri: https://device-type.com
-  name: AHMCLiKA
-type: d3-device-type-assertion

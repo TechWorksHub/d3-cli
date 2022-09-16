@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 0c864bbf-dd78-5721-ba6c-d50588e48bfc
-  macAddresses:
-  - 00:90:17:00:00:00/24
-  manufacturer: Zypcom, Inc
-  manufacturerUri: https://device-type.com
-  name: Zypcom
-type: d3-device-type-assertion

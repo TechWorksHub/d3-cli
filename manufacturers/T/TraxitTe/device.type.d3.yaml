@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 74335031-08c9-5d4e-a045-332f2762d670
-  macAddresses:
-  - 00:03:A6:00:00:00/24
-  manufacturer: Traxit Technology, Inc.
-  manufacturerUri: https://device-type.com
-  name: TraxitTe
-type: d3-device-type-assertion

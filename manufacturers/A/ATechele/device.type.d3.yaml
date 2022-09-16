@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f7c29ee8-b27d-54b1-a448-d101e73465b1
-  macAddresses:
-  - 00:16:D0:00:00:00/24
-  manufacturer: ATech elektronika d.o.o.
-  manufacturerUri: https://device-type.com
-  name: ATechele
-type: d3-device-type-assertion

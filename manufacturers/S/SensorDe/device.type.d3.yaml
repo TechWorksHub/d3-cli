@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2c5b8916-c5c1-5881-af6c-412331f1e496
-  macAddresses:
-  - 70:B3:D5:93:50:00/36
-  manufacturer: Sensor Developments
-  manufacturerUri: https://device-type.com
-  name: SensorDe
-type: d3-device-type-assertion

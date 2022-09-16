@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 6f4073d5-54cf-5536-8944-ff19cd663435
-  macAddresses:
-  - 7C:BA:CC:50:00:00/28
-  manufacturer: Fortem Technologies, Inc.
-  manufacturerUri: https://device-type.com
-  name: FortemTe
-type: d3-device-type-assertion

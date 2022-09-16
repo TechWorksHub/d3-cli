@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c64b40e0-5c00-5ee0-b138-d70e8dcee6a3
-  macAddresses:
-  - 00:18:FD:00:00:00/24
-  manufacturer: Optimal Technologies International Inc.
-  manufacturerUri: https://device-type.com
-  name: OptimalT
-type: d3-device-type-assertion

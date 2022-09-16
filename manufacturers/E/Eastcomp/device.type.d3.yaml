@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c2250200-0509-550c-b3cf-3eba680d87a5
-  macAddresses:
-  - 70:06:AC:00:00:00/24
-  manufacturer: Eastcompeace Technology Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: Eastcomp
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7f220152-d731-562b-80c5-bcd2e3d3e5aa
-  macAddresses:
-  - 00:50:C2:47:F0:00/36
-  manufacturer: BRIT Inc.
-  manufacturerUri: https://device-type.com
-  name: BRIT
-type: d3-device-type-assertion

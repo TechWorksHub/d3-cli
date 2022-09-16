@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cf6fbb4e-d6d7-5d7b-a81f-d2b1cae625cd
-  macAddresses:
-  - 00:80:07:00:00:00/24
-  manufacturer: Dlog Nc-Systeme
-  manufacturerUri: https://device-type.com
-  name: DlogNc-S
-type: d3-device-type-assertion

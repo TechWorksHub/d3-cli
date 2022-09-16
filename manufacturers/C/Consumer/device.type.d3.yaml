@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 90457323-db78-56db-b597-95fe38cb0583
-  macAddresses:
-  - 00:15:32:00:00:00/24
-  manufacturer: Consumer Technologies Group, LLC
-  manufacturerUri: https://device-type.com
-  name: Consumer
-type: d3-device-type-assertion

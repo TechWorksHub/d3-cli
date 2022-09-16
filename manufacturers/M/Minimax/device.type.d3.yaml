@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 93a20c46-87cb-531e-a084-e741714f2efb
-  macAddresses:
-  - 00:25:35:00:00:00/24
-  manufacturer: Minimax GmbH & Co KG
-  manufacturerUri: https://device-type.com
-  name: Minimax
-type: d3-device-type-assertion

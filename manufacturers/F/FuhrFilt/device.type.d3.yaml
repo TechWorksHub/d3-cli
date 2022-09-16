@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 3d43e57e-6659-5e48-a3ac-23e32b199175
-  macAddresses:
-  - 70:B3:D5:DB:B0:00/36
-  manufacturer: Fuhr GmbH Filtertechnik
-  manufacturerUri: https://device-type.com
-  name: FuhrFilt
-type: d3-device-type-assertion

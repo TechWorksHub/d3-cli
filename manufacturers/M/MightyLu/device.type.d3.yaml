@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 40e1eaf5-2409-59c2-a12a-6c5e01ca597d
-  macAddresses:
-  - 00:50:C2:AD:50:00/36
-  manufacturer: Mighty Lube Systematic Lubrication, Inc.
-  manufacturerUri: https://device-type.com
-  name: MightyLu
-type: d3-device-type-assertion

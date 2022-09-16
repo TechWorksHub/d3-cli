@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 98a2671c-e7b8-595d-84ef-e71f11a529b3
-  macAddresses:
-  - 00:50:C2:6B:A0:00/36
-  manufacturer: Fertron Controle e Automacao Industrial Ltda.
-  manufacturerUri: https://device-type.com
-  name: FertronC
-type: d3-device-type-assertion

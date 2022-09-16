@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 12f4aadd-04d1-53f0-9606-1b3e9511dc37
-  macAddresses:
-  - BC:20:BA:00:00:00/24
-  manufacturer: Inspur (Shandong) Electronic Information Co., Ltd
-  manufacturerUri: https://device-type.com
-  name: InspurSh
-type: d3-device-type-assertion

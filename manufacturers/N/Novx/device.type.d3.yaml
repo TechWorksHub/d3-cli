@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: efd99f2a-7c9c-535e-822f-be023c14736e
-  macAddresses:
-  - 00:50:C2:34:10:00/36
-  manufacturer: Novx Systems
-  manufacturerUri: https://device-type.com
-  name: Novx
-type: d3-device-type-assertion

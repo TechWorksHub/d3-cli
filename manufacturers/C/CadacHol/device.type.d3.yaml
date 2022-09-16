@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 83a45f4a-eb71-5db1-b3fb-aff0318f459e
-  macAddresses:
-  - C4:55:A6:00:00:00/24
-  manufacturer: Cadac Holdings Ltd
-  manufacturerUri: https://device-type.com
-  name: CadacHol
-type: d3-device-type-assertion

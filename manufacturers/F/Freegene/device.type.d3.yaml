@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f5564b6f-b243-5de3-abc6-9258f6f5bcf4
-  macAddresses:
-  - 00:22:1D:00:00:00/24
-  manufacturer: Freegene Technology LTD
-  manufacturerUri: https://device-type.com
-  name: Freegene
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 75c7762e-f08a-5f0f-9161-7ad20930228f
-  macAddresses:
-  - EC:57:0D:00:00:00/24
-  manufacturer: AFE Inc.
-  manufacturerUri: https://device-type.com
-  name: AFE
-type: d3-device-type-assertion

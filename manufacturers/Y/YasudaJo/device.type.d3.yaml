@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9761d132-0cc1-542a-9559-e77820d34ee0
-  macAddresses:
-  - F8:42:FB:00:00:00/24
-  manufacturer: Yasuda Joho Co.,ltd.
-  manufacturerUri: https://device-type.com
-  name: YasudaJo
-type: d3-device-type-assertion

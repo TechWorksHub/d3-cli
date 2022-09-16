@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b067db29-87b5-51da-a16a-0427ebbe6d46
-  macAddresses:
-  - D8:ED:1C:00:00:00/24
-  manufacturer: Magna Technology SL
-  manufacturerUri: https://device-type.com
-  name: MagnaTec
-type: d3-device-type-assertion

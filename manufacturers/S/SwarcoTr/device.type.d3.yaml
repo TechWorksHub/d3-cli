@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 1efa444a-3ec0-5907-8907-39e1e0acf5a7
-  macAddresses:
-  - 58:FC:DB:B0:00:00/28
-  manufacturer: Swarco Traffic Systems Gmbh
-  manufacturerUri: https://device-type.com
-  name: SwarcoTr
-type: d3-device-type-assertion

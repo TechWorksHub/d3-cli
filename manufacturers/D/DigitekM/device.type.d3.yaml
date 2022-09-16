@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 679df0b6-97de-511b-8455-93244401d22f
-  macAddresses:
-  - 00:50:5E:00:00:00/24
-  manufacturer: Digitek Micrologic S.A.
-  manufacturerUri: https://device-type.com
-  name: DigitekM
-type: d3-device-type-assertion

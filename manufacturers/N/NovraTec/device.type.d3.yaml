@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 55ff4fcf-7bc0-5cbf-9806-abc187e54acb
-  macAddresses:
-  - 00:06:76:00:00:00/24
-  manufacturer: Novra Technologies Inc.
-  manufacturerUri: https://device-type.com
-  name: NovraTec
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cccf47e1-f2a4-586e-8c7a-81585165acbc
-  macAddresses:
-  - 40:D8:55:1D:60:00/36
-  manufacturer: EMS Computers Pty Ltd
-  manufacturerUri: https://device-type.com
-  name: EMSCompu
-type: d3-device-type-assertion

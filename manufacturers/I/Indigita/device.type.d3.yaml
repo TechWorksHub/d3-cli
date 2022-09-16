@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 7f47675e-7c2f-55b9-ba74-be1aa0fbdd08
-  macAddresses:
-  - 00:30:DD:00:00:00/24
-  manufacturer: Indigita Corporation
-  manufacturerUri: https://device-type.com
-  name: Indigita
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 9318fa8d-1be3-5379-9f46-db2e8311146c
-  macAddresses:
-  - 00:30:6F:00:00:00/24
-  manufacturer: Seyeon Tech. Co., Ltd.
-  manufacturerUri: https://device-type.com
-  name: SeyeonTe
-type: d3-device-type-assertion

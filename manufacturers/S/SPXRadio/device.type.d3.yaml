@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 49b16732-6ffe-594b-b7a0-fd43545f164d
-  macAddresses:
-  - 70:B3:D5:A7:70:00/36
-  manufacturer: SPX Radiodetection
-  manufacturerUri: https://device-type.com
-  name: SPXRadio
-type: d3-device-type-assertion

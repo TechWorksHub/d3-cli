@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c9b8bf2f-e0b9-5d2b-be6f-24b34ff03114
-  macAddresses:
-  - 84:89:EC:B0:00:00/28
-  manufacturer: "EPSa Elektronik & Pr\xE4zisionsbau Saalfeld GmbH"
-  manufacturerUri: https://device-type.com
-  name: EPSaElek
-type: d3-device-type-assertion

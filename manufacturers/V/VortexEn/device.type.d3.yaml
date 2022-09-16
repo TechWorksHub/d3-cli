@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b4c28156-a591-5dde-859e-44bd9435094e
-  macAddresses:
-  - 00:50:C2:8C:50:00/36
-  manufacturer: Vortex Engineering pvt ltd
-  manufacturerUri: https://device-type.com
-  name: VortexEn
-type: d3-device-type-assertion

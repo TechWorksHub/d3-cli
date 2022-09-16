@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b5bee0b6-f1ae-5a3c-b80c-cefeb555b6c6
-  macAddresses:
-  - 24:5D:FC:70:00:00/28
-  manufacturer: Lty Llc
-  manufacturerUri: https://device-type.com
-  name: Lty
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 8320f6b9-4dad-5037-a30d-24a296f8d9aa
-  macAddresses:
-  - C0:D3:91:10:00:00/28
-  manufacturer: B9Creations
-  manufacturerUri: https://device-type.com
-  name: B9Creati
-type: d3-device-type-assertion

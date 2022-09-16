@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: b87d9656-0c96-5039-a582-dbcb1d15d69f
-  macAddresses:
-  - B4:15:7E:00:00:00/24
-  manufacturer: Celona Inc.
-  manufacturerUri: https://device-type.com
-  name: Celona
-type: d3-device-type-assertion

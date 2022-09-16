@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: cbd5bd34-48ca-5863-847e-b7455eeb47b8
-  macAddresses:
-  - 00:04:39:00:00:00/24
-  manufacturer: Rosco Entertainment Technology, Inc.
-  manufacturerUri: https://device-type.com
-  name: RoscoEnt
-type: d3-device-type-assertion

@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 000c485b-ecd1-5590-82af-c9b7e6a4eaab
-  macAddresses:
-  - 80:84:A9:00:00:00/24
-  manufacturer: oshkosh Corporation
-  manufacturerUri: https://device-type.com
-  name: oshkosh
-type: d3-device-type-assertion

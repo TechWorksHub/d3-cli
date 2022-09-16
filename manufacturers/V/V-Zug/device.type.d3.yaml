@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: f4d1b529-7950-5775-92f9-ff96407a14b9
-  macAddresses:
-  - FC:1B:FF:00:00:00/24
-  manufacturer: V-Zug Ag
-  manufacturerUri: https://device-type.com
-  name: V-Zug
-type: d3-device-type-assertion

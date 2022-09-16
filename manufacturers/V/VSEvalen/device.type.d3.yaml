@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 2d447060-67a9-57bb-a939-0ee012e9bef6
-  macAddresses:
-  - 7C:9A:9B:00:00:00/24
-  manufacturer: VSE valencia smart energy
-  manufacturerUri: https://device-type.com
-  name: VSEvalen
-type: d3-device-type-assertion

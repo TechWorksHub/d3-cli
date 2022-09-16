@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: 69d8875a-66b3-5163-aba0-a3ccf4d7f7a8
-  macAddresses:
-  - 00:09:53:00:00:00/24
-  manufacturer: Linkage System Integration Co.Ltd.
-  manufacturerUri: https://device-type.com
-  name: LinkageS
-type: d3-device-type-assertion

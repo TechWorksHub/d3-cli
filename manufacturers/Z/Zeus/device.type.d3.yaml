@@ -1,9 +1,0 @@
-credentialSubject:
-  behaviour: 97c4fb11-5fb8-44c3-b449-107fdbb66a15
-  id: c16d1295-f2c1-5130-ac65-da7df44466c9
-  macAddresses:
-  - 4A:CA:3E:00:00:00/24
-  manufacturer: ''
-  manufacturerUri: https://device-type.com
-  name: Zeus
-type: d3-device-type-assertion
