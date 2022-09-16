@@ -87,7 +87,8 @@ def cli(argv=None):
     log_level_sum = min(sum(args.log_level or tuple(), logging.INFO), logging.ERROR)
     logging.basicConfig(level=log_level_sum)
 
-    if len(args.input) == 0:
+    export_only = (args.build_dir is not None and args.mode == "export")
+    if len(args.input) == 0 and not export_only:
         logging.warning("No directories provided, Exiting...")
         return
 
