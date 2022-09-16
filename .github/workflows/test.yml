@@ -25,6 +25,7 @@ jobs:
         working-directory: d3-scripts
     steps:
       - uses: actions/checkout@v3
+      - name: Set up Python 3.8
         uses: actions/setup-python@v4
         with:
           python-version: 3.8
@@ -32,6 +33,5 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install poetry
-          cd d3-cli
           poetry install
       - run: poetry run pytest # tests whether our Python code works
