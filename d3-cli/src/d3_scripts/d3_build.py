@@ -26,7 +26,6 @@ class PathFinder:
 
     def add_to_d3_map(self, claim_filepath, folder):
         claim_relative_filepath = claim_filepath.relative_to(folder)
-        print(claim_relative_filepath)
         json_filepath = Path(
             self.output_dir, str(claim_relative_filepath).replace(".yaml", ".json")
         )
@@ -63,6 +62,7 @@ def d3_build(
     output_dir: Path,
     check_uri_resolves: bool = True,
     skip_vuln: bool = False,
+    skip_mal: bool = False,
     pass_on_failure: bool = False,
 ):
     """Build compressed D3 files from D3 YAML files
@@ -98,21 +98,22 @@ def d3_build(
     files_to_process = [file for file in files_to_process if file]
     pbar.update(15)
 
-    # retrieve malicious malware urls and add malicious behaviours
-    pbar.set_description("Retrieving malicious URLs")
-    malicious_behaviours = get_malicious_behaviours()
-    malicious_behaviours_dir = TemporaryDirectory()
-    malicious_behaviours_dir.path = Path(malicious_behaviours_dir.name)
-    folder = malicious_behaviours_dir.path / "maliciousUrls"
-    folder.mkdir(parents=True, exist_ok=True)
-    for malicious_behaviour in malicious_behaviours:
-        id = malicious_behaviour["id"]
-        behaviour_filepath = folder / f'mal-{id}.behaviour.d3.yaml'
-        behaviour_yaml = {"type": "d3-device-type-behaviour", "credentialSubject": malicious_behaviour}
-        with open(behaviour_filepath, 'w') as outfile:
-            yaml.dump(behaviour_yaml, outfile, default_flow_style=False)
-        pathFinder.add_to_d3_map(behaviour_filepath, malicious_behaviours_dir.path)
-        files_to_process.append(str(behaviour_filepath))
+    if not skip_mal:
+        # retrieve malicious malware urls and add malicious behaviours
+        pbar.set_description("Retrieving malicious URLs")
+        malicious_behaviours = get_malicious_behaviours()
+        malicious_behaviours_dir = TemporaryDirectory()
+        malicious_behaviours_dir.path = Path(malicious_behaviours_dir.name)
+        folder = malicious_behaviours_dir.path / "maliciousUrls"
+        folder.mkdir(parents=True, exist_ok=True)
+        for malicious_behaviour in malicious_behaviours:
+            id = malicious_behaviour["id"]
+            behaviour_filepath = folder / f'mal-{id}.behaviour.d3.yaml'
+            behaviour_yaml = {"type": "d3-device-type-behaviour", "credentialSubject": malicious_behaviour}
+            with open(behaviour_filepath, 'w') as outfile:
+                yaml.dump(behaviour_yaml, outfile, default_flow_style=False)
+            pathFinder.add_to_d3_map(behaviour_filepath, malicious_behaviours_dir.path)
+            files_to_process.append(str(behaviour_filepath))
     pbar.update(10)
 
     pbar.set_description("Loading claims")
@@ -167,7 +168,10 @@ def d3_build(
         for warning in warnings:
             logging.warning(f"{warning} in {files_to_process[i]}")
 
-    malicious_behaviours_dir.cleanup()
+    try:
+        malicious_behaviours_dir.cleanup()
+    except UnboundLocalError:
+        pass
     pool.close()
     pbar.update(20)
     pbar.set_description("Done!")

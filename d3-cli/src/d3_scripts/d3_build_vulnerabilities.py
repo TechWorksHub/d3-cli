@@ -55,7 +55,7 @@ def get_vulnerabilities(string_to_search_for, projection={"CVE_data_meta": 1}):
 def build_vulnerabilities(type_jsons, pool, pbar=None, percentage_total=None):
     type_jsons_with_vulnerabilities = []
     retrieved_cve_vulnerabilities = []
-    for chunk in chunks(type_jsons, round(len(type_jsons)/percentage_total)):
+    for chunk in chunks(type_jsons, max(round(len(type_jsons)/percentage_total), 1)):
         pool_results = pool.map(retrieve_vulnerability, chunk)
         chunk_retrieved_cve_vulnerabilities, chunk_type_jsons = zip(*pool_results)
         retrieved_cve_vulnerabilities += flatten(chunk_retrieved_cve_vulnerabilities)
@@ -84,4 +84,5 @@ def retrieve_vulnerability(type_json):
         type_json["credentialSubject"]["vulnerabilities"] = (
             current_vulnerabilities + cve_vulnerability_ids
         )
-    return cve_vulnerabilities, type_json
+        return cve_vulnerabilities, type_json
+    return [], type_json

@@ -15,7 +15,8 @@ def test_duplicated_guids():
     with pytest.raises(Exception) as excinfo:
         d3_scripts.d3_build.d3_build(
             d3_folders=[test_dir],
-            output_dir=output_dir
+            output_dir=output_dir,
+            skip_mal=True,
         )
     assert "Duplicate GUIDs" in excinfo.value.args[0]
 
@@ -35,6 +36,7 @@ def test_invalid_uri(caplog):
         d3_folders=[test_dir],
         output_dir=output_dir,
         check_uri_resolves=True,
+        skip_mal=True,
     )
     for record in caplog.records:
         assert "URI https://nquiringminds.com.invalid cannot be resolved" in record.message
@@ -47,6 +49,7 @@ def test_invalid_uri(caplog):
         d3_folders=[test_dir],
         output_dir=output_dir,
         check_uri_resolves=True,
+        skip_mal=True,
     )
     # should be empty, as all URIs are valid
     assert len(caplog.records) == 0
@@ -60,6 +63,7 @@ def test_non_existent_parent_behaviour():
         d3_scripts.d3_build.d3_build(
             d3_folders=[test_dir],
             output_dir=output_dir,
+            skip_mal=True,
         )
     for string in ["Parent behaviour id", "doesn't exist"]:
         assert string in excinfo.value.args[0]
@@ -73,6 +77,7 @@ def test_circular_behaviour_dependencies():
         d3_scripts.d3_build.d3_build(
             d3_folders=[test_dir],
             output_dir=output_dir,
+            skip_mal=True,
         )
     assert "Graph has Cyclic dependency" in excinfo.value.args[0]
 
@@ -85,6 +90,7 @@ def test_non_existent_parent_type():
         d3_scripts.d3_build.d3_build(
             d3_folders=[test_dir],
             output_dir=output_dir,
+            skip_mal=True,
         )
     for string in ["Parent type with id", "doesn't exist"]:
         assert string in excinfo.value.args[0]
@@ -98,6 +104,7 @@ def test_duplicate_property_type_inheritance():
         d3_scripts.d3_build.d3_build(
             d3_folders=[test_dir],
             output_dir=output_dir,
+            skip_mal=True,
         )
     assert "Duplicate inherited properties in type definition" in excinfo.value.args[0]
 
@@ -110,6 +117,7 @@ def test_inherit_missing_property():
         d3_scripts.d3_build.d3_build(
             d3_folders=[test_dir],
             output_dir=output_dir,
+            skip_mal=True,
         )
     assert "Attempted to inherit missing property" in excinfo.value.args[0]
 
@@ -122,6 +130,7 @@ def test_firmware_with_missing_type():
         d3_scripts.d3_build.d3_build(
             d3_folders=[test_dir],
             output_dir=output_dir,
+            skip_mal=True,
         )
     for string in ["Type", "of firmware claim", "not found"]:
         assert string in excinfo.value.args[0]
@@ -135,6 +144,7 @@ def test_duplicate_property_type_inheritance_single_parent():
     d3_scripts.d3_build.d3_build(
         d3_folders=[test_dir],
         output_dir=output_dir,
+        skip_mal=True,
     )
 
 

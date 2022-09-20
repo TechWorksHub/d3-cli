@@ -56,7 +56,14 @@ def cli(argv=None):
         "--skip-vuln",
         action="store_true",
         help="""skip vulnerability lookup.
-        This take a long time, and requires an internet connection
+        This takes a long time, and requires an internet connection
+        so you may wish to skip this step for local testing.""",
+    )
+    parser.add_argument(
+        "--skip-mal",
+        action="store_true",
+        help="""skip malicious url lookup.
+        This takes a bit of time, and requires an internet connection
         so you may wish to skip this step for local testing.""",
     )
     parser.add_argument(
@@ -122,6 +129,7 @@ def cli(argv=None):
             output_dir=args.output,
             check_uri_resolves=args.check_uri_resolves,
             skip_vuln=args.skip_vuln,
+            skip_mal=args.skip_mal,
         )
 
     elif args.mode == "export":
@@ -138,6 +146,7 @@ def cli(argv=None):
                 output_dir=build_dir,
                 check_uri_resolves=args.check_uri_resolves,
                 skip_vuln=args.skip_vuln,
+                skip_mal=args.skip_mal,
             )
 
         d3_build_db(build_dir, args.output)
