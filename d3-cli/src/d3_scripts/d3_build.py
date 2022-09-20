@@ -58,6 +58,7 @@ def d3_build(
     d3_folders: typing.Iterable[Path],
     output_dir: Path,
     check_uri_resolves: bool = True,
+    skip_vuln: bool = False,
     pass_on_failure: bool = False,
 ):
     """Build compressed D3 files from D3 YAML files
@@ -101,14 +102,17 @@ def d3_build(
     claim_jsons = behaviour_jsons + type_jsons
     pbar.update(5)
 
-    pbar.set_description("Searching CVE dataset for vulnerabilities")
-    cve_vulnerabilities = build_vulnerabilities(type_jsons, pbar, percentage_total=15)
-    outputFolder = Path(output_dir, "cve_vulnerabilities")
-    Path(outputFolder).mkdir(parents=True, exist_ok=True)
-    for vuln in cve_vulnerabilities:
-        json_file_name = Path(outputFolder, f"{vuln['credentialSubject']['id']}.json")
-        # write JSON for CVE vulnerability
-        write_json(json_file_name, vuln)
+    if not skip_vuln:
+        pbar.set_description("Searching CVE dataset for vulnerabilities")
+        cve_vulnerabilities, type_jsons = build_vulnerabilities(type_jsons, pool, pbar, percentage_total=15)
+        outputFolder = Path(output_dir, "cve_vulnerabilities")
+        Path(outputFolder).mkdir(parents=True, exist_ok=True)
+        for vuln in cve_vulnerabilities:
+            json_file_name = Path(outputFolder, f"{vuln['credentialSubject']['id']}.json")
+            # write JSON for CVE vulnerability
+            write_json(json_file_name, vuln)
+    else:
+        pbar.update(15)
     pbar.update(5)
 
     # check for duplicate GUID/UUIDs

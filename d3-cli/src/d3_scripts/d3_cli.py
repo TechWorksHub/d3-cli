@@ -53,6 +53,13 @@ def cli(argv=None):
         choices=["build", "lint", "export"],
     )
     parser.add_argument(
+        "--skip-vuln",
+        action="store_true",
+        help="""skip vulnerability lookup.
+        This take a long time, and requires an internet connection
+        so you may wish to skip this step for local testing.""",
+    )
+    parser.add_argument(
         "--build-dir",
         nargs="?",
         help="""build directory with json claims to export.
@@ -110,14 +117,12 @@ def cli(argv=None):
 
     elif args.mode == "build":
         logging.info("building")
-        try:
-            d3_build(
-                d3_folders=args.input,
-                output_dir=args.output,
-                check_uri_resolves=args.check_uri_resolves,
-            )
-        except Exception as error:
-            logging.error(error)
+        d3_build(
+            d3_folders=args.input,
+            output_dir=args.output,
+            check_uri_resolves=args.check_uri_resolves,
+            skip_vuln=args.skip_vuln,
+        )
 
     elif args.mode == "export":
         logging.info("exporting")
@@ -128,18 +133,14 @@ def cli(argv=None):
         else:
             temp_dir = TemporaryDirectory()
             build_dir = Path(temp_dir.name)
-            try:
-                d3_build(
-                    d3_folders=args.input,
-                    output_dir=build_dir,
-                    check_uri_resolves=args.check_uri_resolves,
-                )
-            except Exception as error:
-                logging.error(error)
-        try:
-            d3_build_db(build_dir, args.output)
-        except Exception as error:
-            logging.error(error)
+            d3_build(
+                d3_folders=args.input,
+                output_dir=build_dir,
+                check_uri_resolves=args.check_uri_resolves,
+                skip_vuln=args.skip_vuln,
+            )
+
+        d3_build_db(build_dir, args.output)
         try:
             temp_dir.cleanup()
         except NameError:
