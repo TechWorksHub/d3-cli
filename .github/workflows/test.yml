@@ -68,4 +68,3 @@ jobs:
           poetry build
           poetry config pypi-token.pypi ${{ secrets.pypi_token }}
           poetry publish
-      
