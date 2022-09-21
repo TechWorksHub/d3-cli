@@ -63,10 +63,9 @@ jobs:
           pip install poetry
           pip uninstall -y keyring
           poetry --version
-      - name: Use Pypi Credentials
-        run: |
-          poetry config -- http-basic.pypi NquiringMinds ${{ secrets.pypi_password }}
       - name: Publish package
+        env:
+          POETRY_PYPI_TOKEN_PYPI: ${{ secrets.PYPI_TOKEN }}
         run: |
           poetry version patch
           poetry build
