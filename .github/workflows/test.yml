@@ -66,6 +66,8 @@ jobs:
       - name: Publish package
         env:
           POETRY_PYPI_TOKEN_PYPI: ${{ secrets.PYPI_TOKEN }}
+          POETRY_HTTP_BASIC_PYPI_USERNAME: NquiringMinds
+          POETRY_HTTP_BASIC_PYPI_PASSWORD: ${{ secrets.PYPI_PASSWORD }}
         run: |
           poetry version patch
           poetry build
