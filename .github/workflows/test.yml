@@ -57,11 +57,12 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: 3.8
-      - name: Install dependencies
+      - name: Install poetry
         run: |
           python -m pip install --upgrade pip
           pip install poetry
-          poetry install
+          pip uninstall keyring
+          poetry --version
           poetry config pypi-token.pypi ${{ secrets.pypi_token }}
       - name: Publish package
         run: |
