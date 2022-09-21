@@ -65,7 +65,6 @@ jobs:
           poetry --version
       - name: Use Pypi Credentials
         run: |
-          # poetry config pypi-token.pypi ${{ secrets.pypi_token }}
           poetry config -- http-basic.pypi NquiringMinds ${{ secrets.pypi_password }}
       - name: Publish package
         run: |
