@@ -61,7 +61,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install poetry
-          pip uninstall keyring
+          pip uninstall -y keyring
           poetry --version
           poetry config pypi-token.pypi ${{ secrets.pypi_token }}
       - name: Publish package
