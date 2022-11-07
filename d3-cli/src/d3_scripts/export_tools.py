@@ -2,6 +2,7 @@ from csv import DictWriter
 from pathlib import Path
 from typing import Union, List
 from uuid import UUID, uuid5
+from json import dumps
 
 from .d3_constants import csv_headers, behaviour_rule_types
 from .json_tools import load_json
@@ -9,6 +10,11 @@ from .yaml_tools import get_yaml_suffixes
 
 path_type = Union[Path, str]
 id_type = Union[str, UUID]
+
+
+def stringify(value):
+    if type(value) == dict:
+        return dumps(value, separators=(',', ':'))
 
 
 def get_ruleid(id: id_type, name: str) -> str:
@@ -102,7 +108,8 @@ class CsvExporter:
         )
 
         for i, rule in enumerate(data["rules"]):
-            rule_name = rule["name"] if rule["name"] else f"rule_{i}"
+            name = rule.get("name")
+            rule_name = name if name else f"rule_{i}"
             behaviour["ruleid"] = get_ruleid(behaviour["id"], rule_name)
             behaviour["rulename"] = f"{behaviour_name}/{rule_name}"
             self.write_csv_data(behaviour_file, csv_headers["behaviour"], behaviour)
@@ -121,8 +128,9 @@ class CsvExporter:
         data = rule["matches"].get(rule_type, False)
         if not data:
             return
-        data = {k.lower(): v for k, v in data.items()}
+        data = {k.lower(): stringify(v) for k, v in data.items()}
         data["ruleid"] = entry_id
+        print(data)
         rule_stem = f"behaviour_{rule_type}"
         file_name = self.csv_dir / f"{rule_stem}.csv"
 
