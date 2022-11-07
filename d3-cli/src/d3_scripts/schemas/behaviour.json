@@ -43,16 +43,15 @@
                     "description": "The source IPv4 address"
                   },
                   "destinationIp4": {
-                    "type": "string",
-                    "format": "ipv4",
-                    "description": "The destination IPv4 address"
+                    "$ref": "/schemas/destination",
+                    "description": "The destination IPv4 address allow/disallow tree"
                   },
                   "sourceDnsName": {
                     "type": "string",
                     "description": "The source DNS address"
                   },
                   "destinationDnsName": {
-                    "type": "string",
+                    "$ref": "/schemas/destination",
                     "description": "The destination DNS address"
                   },
                   "protocol": {
@@ -212,5 +211,32 @@
       "description": "Is the behaviour malicious"
     }
   },
-  "required": ["id"]
+  "required": ["id"],
+  "$defs": {
+    "destination": {
+      "$id": "/schemas/destination",
+      "$schema": "https://json-schema.org/draft/2020-12/schema",
+      "type": "object",
+      "description": "A destination address allow/disallow tree",
+      "properties": {
+        "allowed": {
+          "type": "boolean",
+          "description": "Is destination DNS allowed"
+        },
+        "addr": {
+          "type": "string",
+          "description": "The destination IPv4 address component"
+        },
+        "children": {
+          "type": "array",
+          "items": {
+            "$ref": "/schemas/destination"
+          }
+        }
+      },
+      "required": [
+        "addr", "allowed"
+      ]
+    }
+  }
 }
