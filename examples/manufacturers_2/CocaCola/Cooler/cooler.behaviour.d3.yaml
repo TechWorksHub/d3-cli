@@ -54,8 +54,6 @@ credentialSubject:
         ip4:
           protocol: 17
           destinationIp4: 
-            addr:  
-            allowed: true
             addr: 239.255.255.250/32
             allowed: true
         udp:
@@ -69,8 +67,6 @@ credentialSubject:
         ip4:
           protocol: 17
           destinationIp4: 
-            addr:  
-            allowed: true
             addr: 255.255.255.255/32
             allowed: true
         udp:
@@ -84,8 +80,6 @@ credentialSubject:
         ip4:
           protocol: 17
           destinationIp4: 
-            addr:  
-            allowed: true
             addr: 255.255.255.255/32
             allowed: true
         udp:
@@ -95,8 +89,6 @@ credentialSubject:
         ip4:
           protocol: 17
           destinationIp4: 
-            addr:  
-            allowed: true
             addr: 208.67.220.220/32
             allowed: true
         udp:
