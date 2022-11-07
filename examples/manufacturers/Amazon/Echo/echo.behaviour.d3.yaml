@@ -18,7 +18,7 @@ credentialSubject:
         # the destinationIpv4, which is a string describing an IPv4 address
         ip4:
           protocol: 6
-          destinationDnsname: 
+          destinationDnsName:
             addr: dcape-na.amazon.com
             allowed: true
         # The tcp protocol match contains the source-port and destination port
@@ -28,7 +28,7 @@ credentialSubject:
       matches:
         ip4:
           protocol: 6
-          destinationDnsname: 
+          destinationDnsName:
             addr: softwareupdates.amazon.com
             allowed: true
         tcp:
@@ -37,7 +37,7 @@ credentialSubject:
       matches:
         ip4:
           protocol: 17
-          destinationDnsname: 
+          destinationDnsName:
             addr: 3.north-america.pool.ntp.org
             allowed: true
         udp:
