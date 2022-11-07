@@ -29,7 +29,10 @@ def get_malicious_behaviours():
                     "name": f"Traffic to {row['id']}-{row['threat']}",
                     "matches": {
                         "ip4": {
-                            "destinationDnsName": row["url"]
+                            "destinationDnsName": {
+                                "addr": row["url"],
+                                "allowed": False,
+                            }
                         }
                     }
                 },
