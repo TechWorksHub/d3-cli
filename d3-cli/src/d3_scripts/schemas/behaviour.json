@@ -221,7 +221,8 @@
       "properties": {
         "allowed": {
           "type": "boolean",
-          "description": "Is destination DNS allowed"
+          "description": "Is destination DNS allowed",
+          "default": "true"
         },
         "addr": {
           "type": "string",
@@ -235,7 +236,7 @@
         }
       },
       "required": [
-        "addr", "allowed"
+        "addr"
       ]
     }
   }
