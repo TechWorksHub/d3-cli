@@ -21,7 +21,7 @@ poetry install
 
 You cannot run the cli or scripts directly from the `./src/d3-scripts` since we are using [Python relative imports](https://realpython.com/absolute-vs-relative-python-imports/#relative-imports).
 
-Instead, you must run the d3-cli script defined in the `[tool.poetry.scripts]` field of [`pyproject.toml`](./pyproject.toml):
+Instead, you must run the d3-cli script defined in the `[tool.poetry.scripts]` field of [`pyproject.toml`](./pyproject.toml): You can run the command line interface locally, directly from source code without building/installing by running `poetry run d3-cli`.
 
 ## Usage
 

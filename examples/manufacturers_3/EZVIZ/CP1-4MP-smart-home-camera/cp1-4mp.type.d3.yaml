@@ -1,0 +1,14 @@
+type: d3-device-type-assertion
+credentialSubject:
+  # unique identifiers
+  id: 1550d72d-3a02-41bd-9170-b98237991548
+
+  # behaviour
+  behaviour: fd6c3096-a0e4-4b82-9f2c-875ddeb0db94
+
+  # general manufacturer information
+  manufacturer: Ezviz
+  manufacturerUri: https://www.ezviz.com/
+
+  # specific information
+  name: "CP1 4MP Smart Home Camera"

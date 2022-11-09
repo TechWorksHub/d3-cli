@@ -17,6 +17,7 @@ from .json_tools import write_json
 import typing
 from tempfile import TemporaryDirectory
 import yaml
+from multiprocessing.pool import Pool, ThreadPool, MaybeEncodingError
 
 
 class PathFinder:
@@ -27,7 +28,8 @@ class PathFinder:
     def add_to_d3_map(self, claim_filepath, folder):
         claim_relative_filepath = claim_filepath.relative_to(folder)
         json_filepath = Path(
-            self.output_dir, str(claim_relative_filepath).replace(".yaml", ".json")
+            self.output_dir, str(
+                claim_relative_filepath).replace(".yaml", ".json")
         )
         if json_filepath in self.d3_src_dst_map.inverse:
             raise Exception(
@@ -89,7 +91,7 @@ def d3_build(
     pbar = tqdm(total=100, ncols=80, bar_format=bar_format)
     pbar.set_description("Setting up worker pool ")
     pool_size = max(mp.cpu_count() - 1, 1)
-    pool = mp.Pool(processes=pool_size)
+    pool = Pool(processes=pool_size)
     pbar.update(10)
 
     # Get list of YAML files and check for invalid claims
@@ -109,10 +111,12 @@ def d3_build(
         for malicious_behaviour in malicious_behaviours:
             id = malicious_behaviour["id"]
             behaviour_filepath = folder / f'mal-{id}.behaviour.d3.yaml'
-            behaviour_yaml = {"type": "d3-device-type-behaviour", "credentialSubject": malicious_behaviour}
+            behaviour_yaml = {"type": "d3-device-type-behaviour",
+                              "credentialSubject": malicious_behaviour}
             with open(behaviour_filepath, 'w') as outfile:
                 yaml.dump(behaviour_yaml, outfile, default_flow_style=False)
-            pathFinder.add_to_d3_map(behaviour_filepath, malicious_behaviours_dir.path)
+            pathFinder.add_to_d3_map(
+                behaviour_filepath, malicious_behaviours_dir.path)
             files_to_process.append(str(behaviour_filepath))
     pbar.update(10)
 
@@ -126,11 +130,13 @@ def d3_build(
 
     if not skip_vuln:
         pbar.set_description("Searching CVE dataset for vulnerabilities")
-        cve_vulnerabilities, type_jsons = build_vulnerabilities(type_jsons, pool, pbar, percentage_total=15)
+        cve_vulnerabilities, type_jsons = build_vulnerabilities(
+            type_jsons, pool, pbar, percentage_total=15)
         outputFolder = Path(output_dir, "cve_vulnerabilities")
         Path(outputFolder).mkdir(parents=True, exist_ok=True)
         for vuln in cve_vulnerabilities:
-            json_file_name = Path(outputFolder, f"{vuln['credentialSubject']['id']}.json")
+            json_file_name = Path(
+                outputFolder, f"{vuln['credentialSubject']['id']}.json")
             # write JSON for CVE vulnerability
             write_json(json_file_name, vuln)
     else:
@@ -146,7 +152,8 @@ def d3_build(
     pbar.update(10)
 
     # Pass behaviour files into process_claim_file function
-    pbar.set_description("Finding inherited rules & checking for vulnerabilities")
+    pbar.set_description(
+        "Finding inherited rules & checking for vulnerabilities")
     behaviour_map = {
         claim["credentialSubject"]["id"]: claim for claim in behaviour_jsons
     }
@@ -164,9 +171,19 @@ def d3_build(
     pbar.update(10)
 
     pbar.set_description("Processing claims")
-    for i, warnings in enumerate(pool.map(process_claim, files_to_process)):
-        for warning in warnings:
-            logging.warning(f"{warning} in {files_to_process[i]}")
+    try:
+        for i, warnings in enumerate(pool.map(process_claim, files_to_process)):
+            for warning in warnings:
+                logging.warning(f"{warning} in {files_to_process[i]}")
+    except MaybeEncodingError:
+        logging.warning(
+            "Error encountered in pool.map, retrying with thread pool...")
+        logging.warning("This may take a while...")
+        pool_size = max(mp.cpu_count() - 1, 1)
+        pool = ThreadPool(processes=pool_size)
+        for i, warnings in enumerate(pool.map(process_claim, files_to_process)):
+            for warning in warnings:
+                logging.warning(f"{warning} in {files_to_process[i]}")
 
     try:
         malicious_behaviours_dir.cleanup()
