@@ -108,7 +108,7 @@ class CsvExporter:
         )
 
         for i, rule in enumerate(data["rules"]):
-            name = rule.get("name")
+            name = rule.get("ruleName")
             rule_name = name if name else f"rule_{i}"
             behaviour["ruleid"] = get_ruleid(behaviour["id"], rule_name)
             behaviour["rulename"] = f"{behaviour_name}/{rule_name}"
@@ -130,7 +130,6 @@ class CsvExporter:
             return
         data = {k.lower(): stringify(v) for k, v in data.items()}
         data["ruleid"] = entry_id
-        print(data)
         rule_stem = f"behaviour_{rule_type}"
         file_name = self.csv_dir / f"{rule_stem}.csv"
 
