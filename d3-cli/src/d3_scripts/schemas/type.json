@@ -92,6 +92,10 @@
       },
       "description": "An array of vulnerability IDs"
     },
+    "cpe": {
+      "type": "string",
+      "description": "CPE vulnerability ID (If known)"
+    },
     "behaviour": {
       "type": "string",
       "description": "The behaviour name or id for this device type"
