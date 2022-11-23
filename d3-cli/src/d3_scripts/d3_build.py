@@ -18,6 +18,7 @@ import typing
 from tempfile import TemporaryDirectory
 import yaml
 from multiprocessing.pool import Pool, ThreadPool, MaybeEncodingError
+from .cpe_tools import get_cpe, check_cpes_resolve
 
 
 class PathFinder:
@@ -149,7 +150,12 @@ def d3_build(
     check_guids(guids, files_to_process)
     parent_guids = list(pool.map(get_parent_claims, claim_jsons))
     check_guids_array(parent_guids, files_to_process)
-    pbar.update(10)
+    pbar.update(5)
+
+    pbar.set_description("Checking CPEs")
+    cpes = [cpe for cpe in pool.map(get_cpe, claim_jsons) if cpe]
+    check_cpes_resolve(cpes)
+    pbar.update(5)
 
     # Pass behaviour files into process_claim_file function
     pbar.set_description(
