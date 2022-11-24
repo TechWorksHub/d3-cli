@@ -7,6 +7,7 @@ from pathlib import Path
 import multiprocessing
 from networkx import DiGraph
 import tqdm
+import jsonschema
 
 from .yaml_tools import is_valid_yaml_claim, load_claim, lint_yaml
 from .json_tools import is_json_unchanged, write_json
@@ -118,7 +119,10 @@ def process_claim_file(
     try:
         schema_validator = get_schema_validator_from_path(yaml_file_name)
         schema = schema_validator.schema
-        schema_validator.validate(claim["credentialSubject"])
+        try:
+            schema_validator.validate(claim["credentialSubject"])
+        except jsonschema.exceptions.ValidationError as err:
+            raise Exception(f"Error validating credentialSubject for {yaml_file_name}: {err}")
 
         if claim["type"] == d3_type_codes["behaviour"]:
             # Gets aggregated rules, checking that specified parents exist
