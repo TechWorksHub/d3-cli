@@ -22,8 +22,9 @@ def build_type_map(type_jsons):
         inherited_properties = {"vulnerabilities": type_vulnerabilities}
         for parent in parents:
             parent_id = parent["id"]
+            parent_properties = parent.get("properties") if parent.get("properties") is not None else []
             properties_to_inherit = set(
-                always_inherited_properties + parent["properties"]
+                always_inherited_properties + parent_properties
             )
             for property in properties_to_inherit:
                 property_to_inherit = None

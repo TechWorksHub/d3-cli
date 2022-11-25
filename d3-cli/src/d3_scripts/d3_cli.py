@@ -52,13 +52,14 @@ def cli(argv=None):
         default="build",
         choices=["build", "lint", "export"],
     )
-    parser.add_argument(
-        "--skip-vuln",
-        action="store_true",
-        help="""skip vulnerability lookup.
-        This takes a long time, and requires an internet connection
-        so you may wish to skip this step for local testing.""",
-    )
+    # COMMENTED OUT AS THIS FUNCTIONALITY IS DEPRECATED, REPLACED BY CPE LOOKUP
+    # parser.add_argument(
+    #     "--skip-vuln",
+    #     action="store_true",
+    #     help="""skip vulnerability lookup.
+    #     This takes a long time, and requires an internet connection
+    #     so you may wish to skip this step for local testing.""",
+    # )
     parser.add_argument(
         "--skip-mal",
         action="store_true",
