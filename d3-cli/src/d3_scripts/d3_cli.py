@@ -128,7 +128,7 @@ def cli(argv=None):
             d3_folders=args.input,
             output_dir=args.output,
             check_uri_resolves=args.check_uri_resolves,
-            skip_vuln=args.skip_vuln,
+            skip_vuln=True,
             skip_mal=args.skip_mal,
         )
 
@@ -145,7 +145,7 @@ def cli(argv=None):
                 d3_folders=args.input,
                 output_dir=build_dir,
                 check_uri_resolves=args.check_uri_resolves,
-                skip_vuln=args.skip_vuln,
+                skip_vuln=True,
                 skip_mal=args.skip_mal,
             )
 

@@ -1,0 +1,9 @@
+credentialSubject:
+  id: 0de372d6-4ccc-46d3-a1ce-eb73e89b9b74
+  macAddresses:
+  - C5-5E-87-89-3C-3B
+  manufacturer: Samsung Electronics
+  manufacturerUri: https://samsung.com
+  name: Samsung s10 plus
+  cpe: cpe:2.3:h:samsung:galaxy_s10:-:*:*:*:*:*:*:*
+type: d3-device-type-assertion

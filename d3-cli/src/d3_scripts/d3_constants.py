@@ -31,6 +31,7 @@ csv_headers = {
         "parents",
         "children",
         "vulnerabilities",
+        "cpe"
     ],
     "firmware": ["id", "type", "versions", "behaviour"],
     "behaviour": ["id", "ruleid", "rulename", "malicious"],
