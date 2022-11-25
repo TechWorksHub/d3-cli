@@ -148,6 +148,18 @@ def test_duplicate_property_type_inheritance_single_parent():
     )
 
 
+def test_cpe_resoolves():
+    """Test whether inheriting duplicate properties from a single parent type is ignored"""
+    test_dir = Path(__file__).parent / "__fixtures__" / "cpe"
+    output_dir = test_dir / "json"
+    # should succeed
+    d3_scripts.d3_build.d3_build(
+        d3_folders=[test_dir],
+        output_dir=output_dir,
+        skip_mal=True,
+    )
+
+
 def test_build():
     # should succeed
     test_dir = Path(__file__).parent / "__fixtures__" / "d3-build"
