@@ -23,8 +23,8 @@ def check_cpes_resolve(cpes) -> None:
     for cpe in cpes:
         try:
             uri = "https://services.nvd.nist.gov/rest/json/cves/2.0?cpeName=" + cpe
-            # timeout of 5 seconds is pretty slow, but so are some people's servers
-            response = requests.head(uri, timeout=5)
+            # timeout of 10 seconds is pretty slow, but so are some people's servers
+            response = requests.head(uri, timeout=10)
             # throws an error if HTTP Code >= 400
             response.raise_for_status()
         except Exception as error:
