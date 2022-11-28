@@ -1,0 +1,13 @@
+type: d3-device-type-behaviour
+credentialSubject:
+  id: a86aa19f-a81d-4624-b290-436172a8db1c
+  ruleName: Behaviour 2
+  parents:
+    - aa92ebae-4928-4456-b597-cbd7657e9e83
+  rules:
+    - name: rule no. 1
+      matches:
+        ip4:
+          protocol: 2
+        tcp:
+          destinationPort: 2
