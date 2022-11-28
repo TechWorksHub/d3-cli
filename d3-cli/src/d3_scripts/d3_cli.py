@@ -70,8 +70,8 @@ def cli(argv=None):
     parser.add_argument(
         "--build-dir",
         nargs="?",
-        help="""build directory with json claims to export.
-        Specifying this will skip build step in export mode.""",
+        help="""build directory with json claims to export to build website with.
+        Specifying this will skip build step in export mode and website mode.""",
         type=Path,
     )
     parser.add_argument(
@@ -99,15 +99,15 @@ def cli(argv=None):
         guid()
         return
 
-    log_level_sum = min(sum(args.log_level or tuple(), logging.INFO), logging.ERROR)
+    log_level_sum = min(sum(args.log_level or tuple(),
+                        logging.INFO), logging.ERROR)
     logging.basicConfig(level=log_level_sum)
 
     export_only = (args.build_dir is not None and args.mode == "export")
-    if len(args.input) == 0 and not export_only:
+    website_only = (args.build_dir is not None and args.mode == "website")
+    if len(args.input) == 0 and not (export_only or website_only):
         logging.warning("No directories provided, Exiting...")
         return
-
-    print(args.input)
 
     if args.mode == "lint":
         logging.info("linting")
@@ -157,12 +157,12 @@ def cli(argv=None):
             pass
 
     elif args.mode == "website":
-        logging.info("building json data")
         if args.build_dir:
             build_dir = Path(args.build_dir)
             if not build_dir.exists():
                 raise Exception("Non existent build-dir provided. Exiting.")
         else:
+            logging.info("building json data")
             temp_dir = TemporaryDirectory()
             build_dir = Path(temp_dir.name)
             d3_build(
@@ -173,8 +173,11 @@ def cli(argv=None):
                 skip_mal=args.skip_mal,
             )
         logging.info("building website")
-        
-        temp_dir.cleanup()
+
+        try:
+            temp_dir.cleanup()
+        except NameError:
+            pass
 
     else:
         raise Exception("unknown mode")
