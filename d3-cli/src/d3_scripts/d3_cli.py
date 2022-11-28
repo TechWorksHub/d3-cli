@@ -50,7 +50,7 @@ def cli(argv=None):
         nargs="?",
         help="mode to run d3-cli in.",
         default="build",
-        choices=["build", "lint", "export"],
+        choices=["build", "lint", "export", "website"],
     )
     # COMMENTED OUT AS THIS FUNCTIONALITY IS DEPRECATED, REPLACED BY CPE LOOKUP
     # parser.add_argument(
@@ -155,6 +155,26 @@ def cli(argv=None):
             temp_dir.cleanup()
         except NameError:
             pass
+
+    elif args.mode == "website":
+        logging.info("building json data")
+        if args.build_dir:
+            build_dir = Path(args.build_dir)
+            if not build_dir.exists():
+                raise Exception("Non existent build-dir provided. Exiting.")
+        else:
+            temp_dir = TemporaryDirectory()
+            build_dir = Path(temp_dir.name)
+            d3_build(
+                d3_folders=args.input,
+                output_dir=build_dir,
+                check_uri_resolves=args.check_uri_resolves,
+                skip_vuln=True,
+                skip_mal=args.skip_mal,
+            )
+        logging.info("building website")
+        
+        temp_dir.cleanup()
 
     else:
         raise Exception("unknown mode")
