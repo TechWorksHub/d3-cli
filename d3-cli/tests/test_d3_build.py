@@ -182,7 +182,7 @@ def test_inherited_rulename_conflict():
         with json_file.open() as f:
             data = json.load(f)
         assert len(data["credentialSubject"]["rules"]) == len(
-            set(rule["name"] for rule in data["credentialSubject"]["rules"])
+            set(rule["ruleName"] for rule in data["credentialSubject"]["rules"])
         )
 
 

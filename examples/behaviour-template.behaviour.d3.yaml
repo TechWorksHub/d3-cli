@@ -15,7 +15,7 @@ credentialSubject:
         - from-ipv4-amazonecho-6
   rules:
     # The name key string doesn't need to be unique. It is a brief description of the rule
-    - name: from-ipv4-amazonecho-0
+    - ruleName: from-ipv4-amazonecho-0
       # The matches key contains the protocols that need to be matched (eth, ipv4, tcp and udp)
       matches:
         # The ipv4 protocol match contains the `protocol` number key,
@@ -31,7 +31,7 @@ credentialSubject:
         # The tcp protocol match contains the source-port and destination port
         tcp:
           destinationPort: 443
-    - name: from-ipv4-amazonecho-1
+    - ruleName: from-ipv4-amazonecho-1
       matches:
         ip4:
           protocol: 6
@@ -40,7 +40,7 @@ credentialSubject:
             allowed: true
         tcp:
           destinationPort: 443
-    - name: from-ipv4-amazonecho-2
+    - ruleName: from-ipv4-amazonecho-2
       matches:
         ip4:
           protocol: 17
@@ -49,14 +49,14 @@ credentialSubject:
             allowed: true
         udp:
           destinationPort: 123
-    - name: from-ipv4-amazonecho-3
+    - ruleName: from-ipv4-amazonecho-3
       matches:
         ip4:
           protocol: 2
           destinationIp4:
             addr: 224.0.0.22/32
             allowed: true
-    - name: from-ipv4-amazonecho-4
+    - ruleName: from-ipv4-amazonecho-4
       matches:
         ip4:
           protocol: 17
@@ -65,7 +65,7 @@ credentialSubject:
             allowed: true
         udp:
           destinationPort: 1900
-    - name: from-ipv4-amazonecho-5
+    - ruleName: from-ipv4-amazonecho-5
       matches:
         eth:
           destinationMac: ff:ff:ff:ff:ff:ff
@@ -78,7 +78,7 @@ credentialSubject:
             allowed: true
         udp:
           destinationPort: 67
-    - name: from-ipv4-amazonecho-6
+    - ruleName: from-ipv4-amazonecho-6
       matches:
         eth:
           destinationMac: ff:ff:ff:ff:ff:ff
@@ -91,7 +91,7 @@ credentialSubject:
             allowed: true
         udp:
           destinationPort: 67
-    - name: from-ipv4-amazonecho-7
+    - ruleName: from-ipv4-amazonecho-7
       matches:
         ip4:
           protocol: 17
@@ -100,7 +100,7 @@ credentialSubject:
             allowed: true
         udp:
           destinationPort: 53
-    - name: from-malicious-sender
+    - ruleName: from-malicious-sender
       malicious: True
       matches:
         ip4:

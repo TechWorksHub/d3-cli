@@ -5,7 +5,7 @@ credentialSubject:
   parents:
     - 35294a50-4262-4bac-9d89-10e31e13b4cf
   rules:
-    - name: rule no. 2
+    - ruleName: rule no. 2
       matches:
         ip4:
           protocol: 1

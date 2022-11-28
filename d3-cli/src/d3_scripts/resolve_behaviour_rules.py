@@ -4,6 +4,10 @@ from iteration_utilities import unique_everseen
 from typing import List, Dict
 
 
+def get_item(collection, key, target):
+    return next((item for item in collection if item.get(key, None) == target), None)
+
+
 def resolve_behaviour_rules(
     claim: BehaviourJson, claim_map: BehaviourMap, claim_graph: nx.DiGraph
 ) -> List[Dict]:
@@ -28,9 +32,13 @@ def resolve_behaviour_rules(
         try:
             parent_claim = claim_map[parent_id]
         except KeyError:
-            raise KeyError(f"Parent behaviour id {parent_id} of {id} doesn't exist")
+            raise KeyError(
+                f"Parent behaviour id {parent_id} of {id} doesn't exist")
         parent_rules = parent_claim["credentialSubject"].get("rules", [])
-        aggregated_rules += parent_rules
+        for rule in parent_rules:
+            if get_item(aggregated_rules, "ruleName", rule["ruleName"]):
+                rule["ruleName"] = f"{parent_claim['credentialSubject']['ruleName']}/{rule['ruleName']}"
+            aggregated_rules.append(rule)
     unique_aggregated_rules = list(
         unique_everseen(aggregated_rules)
     )  # De-duplicate any duplicate rules
