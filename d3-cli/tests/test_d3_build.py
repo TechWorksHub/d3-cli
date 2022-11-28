@@ -181,7 +181,9 @@ def test_inherited_rulename_conflict():
     for json_file in (output_dir).glob("*behaviour.d3.json"):
         with json_file.open() as f:
             data = json.load(f)
-        assert len(data["credentialSubject"]["rules"]) == len(set(rule["name"] for rule in data["credentialSubject"]["rules"]))
+        assert len(data["credentialSubject"]["rules"]) == len(
+            set(rule["name"] for rule in data["credentialSubject"]["rules"])
+        )
 
 
 def test_build():
