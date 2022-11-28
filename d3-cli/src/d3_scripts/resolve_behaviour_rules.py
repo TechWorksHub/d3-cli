@@ -4,7 +4,21 @@ from iteration_utilities import unique_everseen
 from typing import List, Dict
 
 
-def get_item(collection, key, target):
+def get_item(collection: List[Dict], key: str, target: str or int or float):
+    """
+    Get item in collection (array of dictionaries) by key and target value, if a match exists.
+
+    E.g. get_item([{"name": "Bob"}, {"name": "Alice"}, {"name": "Carl"}, {"name": "Dobby"}], "name", "Alice")
+    will return the {"name": "Alice"} dictionary. If no matches exist, function will return None.
+
+    Args:
+        collection: Array of dictionaries
+        key: Key in dictionary to match against
+        target: Target value to match against
+
+    Returns:
+        Matching Dictionary
+    """
     return next((item for item in collection if item.get(key, None) == target), None)
 
 
