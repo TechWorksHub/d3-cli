@@ -57,8 +57,8 @@ def test_invalid_uri(caplog):
 
 def test_non_existent_parent_behaviour():
     """Test whether behaviours with non-existent parents raises an error"""
-    test_dir = Path(__file__).parent / "__fixtures__" / \
-        "non-existent-parent-behaviour"
+    test_dir = (Path(__file__).parent / "__fixtures__" /
+                "non-existent-parent-behaviour")
     output_dir = test_dir / "json"
     with pytest.raises(Exception) as excinfo:
         d3_scripts.d3_build.d3_build(
@@ -72,8 +72,8 @@ def test_non_existent_parent_behaviour():
 
 def test_circular_behaviour_dependencies():
     """Test whether behaviours with circular parent dependencies raise an error"""
-    test_dir = Path(__file__).parent / "__fixtures__" / \
-        "circular-type-dependence"
+    test_dir = (Path(__file__).parent / "__fixtures__" /
+                "circular-type-dependence")
     output_dir = test_dir / "json"
     with pytest.raises(Exception) as excinfo:
         d3_scripts.d3_build.d3_build(
@@ -86,8 +86,8 @@ def test_circular_behaviour_dependencies():
 
 def test_non_existent_parent_type():
     """Test whether types with non-existent parents raises an error"""
-    test_dir = Path(__file__).parent / "__fixtures__" / \
-        "non-existent-parent-type"
+    test_dir = (Path(__file__).parent / "__fixtures__" /
+                "non-existent-parent-type")
     output_dir = test_dir / "json"
     with pytest.raises(Exception) as excinfo:
         d3_scripts.d3_build.d3_build(
@@ -101,8 +101,8 @@ def test_non_existent_parent_type():
 
 def test_duplicate_property_type_inheritance():
     """Test whether inheriting duplicate properties from types raises an error"""
-    test_dir = Path(__file__).parent / "__fixtures__" / \
-        "duplicate-property-type-inheritance"
+    test_dir = (Path(__file__).parent / "__fixtures__" /
+                "duplicate-property-type-inheritance")
     output_dir = test_dir / "json"
     with pytest.raises(Exception) as excinfo:
         d3_scripts.d3_build.d3_build(
@@ -115,8 +115,8 @@ def test_duplicate_property_type_inheritance():
 
 def test_inherit_missing_property():
     """Test whether attempting to inherit missing properties from parent types raises an error"""
-    test_dir = Path(__file__).parent / "__fixtures__" / \
-        "missing-property-type-inheritance"
+    test_dir = (Path(__file__).parent / "__fixtures__" /
+                "missing-property-type-inheritance")
     output_dir = test_dir / "json"
     with pytest.raises(Exception) as excinfo:
         d3_scripts.d3_build.d3_build(
@@ -143,8 +143,8 @@ def test_firmware_with_missing_type():
 
 def test_duplicate_property_type_inheritance_single_parent():
     """Test whether inheriting duplicate properties from a single parent type is ignored"""
-    test_dir = Path(__file__).parent / "__fixtures__" / \
-        "duplicate-property-type-inheritance-single-parent"
+    test_dir = (Path(__file__).parent / "__fixtures__" /
+                "duplicate-property-type-inheritance-single-parent")
     output_dir = test_dir / "json"
     # should succeed
     d3_scripts.d3_build.d3_build(
@@ -168,8 +168,8 @@ def test_cpe_resoolves():
 
 def test_inherited_rulename_conflict():
     """Test whether behaviour inheriting a rule with duplicate name to a behaviour rule resolves without duplication"""
-    test_dir = Path(__file__).parent / "__fixtures__" / \
-        "inherited-rulename-conflict"
+    test_dir = (Path(__file__).parent / "__fixtures__" /
+                "inherited-rulename-conflict")
     output_dir = test_dir / "json"
     # should succeed
     d3_scripts.d3_build.d3_build(
