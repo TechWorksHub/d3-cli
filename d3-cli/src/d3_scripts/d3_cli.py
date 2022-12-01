@@ -3,6 +3,7 @@ from .guid import guid
 from .d3_build import d3_build
 from .d3_build_db import d3_build_db
 from .d3_utils import validate_d3_claim_files
+from .d3_to_markdown import behaviour_to_markdown
 
 from tempfile import TemporaryDirectory
 import argparse
@@ -13,6 +14,8 @@ try:
     __version__ = version("d3-cli")
 except Exception:
     __version__ = "local dev version"
+
+import os
 
 
 def cli(argv=None):
@@ -173,7 +176,22 @@ def cli(argv=None):
                 skip_mal=args.skip_mal,
             )
         logging.info("building website")
+        # turn behaviour into markdown first
+        # turn types into markdown, inserting behaviour markdown inside
+        d3_files = [d3_file for d3_file in build_dir.glob("**/*.json")]
+        output_path = Path(args.output) / \
+            "site" if args.output else Path.cwd() / "site"
+        logging.info(f"building website in {output_path}")
 
+        if not os.path.isdir(output_path):
+            os.makedirs(output_path)
+        behaviour_d3_files = [
+            file for file in d3_files if "behaviour.d3.json" in file.name]
+        for file in behaviour_d3_files:
+            behaviour_to_markdown(file, output_path)
+        other_d3_files = list(set(d3_files) ^ set(behaviour_d3_files))
+        for file in other_d3_files:
+            pass
         try:
             temp_dir.cleanup()
         except NameError:
