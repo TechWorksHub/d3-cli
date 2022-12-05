@@ -9,3 +9,5 @@ credentialSubject:
       properties:
         - manufacturer
         - manufacturer
+
+  name: test type 2

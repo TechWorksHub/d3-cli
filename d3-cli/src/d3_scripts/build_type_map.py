@@ -29,7 +29,10 @@ def build_type_map(type_jsons):
                 always_inherited_properties + parent_properties
             )
             parentType = type_map[parent_id]
-            type_instance["credentialSubject"]["parents"][index]["name"] = parentType["credentialSubject"]["name"]
+            try:
+                type_instance["credentialSubject"]["parents"][index]["name"] = parentType["credentialSubject"]["name"]
+            except KeyError:
+                raise Exception(f"parent {parent_id} missing name")
             for property in properties_to_inherit:
                 property_to_inherit = None
                 try:
@@ -57,8 +60,13 @@ def build_type_map(type_jsons):
             **type_instance["credentialSubject"],
             **inherited_properties,
         }
-        type_map[type_id]["credentialSubject"]["children"] = [
-            {"id": child_id, "name": type_map[child_id]["credentialSubject"]["name"]}
-            for child_id in list(type_graph.successors(type_id))
-        ]
+        children = list(type_graph.successors(type_id))
+        children_array = []
+        for child_id in children:
+            try:
+                child_data = {"id": child_id, "name": type_map[child_id]["credentialSubject"]["name"]}
+                children_array.append(child_data)
+            except KeyError:
+                raise Exception(f"child {child_id} missing name")
+        type_map[type_id]["credentialSubject"]["children"] = children_array
     return type_map
