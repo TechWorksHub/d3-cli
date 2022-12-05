@@ -43,11 +43,6 @@ jobs:
     runs-on: ubuntu-latest
     # d3build is slow, so only run if lint passes
     needs: [pre-commit, test]
-    # Only run on main branch, as the build is resource intensive
-    if:
-      contains('
-        refs/heads/main
-      ', github.ref)
     defaults:
         run:
           working-directory: d3-cli
