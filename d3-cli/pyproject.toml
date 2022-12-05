@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "d3-cli"
-version = "0.1.9"
+version = "0.2.0a0"
 description = "Utility scripts for ManySecured-D3 claims"
 authors = [
     "NquiringMinds <contact@nquiringminds.com>",
