@@ -162,7 +162,7 @@ def type_to_markdown(filepath, output_path, behaviour_path):
         parents_md_content = []
         for parent in parents:
             parents_md_content.append(
-                f"[{parent['name']}](/type/{parent['id']})")
+                f"[{parent['name']}](/ManySecured-D3DB/type/{parent['id']})")
         claim_properties["parents"] = ", ".join(parents_md_content)
         parent_names = [f'"{parent["name"]}"' for parent in parents]
         graph_parents = f"{'{'}{' ;'.join(parent_names)}{'}'} -> "
@@ -171,7 +171,7 @@ def type_to_markdown(filepath, output_path, behaviour_path):
     if len(children) > 0:
         children_md_content = []
         for child in children:
-            children_md_content.append(f"[{child['name']}](/type/{child['id']})")
+            children_md_content.append(f"[{child['name']}](/ManySecured-D3DB/type/{child['id']})")
         claim_properties["children"] = ", ".join(children_md_content)
         child_names = [f'"{child["name"]}"' for child in children]
         graph_children = f"-> {'{'}{' ; '.join(child_names)}{'}'}"
