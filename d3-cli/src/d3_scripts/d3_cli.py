@@ -3,7 +3,7 @@ from .guid import guid
 from .d3_build import d3_build
 from .d3_build_db import d3_build_db
 from .d3_utils import validate_d3_claim_files
-
+from .website_builder import build_website
 from tempfile import TemporaryDirectory
 import argparse
 from pathlib import Path
@@ -39,6 +39,7 @@ def cli(argv=None):
     )
     parser.add_argument(
         "--output",
+        "-o",
         nargs="?",
         help="directory in which to output built claims.",
         default=Path.cwd() / "d3-build",
@@ -50,7 +51,7 @@ def cli(argv=None):
         nargs="?",
         help="mode to run d3-cli in.",
         default="build",
-        choices=["build", "lint", "export"],
+        choices=["build", "lint", "export", "website"],
     )
     # COMMENTED OUT AS THIS FUNCTIONALITY IS DEPRECATED, REPLACED BY CPE LOOKUP
     # parser.add_argument(
@@ -70,8 +71,8 @@ def cli(argv=None):
     parser.add_argument(
         "--build-dir",
         nargs="?",
-        help="""build directory with json claims to export.
-        Specifying this will skip build step in export mode.""",
+        help="""build directory with json claims to export to build website with.
+        Specifying this will skip build step in export mode and website mode.""",
         type=Path,
     )
     parser.add_argument(
@@ -99,15 +100,15 @@ def cli(argv=None):
         guid()
         return
 
-    log_level_sum = min(sum(args.log_level or tuple(), logging.INFO), logging.ERROR)
+    log_level_sum = min(sum(args.log_level or tuple(),
+                        logging.INFO), logging.ERROR)
     logging.basicConfig(level=log_level_sum)
 
     export_only = (args.build_dir is not None and args.mode == "export")
-    if len(args.input) == 0 and not export_only:
+    website_only = (args.build_dir is not None and args.mode == "website")
+    if len(args.input) == 0 and not (export_only or website_only):
         logging.warning("No directories provided, Exiting...")
         return
-
-    print(args.input)
 
     if args.mode == "lint":
         logging.info("linting")
@@ -151,6 +152,31 @@ def cli(argv=None):
             )
 
         d3_build_db(build_dir, args.output)
+        try:
+            temp_dir.cleanup()
+        except NameError:
+            pass
+
+    elif args.mode == "website":
+        if args.build_dir:
+            build_dir = Path(args.build_dir)
+            if not build_dir.exists():
+                raise Exception("Non existent build-dir provided. Exiting.")
+        else:
+            logging.info("building json data")
+            temp_dir = TemporaryDirectory()
+            build_dir = Path(temp_dir.name)
+            d3_build(
+                d3_folders=args.input,
+                output_dir=build_dir,
+                check_uri_resolves=args.check_uri_resolves,
+                skip_vuln=True,
+                skip_mal=args.skip_mal,
+            )
+        logging.info("building website")
+        d3_files = [d3_file for d3_file in build_dir.glob("**/*.json")]
+        output_path = Path(args.output) if args.output else Path.cwd() / "site"
+        build_website(d3_files, output_path)
         try:
             temp_dir.cleanup()
         except NameError:

@@ -99,6 +99,34 @@ def test_non_existent_parent_type():
         assert string in excinfo.value.args[0]
 
 
+def test_missing_child_name():
+    """Test whether child type which is missing a name raises an error"""
+    test_dir = (Path(__file__).parent / "__fixtures__" /
+                "child-missing-name")
+    output_dir = test_dir / "json"
+    with pytest.raises(Exception) as excinfo:
+        d3_scripts.d3_build.d3_build(
+            d3_folders=[test_dir],
+            output_dir=output_dir,
+            skip_mal=True,
+        )
+    assert "child e22b0268-b6ca-42f8-9317-b629e12286ef missing name" in excinfo.value.args[0]
+
+
+def test_parent_missing_name():
+    """Test whether parent type which is missing a name raises an error"""
+    test_dir = (Path(__file__).parent / "__fixtures__" /
+                "parent-missing-name")
+    output_dir = test_dir / "json"
+    with pytest.raises(Exception) as excinfo:
+        d3_scripts.d3_build.d3_build(
+            d3_folders=[test_dir],
+            output_dir=output_dir,
+            skip_mal=True,
+        )
+    assert "parent ba3ba36d-be70-40f0-9c52-95b560066d11 missing name" in excinfo.value.args[0]
+
+
 def test_duplicate_property_type_inheritance():
     """Test whether inheriting duplicate properties from types raises an error"""
     test_dir = (Path(__file__).parent / "__fixtures__" /

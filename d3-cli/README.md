@@ -23,6 +23,8 @@ You cannot run the cli or scripts directly from the `./src/d3-scripts` since we 
 
 Instead, you must run the d3-cli script defined in the `[tool.poetry.scripts]` field of [`pyproject.toml`](./pyproject.toml): You can run the command line interface locally, directly from source code without building/installing by running `poetry run d3-cli`.
 
+In order for the pelican graphviz plugin which generates the digraph's in the webpage to work you need to have graphviz installed on your pc. For linux machines this can be done with `sudo apt install graphviz`, for windows graphviz installers may be downloaded [from here](https://graphviz.org/download/).
+
 ## Usage
 
 ```console

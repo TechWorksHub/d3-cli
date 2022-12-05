@@ -8,3 +8,5 @@ credentialSubject:
       # Specific properties to inherit
       properties:
         - manufacturerUri
+
+  name: test type 2
