@@ -1,7 +1,7 @@
 content = """
 AUTHOR = 'NquiringMinds'
 SITENAME = 'D3DB'
-SITEURL = ''
+SITEURL = 'https://techworkshub.github.io/ManySecured-D3DB/'
 
 PATH = 'content'
 
@@ -9,9 +9,7 @@ TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'en'
 
-MENUITEMS = (
-  ('Types', '/'),
-)
+MENUITEMS = ()
 
 # Can include multiple paths
 PLUGIN_PATHS = ['plugins-extra']
