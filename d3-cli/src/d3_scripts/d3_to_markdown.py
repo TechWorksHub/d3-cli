@@ -1,6 +1,8 @@
 import pandas as pd
 import json
-from pathlib import Path
+from datetime import date
+
+today = date.today()
 
 
 def _format_rule(rule, depth):
@@ -86,7 +88,7 @@ def behaviour_to_markdown(filepath, output_path):
             ip_rules = []
 
         if len(ip_rules) > 0 or len(dns_rules) > 0:
-            rulesArray.append(f"**{rule['ruleName']}**")
+            rulesArray.append(f"**{rule.get('ruleName', 'Missing ruleName')}**")
             if len(dns_rules) > 0:
                 rulesArray.append(f"**{'&emsp;domain name'}**")
                 rulesArray += ["&emsp;&emsp;" + x for x in dns_rules]
@@ -94,22 +96,22 @@ def behaviour_to_markdown(filepath, output_path):
                 rulesArray.append(f"**{'&emsp;ip address'}**")
                 rulesArray += ["&emsp;&emsp;" + x for x in ip_rules]
 
-    mdContent = pd.DataFrame(data=pd.Series(rulesArray).transpose(), columns=[
+    mdContent = pd.DataFrame(data=pd.Series(rulesArray, dtype=str).transpose(), columns=[
         "rules"]).to_markdown(index=False)
     output_file = output_path / f"{id}.md"
-    print(f"Writing markdown file to {output_file}")
     with open(output_file, "w") as f:
         print(mdContent, file=f)
     return output_file
 
 
-def type_to_markdown(filepath, output_path):
+def type_to_markdown(filepath, output_path, behaviour_path):
     """
     Convert a type file to markdown representation of type.
 
     Args:
         filepath: Path to the type file
         output_path: Path to the directory in which to write output file
+        behaviour_path: Path to the directory in which behaviour markdown files are
 
     Returns:
         path to markdown file
@@ -122,63 +124,78 @@ def type_to_markdown(filepath, output_path):
                   "tags", "name", "behaviour.id", "cpe", "parents", "children"]
     claim_properties = _retrieve_properties(df, properties)
     properties.remove("behaviour.id")
+    properties.remove("tags")
     id = claim_properties["id"]
 
-    print(claim_properties)
-
-    behaviour_file = output_file = output_path / f"{claim_properties['behaviour.id']}.md"
-    with open(behaviour_file, 'r') as file:
-        behaviour_markdown = file.read()
+    behaviour_markdown = None
+    if claim_properties['behaviour.id'] is not None:
+        behaviour_file = output_file = behaviour_path / \
+            f"{claim_properties['behaviour.id']}.md"
+        with open(behaviour_file, 'r') as file:
+            behaviour_markdown = file.read()
 
     cve_url = None
     if claim_properties["cpe"] is not None:
-        cve_url = f"https://nvd.nist.gov/vuln/search/results?form_type=Advanced&results_type=overview&isCpeNameSearch=true&seach_type=all&query={claim_properties['cpe']}"
+        cve_url = ("https://nvd.nist.gov/vuln/search/results?form_type=Advanced&results_type=overview&isCpeNameSearch" +
+                   f"=true&seach_type=all&query={claim_properties['cpe']}")
         claim_properties["cpe"] = f"[{claim_properties['cpe']}]({cve_url})"
 
-    if claim_properties["parents"] is not None:
-        parents_md_content = []
-        for parent in claim_properties["parents"]:
-            parents_md_content.append(
-                f"[{parent['id']}](/{parent['id']}.html)")
-        claim_properties["parents"] = ", ".join(parents_md_content)
+    parents = claim_properties.get("parents", [])
+    if parents is None:
+        parents = []
+    children = claim_properties.get("children", [])
+    if children is None:
+        children = []
 
-    if claim_properties["children"] is not None and claim_properties["children"] is not []:
+    graph_parents = ""
+    if len(parents) > 0:
+        parents_md_content = []
+        for parent in parents:
+            parents_md_content.append(
+                f"[{parent['id']}](/type/{parent['id']})")
+        claim_properties["parents"] = ", ".join(parents_md_content)
+        parent_names = [f'"{parent["name"]}"' for parent in parents]
+        graph_parents = f"{'{'}{' ;'.join(parent_names)}{'}'} -> "
+
+    graph_children = ""
+    if len(children) > 0:
         children_md_content = []
-        for child in claim_properties["children"]:
-            children_md_content.append(f"[{child['id']}](/{child['id']}.html)")
+        for child in children:
+            children_md_content.append(f"[{child['id']}](/type/{child['id']})")
         claim_properties["children"] = ", ".join(children_md_content)
+        child_names = [f'"{child["name"]}"' for child in children]
+        graph_children = f"-> {'{'}{' ; '.join(child_names)}{'}'}"
 
     rows = []
     for property in properties:
         rows.append([property, claim_properties[property]])
     mdHeader = f"""Title: {claim_properties["name"]}
-date: 2022-12-01
+date: {today.strftime("%Y-%m-%d")}
 Category: Type
-Tags: {claim_properties["tags"]}
 Slug: {claim_properties["id"]}
-
 """
-    mdContent = pd.DataFrame(data=rows, columns=[
+    if claim_properties["tags"] is not None:
+        mdHeader += f"Tags: {claim_properties['tags']}"
+    mdTypeContent = pd.DataFrame(data=rows, columns=[
         "field", "property"]).to_markdown(index=False)
     output_file = output_path / f"{id}.md"
-    print(f"Writing markdown file to {output_file}")
+
+    graph_string = f'{graph_parents} "{claim_properties["name"]}" {graph_children}'
+
+    md_digraph = f"""
+..graphviz dot
+digraph G {'{'}
+  graph [rankdir = TB];
+  {graph_string}
+{'}'}
+    """
+
+    mdContent = mdHeader + "\n## Type\n" + mdTypeContent
+    if behaviour_markdown:
+        mdContent += "\n\n" + md_digraph + "\n\n" + \
+            "## Behaviour\n" + behaviour_markdown
+
     with open(output_file, "w") as f:
-        print(mdHeader + mdContent + "\n\n" + behaviour_markdown, file=f)
+        print(mdContent, file=f)
 
     return output_file
-
-
-if __name__ == "__main__":
-
-    output_path = Path(".")
-
-    # file = "/home/ash/Downloads/example-build/Ekviz/Cp1-4MP/cp1-4mp.behaviour.d3.json"
-    file = "/home/ash/Downloads/example-build/Amazon/Echo-dot/behaviours/echo-dot.behaviour.d3.json"
-    file = "/home/ash/Downloads/example-build/Amazon/Echo/echo.behaviour.d3.json"
-    behaviour_to_markdown(file, output_path)
-
-    # filepath = "/home/ash/Downloads/example-build/Ekviz/Cp1-4MP/cp1-4mp.type.d3.json"
-    # filepath = "/home/ash/Downloads/example-build/Amazon/Echo-dot/echo-dot.type.d3.json"
-    filepath = "/home/ash/Downloads/example-build/Amazon/Echo/echo.type.d3.json"
-
-    type_to_markdown(filepath, output_path)

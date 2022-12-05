@@ -469,6 +469,20 @@ unidecode = ">=1.1"
 markdown = ["markdown (>=3.1)"]
 
 [[package]]
+name = "pelican-graphviz"
+version = "1.2.2"
+description = "Pelican plugin supporting Graphviz images in articles"
+category = "main"
+optional = false
+python-versions = ">=3.6.2,<4.0"
+
+[package.dependencies]
+pelican = ">=4.5"
+
+[package.extras]
+markdown = ["markdown (>=3.2)"]
+
+[[package]]
 name = "pexpect"
 version = "4.8.0"
 description = "Pexpect allows easy control of interactive console applications."
@@ -824,7 +838,7 @@ testing = ["func-timeout", "jaraco.itertools", "pytest (>=6)", "pytest-black (>=
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.8,<4"
-content-hash = "4824188bccc5b291a55e14111a13d2af231962e9b6ce4067c6afdd046b2e8f51"
+content-hash = "5722301b7cdb62b9b2127eb46bdcc15a719369c692517f118fb2a158e993b202"
 
 [metadata.files]
 appnope = [
@@ -1160,6 +1174,10 @@ pathspec = [
 pelican = [
     {file = "pelican-4.8.0-py3-none-any.whl", hash = "sha256:c80a81930f57f9b1a11c9ab5894ce1465dcda2028c9e4e3993cf9cbf2061a57d"},
     {file = "pelican-4.8.0.tar.gz", hash = "sha256:6445c00cff2142a30592a2de046e5647b84a36c5a0cfafc0eba75abbabb2b4b1"},
+]
+pelican-graphviz = [
+    {file = "pelican-graphviz-1.2.2.tar.gz", hash = "sha256:f295e1ab03221536aefb19c1a47f0a365019b424b523cc837024eb8cf6e90b20"},
+    {file = "pelican_graphviz-1.2.2-py3-none-any.whl", hash = "sha256:f9f83637e399640e3b95e8392a1e89b5a6f293da75c95ddea3ead192fc21d6a1"},
 ]
 pexpect = [
     {file = "pexpect-4.8.0-py2.py3-none-any.whl", hash = "sha256:0b48a55dcb3c05f3329815901ea4fc1537514d6ba867a152b581d69ae3710937"},
