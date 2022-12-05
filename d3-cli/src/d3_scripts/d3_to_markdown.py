@@ -125,7 +125,15 @@ def type_to_markdown(filepath, output_path, behaviour_path):
     claim_properties = _retrieve_properties(df, properties)
     properties.remove("behaviour.id")
     properties.remove("tags")
+    properties.append("github")
     id = claim_properties["id"]
+    name = claim_properties["name"]
+    if name is None:
+        name = ""
+    claim_properties["github"] = (
+        "[search](https://github.com/TechWorksHub/ManySecured-D3DB/" +
+        f"search?q=name%3A+%22{name.replace(' ', '+')}%22)"
+    )
 
     behaviour_markdown = None
     if claim_properties['behaviour.id'] is not None:
