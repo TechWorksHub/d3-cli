@@ -131,8 +131,10 @@ def type_to_markdown(filepath, output_path, behaviour_path):
     if name is None:
         name = ""
     claim_properties["github"] = (
-        "[search](https://github.com/TechWorksHub/ManySecured-D3DB/" +
-        f"search?q=name%3A+%22{name.replace(' ', '+')}%22)"
+        "[search](https://github.com/TechWorksHub/ManySecured-D3DB/search?q=" +
+        f"+id%3A+%22{id.replace(' ', '+')}%22" +
+        f"name%3A+%22{name.replace(' ', '+')}%22" +
+        ")"
     )
 
     behaviour_markdown = None
