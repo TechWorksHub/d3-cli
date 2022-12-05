@@ -33,9 +33,7 @@ def build_type_map(type_jsons):
             for property in properties_to_inherit:
                 property_to_inherit = None
                 try:
-                    property_to_inherit = parentType["credentialSubject"][
-                        property
-                    ]
+                    property_to_inherit = parentType["credentialSubject"][property]
                 except KeyError:
                     raise KeyError(
                         f"Attempted to inherit missing property {property} from {parent_id} in {type_id}"
