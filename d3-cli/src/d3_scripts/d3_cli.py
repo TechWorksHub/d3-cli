@@ -174,7 +174,6 @@ def cli(argv=None):
             )
         logging.info("building website")
         d3_files = [d3_file for d3_file in build_dir.glob("**/*.json")]
-        print(build_dir, len(d3_files))
         output_path = Path(args.output) / \
             "site" if args.output else Path.cwd() / "site"
         build_website(d3_files, output_path)
