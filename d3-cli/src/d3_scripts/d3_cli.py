@@ -3,9 +3,7 @@ from .guid import guid
 from .d3_build import d3_build
 from .d3_build_db import d3_build_db
 from .d3_utils import validate_d3_claim_files
-from .d3_to_markdown import behaviour_to_markdown, type_to_markdown
-from .write_pelican_config import write_pelican_config
-
+from .website_builder import build_website
 from tempfile import TemporaryDirectory
 import argparse
 from pathlib import Path
@@ -15,8 +13,6 @@ try:
     __version__ = version("d3-cli")
 except Exception:
     __version__ = "local dev version"
-
-import os
 
 
 def cli(argv=None):
@@ -181,29 +177,7 @@ def cli(argv=None):
         print(build_dir, len(d3_files))
         output_path = Path(args.output) / \
             "site" if args.output else Path.cwd() / "site"
-        content_path = output_path / "content"
-        behaviour_dir = output_path / "behaviours"
-        logging.info(f"building website in {output_path}")
-
-        for directory_path in [output_path, content_path, behaviour_dir]:
-            if not os.path.isdir(directory_path):
-                os.makedirs(directory_path)
-        write_pelican_config(output_path)
-
-        behaviour_d3_files = [
-            file for file in d3_files if "behaviour.d3.json" in file.name]
-
-        print(f"Converting {len(behaviour_d3_files)} behaviour files....")
-
-        for file in behaviour_d3_files:
-            behaviour_to_markdown(file, behaviour_dir)
-        other_d3_files = list(set(d3_files) ^ set(behaviour_d3_files))
-        type_d3_files = [
-            file for file in other_d3_files if "type.d3.json" in file.name]
-
-        print(f"Converting {len(type_d3_files)} type files....")
-        for file in type_d3_files:
-            type_to_markdown(file, output_path / "content", behaviour_dir)
+        build_website(d3_files, output_path)
         try:
             temp_dir.cleanup()
         except NameError:
