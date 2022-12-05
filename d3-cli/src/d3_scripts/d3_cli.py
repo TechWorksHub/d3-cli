@@ -39,6 +39,7 @@ def cli(argv=None):
     )
     parser.add_argument(
         "--output",
+        "-o",
         nargs="?",
         help="directory in which to output built claims.",
         default=Path.cwd() / "d3-build",
@@ -174,8 +175,7 @@ def cli(argv=None):
             )
         logging.info("building website")
         d3_files = [d3_file for d3_file in build_dir.glob("**/*.json")]
-        output_path = Path(args.output) / \
-            "site" if args.output else Path.cwd() / "site"
+        output_path = Path(args.output) if args.output else Path.cwd() / "site"
         build_website(d3_files, output_path)
         try:
             temp_dir.cleanup()
