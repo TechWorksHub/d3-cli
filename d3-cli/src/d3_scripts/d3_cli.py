@@ -81,6 +81,12 @@ def cli(argv=None):
         help="""check that URIs/refs resolve.
         This can be very slow, so you may want to leave this off normally.""",
     )
+    parser.add_argument(
+        "--web-address",
+        nargs="?",
+        help="web address to use for website build",
+        default="",
+    )
 
     debug_level_group = parser.add_mutually_exclusive_group()
     debug_level_group.add_argument(
@@ -176,7 +182,7 @@ def cli(argv=None):
         logging.info("building website")
         d3_files = [d3_file for d3_file in build_dir.glob("**/*.json")]
         output_path = Path(args.output) if args.output else Path.cwd() / "site"
-        build_website(d3_files, output_path)
+        build_website(d3_files, output_path, web_address=args.web_address)
         try:
             temp_dir.cleanup()
         except NameError:
