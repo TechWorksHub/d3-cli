@@ -1,7 +1,8 @@
-content = """
+def make_content(web_address):
+    content = f"""
 AUTHOR = 'NquiringMinds'
 SITENAME = 'D3DB'
-SITEURL = ''
+SITEURL = '{web_address}'
 
 PATH = 'content'
 
@@ -9,9 +10,7 @@ TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'en'
 
-MENUITEMS = (
-  ('Types', '/'),
-)
+MENUITEMS = ()
 
 # Can include multiple paths
 PLUGIN_PATHS = ['plugins-extra']
@@ -23,8 +22,8 @@ DISPLAY_PAGES_ON_MENU = False
 # Whether to display categories on the menu of the template.
 DISPLAY_CATEGORIES_ON_MENU = False
 
-ARTICLE_URL = 'type/{slug}/'
-ARTICLE_SAVE_AS = 'type/{slug}/index.html'
+ARTICLE_URL = 'type/{{slug}}/'
+ARTICLE_SAVE_AS = 'type/{{slug}}/index.html'
 ARTICLE_ORDER_BY = 'title'
 
 # Delete the output directory, and all of its contents, before generating new files.
@@ -56,8 +55,10 @@ DEFAULT_PAGINATION = 5
 # RELATIVE_URLS = True
 
 """
+    return content
 
 
-def write_pelican_config(output_path):
+def write_pelican_config(output_path, web_address):
+    content = make_content(web_address)
     with open(output_path / 'pelicanconf.py', 'w') as f:
         print(content, file=f)

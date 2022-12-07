@@ -1,6 +1,7 @@
 import pandas as pd
 import json
 from datetime import date
+from urllib.parse import urlparse
 
 today = date.today()
 
@@ -88,7 +89,8 @@ def behaviour_to_markdown(filepath, output_path):
             ip_rules = []
 
         if len(ip_rules) > 0 or len(dns_rules) > 0:
-            rulesArray.append(f"**{rule.get('ruleName', 'Missing ruleName')}**")
+            rulesArray.append(
+                f"**{rule.get('ruleName', 'Missing ruleName')}**")
             if len(dns_rules) > 0:
                 rulesArray.append(f"**{'&emsp;domain name'}**")
                 rulesArray += ["&emsp;&emsp;" + x for x in dns_rules]
@@ -104,7 +106,7 @@ def behaviour_to_markdown(filepath, output_path):
     return output_file
 
 
-def type_to_markdown(filepath, output_path, behaviour_path):
+def type_to_markdown(filepath, output_path, behaviour_path, web_address):
     """
     Convert a type file to markdown representation of type.
 
@@ -116,6 +118,9 @@ def type_to_markdown(filepath, output_path, behaviour_path):
     Returns:
         path to markdown file
     """
+    web_address_path = urlparse(web_address).path
+    if len(web_address_path) < 1 or web_address_path[-1] != "/":
+        web_address_path += "/"
     with open(filepath) as data_file:
         claim_data = json.load(data_file)
     df = pd.json_normalize(claim_data)
@@ -162,7 +167,7 @@ def type_to_markdown(filepath, output_path, behaviour_path):
         parents_md_content = []
         for parent in parents:
             parents_md_content.append(
-                f"[{parent['name']}](/type/{parent['id']})")
+                f"[{parent['name']}]({web_address_path}type/{parent['id']})")
         claim_properties["parents"] = ", ".join(parents_md_content)
         parent_names = [f'"{parent["name"]}"' for parent in parents]
         graph_parents = f"{'{'}{' ;'.join(parent_names)}{'}'} -> "
@@ -171,7 +176,8 @@ def type_to_markdown(filepath, output_path, behaviour_path):
     if len(children) > 0:
         children_md_content = []
         for child in children:
-            children_md_content.append(f"[{child['name']}](/type/{child['id']})")
+            children_md_content.append(
+                f"[{child['name']}]({web_address_path}type/{child['id']})")
         claim_properties["children"] = ", ".join(children_md_content)
         child_names = [f'"{child["name"]}"' for child in children]
         graph_children = f"-> {'{'}{' ; '.join(child_names)}{'}'}"
