@@ -25,6 +25,8 @@ DISPLAY_CATEGORIES_ON_MENU = False
 ARTICLE_URL = 'type/{{slug}}/'
 ARTICLE_SAVE_AS = 'type/{{slug}}/index.html'
 ARTICLE_ORDER_BY = 'title'
+FILENAME_METADATA = '(?P<title>.*)'  # use filename as metadata title by default
+DEFAULT_DATE = "fs"  # use file system modified date as date by default
 
 # Delete the output directory, and all of its contents, before generating new files.
 # This can be useful in preventing older, unnecessary files from persisting in your output.
@@ -39,20 +41,20 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (
+         ('Github D3DB', 'https://github.com/TechWorksHub/ManySecured-D3DB'),
+         ('Pelican', 'https://getpelican.com/'))
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('NquiringMinds', 'https://nquiringminds.com/'),)
 
 # Articles per page
 DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
+
+STATIC_PATHS = []
 
 """
     return content
