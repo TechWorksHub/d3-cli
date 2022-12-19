@@ -23,7 +23,6 @@ You cannot run the cli or scripts directly from the `./src/d3-scripts` since we 
 
 Instead, you must run the d3-cli script defined in the `[tool.poetry.scripts]` field of [`pyproject.toml`](./pyproject.toml): You can run the command line interface locally, directly from source code without building/installing by running `poetry run d3-cli`.
 
-In order for the pelican graphviz plugin which generates the digraph's in the webpage to work you need to have graphviz installed on your pc. For linux machines this can be done with `sudo apt install graphviz`, for windows graphviz installers may be downloaded [from here](https://graphviz.org/download/).
 
 ## Usage
 
@@ -80,3 +79,28 @@ poetry publish
 ```
 
 And then enter the credentials for the NquiringMinds pypi account.
+
+## D3 type explorer web page
+
+This static page is generated from (post-processed) D3 statements and [hosted here](https://techworkshub.github.io/ManySecured-D3DB/). This site relies upon two Github actions in the [D3DB repository](https://github.com/TechWorksHub/ManySecured-D3DB)
+- Run D3 Build of website for github pages - processes all files, exporting html files
+- Publish website (main-branch only) deploys the pelecan site to Github pages
+
+In order for the pelican graphviz plugin which generates the digraph's in the webpage to work you need to have graphviz installed on your pc. For linux machines this can be done with `sudo apt install graphviz`, for windows graphviz installers may be downloaded [from here](https://graphviz.org/download/).
+
+
+### Running Locally
+
+To generate the site files inside a defined directory:
+```
+cd d3-cli
+poetry install
+poetry run d3-cli --mode website "path-to-d3-yaml-files" --output "output-file" 
+
+```
+
+serving the static site:
+```
+cd "output-file"/output
+python -m http.server 8000
+```
