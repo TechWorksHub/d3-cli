@@ -1,0 +1,59 @@
+body {
+    font-family: "Monsteratt", Sans-serif;
+    font-size: 100%;
+    background-color: white;
+    color: #111;
+    width: 100%;
+    min-width: 400px;
+    min-height: 200px;
+    display: block;
+    overflow-x: hidden;
+    margin: 0;
+    font-size: 16px;
+  }
+  
+  a:link    { color: blue; text-decoration: none;      }
+  a:hover   { color: blue; text-decoration: underline; }
+  a:visited { color: blue;                             }
+  
+  h1 a { color: inherit !important }
+  h2 a { color: inherit !important }
+  h3 a { color: inherit !important }
+  h4 a { color: inherit !important }
+  h5 a { color: inherit !important }
+  h6 a { color: inherit !important }
+  
+  #menu li {
+      display: inline;
+  }
+  
+  #post-list {
+      margin-bottom: 1em;
+      margin-top: 1em;
+  }
+  
+  pre {
+      margin: 2em 1em 2em 4em;
+  }
+  
+  #banner {
+      position: fixed;
+      width: 100%;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      top: 0px;
+      background-color: #296877;
+      color: #fffefe;
+      font-size: 16px;
+      z-index: 1;
+  }
+  
+  #content {
+      position: relative;
+      width: 80%;
+      min-width: 400px;
+      min-height: 200px;
+      padding: 1em;
+      margin: 5% 10%;
+      display: block;
+  }
