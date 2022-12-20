@@ -14,6 +14,13 @@ li:nth-child(odd) {
   background-size: contain;
 }
 
+li:nth-child(even) {
+  background-image: url("https://cdn-gojph.nitrocdn.com/GsXLSCSEolMtDNWsUWUtebwUuVpcXCyq/assets/static/optimized/rev-949baee/wp-content/uploads/2022/08/BG-HomePage-High.png");;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: rgba(41, 104, 119, 0.15);
+}
+
 .hentry {
   width: 70%;
   min-width: 400px;
@@ -32,9 +39,15 @@ h2 a, li::marker {
   float: right;
   margin: 10px;
   padding: 5px;
+  color: #ff8c42 !important;
+}
+
+.post-info address a {
+  color: #ff8c42 !important;
 }
 
 .entry-content {
+  margin: 0px 4em;
   justify-items: center;
   display:flex;
   flex-direction: column;
@@ -73,6 +86,12 @@ tr:nth-child(even) {
 }
 
 .graphviz{
+  margin: 2em 0px;
   display: flex;
   justify-content: center;
+}
+
+.graphviz img {
+  mix-blend-mode: multiply;
+  border: 0px;
 }
