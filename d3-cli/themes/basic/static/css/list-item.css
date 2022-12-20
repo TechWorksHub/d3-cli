@@ -1,0 +1,61 @@
+@import url("style.css");
+
+ol {
+  width: 100%;
+  padding: 0px;
+  list-style-type: none;
+}
+
+li {min-height: 800px;}
+
+li:nth-child(odd) {
+  background-image: url(https://cdn-gojph.nitrocdn.com/GsXLSCSEolMtDNWsUWUtebwUuVpcXCyq/assets/static/optimized/rev-949baee/wp-content/uploads/2022/08/BG-home-new4.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.hentry {
+  width: 70%;
+  min-width: 400px;
+  min-height: 200px;
+  padding: 1em;
+  margin: 5% 10%;
+  display: block;
+}
+
+h2 a, li::marker {
+  color: #296877 !important;
+  font: 45px "Varela Round", Sans-serif;
+}
+
+.post-info{
+  float: right;
+  margin: 10px;
+  padding: 5px;
+}
+
+.entry-content {
+  margin: 2em;
+  justify-items: center;
+  
+}
+
+.entry-content h2{
+  color: #296877 !important;
+  font: 30px "Monsteratt", Sans-serif;
+}
+
+table {
+  margin: 0px 15% 0px 15%;
+  width: 50%;
+}
+
+tbody td {
+  padding: 0.5em 0.4em;
+}
+
+td {
+  display: table-cell;
+  vertical-align: inherit;
+  min-width: 200px;
+}
