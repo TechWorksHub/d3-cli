@@ -35,9 +35,10 @@ h2 a, li::marker {
 }
 
 .entry-content {
-  margin: 2em;
   justify-items: center;
-  
+  display:flex;
+  flex-direction: column;
+  width: 100%;
 }
 
 .entry-content h2{
@@ -47,10 +48,10 @@ h2 a, li::marker {
 
 table {
   margin: 0px 15% 0px 15%;
-  width: 50%;
+  border-spacing: 0px;
 }
 
-tbody td {
+tbody td, thead th{
   padding: 0.5em 0.4em;
 }
 
@@ -58,4 +59,20 @@ td {
   display: table-cell;
   vertical-align: inherit;
   min-width: 200px;
+}
+
+thead tr {
+  background: #296877;
+  color: white;
+  border: 0px;
+  padding: 1em;
+}
+
+tr:nth-child(even) {
+  background-color: rgba(41, 104, 119, 0.25);
+}
+
+.graphviz{
+  display: flex;
+  justify-content: center;
 }
