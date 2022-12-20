@@ -1,4 +1,4 @@
-def make_content(web_address):
+def make_content(web_address, theme_dir):
     content = f"""
 AUTHOR = 'NquiringMinds'
 SITENAME = 'D3DB'
@@ -55,12 +55,13 @@ DEFAULT_PAGINATION = 5
 # RELATIVE_URLS = True
 
 STATIC_PATHS = []
+THEME = '{theme_dir}'
 
 """
     return content
 
 
-def write_pelican_config(output_path, web_address):
-    content = make_content(web_address)
+def write_pelican_config(output_path, web_address, theme_dir):
+    content = make_content(web_address, theme_dir)
     with open(output_path / 'pelicanconf.py', 'w') as f:
         print(content, file=f)
