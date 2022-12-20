@@ -1,5 +1,6 @@
 @import url(banner.css);
 @import url(list-item.css);
+@import url(type.css);
 @import url('https://fonts.cdnfonts.com/css/montserrat');
 @import url('https://fonts.googleapis.com/css?family=Varela%20Round');
 
@@ -17,12 +18,12 @@ body {
     font-size: 16px;
   }
   
-  a:link    { color: blue; text-decoration: none;      }
-  a:hover   { color: blue; text-decoration: underline; }
-  a:visited { color: blue;                             }
+  a:link    { color: #296877; text-decoration: none;      }
+  a:hover   { color: #ff8c42 !important; text-decoration: underline; }
+  a:visited { color: #296877;                             }
   
-  h1 a { color: inherit !important}
-  h2 a { color: inherit}
+  h1 a { color: inherit !important; text-decoration: none !important;}
+  h2 a { color: inherit; text-decoration: none !important;}
   h3 a { color: inherit}
   h4 a { color: inherit}
   h5 a { color: inherit}

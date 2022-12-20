@@ -22,12 +22,10 @@ li:nth-child(even) {
 }
 
 .hentry {
-  width: 70%;
-  min-width: 400px;
-  min-height: 200px;
-  padding: 1em;
-  margin: 5% 10%;
-  display: block;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 h2 a, li::marker {
@@ -36,22 +34,31 @@ h2 a, li::marker {
 }
 
 .post-info{
-  float: right;
-  margin: 10px;
+  float: center;
   padding: 5px;
+  text-align: center;
   color: #ff8c42 !important;
 }
 
-.post-info address a {
+.post-info address a, .category a  {
   color: #ff8c42 !important;
+  text-decoration: underline !important;
+}
+
+.post-info address a:hover, .category a:hover  {
+  color: #296877 !important;
+  text-decoration: underline !important;
 }
 
 .entry-content {
-  margin: 0px 4em;
   justify-items: center;
   display:flex;
   flex-direction: column;
-  width: 100%;
+  width: 70%;
+  min-width: 400px;
+  min-height: 200px;
+  padding: 1em;
+  margin: 5% 0%;
 }
 
 .entry-content h2{
@@ -94,4 +101,8 @@ tr:nth-child(even) {
 .graphviz img {
   mix-blend-mode: multiply;
   border: 0px;
+}
+
+.entry-title {
+  text-align: center;
 }
