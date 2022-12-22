@@ -9,13 +9,13 @@ ol {
 li {min-height: 800px;}
 
 li:nth-child(odd) {
-  background-image: url(https://cdn-gojph.nitrocdn.com/GsXLSCSEolMtDNWsUWUtebwUuVpcXCyq/assets/static/optimized/rev-949baee/wp-content/uploads/2022/08/BG-home-new4.png);
+  background-image: url(../images/background-1.webp);
   background-repeat: no-repeat;
   background-size: contain;
 }
 
 li:nth-child(even) {
-  background-image: url("https://cdn-gojph.nitrocdn.com/GsXLSCSEolMtDNWsUWUtebwUuVpcXCyq/assets/static/optimized/rev-949baee/wp-content/uploads/2022/08/BG-HomePage-High.png");;
+  background-image: url("../images/background-2.webp");;
   background-repeat: no-repeat;
   background-size: contain;
   background-color: rgba(41, 104, 119, 0.15);
@@ -63,7 +63,7 @@ h2 a, li::marker {
 
 .entry-content h2{
   color: #296877 !important;
-  font: 30px "montserrat", Sans-serif;
+  font: 30px "Montserrat", Sans-serif;
 }
 
 table {
