@@ -1,10 +1,10 @@
 @import url(banner.css);
 @import url(list-item.css);
-@import url('https://fonts.cdnfonts.com/css/montserrat');
-@import url('https://fonts.googleapis.com/css?family=Varela%20Round');
+@import url(../fonts/Montserrat/mosteratt.css);
+@import url(../fonts/Varela-Round/varela-round.css);
 
 body {
-    font-family: "montserrat", Sans-serif;
+    font-family: "Montserrat", Sans-serif;
     font-size: 100%;
     background-color: white;
     color: #111;
