@@ -1,0 +1,79 @@
+@import url(banner.css);
+@import url(list-item.css);
+@import url(../fonts/Montserrat/mosteratt.css);
+@import url(../fonts/Varela-Round/varela-round.css);
+
+body {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 100%;
+    background-color: white;
+    color: #111;
+    width: 100vw;
+    min-width: 400px;
+    min-height: 200px;
+    display: block;
+    overflow-x: hidden;
+    margin: 0;
+    font-size: 16px;
+  }
+
+  a:link    { color: #296877; text-decoration: none;      }
+  a:hover   { color: #ff8c42 !important; text-decoration: underline; }
+  a:visited { color: #296877;                             }
+
+  header h1 {margin-left: 2em;}
+  h1 a { color: inherit !important; text-decoration: none !important;}
+  h2 a { color: inherit; text-decoration: none !important;}
+  h3 a { color: inherit}
+  h4 a { color: inherit}
+  h5 a { color: inherit}
+  h6 a { color: inherit}
+
+  #post-list {
+      margin-bottom: 1em;
+      margin-top: 1em;
+  }
+
+  pre {
+      margin: 2em 1em 2em 4em;
+  }
+
+  #content {
+    position: relative;
+    top: 70px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  #content > h2:first-child{
+    color: white;
+    width: 100%;
+    background-image: linear-gradient(130deg,#296877 50%,white 100%);
+    margin-top: 0px;
+    text-align: center;
+    padding: 50px 0px;
+    font-family: "Varela Round", sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+    text-transform: capitalize;
+  }
+
+
+  .paginator {
+    position: fixed;
+    bottom: 0.5em;
+    background: #ff8c42;
+    padding: 1em;
+    border-radius: 2em;
+    margin: 0px;
+  }
+
+  .paginator a {
+    color: black;
+    margin: 0px 0.25em;
+  }
+
+  #contentinfo {
+    display: none;
+  }

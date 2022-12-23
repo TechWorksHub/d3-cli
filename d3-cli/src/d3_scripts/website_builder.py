@@ -11,11 +11,12 @@ def build_website(d3_files, output_path, web_address):
     content_path = output_path / "content"
     behaviour_dir = output_path / "behaviours"
     logging.info(f"building website in {output_path}")
+    theme_dir = os.path.join(os.path.dirname(__file__), 'theme')
 
     for directory_path in [output_path, content_path, behaviour_dir]:
         if not os.path.isdir(directory_path):
             os.makedirs(directory_path)
-    write_pelican_config(output_path, web_address)
+    write_pelican_config(output_path, web_address, theme_dir)
 
     behaviour_d3_files = [
         file for file in d3_files if "behaviour.d3.json" in file.name]
