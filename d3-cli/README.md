@@ -97,14 +97,16 @@ In order for the pelican graphviz plugin which generates the digraph's in the we
 ### Running Locally
 
 To generate the site files inside a defined directory:
-```
-cd d3-cli
+
+```bash
 poetry install
+poetry run d3-cli --mode website "path-to-d3-yaml-files" --output "output-file"
 poetry run d3-cli --mode website "path-to-d3-yaml-files" --output "output-file"
 
 ```
-
 serving the static site:
+```bash
+python -m http.server --directory "output-file/output" 8000
 ```
 cd "output-file"/output
 python -m http.server 8000
