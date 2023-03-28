@@ -19,7 +19,7 @@ def cli(argv=None):
     parser = argparse.ArgumentParser(
         description="ManySecured D3 CLI for creating, linting and exporting D3 claims",
         epilog="Example: d3-cli ./manufacturers",
-        formatter_class=argparse.ArgumentDefaultsHelpFormatter,
+        formatter_class=argparse.RawTextHelpFormatter,
     )
     parser.add_argument(
         "input",
@@ -49,7 +49,15 @@ def cli(argv=None):
         "--mode",
         "-m",
         nargs="?",
-        help="mode to run d3-cli in.",
+        help=('mode to run d3-cli in.\n'
+              'build creates a directory of D3 claims in json format, with the parent and child types resolved, and CVE'
+              'vulnerabilities added.\n'
+              'lint lints the claims to check they confirm to the yaml syntax and schemas.\n'
+              'export creates a directory with the CSVs of the tables of types, behaviours and'
+              'firmwares.\n'
+              'website creates a directory containing the source for a static website of claims which can be browsed,'
+              'with unique uris for each type.\n'
+              ),
         default="build",
         choices=["build", "lint", "export", "website"],
     )

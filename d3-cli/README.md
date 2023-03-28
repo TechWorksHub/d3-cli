@@ -27,32 +27,37 @@ Instead, you must run the d3-cli script defined in the `[tool.poetry.scripts]` f
 ## Usage
 
 ```console
-usage: d3-cli [-h] [--version] [--guid] [--output [OUTPUT]]
-              [--mode [{build,lint,export}]] [--build-dir [BUILD_DIR]]
-              [--check_uri_resolves] [--verbose | --quiet]
+usage: d3-cli [-h] [--version] [--guid] [--output [OUTPUT]] [--mode [{build,lint,export,website}]] [--skip-mal]
+              [--build-dir [BUILD_DIR]] [--check_uri_resolves] [--web-address [WEB_ADDRESS]] [--verbose | --quiet]
               [input ...]
 
 ManySecured D3 CLI for creating, linting and exporting D3 claims
 
 positional arguments:
-  input                 Folders containing D3 YAML files. (default: [])
+  input                 folders containing D3 YAML files.
 
 optional arguments:
   -h, --help            show this help message and exit
-  --version             Show the version and exit. (default: False)
-  --guid, --uuid        Generate and show guid and exit. (default:
-                        False)
-  --output [OUTPUT]     Directory in which to output built claims.
-                        (default: <cwd>/d3-build)
-  --mode [{build,lint,export}], -m [{build,lint,export}]
-                        Mode to run d3-cli in. (default: build)
+  --version             show the version and exit.
+  --guid, --uuid        generate and show guid and exit.
+  --output [OUTPUT], -o [OUTPUT]
+                        directory in which to output built claims.
+  --mode [{build,lint,export,website}], -m [{build,lint,export,website}]
+                        mode to run d3-cli in.
+                        build creates a directory of D3 claims in json format, with the parent and child types resolved, and CVEvulnerabilities added.
+                        lint lints the claims to check they confirm to the yaml syntax and schemas.
+                        export creates a directory with the CSVs of the tables of types, behaviours andfirmwares.
+                        website creates a directory containing the source for a static website of claims which can be browsed,with unique uris for each type.
+  --skip-mal            skip malicious url lookup.
+                                This takes a bit of time, and requires an internet connection
+                                so you may wish to skip this step for local testing.
   --build-dir [BUILD_DIR]
-                        Build directory with json claims to export.
-                        Specifying this will skip build step in export
-                        mode. (default: None)
-  --check_uri_resolves  Check that URIs/refs resolve. This can be very
-                        slow, so you may want to leave this off
-                        normally. (default: False)
+                        build directory with json claims to export to build website with.
+                                Specifying this will skip build step in export mode and website mode.
+  --check_uri_resolves  check that URIs/refs resolve.
+                                This can be very slow, so you may want to leave this off normally.
+  --web-address [WEB_ADDRESS]
+                        web address to use for website build
   --verbose, -v
   --quiet, -q
 
@@ -96,8 +101,13 @@ To generate the site files inside a defined directory:
 ```bash
 poetry install
 poetry run d3-cli --mode website "path-to-d3-yaml-files" --output "output-file"
+poetry run d3-cli --mode website "path-to-d3-yaml-files" --output "output-file"
+
 ```
 serving the static site:
 ```bash
 python -m http.server --directory "output-file/output" 8000
+```
+cd "output-file"/output
+python -m http.server 8000
 ```
