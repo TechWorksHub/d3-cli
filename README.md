@@ -100,7 +100,7 @@ To generate the site files inside a defined directory:
 ```
 cd d3-cli
 poetry install
-poetry run d3-cli --mode website "path-to-d3-yaml-files" --output "output-file" 
+poetry run d3-cli --mode website "path-to-d3-yaml-files" --output "output-file"
 
 ```
 

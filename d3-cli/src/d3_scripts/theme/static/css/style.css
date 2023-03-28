@@ -16,11 +16,11 @@ body {
     margin: 0;
     font-size: 16px;
   }
-  
+
   a:link    { color: #296877; text-decoration: none;      }
   a:hover   { color: #ff8c42 !important; text-decoration: underline; }
   a:visited { color: #296877;                             }
-  
+
   header h1 {margin-left: 2em;}
   h1 a { color: inherit !important; text-decoration: none !important;}
   h2 a { color: inherit; text-decoration: none !important;}
@@ -28,12 +28,12 @@ body {
   h4 a { color: inherit}
   h5 a { color: inherit}
   h6 a { color: inherit}
-  
+
   #post-list {
       margin-bottom: 1em;
       margin-top: 1em;
   }
-  
+
   pre {
       margin: 2em 1em 2em 4em;
   }
@@ -58,7 +58,6 @@ body {
     font-weight: 500;
     text-transform: capitalize;
   }
-  
 
   .paginator {
     position: fixed;
